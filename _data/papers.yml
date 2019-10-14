@@ -1,337 +1,436 @@
- - title: "Dynamics of Beneficial Epidemics"
-   authors:
-     - Andrew Berdahl*
-     - Christa Brelsford*
-     - Caterina De Bacco*
-     - Marion Dumas*
-     - Vanessa Ferdinand*
-     - Joshua A. Grochow*
-     - Laurent Hébert-Dufresne*
-     - Yoav Kallus*
-     - Christopher P. Kempes*
-     - Artemy Kolchinsky*
-     - Daniel B. Larremore*
-     - Eric Libby*
-     - Eleanor A. Power*
-     - Caitlin A. Stern*
-     - Brendan Tracey*
-   year: 2019
-   venue: In Press at Nature Scientific Reports
-   volumeissue: 
-   links:
-     - text: arXiv
-       url: "http://arxiv.org/abs/1604.02096"
- - title: "webweb: a tool for creating, displaying, and sharing interactive network visualizations on the web"
-   authors:
-     - K. Hunter Wapman
-     - Daniel B. Larremore
-   year: 2019
-   venue: Journal of Open Source Software
-   volumeissue: 4 (40), 1458
-   links:
-     - text: github
-       url: "http://webwebpage.github.io/"
-     - text: JOSS
-       url: "https://joss.theoj.org/papers/10.21105/joss.01458"
- - title: "Productivity, prominence, and the effects of academic environment"
-   authors:
-     - Samuel F. Way
-     - Allison C. Morgan
-     - Daniel B. Larremore*
-     - Aaron Clauset*
-   year: 2019
-   venue: Proceedings of National Academy of Sciences USA 
-   volumeissue: 116 (18)
-   links:
-     - text: PNAS
-       url: "https://www.pnas.org/content/early/2019/04/24/1817431116"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/WMLC_2019_ProductivityProminenceAndTheEffectsOfAcademicEnvironment.pdf"
- - title: "Bayes-optimal estimation of overlap between populations of fixed size"
-   authors:
-     - Daniel B. Larremore
-   year: 2019
-   venue: PLoS Computational Biology
-   volumeissue: 15(3) e1006898
-   links:
-     - text: PLOS Computational Biology
-       url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006898"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/BayesianRepertoireOverlap_Larremore_2019.pdf"
-     - text: code
-       url: "https://github.com/dblarremore/BayesianRepertoireOverlap"
-     - text: web tool
-       url: "http://bro.colorado.edu"
- - title: "Robust information capacity requires strong and balanced excitatory and inhibitory synapses"
-   authors:
-     - Vidit Agrawal
-     - Andrew B. Cowley
-     - Woodrow L. Shew
-     - Daniel B. Larremore
-     - Juan G. Restrepo
-     - Qusay Alfaori
-   year: 2018
-   venue: Chaos 
-   volumeissue: 28 103115 
-   links:
-     - text: Chaos
-       url: "https://aip.scitation.org/doi/10.1063/1.5043429"
-     - text: arXiv
-       url: "https://arxiv.org/abs/1804.05266"
- - title: "A physical model for efficient ranking in networks"
-   authors:
-     - Caterina De Bacco*
-     - Daniel B. Larremore*
-     - Cristopher Moore.
-   year: 2018
-   venue: Science Advances
-   volumeissue: 4(7) eaar8260
-   links:
-     - text: Science Advances
-       url: "http://advances.sciencemag.org/content/4/7/eaar8260"
-     - text: arXiv
-       url: "https://arxiv.org/abs/1709.09002"
-     - text: code
-       url: "https://github.com/cdebacco/SpringRank"
- - title: "Configuring random graph models with fixed degree sequences"
-   authors:
-     - Bailey K. Fosdick*
-     - Daniel B. Larremore*
-     - Joel Nishimura*
-     - and Johan Ugander*
-   year: 2018
-   venue: SIAM Review
-   volumeissue: 60 (2) 315-355
-   links:
-     - text: SIAM Review
-       url: "https://epubs.siam.org/doi/abs/10.1137/16M1087175"
-     - text: arXiv
-       url: "http://arxiv.org/abs/1608.00607"
-     - text: code & slides
-       url: "http://danlarremore.com/configurationmodels/"
- - title: "The misleading narrative of the canonical faculty productivity trajectory"
-   authors:
-     - Samuel F. Way
-     - Allison C. Morgan
-     - Aaron Clauset*
-     - Daniel B. Larremore* 
-   year: 2017
-   venue: Proceedings of the National Academy of Sciences USA
-   volumeissue: 114 (44) E9216-E9223
-   links:
-     - text: PNAS
-       url: "http://www.pnas.org/content/114/44/E9216.abstract"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/Way_MisleadingProductivityNarrative_PNAS_2017.pdf"
- - title: "The ground truth about metadata and community detection in networks"
-   authors:
-     - Leto Peel*
-     - Daniel B. Larremore*
-     - Aaron Clauset
-   year: 2017
-   venue: Science Advances
-   volumeissue: 3 (5) e1602548
-   links:
-     - text: Science Advances
-       url: "http://advances.sciencemag.org/content/3/5/e1602548.full"
-     - text: Supplement
-       url: "http://danlarremore.com/pdf/PLC_GroundTruthAboutMetadataCommDetection_SciAdv_2017_Supplement.pdf"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/PLC_GroundTruthAboutMetadataCommDetection_SciAdv_2017.pdf"
-     - text: code & data
-       url: "http://danlarremore.com/metadata"
- - title: "Community detection, link prediction, and layer interdependence in multilayer networks"
-   authors:
-     - Caterina De Bacco
-     - Eleanor A. Power
-     - Daniel B. Larremore
-     - Cristopher Moore
-   year: 2017
-   venue: Physical Review E
-   volumeissue: 95 042317
-   links:
-     - text: PRE
-       url: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042317"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/DeBacco_MultilayerCommunityDetectionLinkPredictionInterdependence_PRE_2017.pdf"
- - title: "Gender, Productivity, and Prestige in Computer Science Faculty Hiring Networks"
-   authors:
-     - Samuel F. Way
-     - Daniel B. Larremore
-     - Aaron Clauset
-   year: 2016
-   venue: Proc. 2016 World Wide Web Conference (WWW) 
-   volumeissue: 1169-1179
-   links:
-     - text: PDF
-       url: "http://danlarremore.com/pdf/WLC_GenderPrestigeProductivityCSHiring_WWW_2016.pdf"
-     - text: Proc WWW 2016
-       url: "https://dl.acm.org/citation.cfm?id=2883073"
- - title: "Ape parasite origins of human malaria virulence genes"
-   authors:
-     - Daniel B. Larremore
-     - Sesh A. Sundararaman
-     - Weimin Liu
-     - William R. Proto
-     - Aaron Clauset
-     - Dorothy E. Loy
-     - Sheri Speede
-     - Lindsey J. Plenderleith
-     - Paul M. Sharp
-     - Beatrice H. Hahn
-     - Julian C. Rayner*
-     - Caroline O. Buckee*
-   year: 2015
-   venue: Nature Communications
-   volumeissue: 6, 8368
-   links:
-     - text: Nature Comms
-       url: "http://www.nature.com/ncomms/2015/151012/ncomms9368/full/ncomms9368.html"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/Letal_ApeParasiteOriginsMalariaVirulence_NatComms_2015.pdf"
- - title: "Systematic inequality and hierarchy in faculty hiring networks"
-   authors:
-     - Aaron Clauset
-     - Samuel Arbesman
-     - Daniel B. Larremore 
-   year: 2015
-   venue: Science Advances
-   volumeissue: 1, e1400005
-   links:
-     - text: Science Advances
-       url: "http://advances.sciencemag.org/content/1/1/e1400005"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/CAL_SystematicInequalityHierarchyFacultyHiring_SciAdv_2015.pdf"
-     - text: code and data
-       url: "http://tuvalu.santafe.edu/~aaronc/facultyhiring/"
-     - text: interactive data visualization
-       url: "http://danlarremore.com/faculty"
- - title: "Immune characterization of P. falciparum parasites with a shared genetic signature in a region of decreasing transmission"
-   authors:
-     - Amy K. Bei
-     - Ababacar Diouf
-     - Kazutoyo Miura
-     - Daniel B. Larremore
-     - Ulf Ribacke
-     - Gregory Tullo
-     - Eli L. Moss
-     - Daniel E. Neafsey
-     - Rachel F. Daniels
-     - Amir E. Zeituni
-     - Iguosadolo Nosamiefan
-     - Sarah K. Volkman
-     - Ambroise D. Ahouidi
-     - Daouda Ndiaye
-     - Tandakha Dieye
-     - Souleymane Mboup
-     - Caroline O. Buckee
-     - Carole Long
-     - Dyann F. Wirth
-   year: 2015
-   venue: Infection and Immunity
-   volumeissue: 83 (1), 276
-   links:
-     - text: Infection and Immunity
-       url: "http://iai.asm.org/content/83/1/276.short"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/2015_Beietal_ImmuneCharacterizationPfParasitesSharedGeneticSignatureDecreasingTransmission_IAI.pdf"
- - title: "Efficiently inferring community structure in bipartite networks"
-   authors:
-     - Daniel B. Larremore
-     - Aaron Clauset
-     - Abigail Z. Jacobs
-   year: 2014
-   venue: Physical Review E
-   volumeissue: 90 (1), 012805
-   links:
-     - text: PRE
-       url: "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012805"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/2014_LCJ_EfficientlyInferringCommunityStructureInBipartiteNetworks_PRE.pdf"
-     - text: code and data
-       url: "bipartiteSBM/index.html"
- - title: "Inhibition Causes Ceaseless Dynamics in Networks of Excitable Nodes"
-   authors:
-     - Daniel B. Larremore
-     - Woodrow L. Shew
-     - Edward Ott
-     - Francesco Sorrentino
-     - Juan G. Restrepo
-   year: 2014
-   venue: Physical Review Letters
-   volumeissue: 112, 138103
-   links:
-     - text: PRL
-       url: "http://link.aps.org/doi/10.1103/PhysRevLett.112.138103"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/2014_LSOSR_InhibitionCausesCeaselessDynamicsinNetworksofExcitableNodes_PRL.pdf"
- - title: "A network approach to analyzing highly recombinant malaria parasite genes"
-   authors:
-     - Daniel B. Larremore
-     - Aaron Clauset
-     - Caroline O. Buckee
-   year: 2013
-   venue: PLoS Computational Biology
-   volumeissue: 9 (10), e1003268
-   links:
-     - text: PLoS Comp Bio
-       url: "http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003268"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/LCB_NetworkApproachVarGenes_PlosComputBiol_2013.pdf"
-     - text: interactive figures
-       url: "http://danlarremore.com/var/"
-     - text: network and sequence data
-       url: "http://danlarremore.com/file/malariaDBLaNetworks2013.zip"
- - title: "Social Climber attachment in forming networks produces phase transition in a measure of connectivity"
-   authors:
-     - Dane Taylor*
-     - Daniel B. Larremore*
-   year: 2012
-   venue: Physical Review E
-   volumeissue: 86, 031140
-   links:
-     - text: PRE
-       url: "http://pre.aps.org/abstract/PRE/v86/i3/e031140"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/TL_SocialClimber_PRE_2012.pdf"
- - title: "Statistical properties of avalanches in networks"
-   authors:
-     - Daniel B. Larremore
-     - Marshall Y. Carpenter
-     - Edward Ott
-     - Juan G. Restrepo
-   year: 2012
-   venue: Physical Review E
-   volumeissue: 85, 066131
-   links:
-     - text: PRE
-       url: "http://pre.aps.org/abstract/PRE/v85/i6/e066131"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/LCOR_Avalanches_PRE_2012.pdf"
- - title: "Effects of network topology, transmission delays, and refractoriness on the response of coupled excitable systems to a stochastic stimulus"
-   authors:
-     - Daniel B. Larremore
-     - Woodrow L. Shew
-     - Edward Ott
-     - Juan G. Restrepo
-   year: 2011
-   venue: Chaos
-   volumeissue: 21, 025117
-   links:
-     - text: Chaos
-       url: "http://link.aip.org/link/?cha/21/025117"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/LSOR_Criticality_Chaos_2011.pdf"
- - title: "Predicting criticality and dynamic range in complex networks: effects of topology"
-   authors:
-     - Daniel B. Larremore
-     - Woodrow L. Shew
-     - Juan G. Restrepo
-   year: 2011
-   venue: Physical Review Letters
-   volumeissue: 106, 058101
-   links:
-     - text: PRL
-       url: "http://prl.aps.org/abstract/PRL/v106/i5/e058101"
-     - text: PDF
-       url: "http://danlarremore.com/pdf/LSR_Criticality_PRL_2011.pdf"
+categories:
+  - heading: "Submitted or In Press"
+    pubs:
+    - title: "Network models for malaria: antigens, dynamics, and evolution over space and time"
+      authors: 
+       - Lauren Childs
+       - Daniel B. Larremore
+      year: 2019
+      venue: In Press
+    - title: "Dynamics of Beneficial Epidemics"
+      authors:
+      - Andrew Berdahl*
+      - Christa Brelsford*
+      - Caterina De Bacco*
+      - Marion Dumas*
+      - Vanessa Ferdinand*
+      - Joshua A. Grochow*
+      - Laurent Hébert-Dufresne*
+      - Yoav Kallus*
+      - Christopher P. Kempes*
+      - Artemy Kolchinsky*
+      - Daniel B. Larremore*
+      - Eric Libby*
+      - Eleanor A. Power*
+      - Caitlin A. Stern*
+      - Brendan Tracey*
+      year: 2019
+      venue: In Press at Nature Scientific Reports
+      volumeissue: 
+      links:
+        - text: arXiv
+          url: "http://arxiv.org/abs/1604.02096"
+  - heading: "Published"
+    pubs:
+    - title: "webweb: a tool for creating, displaying, and sharing interactive network visualizations on the web"
+      authors:
+      - K. Hunter Wapman
+      - Daniel B. Larremore
+      year: 2019
+      venue: Journal of Open Source Software
+      volumeissue: 4 (40), 1458
+      links:
+      - text: github
+        url: "http://webwebpage.github.io/"
+      - text: JOSS
+        url: "https://joss.theoj.org/papers/10.21105/joss.01458"
+    - title: "Productivity, prominence, and the effects of academic environment"
+      authors:
+      - Samuel F. Way
+      - Allison C. Morgan
+      - Daniel B. Larremore*
+      - Aaron Clauset*
+      year: 2019
+      venue: Proceedings of National Academy of Sciences USA 
+      volumeissue: 116 (18)
+      links:
+      - text: PNAS
+        url: "https://www.pnas.org/content/early/2019/04/24/1817431116"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/WMLC_2019_ProductivityProminenceAndTheEffectsOfAcademicEnvironment.pdf"
+    - title: "Bayes-optimal estimation of overlap between populations of fixed size"
+      authors:
+      - Daniel B. Larremore
+      year: 2019
+      venue: PLoS Computational Biology
+      volumeissue: 15(3) e1006898
+      links:
+      - text: PLOS Computational Biology
+        url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006898"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/BayesianRepertoireOverlap_Larremore_2019.pdf"
+      - text: code
+        url: "https://github.com/dblarremore/BayesianRepertoireOverlap"
+      - text: web tool
+        url: "http://bro.colorado.edu"
+    - title: "Robust information capacity requires strong and balanced excitatory and inhibitory synapses"
+      authors:
+      - Vidit Agrawal
+      - Andrew B. Cowley
+      - Woodrow L. Shew
+      - Daniel B. Larremore
+      - Juan G. Restrepo
+      - Qusay Alfaori
+      year: 2018
+      venue: Chaos 
+      volumeissue: 28 103115 
+      links:
+      - text: Chaos
+        url: "https://aip.scitation.org/doi/10.1063/1.5043429"
+      - text: arXiv
+        url: "https://arxiv.org/abs/1804.05266"
+    - title: "A physical model for efficient ranking in networks"
+      authors:
+      - Caterina De Bacco*
+      - Daniel B. Larremore*
+      - Cristopher Moore.
+      year: 2018
+      venue: Science Advances
+      volumeissue: 4(7) eaar8260
+      links:
+      - text: Science Advances
+        url: "http://advances.sciencemag.org/content/4/7/eaar8260"
+      - text: arXiv
+        url: "https://arxiv.org/abs/1709.09002"
+      - text: code
+        url: "https://github.com/cdebacco/SpringRank"
+    - title: "Configuring random graph models with fixed degree sequences"
+      authors:
+      - Bailey K. Fosdick*
+      - Daniel B. Larremore*
+      - Joel Nishimura*
+      - and Johan Ugander*
+      year: 2018
+      venue: SIAM Review
+      volumeissue: 60 (2) 315-355
+      links:
+      - text: SIAM Review
+        url: "https://epubs.siam.org/doi/abs/10.1137/16M1087175"
+      - text: arXiv
+        url: "http://arxiv.org/abs/1608.00607"
+      - text: code & slides
+        url: "http://danlarremore.com/configurationmodels/"
+    - title: "The misleading narrative of the canonical faculty productivity trajectory"
+      authors:
+      - Samuel F. Way
+      - Allison C. Morgan
+      - Aaron Clauset*
+      - Daniel B. Larremore* 
+      year: 2017
+      venue: Proceedings of the National Academy of Sciences USA
+      volumeissue: 114 (44) E9216-E9223
+      links:
+      - text: PNAS
+        url: "http://www.pnas.org/content/114/44/E9216.abstract"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/Way_MisleadingProductivityNarrative_PNAS_2017.pdf"
+    - title: "The ground truth about metadata and community detection in networks"
+      authors:
+      - Leto Peel*
+      - Daniel B. Larremore*
+      - Aaron Clauset
+      year: 2017
+      venue: Science Advances
+      volumeissue: 3 (5) e1602548
+      links:
+      - text: Science Advances
+        url: "http://advances.sciencemag.org/content/3/5/e1602548.full"
+      - text: Supplement
+        url: "http://danlarremore.com/pdf/PLC_GroundTruthAboutMetadataCommDetection_SciAdv_2017_Supplement.pdf"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/PLC_GroundTruthAboutMetadataCommDetection_SciAdv_2017.pdf"
+      - text: code & data
+        url: "http://danlarremore.com/metadata"
+    - title: "Community detection, link prediction, and layer interdependence in multilayer networks"
+      authors:
+      - Caterina De Bacco
+      - Eleanor A. Power
+      - Daniel B. Larremore
+      - Cristopher Moore
+      year: 2017
+      venue: Physical Review E
+      volumeissue: 95 042317
+      links:
+      - text: PRE
+        url: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042317"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/DeBacco_MultilayerCommunityDetectionLinkPredictionInterdependence_PRE_2017.pdf"
+    - title: "Gender, Productivity, and Prestige in Computer Science Faculty Hiring Networks"
+      authors:
+      - Samuel F. Way
+      - Daniel B. Larremore
+      - Aaron Clauset
+      year: 2016
+      venue: Proc. 2016 World Wide Web Conference (WWW) 
+      volumeissue: 1169-1179
+      links:
+      - text: PDF
+        url: "http://danlarremore.com/pdf/WLC_GenderPrestigeProductivityCSHiring_WWW_2016.pdf"
+      - text: Proc WWW 2016
+        url: "https://dl.acm.org/citation.cfm?id=2883073"
+    - title: "Ape parasite origins of human malaria virulence genes"
+      authors:
+      - Daniel B. Larremore
+      - Sesh A. Sundararaman
+      - Weimin Liu
+      - William R. Proto
+      - Aaron Clauset
+      - Dorothy E. Loy
+      - Sheri Speede
+      - Lindsey J. Plenderleith
+      - Paul M. Sharp
+      - Beatrice H. Hahn
+      - Julian C. Rayner*
+      - Caroline O. Buckee*
+      year: 2015
+      venue: Nature Communications
+      volumeissue: 6, 8368
+      links:
+      - text: Nature Comms
+        url: "http://www.nature.com/ncomms/2015/151012/ncomms9368/full/ncomms9368.html"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/Letal_ApeParasiteOriginsMalariaVirulence_NatComms_2015.pdf"
+    - title: "Systematic inequality and hierarchy in faculty hiring networks"
+      authors:
+      - Aaron Clauset
+      - Samuel Arbesman
+      - Daniel B. Larremore 
+      year: 2015
+      venue: Science Advances
+      volumeissue: 1, e1400005
+      links:
+      - text: Science Advances
+        url: "http://advances.sciencemag.org/content/1/1/e1400005"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/CAL_SystematicInequalityHierarchyFacultyHiring_SciAdv_2015.pdf"
+      - text: code and data
+        url: "http://tuvalu.santafe.edu/~aaronc/facultyhiring/"
+      - text: interactive data visualization
+        url: "http://danlarremore.com/faculty"
+    - title: "Immune characterization of P. falciparum parasites with a shared genetic signature in a region of decreasing transmission"
+      authors:
+      - Amy K. Bei
+      - Ababacar Diouf
+      - Kazutoyo Miura
+      - Daniel B. Larremore
+      - Ulf Ribacke
+      - Gregory Tullo
+      - Eli L. Moss
+      - Daniel E. Neafsey
+      - Rachel F. Daniels
+      - Amir E. Zeituni
+      - Iguosadolo Nosamiefan
+      - Sarah K. Volkman
+      - Ambroise D. Ahouidi
+      - Daouda Ndiaye
+      - Tandakha Dieye
+      - Souleymane Mboup
+      - Caroline O. Buckee
+      - Carole Long
+      - Dyann F. Wirth
+      year: 2015
+      venue: Infection and Immunity
+      volumeissue: 83 (1), 276
+      links:
+      - text: Infection and Immunity
+        url: "http://iai.asm.org/content/83/1/276.short"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/2015_Beietal_ImmuneCharacterizationPfParasitesSharedGeneticSignatureDecreasingTransmission_IAI.pdf"
+    - title: "Efficiently inferring community structure in bipartite networks"
+      authors:
+      - Daniel B. Larremore
+      - Aaron Clauset
+      - Abigail Z. Jacobs
+      year: 2014
+      venue: Physical Review E
+      volumeissue: 90 (1), 012805
+      links:
+      - text: PRE
+        url: "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012805"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/2014_LCJ_EfficientlyInferringCommunityStructureInBipartiteNetworks_PRE.pdf"
+      - text: code and data
+        url: "bipartiteSBM/index.html"
+    - title: "Inhibition Causes Ceaseless Dynamics in Networks of Excitable Nodes"
+      authors:
+      - Daniel B. Larremore
+      - Woodrow L. Shew
+      - Edward Ott
+      - Francesco Sorrentino
+      - Juan G. Restrepo
+      year: 2014
+      venue: Physical Review Letters
+      volumeissue: 112, 138103
+      links:
+      - text: PRL
+        url: "http://link.aps.org/doi/10.1103/PhysRevLett.112.138103"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/2014_LSOSR_InhibitionCausesCeaselessDynamicsinNetworksofExcitableNodes_PRL.pdf"
+    - title: "A network approach to analyzing highly recombinant malaria parasite genes"
+      authors:
+      - Daniel B. Larremore
+      - Aaron Clauset
+      - Caroline O. Buckee
+      year: 2013
+      venue: PLoS Computational Biology
+      volumeissue: 9 (10), e1003268
+      links:
+      - text: PLoS Comp Bio
+        url: "http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003268"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/LCB_NetworkApproachVarGenes_PlosComputBiol_2013.pdf"
+      - text: interactive figures
+        url: "http://danlarremore.com/var/"
+      - text: network and sequence data
+        url: "http://danlarremore.com/file/malariaDBLaNetworks2013.zip"
+    - title: "Social Climber attachment in forming networks produces phase transition in a measure of connectivity"
+      authors:
+      - Dane Taylor*
+      - Daniel B. Larremore*
+      year: 2012
+      venue: Physical Review E
+      volumeissue: 86, 031140
+      links:
+      - text: PRE
+        url: "http://pre.aps.org/abstract/PRE/v86/i3/e031140"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/TL_SocialClimber_PRE_2012.pdf"
+    - title: "Statistical properties of avalanches in networks"
+      authors:
+      - Daniel B. Larremore
+      - Marshall Y. Carpenter
+      - Edward Ott
+      - Juan G. Restrepo
+      year: 2012
+      venue: Physical Review E
+      volumeissue: 85, 066131
+      links:
+      - text: PRE
+        url: "http://pre.aps.org/abstract/PRE/v85/i6/e066131"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/LCOR_Avalanches_PRE_2012.pdf"
+    - title: "Effects of network topology, transmission delays, and refractoriness on the response of coupled excitable systems to a stochastic stimulus"
+      authors:
+      - Daniel B. Larremore
+      - Woodrow L. Shew
+      - Edward Ott
+      - Juan G. Restrepo
+      year: 2011
+      venue: Chaos
+      volumeissue: 21, 025117
+      links:
+      - text: Chaos
+        url: "http://link.aip.org/link/?cha/21/025117"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/LSOR_Criticality_Chaos_2011.pdf"
+    - title: "Predicting criticality and dynamic range in complex networks: effects of topology"
+      authors:
+      - Daniel B. Larremore
+      - Woodrow L. Shew
+      - Juan G. Restrepo
+      year: 2011
+      venue: Physical Review Letters
+      volumeissue: 106, 058101
+      links:
+      - text: PRL
+        url: "http://prl.aps.org/abstract/PRL/v106/i5/e058101"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/LSR_Criticality_PRL_2011.pdf"
+  - heading: Essays, Columns, Book Chapters, Miscellaneous
+    pubs:
+    - title: "More Inclusive Scholarship Begins With Active Experimentation"
+      authors:
+      - Daniel B. Larremore
+      - Allison C. Morgan
+      - Aaron Clauset
+      year: 2017
+      venue: The Chronicle of Higher Education
+      volumeissue: 1 November
+      links:
+      - text: Chronicle of Higher Ed
+        url: "http://www.chronicle.com/blogs/letters/more-inclusive-scholarship-begins-with-active-experimentation/"
+      - text: PDF
+        url: "http://danlarremore.com/pdf/LMC_activeExperimentation.pdf"
+    - title: "Why predicting the future is more than just horseplay"
+      authors:
+        - Daniel B. Larremore
+        - Aaron Clauset
+      venue: The Christian Science Monitor
+      year: 2017
+      volumeissue: 24 April
+      links:
+      - text: The Christian Science Monitor
+        url: http://www.csmonitor.com/Science/Complexity/2017/0424/Why-predicting-the-future-is-more-than-just-horseplay
+    - title: "On the records"
+      authors:
+      - Andrew Berdahl
+      - Uttam Bhat
+      - Vanessa Ferdinand
+      - Joshua Garland
+      - Keyan Ghazi-Zahedi
+      - Justin Grana
+      - Joshua A. Grochow
+      - Elizabeth Hobson
+      - Yoav Kallus
+      - Christopher P. Kempes
+      - Artemy Kolchinsky
+      - Daniel B. Larremore
+      - Eric Libby
+      - Eleanor A. Power
+      - Brendan D. Tracey 
+      links:
+      - text: arXiv
+        url: "https://arxiv.org/abs/1705.04353"
+      year: 2017
+      venue: arXiv
+    - title: "Data-driven predictions in the science of science"
+      authors:
+      - Aaron Clauset
+      - Daniel B. Larremore
+      - Roberta Sinatra
+      venue: Science
+      volumeissue: 355(6324) 477-480
+      year: 2017
+      links:
+      - text: Science
+        url: http://science.sciencemag.org/content/355/6324/477
+      - text: PDF
+        url: http://danlarremore.com/pdf/CLS_2017_DataDrivenPredictionsScienceOfScience_Science.pdf      
+    - title: "Critical Dynamics in Complex Networks"
+      authors:
+      - Daniel B. Larremore
+      - Woodrow L. Shew
+      - Juan G. Restrepo
+      venue: Criticality in Neural Systems 
+      volumeissue: Wiley, 365-392
+      year: 2014
+      links:
+      - text: Wiley
+        url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-3527411046.html
+    - title: "Progess Is Infectious"
+      authors:
+      - Daniel E. Geer Jr.
+      - Daniel B. Larremore
+      venue: IEEE Security & Privacy
+      volumeissue: 10(6) 94-95
+      year: 2012
+      links:
+      - text: IEEE S&P
+        url: http://www.computer.org/csdl/mags/sp/2012/06/msp2012060094-abs.html
+      - text: PDF
+        url: "http://danlarremore.com/pdf/Geer, Larremore - Progress is Infectious (IEEE Sec Priv, 2012).pdf"
+
+
+
+
+

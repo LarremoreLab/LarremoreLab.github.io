@@ -1,7 +1,13 @@
 repos:
   - title: "webweb"
-    repo_url: https://webwebpage.github.io
+    url: https://webwebpage.github.io
     image_path: /assets/images/code/webweb.png
-  - title: "bayesian repertoire overlap"
-    repo_url: https://bro.colorado.edu
+    description: webweb is a tool for creating, displaying, and sharing interactive network visualizations on the web, designed for simplicity and ease of use. With just a few lines of python, networkx, or matlab, webweb will build and launch a visualization in your browser.
+  - title: "Bayesian Repertoire Overlap"
+    url: https://bro.colorado.edu
     image_path: /assets/images/code/bro.png
+    description: Bayesian Repertoire Overlap is a method to estimate the number of shared var genes between two parasite repertoires, based on a limited number of samples from each repertoire.
+  - title: "PercoVIS"
+    url: http://danlarremore.com/PercoVIS.html
+    image_path: /assets/images/code/percovis.jpg
+    description: PercoVIS is a free software tool, created to visualize the process of percolation on a network. It includes Erdos-Renyi and Adjacent Edge decision rules for link addition, as well as the Social Climber attachment model. Documentation about these processes can be found on the download page.
