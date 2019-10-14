@@ -2,13 +2,13 @@
 main:
   - title: People
     url: /people/
-  - title: Publications
+  - title: Papers
     url: /publications/
-  - title: Code
-    url: /code/
+  - title: Code & Data
+    url: /openscience/
   - title: Slides
     url: /slides/
-  - title: Opportunities
+  - title: Jobs
     url: /opportunities/
   - title: Lab Manual
     url: /manual/

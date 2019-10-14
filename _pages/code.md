@@ -1,12 +1,17 @@
 ---
-title: Code
-permalink: /code/
-classes: wide
+title: Open Science
+permalink: /openscience/
+classes: splash
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.2"
+    overlay_image: /assets/images/writing_code.jpg
+excerpt: "Find our code and data here"
 ---
 
 <div>
 	{% for repo in site.data.code.repos %}
-  <h3>{{repo.title}}</h3>
+  <h2>{{repo.title}}</h2>
   {% if repo.image_path %}
 	<figure>
 		<a href=

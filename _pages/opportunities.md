@@ -9,7 +9,6 @@ header:
 excerpt: "Interested in joining the team?<br>See open positions below!"
 ---
 
-
 ## Postdocs 
 
 The Larremore and Clauset labs are jointly seeking one or more Postdocs! Apply [here](https://jobs.colorado.edu/jobs/JobDetail/?jobId=21039&emailCampaignId=168&referrer=http://127.0.0.1:4000/) by November 1. 
