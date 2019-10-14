@@ -1,9 +1,11 @@
 ---
 title: Lab Manual
 permalink: /manual/
+<!-- classes: wide -->
+toc: true
 ---
 
-# Welcome! 
+## Welcome! 
 
 This is a Lab Manual that summarizes how the Larremore Lab works. If you're reading it, I hope you're either joining the lab or thinking about doing so! 
 The manual is a mixture of prescriptions (how things ought to be done) and descriptions (how things around the lab typically operate). 
@@ -17,8 +19,8 @@ To that end, you'll find that this document is equal parts reference material, a
 - Third, we study malaria parasites with a mathematical and statistically rigorous toolkit, focusing on genomic epidemiology and modeling. 
 
 
-# Expectations & Responsibilities
-## Everyone: The Big Picture
+## Expectations & Responsibilities
+### Everyone: The Big Picture
 
 - Work on what you’re passionate about, work hard at it, and be proud of it. Be so proud of it that you have to suppress bragging (but it’s ok to brag sometimes).
 - Scientists have to be careful. Don’t rush your work. Think first. Then implement. Incorporate sanity checks. Ask others to look at your code or data if you need help, and help others when they ask. It’s ok to makes mistakes, but mistakes shouldn’t be because of carelessness or rushed work.
@@ -32,7 +34,7 @@ To that end, you'll find that this document is equal parts reference material, a
 - Stay up to date on the latest research, by using RSS feeds, Google Scholar, or getting journal table of contents. Also consider following scientists in the field on Twitter.
 - Have a life outside of the lab, take care of your mental and physical health, and don’t ever feel bad for taking time off work. 
 
-## Everyone: The Small Picture
+### Everyone: The Small Picture
 
 - We study infectious disease here, so if you’re sick, stay home and take care of yourself. If you're going to miss a meeting or a deadline, let people know ASAP and then rest up!
 - You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night. You are expected to get your work done (whatever time of day you like to do it).
@@ -41,7 +43,7 @@ To that end, you'll find that this document is equal parts reference material, a
 - Be on time for meetings. Colorado has high-variance weather, so be prepared!
 - Vacation is important. Make sure that your collaborators know well in advance so that they can plan ahead. 
 
-## Expectations of Post-docs
+### Expectations of Post-docs
 
 - Eventually develop your own independent line of research
 - Help train and mentor students in the lab (both undergraduate and graduate) when they
@@ -52,7 +54,7 @@ need it—either because they ask, or because I ask you to
 - Apply for jobs (of whatever type you choose) when you’re ready. If you think you’d like to leave academia, that’s completely ok—but you should still treat your post-doc seriously, and talk to me about how to best train for a job outside academia. When you're ready, we can talk about strategies for strong application materials. 
 - Challenge me (Dan) when I’m wrong or when your opinion is different, and treat the rest of the lab to your unique expertise
 
-## Expectations of Graduate Students
+### Expectations of Graduate Students
 
 - Develop your dissertation research. Your dissertation should consist of around 3 projects, built around answering answer a big-picture question. In cartoon form, those 3 projects, chronologically, are (1) a project that I suggest that you do, (2) a project that we discuss and develop together, and (3) a project that you decide on and drive forward. 
 - Help mentor undergraduate students in the lab when they need it—either because they ask, or because I ask you to. 
@@ -62,7 +64,7 @@ need it—either because they ask, or because I ask you to
 - Make sure you meet all departmental deadlines (e.g., for your exams and thesis), and make sure Dan is aware of them!
 - Prioritize time for research. Coursework and TAing are important, but ultimately your research gets you your PhD and prepares you for the next stage of your career.
 
-## What you can expect of me
+### What you can expect of me
 I will...
 - Support you (scientifically, emotionally, financially)
 - Give you feedback on a timely basis, including feedback on project ideas, conference, posters, talks, manuscripts, figures, grants
@@ -72,7 +74,7 @@ I will...
 - Help you prepare for the next step of your career, whether it’s a job, a post-doc, or a faculty position
 - Care for your emotional and physical well-being, and prioritize that above all else
 
-# Open Science & Communication
+## Open Science & Communication
 
 The lab takes a pragmatic view of Open Science, meaning that papers, code, and data should be shared, but there may also be reasonable exceptions. One such exception is ethical: when we collect large datasets on the behaviors and opinions of other people, with IRB approval, we may avoid openly posting data to protect privacy. Another exception reflects the cost of data collection: some datasets require huge up-front efforts to collect and clean, and will not be published immediately after the first study that analyzes them. Still, even those datasets will be made available within 3 years of the first publication. 
 
@@ -80,7 +82,7 @@ We collaborate and share code via GitHub. Internally, we also collaborate on dra
 
 We communicate using email, Slack, and GitHub, and each has a different purpose. For instance, codebase decisions, discussions, and to-dos should be on GitHub so they can be tracked properly. Anything that falls into a chat, DM, or meme category should go on Slack. Email is required for anything official, anything long, anything with external collaborators, or anything that you 100% don’t want to fall through the cracks. If something is time sensitive, make sure to say so. I am happy to be nudged about things if it has been a couple working days. WhatsApp is reserved for conferences. The creation of custom slack emojis is encouraged. 
 
-# Meetings
+## Meetings
 
 There is a weekly 1 hour all-hands lab meeting that we share with the Clauset Lab. This is actually registered as a course, so please enroll. CSCI-7000-803. There are also a weekly 1 hour meeting for the Science of Science team and the Malaria team. We use a Google Calendar to track these.
 
@@ -88,13 +90,13 @@ For those not on the Science of Science team, please schedule a weekly meeting w
 
 Each semester, we will also have a one-on-one professional development meeting that focuses solely on career, goals, tactics, and strategy. 
 
-# Miscellaneous 
+## Miscellaneous 
 
 - No food on the couches please. Especially no raspberry vinaigrette dressing on the couches.
 - Dan will match 1-for-1 on espresso pods. 
 - No dogs or bikes inside (building policy)
 
-# Engagement & Publicity
+## Engagement & Publicity
 
 When we work on something really interesting, journalists may get in touch. This is generally a good thing, but any press inquiries should be forwarded or deflected to [Dan](mailto:daniel.larremore@colorado.edu). First authors will be included in any interviews, as a rule.
 
@@ -104,7 +106,7 @@ Make your work easily Googleable, but consider also doing privacy checks, and an
 
 Be a good person at conferences. Compliment speakers only on their science, after their talks. Go to the talks of your peers in the lab. 
 
-# Onboarding Checklist
+## Onboarding Checklist
 
 1. Join the Slack
 2. Make a free Dropbox account.
@@ -117,14 +119,14 @@ Be a good person at conferences. Compliment speakers only on their science, afte
 9. Make a Google Scholar page. 
 10. Recommended: swap phone numbers with a couple people in the lab in case of emergency. 
 
-# "How to Science" Series
+## "How to Science" Series
 
 - [Data visualization](https://github.com/LarremoreLab/Resources/raw/master/slides/workshop_DataVisualization.pdf)
 - [Giving a talk](https://github.com/LarremoreLab/Resources/raw/master/slides/workshop_GivingATalk.pdf)
 - [Clean code](https://github.com/LarremoreLab/Resources/raw/master/slides/workshop_CleanCode.pdf)
 - [Peer review](https://github.com/LarremoreLab/Resources/raw/master/slides/workshop_PeerReview.pdf)
 
-# Other Resources and Guides
+## Other Resources and Guides
 
 - Travel Guide
 - Reimbursement Guide
@@ -132,14 +134,14 @@ Be a good person at conferences. Compliment speakers only on their science, afte
 - Making a poster
 - Printing
 
-# Boundaries & Social Events
+## Boundaries & Social Events
 
 The Larremore Lab is a community, and my job as PI is to lead that community in a direction that's good for the science and good for the members of the lab. But there are also social aspects to the community. For instance, I host open and optional lab dinners that I also invite my friends and family to, we have a joint monthly happy hour with the Clauset Lab, and many people regularly eat lunch together or even exercise together. In my opinion, these social events and connections are a wonderful and important part of being in any lab. However, they can also blur boundaries, particularly when labels like employer, advisor, and friend start to collide. So to be clear: my roles as PI, professor, and your advisor will always be my top priority. 
 
-# The Clauset Lab 
+## The Clauset Lab 
 
 We work closely with the [Clauset Lab](http://tuvalu.santafe.edu/~aaronc/). We have shared lab meetings, shared lab space, a shared slack, and a few big shared projects. We also share many of the same values about openness and culture. Aaron Clauset and I have been collaborating since 2012. We work well together, and as of last count (Summer 2019), that included 10 publications and 2 large grants. While our labs are distinct from each other, the degree of overlap between them has, so far, been highly productive!
 
-# When problems come up...
+## When problems come up...
 
 Health. Personal. Research. Coursework. Whatever. If you feel like you are in trouble, or need to sort something out that is related to life in the Larremore Lab, talk to Dan. If you have a problem with Dan, or want an outside opinion, consider speaking with Prof. Aaron Clauset or BioFrontiers' Chief Scientific Officer, Prof. Leslie Leinwand.

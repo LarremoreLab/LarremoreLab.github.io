@@ -1,6 +1,7 @@
 ---
 title: Publications
 permalink: /publications/
+classes: wide
 ---
 <ol>
 {% for paper in site.data.papers %}

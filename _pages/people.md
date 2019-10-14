@@ -1,6 +1,7 @@
 ---
 title: People
 permalink: /people/
+classes: wide
 ---
 
 <div>
@@ -15,7 +16,7 @@ permalink: /people/
             {% endif %}
             title="{{ person.name }}"
         >
-        <img src=
+        <img class="thumb" src=
           {% if person.image_path contains "://" %}
             "{{ person.image_path }}"
           {% else %}
@@ -24,7 +25,7 @@ permalink: /people/
           alt="{{ person.name }}">
         </a>
     {% else %}
-        <img src=
+        <img class="thumb" src=
           {% if person.image_path contains "://" %}
             "{{ person.image_path }}"
           {% else %}

@@ -16,4 +16,6 @@ main:
     url: /publications/
   - title: Lab Manual
     url: /manual/
+  - title: Code
+    url: /code/
 
