@@ -2,8 +2,8 @@ var indexData = {
     "nodes":[
 		{"name":"percoVIS","label":"percoVIS","group":4,"cat":"tool","url":"http://danlarremore.com/PercoVIS.html"},
 		{"name":"webweb","label":"webweb","group":4,"cat":"tool","url":"https://webwebpage.github.io"},
-		{"name":"synched","label":"synched","group":4,"cat":"tool","url":"http://amath.colorado.edu/student/skardal/Synched.html"},
-		{"name":"netComponents","label":"MATLAB networkComponents()","group":4,"cat":"paper","url":"http://www.mathworks.com/matlabcentral/fileexchange/42040-find-network-components"},
+		// {"name":"synched","label":"synched","group":4,"cat":"tool","url":"http://amath.colorado.edu/student/skardal/Synched.html"},
+		// {"name":"netComponents","label":"MATLAB networkComponents()","group":4,"cat":"paper","url":"http://www.mathworks.com/matlabcentral/fileexchange/42040-find-network-components"},
 		{"name":"biSBM","label":"biSBM","group":4,"cat":"tool","url":"http://danlarremore.com/bipartiteSBM/index.html"},
 
 		{"name":"mrc","label":"AMS MRC on Network Science","group":2,"cat":"tool"},
@@ -19,7 +19,7 @@ var indexData = {
 		{"name":"ed","label":"ed ott","group":3,"url":"http://www.chaos.umd.edu/personnel/ott.html"},
 		{"name":"woody","label":"woodrow l. shew","group":3,"url":"http://woodrowshew.com"},
 		{"name":"francesco","label":"francesco sorrentino","group":3,"url":"http://www.unm.edu/~fsorrentinome/"},
-		{"name":"seb","label":"per sebastian skardal","group":3,"url":"https://sites.google.com/site/persebastianskardal/"},
+		// {"name":"seb","label":"per sebastian skardal","group":3,"url":"https://sites.google.com/site/persebastianskardal/"},
 		{"name":"caroline","label":"caroline o. buckee","group":3,"url":"http://ccdd.hsph.harvard.edu/Faculty/Caroline-Buckee"},
 		{"name":"aaron","label":"aaron clauset","group":3,"url":"http://tuvalu.santafe.edu/~aaronc/"},
 		{"name":"dane","label":"dane taylor","group":3,"url":"https://sites.google.com/site/danetaylorresearch/"},
@@ -37,10 +37,6 @@ var indexData = {
 		{"name":"mirta","label":"mirta galesic","group":3,"url":"https://sites.google.com/site/mirtagalesic/"},
 		{"name":"dunne","label":"jen dunne","group":3,"url":""},
 		{"name":"allie","label":"allison c. morgan","group":3,"url":"http://allisonmorgan.github.io"},
-        
-		// {"name":"mckinnon","label":"william mckinnon","group":3},
-		// {"name":"calhoun","label":"adam calhoun","group":3},
-		// {"name":"so","label":"richard so","group":3},
 
 		{"name":"hahn","label":"beatrice hahn","group":3,"url":"http://www.med.upenn.edu/apps/faculty/index.php/g275/p8418831"},
 		{"name":"sharp","label":"paul m. sharp","group":3},
@@ -118,14 +114,24 @@ var indexData = {
 		{"name":"broderick","label":"tamara broderick","group":3,"url":"http://www.tamarabroderick.com/"},			
 		{"name":"tina","label":"tina eliassi-rad","group":3,"url":"http://www.eliassi.org/"},			
 		
+		{"name":"patania","label":"alice patania","group":3},			
+		{"name":"mcshane","label":"blake mcshane","group":3},			
+		{"name":"falk","label":"b falk","group":3},
+		{"name":"feit","label":"e mcdonnell feit","group":3},			
+		{"name":"feinberg","label":"fred feinberg","group":3},			
+		{"name":"helveston","label":"j helveston","group":3},
+		{"name":"small","label":"mario small","group":3},
+		{"name":"braun","label":"m braun","group":3},
+		{"name":"fefferman","label":"nina fefferman","group":3},
+
 		{"name":"bro","label":"bayesian repertoire overlap","group":1,"cat":"paper","url":"https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006898"},
 		{"name":"connectfour","label":"disconnect four is solved","group":1,"cat":"paper"},
 		{"name":"ranked","label":"ranked communities DRAFT","group":1,"cat":"paper"},
 		{"name":"pipeline","label":"the branching pipeline","group":1,"cat":"paper"},
 		{"name":"leagues","label":"20,000 leagues under the city","group":1,"cat":"paper"},
-		// {"name":"punctuation","label":"punctuation DRAFT","group":1,"cat":"paper"},
+		{"name":"choicenetworks","label":"A Framework for Studying Choices in Networks","group":1,"cat":"paper"},
 
-		// {"name":"ontherecords","label":"ontherecords","group":1,"cat":"paper","url":"http://arxiv.org/abs/1604.02096"},                                 
+
 		
 		{"name":"springs","label":"A physical model for efficient ranking in networks","group":1,"cat":"paper","url":"http://advances.sciencemag.org/content/4/7/eaar8260"},
         {"name":"benepinamics","label":"dynamics of beneficial epidemics","group":1,"cat":"paper","url":"http://arxiv.org/abs/1604.02096"},                                 
@@ -210,14 +216,21 @@ var indexData = {
 
 		{"source":"connectfour","target":"steele","link":2},
 
-		// {"source":"punctuation","target":"calhoun","link":2},
-		// {"source":"punctuation","target":"mckinnon","link":2},
-		// {"source":"punctuation","target":"so","link":2},
-
 		{"source":"configuration","target":"ugander","link":2},
 		{"source":"configuration","target":"fosdick","link":2},
 		{"source":"configuration","target":"nishimura","link":2},
 		{"source":"configuration","target":"mrc","link":2},
+
+		{"source":"choicenetworks","target":"patania","link":2},
+		{"source":"choicenetworks","target":"mcshane","link":2},
+		{"source":"choicenetworks","target":"falk","link":2},
+		{"source":"choicenetworks","target":"feit","link":2},
+		{"source":"choicenetworks","target":"bruch","link":2},
+		{"source":"choicenetworks","target":"feinberg","link":2},
+		{"source":"choicenetworks","target":"helveston","link":2},
+		{"source":"choicenetworks","target":"small","link":2},
+		{"source":"choicenetworks","target":"braun","link":2},
+		{"source":"choicenetworks","target":"fefferman","link":2},
 
 		{"source":"metadata","target":"leto","link":2},
 		{"source":"metadata","target":"aaron","link":2},
@@ -364,6 +377,6 @@ var indexData = {
 		{"source":"PRE2012sc","target":"dane","link":2},
 		
 		{"source":"percoVIS","target":"dane","link":2},
-		{"source":"synched","target":"seb","link":2},
-		{"source":"percoVIS","target":"synched","link":2},
+		// {"source":"synched","target":"seb","link":2},
+		// {"source":"percoVIS","target":"synched","link":2},
              ]}
