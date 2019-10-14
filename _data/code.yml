@@ -11,3 +11,6 @@ repos:
     url: http://danlarremore.com/PercoVIS.html
     image_path: /assets/images/code/percovis.jpg
     description: PercoVIS is a free software tool, created to visualize the process of percolation on a network. It includes Erdos-Renyi and Adjacent Edge decision rules for link addition, as well as the Social Climber attachment model. Documentation about these processes can be found on the download page.
+  - title: "MATLAB: findNetworkComponents"
+    url: http://www.mathworks.com/matlabcentral/fileexchange/42040-find-network-components
+    description: Take an undirected network adjacency matrix and return the number of components, their sizes, and their membership lists.

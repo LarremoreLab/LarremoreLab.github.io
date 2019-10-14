@@ -7,6 +7,7 @@ classes: wide
 <div>
 	{% for repo in site.data.code.repos %}
   <h3>{{repo.title}}</h3>
+  {% if repo.image_path %}
 	<figure>
 		<a href=
             {% if repo.url contains "://" %}
@@ -25,8 +26,11 @@ classes: wide
           alt="{{ repo.title }}">
         </a>
     </figure>
-  <p>{{repo.description}}</p>
+  {% endif %}
+  <p>{{repo.description}}
+    <br>
   [<a href="repo.url">link</a>]
+  </p>
 	{% endfor %}
 </div>
 		
