@@ -17,7 +17,7 @@ excerpt: "Department of Computer Science<br>& BioFrontiers Institute<br>Universi
   </div>
   
   <div>
-  <p>Our research focuses on developing methods of networks, dynamical systems, and statistical inference, to solve problems in social and biological systems. We try to keep a tight loop between data and theory, and learn a lot from confronting models and algorithms with real problems.</p>
+  <p>The Larremore Lab focuses on developing methods of networks, dynamical systems, and statistical inference, to solve problems in social and biological systems. We try to keep a tight loop between data and theory, and learn a lot from confronting models and algorithms with real problems.</p>
 
   <p>In biological systems, we focus on the malaria parasite <em>P. falciparum</em> which evolves rapidly to evade the human immune system. Our goal is to understand the interplay between parasite evolution and human immunity, and its implications for parasite virulence, population structure, and epidemiology. </p>
 
