@@ -22,7 +22,7 @@ classes: wide
           {% else %}
             "{{ person.image_path | relative_url }}"
           {% endif %}
-          alt="{{ person.name }}">
+          >
         </a>
     {% else %}
         <img class="thumb" src=
