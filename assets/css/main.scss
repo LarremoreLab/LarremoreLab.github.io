@@ -25,3 +25,21 @@ figure figcaption {
 img.thumb {
 	width: 200px;
 }
+
+circle.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+line.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+#chart {
+}
+#chartInfo {
+    text-align: center;
+    font-size: 12px;
+    width: 400px;
+}
