@@ -9,4 +9,17 @@ header:
 excerpt: "Department of Computer Science<br>& BioFrontiers Institute<br>University of Colorado Boulder."
 ---
 
-content
+<h2>About our Work</h2>
+We develop methods of networks, dynamical systems, and statistical inference, to solve applied problems. In biological systems, we focus on the malaria parasite <em>P. falciparum</em> which evolves rapidly to evade the human immune system. Our goal is to understand the interplay between parasite evolution and human immunity, and its implications for parasite virulence, population structure, and epidemiology. In social systems, we focus on understanding the  patterns and processes that define the ecosystem of scientific research and discovery. Our goal is to combine rigorous computation, ecological theory, and social science to understand how the scientific community can be made more equitable and more productive.
+
+<h2>Lab News</h2>
+<ul>
+  {% for event in site.data.events %}
+  <li>
+    {% if event.date%}
+      <b>{{event.date}} - </b>
+    {% endif %}
+    {{event.description}}
+  </li>
+  {% endfor %}
+</ul>
