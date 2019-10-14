@@ -15,6 +15,7 @@ excerpt: "Department of Computer Science<br>& BioFrontiers Institute<br>Universi
     <div id="chart"></div>
     <div id="chartInfo">(gratuitous collaboration graph - hover or click)</div>
   </div>
+  
   <div>
   <p>Our research focuses on developing methods of networks, dynamical systems, and statistical inference, to solve problems in social and biological systems. We try to keep a tight loop between data and theory, and learn a lot from confronting models and algorithms with real problems.</p>
 
