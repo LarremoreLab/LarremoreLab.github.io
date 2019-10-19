@@ -22,6 +22,8 @@ excerpt: "Department of Computer Science<br>& BioFrontiers Institute<br>Universi
   <p>In biological systems, we focus on the malaria parasite <em>P. falciparum</em> which evolves rapidly to evade the human immune system. Our goal is to understand the interplay between parasite evolution and human immunity, and its implications for parasite virulence, population structure, and epidemiology. </p>
 
   <p>In social systems, we focus on understanding the  patterns and processes that define the ecosystem of scientific research and discovery. Our goal is to combine rigorous computation, ecological theory, and social science to understand how the scientific community can be made more equitable and more productive.</p>
+
+  The Larremore Lab is part of the <a href="https://www.colorado.edu/cs/">Department of Computer Science</a>, the <a href="https://www.colorado.edu/biofrontiers/">BioFrontiers Institute</a>, and the <a href="https://www.colorado.edu/cs/research/complex-systems">Complex Systems Group</a>. Students in the lab area also officers in the Boulder/Denver chapter of the <a href="https://twitter.com/official_SYNS">Society of Young Network Scientists</a>. 
   </div>
 </div>
 

@@ -1,7 +1,7 @@
 // Define some parameters for display
 var isLabels = 0;
-var width = 400,
-height = 400,
+var width = 300,
+height = 300,
 thr = 8,
 charge = -30,
 distance = 7;
