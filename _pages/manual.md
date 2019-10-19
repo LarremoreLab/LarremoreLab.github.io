@@ -38,7 +38,7 @@ To that end, you'll find that this document is equal parts reference material, a
 
 - We study infectious disease here, so if you’re sick, stay home and take care of yourself. If you're going to miss a meeting or a deadline, let people know ASAP and then rest up!
 - You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night. You are expected to get your work done (whatever time of day you like to do it).
-- Keeping regular hours in the lab is required, but it’s up to you to decice which hours those are, or how much time to spend in the lab itself. Working from home, a study room, or a coffee shop is totally fine. But we’ve also set up the lab so that it’s open, collaborative, and community oriented. It's up to you to get things done, and active experimentation with what works well for you is recommended (and fun)!
+- Keeping regular hours in the lab is required, but it’s up to you to decice which and how many those hours those are. Working from home, a study room, or a coffee shop is fine, but we’ve also set up the lab intentionally so that it’s open, collaborative, and community oriented. It's up to you to get things done, and active experimentation with what kind of schedule works well for you is recommended (and fun)!
 - Keep the living room clean, and no food on the couches please. Eating at your desk is fine, but clean up food waste, crumbs, spills.
 - Be on time for meetings. Colorado has high-variance weather, so be prepared!
 - Vacation is important. Make sure that your collaborators know well in advance so that they can plan ahead. 
