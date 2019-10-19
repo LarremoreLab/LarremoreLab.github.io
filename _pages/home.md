@@ -23,7 +23,7 @@ excerpt: "Department of Computer Science<br>& BioFrontiers Institute<br>Universi
 
   <p>In social systems, we focus on understanding the  patterns and processes that define the ecosystem of scientific research and discovery. Our goal is to combine rigorous computation, ecological theory, and social science to understand how the scientific community can be made more equitable and more productive.</p>
 
-  The Larremore Lab is part of the <a href="https://www.colorado.edu/cs/">Department of Computer Science</a>, the <a href="https://www.colorado.edu/biofrontiers/">BioFrontiers Institute</a>, and the <a href="https://www.colorado.edu/cs/research/complex-systems">Complex Systems Group</a>. Students in the lab area also officers in the Boulder/Denver chapter of the <a href="https://twitter.com/official_SYNS">Society of Young Network Scientists</a>. 
+  The Larremore Lab is part of the <a href="https://www.colorado.edu/cs/">Department of Computer Science</a>, the <a href="https://www.colorado.edu/biofrontiers/">BioFrontiers Institute</a>, and the <a href="https://www.colorado.edu/cs/research/complex-systems">Complex Systems Group</a>. Students in the lab also officers in the Boulder/Denver chapter of the <a href="https://twitter.com/official_SYNS">Society of Young Network Scientists</a>. 
   </div>
 </div>
 
