@@ -34,7 +34,7 @@ classes: wide
           alt="{{ person.name }}">
     {% endif %}
     <figcaption>
-        {{person.name}}<br>
+        <strong>{{person.name}}</strong><br>
         {{person.title}}<br>
         {{person.subject}}
     </figcaption>
