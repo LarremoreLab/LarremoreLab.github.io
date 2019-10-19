@@ -1,12 +1,18 @@
-- description: Dan will be at the Complex Networks Winter Workshop in Quebec City.
+- description: Dan will be at the <a href="http://vermontcomplexsystems.org/events/cnww/">Complex Networks Winter Workshop</a> in Quebec City.
   date: 2019 Dec 15-20
+- description: Dan and Erik will be at the <a href="https://www.astmh.org/annual-meeting">ASTMH annual meeting</a> in DC.
+  date: 2019 Nov 20-24
 - description: <font color="red">Postdoc Opportunity!</font> What happens when you apply ecological or social frameworks to understand the dynamics of scientific research? I don't know yet! That's why I'm looking for a postdoc with Aaron Clauset! Open to PhDs in quant social science, ecology, math, physics, etc. Apply <a href="http://colorado.avature.net/mailRedir.php?u=27102&code=Ioz35972NGEsW19o8QCvCRpQzgLqkwmL&link=4&transformedUrl=b10b029282ded75fc14cca97f6624e02255c8cc50c8a92c2521a8b57146553c4">here</a> by November 15. Email me if you have questions.
   date: 2019 Nov 15
 - description: Dan will visit Colorado School of Mines to give the Department of Applied Mathematics and Statistics Colloquium.
   date: 2019 Nov 8
-- description: Heading to the <a href="http://www.nimbios.org/">NIMBIOS</a> network null models working group.
+- description: Dan is heading to the <a href="http://www.nimbios.org/">NIMBIOS</a> network null models working group.
   date: 2019 Oct 24-26
-- description: Presented a Lab Workshop <a href="/slides/">Giving a Talk</a>
+- description: Kate is presenting her IQBio rotation work at the Math Bio Seminar in ECCR 257 from 12:00 to 1:00
+  date: 2019 Oct 22
+- description: Dan is presenting a Lab Workshop on <a href="/slides/">Clean Code</a>
+  date: 2019 Oct 22
+- description: Dan presented a Lab Workshop on <a href="/slides/">Giving a Talk</a>
   date: 2019 Oct 1
 - description: "New software paper with Hunter Wapman in The Journal of Open Source Software: webweb: a tool for creating, displaying, and sharing interactive network visualizations on the web. 
 [<a href='http://webwebpage.github.io/'>github</a>]

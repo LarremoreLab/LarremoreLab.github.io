@@ -7,6 +7,22 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+html {
+  font-size: 13px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 14px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 15px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 16px; // change to whatever
+  }
+}
+
 figure {
     display: inline-block;
     // border: 1px dotted gray;
