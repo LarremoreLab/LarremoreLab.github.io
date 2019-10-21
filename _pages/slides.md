@@ -2,6 +2,10 @@
 title: Slides
 permalink: /slides/
 classes: wide
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.2"
+    overlay_image: /assets/images/flatirons2.jpg
 ---
 
 <div>

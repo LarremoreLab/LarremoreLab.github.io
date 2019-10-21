@@ -18,6 +18,8 @@ To that end, you'll find that this document is equal parts reference material, a
 - Second, we study social science with a data-rich and computational perspective. This often means trying to understand the ecosystem of academic science itself by using information about who scientists are and what scientists do. 
 - Third, we study malaria parasites with a mathematical and statistically rigorous toolkit, focusing on genomic epidemiology and modeling. 
 
+<img src="/assets/images/manual/jscbb.jpg"/>
+
 
 ## Expectations & Responsibilities
 ### Everyone: The Big Picture
@@ -42,6 +44,8 @@ To that end, you'll find that this document is equal parts reference material, a
 - Keep the living room clean, and no food on the couches please. Eating at your desk is fine, but clean up food waste, crumbs, spills.
 - Be on time for meetings. Colorado has high-variance weather, so be prepared!
 - Vacation is important. Make sure that your collaborators know well in advance so that they can plan ahead. 
+
+<img src="/assets/images/manual/hours.jpg"/>
 
 ### Expectations of Post-docs
 
@@ -89,6 +93,8 @@ There is a weekly 1 hour all-hands lab meeting that we share with the Clauset La
 For those not on the Science of Science team, please schedule a weekly meeting with Dan at the start of each semester. 
 
 Each semester, we will also have a one-on-one professional development meeting that focuses solely on career, goals, tactics, and strategy. 
+
+<img src="/assets/images/manual/meeting.jpg"/>
 
 ## Miscellaneous 
 
@@ -141,6 +147,8 @@ The Larremore Lab is a community, and my job as PI is to lead that community in 
 ## The Clauset Lab 
 
 We work closely with the [Clauset Lab](http://tuvalu.santafe.edu/~aaronc/). We have shared lab meetings, shared lab space, a shared slack, and a few big shared projects. We also share many of the same values about openness and culture. Aaron Clauset and I have been collaborating since 2012. We work well together, and as of last count (Summer 2019), that included 10 publications and 2 large grants. While our labs are distinct from each other, the degree of overlap between them has, so far, been highly productive!
+
+<img src="/assets/images/manual/clausetlab.jpg"/>
 
 ## When problems come up...
 

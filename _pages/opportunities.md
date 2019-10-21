@@ -26,3 +26,5 @@ Not currently recruiting.
 ## Undergraduate Students
 
 Not currently recruiting.
+
+<img src="/assets/images/flatirons1.jpg"/>

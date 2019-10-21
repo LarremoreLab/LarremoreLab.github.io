@@ -1,0 +1,31 @@
+categories:
+  - heading: Current Courses
+    courses:
+    - title: CSCI 5352 - Network Analysis and Modeling
+      term: Fall 2019
+      url: http://danlarremore.com/5352
+      urltitle: Course Webpage
+    - title: CSCI 4802/5802 - CU Data Science Team
+      term: Fall 2019
+      url: http://danlarremore.com/4802
+      urltitle: Course Webpage
+    - title: CSCI 7000 - Current Topics in Interdisciplinary Research
+      term: Fall 2019
+  - heading: Past Courses at CU Boulder
+    courses:
+      - title: CSCI 4802/5802 - Intro to Data Science w/ Prob & Stats
+        term: Spring 2019
+      - title: CSCI 5352 - Network Analysis and Modeling
+        term: Fall 2018
+      - title: CSCI 3022 - Intro to Data Science w/ Prob & Stats
+        term: Fall 2018
+      - title: CSCI 3022 - Intro to Data Science w/ Prob & Stats
+        term: Spring 2018
+      - title: CSCI 3022 - Intro to Data Science w/ Prob & Stats
+        term: Fall 2017
+  - heading: Lecture Recordings
+    courses:
+      - title: Gender, prestige, and productivity in academic hiring networks and career trajectories
+        url: https://bids.berkeley.edu/resources/videos/gender-prestige-and-productivity-academic-hiring-networks-and-career-trajectories
+        urltitle: Berkeley Institute for Data Science
+        term: March 17, 2017

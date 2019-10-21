@@ -16,7 +16,8 @@ classes: wide
 </div>
 
 <h3>About Me</h3>
-I obtained my PhD in Applied Mathematics from the University of Colorado Boulder in 2012, advised by Juan G. Restrepo, after which I spent three years as a postdoctoral fellow at the Harvard T.H. Chan School of Public Health studying the genetic epidemiology of malaria in the Center for Communicable Disease Dynamics. I then joined the Santa Fe Institute as an Omidyar Fellow until 2017, when I joined the faculty at the University of Colorado Boulder in the Department of Computer Science and the BioFrontiers Institute.
+
+I finished a PhD in Applied Mathematics from the University of Colorado Boulder in 2012, advised by Juan G. Restrepo, after which I spent three years as a postdoctoral fellow at the Harvard T.H. Chan School of Public Health studying the genetic epidemiology of malaria in the Center for Communicable Disease Dynamics. I then joined the Santa Fe Institute as an Omidyar Fellow until 2017, when I joined the faculty at the University of Colorado Boulder in the Department of Computer Science and the BioFrontiers Institute.
 
 <h3>Research Interests</h3>
 <ul>
@@ -25,4 +26,8 @@ I obtained my PhD in Applied Mathematics from the University of Colorado Boulder
 <li><strong>Networks and theory</strong> - The processes that generate complex networks leave hints about themselves in the patterns of edges, and the relationships between those patterns and vertex metadata. I work on mathematical descriptions of graph ensembles, inference of community structures, vertex ordering or ranking, and using metadata to better understand network formation.</li>
 
 <li><strong>The scientific ecosystem</strong> - The scientific method of hypothesis, experiment, and conclusion poorly describes modern scientific discovery and productivity. Instead, science is done by <em>people</em> who play various social roles in the ecosystem of science. I investigate faculty hiring, productivity patterns, scientific careers, and the dynamics of discovery through large-scale data collection and modeling.</li>
-</ul>    
+</ul> 
+
+<h3>Outside the Lab</h3>
+
+I lean in to Boulder stereotypes by climbing, mountain biking, running, and skiing. Boulder is a beautiful place to live, so I try to get outside a lot. I like to read, usually in a cycle consisting of nonfiction, literature, and science fiction. When I have time, I like to make art, typically sculpture with paper. If I had to do another job outside of science, I think I'd like to be a writer. 
