@@ -1,12 +1,11 @@
 ---
-title: Open Science
+title: Code & Data
 permalink: /openscience/
 classes: splash
 header:
     overlay_color: "#000"
     overlay_filter: "0.2"
     overlay_image: /assets/images/writing_code.jpg
-excerpt: "Find our code and data here"
 ---
 
 <div>
@@ -15,14 +14,14 @@ excerpt: "Find our code and data here"
   {% if repo.image_path %}
 	<figure>
 		<a href=
-            {% if repo.url contains "://" %}
-              "{{ repo.url }}"
+            {% if repo.links[0].url contains "://" %}
+              "{{ repo.links[0].url }}"
             {% else %}
-              "{{ repo.url | relative_url }}"
+              "{{ repo.links[0].url | relative_url }}"
             {% endif %}
             title="{{ repo.title }}"
         >
-        <img class="thumb" height="300" width="300" src=
+        <img class="thumb" src=
           {% if repo.image_path contains "://" %}
             "{{ repo.image_path }}"
           {% else %}
@@ -34,7 +33,9 @@ excerpt: "Find our code and data here"
   {% endif %}
   <p>{{repo.description}}
     <br>
-  [<a href="repo.url">link</a>]
+  {% for link in repo.links %}
+    [<a href="{{link.url}}">{{link.text}}</a>]
+  {% endfor %}
   </p>
 	{% endfor %}
 </div>
