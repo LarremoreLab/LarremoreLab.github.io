@@ -12,6 +12,8 @@ main:
     url: /opportunities/
   - title: Lab Manual
     url: /manual/
+  - title: Teaching
+    url: /teaching/
   - title: Press
     url: /press/
 

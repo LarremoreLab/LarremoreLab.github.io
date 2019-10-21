@@ -15,14 +15,24 @@ categories:
     courses:
       - title: CSCI 4802/5802 - Intro to Data Science w/ Prob & Stats
         term: Spring 2019
+        url: https://public.tableau.com/shared/79SGW5SR2?:display_count=yes&:origin=viz_share_link
+        urltitle: Course Evals
       - title: CSCI 5352 - Network Analysis and Modeling
         term: Fall 2018
+        url: https://public.tableau.com/shared/JR94KKDBT?:display_count=yes&:origin=viz_share_link
+        urltitle: Course Evals
       - title: CSCI 3022 - Intro to Data Science w/ Prob & Stats
         term: Fall 2018
+        url: https://public.tableau.com/shared/2KPYJCN6D?:display_count=yes&:origin=viz_share_link
+        urltitle: Course Evals
       - title: CSCI 3022 - Intro to Data Science w/ Prob & Stats
         term: Spring 2018
+        url: https://public.tableau.com/shared/TT9S3RPDG?:display_count=yes&:origin=viz_share_link
+        urltitle: Course Evals
       - title: CSCI 3022 - Intro to Data Science w/ Prob & Stats
         term: Fall 2017
+        url: https://public.tableau.com/shared/KRGZCC2N2?:display_count=yes&:origin=viz_share_link
+        urltitle: Course Evals
   - heading: Lecture Recordings
     courses:
       - title: Gender, prestige, and productivity in academic hiring networks and career trajectories
