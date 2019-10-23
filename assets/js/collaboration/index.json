@@ -134,7 +134,7 @@ var indexData = {
 
 		
 		{"name":"springs","label":"A physical model for efficient ranking in networks","group":1,"cat":"paper","url":"http://advances.sciencemag.org/content/4/7/eaar8260"},
-        {"name":"benepinamics","label":"dynamics of beneficial epidemics","group":1,"cat":"paper","url":"http://arxiv.org/abs/1604.02096"},                                 
+        {"name":"benepinamics","label":"dynamics of beneficial epidemics","group":1,"cat":"paper","url":"https://www.nature.com/articles/s41598-019-50039-w"},                                 
 		{"name":"entropy","label":"robust information capacity requires strong and balanced excitatory and inhibitory synapses","group":1,"cat":"paper","url":"https://aip.scitation.org/doi/10.1063/1.5043429"},
 
 		{"name":"parasitediversity","label":"Plasmodium falciparum population genetic complexity influences expression dynamics and immune recognition among highly related genotypic clusters","group":1,"cat":"paper"},
