@@ -25,9 +25,11 @@ categories:
       - Caitlin A. Stern*
       - Brendan Tracey*
       year: 2019
-      venue: In Press at Nature Scientific Reports
-      volumeissue: 
+      venue: Nature Scientific Reports
+      volumeissue: 9 (15093)
       links:
+        - text: Nature Scientific Reports
+          url: https://www.nature.com/articles/s41598-019-50039-w
         - text: arXiv
           url: "http://arxiv.org/abs/1604.02096"
   - heading: "Published"
