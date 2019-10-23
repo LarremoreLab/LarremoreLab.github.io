@@ -7,6 +7,8 @@ categories:
        - Daniel B. Larremore
       year: 2019
       venue: In Press
+  - heading: "Published"
+    pubs:
     - title: "Dynamics of Beneficial Epidemics"
       authors:
       - Andrew Berdahl*
@@ -32,8 +34,6 @@ categories:
           url: https://www.nature.com/articles/s41598-019-50039-w
         - text: arXiv
           url: "http://arxiv.org/abs/1604.02096"
-  - heading: "Published"
-    pubs:
     - title: "webweb: a tool for creating, displaying, and sharing interactive network visualizations on the web"
       authors:
       - K. Hunter Wapman
