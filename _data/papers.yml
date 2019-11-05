@@ -262,7 +262,7 @@ categories:
       - text: PDF
         url: "http://danlarremore.com/pdf/2014_LCJ_EfficientlyInferringCommunityStructureInBipartiteNetworks_PRE.pdf"
       - text: code and data
-        url: "bipartiteSBM/index.html"
+        url: "/openscience"
     - title: "Inhibition Causes Ceaseless Dynamics in Networks of Excitable Nodes"
       authors:
       - Daniel B. Larremore
