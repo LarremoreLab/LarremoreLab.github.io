@@ -55,7 +55,16 @@ line.link {
 #chart {
 }
 #chartInfo {
-    text-align: center;
-    font-size: 12px;
-    width: 400px;
+  text-align: center;
+  font-size: 12px;
+  width: 400px;
+}
+#chartContainer {
+  float: right;
+}
+@media screen and (max-width: 650px) {
+  #chartContainer {
+    visibility: hidden;
+    display: none;
+  }
 }
