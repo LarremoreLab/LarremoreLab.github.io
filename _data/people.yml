@@ -6,8 +6,8 @@ people:
     subject: Assistant Professor
   - name: Dr. Eun Lee
     url: https://www.eunlee.net/
-    image_path: /assets/images/people/march2020.png
-    title: Postdoc
+    image_path: /assets/images/people/eun.jpg
+    title: Postdoc (March 2020)
     subject: the scientific ecosystem
   - name: Tzu-Chi Yen
     url: https://junipertcy.info/
@@ -47,7 +47,7 @@ people:
   - name: Kate Bubar
     url: /
     image_path: /assets/images/people/kate.gif
-    title: PhD Student, IQ Bio
+    title: Rotation Student, IQ Bio
     subject: malaria parasite genetics
   - name: Suchita Lulla
     url: /
@@ -59,6 +59,17 @@ people:
     url: https://www.aparavenkat.com/
     title: Undergrad, CS & APPM
     subject: complex networks
+  - name: Elise Tate
+    url: /
+    image_path: /assets/images/people/elise_tate.jpg
+    title: Rotation Student, IQ Bio
+    subject: malaria parasite genetics
+  - name: Katie Spoon
+    url: /
+    image_path: /assets/images/people/katie_spoon.jpg
+    title: PhD Student, CS (Aug. 2020)
+    subject: the scientific ecosystem
+
 
 alumni:
   - name: Suyog Soti
