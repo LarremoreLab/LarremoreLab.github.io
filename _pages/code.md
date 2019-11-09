@@ -12,7 +12,7 @@ header:
 	{% for repo in site.data.code.repos %}
   <h2>{{repo.title}}</h2>
   {% if repo.image_path %}
-	<figure>
+	<div id="chartContainer">
 		<a href=
             {% if repo.links[0].url contains "://" %}
               "{{ repo.links[0].url }}"
@@ -29,7 +29,7 @@ header:
           {% endif %}
           alt="{{ repo.title }}">
         </a>
-    </figure>
+  </div> 
   {% endif %}
   <p>{{repo.description}}
     <br>
