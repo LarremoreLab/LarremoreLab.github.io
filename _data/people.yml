@@ -7,7 +7,7 @@ people:
   - name: Dr. Eun Lee
     url: https://www.eunlee.net/
     image_path: /assets/images/people/eun.jpg
-    title: Postdoc (March 2020)
+    title: Postdoc (February 2020)*
     subject: the scientific ecosystem
   - name: Tzu-Chi Yen
     url: https://junipertcy.info/
@@ -22,17 +22,17 @@ people:
   - name: Ian van Buskirk
     url: /
     image_path: /assets/images/people/ian.gif
-    title: PhD Student, CS
+    title: PhD Student, CS*
     subject: the scientific ecosystem
   - name: Nick LaBerge
     url: https://nlaberge.github.io/
     image_path: /assets/images/people/nick.gif
-    title: PhD Student, CS
+    title: PhD Student, CS*
     subject: the scientific ecosystem
   - name: Mike Hoefer
     url: http://www.michaelhoefer.com/
     image_path: /assets/images/people/mike.gif
-    title: PhD Student, CS
+    title: PhD Student, CS*
     subject: the scientific ecosystem
   - name: Erik Johnson
     url: /
@@ -67,7 +67,7 @@ people:
   - name: Katie Spoon
     url: /
     image_path: /assets/images/people/katie_spoon.jpg
-    title: PhD Student, CS (Aug. 2020)
+    title: PhD Student, CS (Aug. 2020)*
     subject: the scientific ecosystem
 
 
