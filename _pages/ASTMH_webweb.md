@@ -13,6 +13,9 @@ classes: wide
   In the visualization of this network using <a href="webwebpage.github.io">webweb</a>, I attached names to nodes, as well as the number of abstracts that each person appeared on. Solo authors were removed prior to visualization. 
 </div>
 <div id="ASTMH_viz"></div>
+<style>
+input {width:auto;}
+</style>
 <html>
 <head>
 <script>// https://d3js.org v5.7.0 Copyright 2018 Mike Bostock
