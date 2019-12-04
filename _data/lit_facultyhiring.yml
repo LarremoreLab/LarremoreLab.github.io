@@ -114,3 +114,27 @@ categories:
       authors: Cowan, Rossello
       date: 2019
       notes:
+
+  - heading: Methods papers that use hiring network data
+    publications:
+    - url: https://advances.sciencemag.org/content/4/7/eaar8260
+      title: A physical model for efficient ranking in networks
+      authors: De Bacco, Larremore, Moore
+      date: 2018
+      notes:
+    - url: https://www.math.ucla.edu/~mason/papers/supracentrality-chapter-published.pdf
+      title: Supracentrality Analysis of Temporal Networks with Directed Interlayer Coupling
+      authors: Taylor, Porter, Mucha
+      date: 2019
+      notes:
+    - url: https://www.math.ucla.edu/~mason/papers/taylor-mms-final.pdf
+      title: Eigenvector-based centrality measures for temporal networks
+      authors: Taylor, Myers, Clauset, Porter, Mucha
+      date: 2017
+      notes:
+    - url: https://arxiv.org/abs/1904.02059
+      title: Tunable Eigenvector-Based Centralities for Multiplex and Temporal Networks
+      authors: Taylor, Porter, Mucha
+      date: 2019
+      notes:
+
