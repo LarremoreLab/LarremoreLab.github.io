@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="{{ base.url | prepend: site.url }}/assets/css/webweb/style.css">
+<script src="{{ base.url | prepend: site.url }}/assets/js/webweb/Blob.js"></script>
+<script src="{{ base.url | prepend: site.url }}/assets/js/webweb/colors.js"></script>
+<script src="{{ base.url | prepend: site.url }}/assets/js/webweb/d3.v5.min.js">console.log(d3)</script>
+<script src="{{ base.url | prepend: site.url }}/assets/js/webweb/FileSaver.min.js"></script>
+
+<div id='larremore-lab-webweb-visualization' style='width: 100%'></div>
+<script type="text/javascript">
+    var wwdata = {{include.webweb_json | jsonify }};
+    wwdata.display.attachWebwebToElementWithId = "larremore-lab-webweb-visualization";
+
+    {% if include.responsive == true %}
+    wwdata.display.w = undefined;
+    wwdata.display.h = undefined;
+    {% endif %}
+
+    {% if include.fix_width == false %}
+    wwdata.display.w = 250;
+    {% endif %}
+    {% if include.fix_height == false %}
+    wwdata.display.h = 250;
+    {% endif %}
+</script>
+<br>
+<script src="{{ base.url | prepend: site.url }}/assets/js/webweb/webweb.v5.js?{{site.time | date: '%s%N'}}"></script> 

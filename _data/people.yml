@@ -4,6 +4,8 @@ people:
     image_path: /assets/images/people/dan.gif
     title: Principal Investigator
     subject: Assistant Professor
+    aliases:
+      - Daniel B. Larremore
   - name: Dr. Eun Lee
     url: https://www.eunlee.net/
     image_path: /assets/images/people/eun.jpg
@@ -19,6 +21,8 @@ people:
     image_path: /assets/images/people/hunter.gif
     title: PhD Student, CS
     subject: the scientific ecosystem
+    aliases:
+      - Hunter Wapman
   - name: Ian van Buskirk
     url: /
     image_path: /assets/images/people/ian.gif

@@ -1,5 +1,11 @@
 repos:
   - title: Paid Parental Leave Policies
+    authors:
+      - Allison C. Morgan
+      - Daniel B. Larremore
+      - Sam F. Way
+      - Aaron Clauset
+      - Mirta Galesic
     links:
       - text: academia
         url: https://aaronclauset.github.io/parental-leave/
@@ -7,6 +13,9 @@ repos:
         url: https://aaronclauset.github.io/parental-leave/industry_academia.html
     description: Inspired in part by a study of university parental leave policies by Antecol et al. (New York Times, Inside HigherEd), we collected the paid parental leave policies for tenure-track faculty at 205 research universities in the US and Canada. The purpose of this post is to share the data we collected, highlight the complexity of many such policies, and share some preliminary analyses. Thanks to a tip from Laura Noren, we then obtained a dataset of paid parental leave policies for roughly 100 tech companies, crowdsourced by tech employees and community members after being started by Aaron Harnly of Amplify.
   - title: "webweb"
+    authors:
+      - K. Hunter Wapman
+      - Daniel B. Larremore
     links:
       - text: installation and docs
         url: https://webwebpage.github.io
@@ -15,6 +24,9 @@ repos:
     image_path: /assets/images/code/webweb.png
     description: webweb is a tool for creating, displaying, and sharing interactive network visualizations on the web, designed for simplicity and ease of use. With just a few lines of python, networkx, or matlab, webweb will build and launch a visualization in your browser.
   - title: biSBM (bipartite Stochastic Block Model)
+    authors:
+      - Tzu-Chi Yen
+      - Daniel B. Larremore
     links:
       - text: github (python)
         url: https://github.com/junipertcy/bipartiteSBM
@@ -23,6 +35,8 @@ repos:
     description: The bipartite SBM is a model for finding community structure in bipartite networks. The Python version automatically chooses the number of groups using nonparametric Bayesian approach while the other implementations are parametric and require the user to choose the number of groups. 
     image_path: /assets/images/code/bisbm.png
   - title: "Bayesian Repertoire Overlap"
+    authors:
+      - Daniel B. Larremore
     links:
       - text: github
         url: https://github.com/dblarremore/BayesianRepertoireOverlap
@@ -31,6 +45,8 @@ repos:
     image_path: /assets/images/code/bro.png
     description: Bayesian Repertoire Overlap is a method to estimate the number of shared var genes between two parasite repertoires, based on a limited number of samples from each repertoire.
   - title: "PercoVIS"
+    authors:
+      - Daniel B. Larremore
     links:
       - text: webpage
         url: http://danlarremore.com/PercoVIS.html
@@ -39,6 +55,8 @@ repos:
     image_path: /assets/images/code/percovis.jpg
     description: PercoVIS is a free software tool, created to visualize the process of percolation on a network. It includes Erdos-Renyi and Adjacent Edge decision rules for link addition, as well as the Social Climber attachment model. Documentation about these processes can be found on the download page.
   - title: "MATLAB: findNetworkComponents"
+    authors:
+      - Daniel B. Larremore
     links: 
       - text: MATLAB file exchange
         url: http://www.mathworks.com/matlabcentral/fileexchange/42040-find-network-components
