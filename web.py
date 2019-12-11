@@ -160,7 +160,6 @@ def make_network(data):
     }
 
     WEBWEB_JSON_PATH.write_text(web.json)
-    web.show()
 
 
 if __name__ == '__main__':
