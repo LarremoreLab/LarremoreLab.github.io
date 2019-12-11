@@ -145,7 +145,7 @@ def make_network(data):
     web.display.colorBy = 'color'
     # web.display.colorBy = 'kind'
     # web.display.colorPalette = 'Dark2'
-    # web.display.hideMenu = True
+    web.display.hideMenu = True
     web.display.showLegend = False
     web.display.g = .4
     web.display.w = 400
