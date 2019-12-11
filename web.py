@@ -9,6 +9,12 @@ PEOPLE_PATH = DATA_PATH.joinpath('people.yml')
 CODE_PATH = DATA_PATH.joinpath('code.yml')
 WEBWEB_JSON_PATH = DATA_PATH.joinpath('index_web.json')
 
+KIND_TO_COLOR_MAP = {
+    'collaborator': '#FFD166',
+    'lab member': '#EF476F',
+    'paper': '#118AB2',
+    'code': '#06D6A0',
+}
 
 def load_yaml(path):
     return yaml.load(path.read_text(), Loader=yaml.FullLoader)
@@ -116,12 +122,6 @@ def make_network(data):
         if url and url != '/':
             nodes[name]['url'] = url
 
-    kind_to_color_map = {
-        'collaborator': '#FFD166',
-        'lab member': '#EF476F',
-        'paper': '#118AB2',
-        'code': '#06D6A0',
-    }
     # kind_to_color_map = {
     #     'lab member': '#E55934',
     #     'collaborator': '#9BC53D',
@@ -138,13 +138,11 @@ def make_network(data):
             size = 1.75
 
         nodes[node]['size'] = size
-        nodes[node]['color'] = kind_to_color_map[kind]
+        nodes[node]['color'] = KIND_TO_COLOR_MAP[kind]
 
     web = Web(adjacency=edges, nodes=dict(nodes))
     web.display.sizeBy = 'size'
     web.display.colorBy = 'color'
-    # web.display.colorBy = 'kind'
-    # web.display.colorPalette = 'Dark2'
     web.display.hideMenu = True
     web.display.showLegend = False
     web.display.g = .4
