@@ -10,10 +10,10 @@ CODE_PATH = DATA_PATH.joinpath('code.yml')
 WEBWEB_JSON_PATH = DATA_PATH.joinpath('index_web.json')
 
 KIND_TO_COLOR_MAP = {
-    'collaborator': '#FFD166',
-    'lab member': '#EF476F',
-    'paper': '#118AB2',
-    'code': '#06D6A0',
+    'collaborator': '#78C81F',
+    'lab member': '#E01E7B',
+    'paper': '#1C7BE0',
+    'code': '#D2D215',
 }
 
 def load_yaml(path):
@@ -133,9 +133,9 @@ def make_network(data):
         kind = nodes[node]['kind']
         size = 1
         if kind == 'lab member':
-            size = 3
+            size = 1.7
         elif kind == 'collaborator':
-            size = 1.75
+            size = 1.4
 
         nodes[node]['size'] = size
         nodes[node]['color'] = KIND_TO_COLOR_MAP[kind]
