@@ -3,7 +3,7 @@ from webweb import Web
 from pathlib import Path
 import yaml
 
-DATA_PATH = Path.cwd().joinpath('_data')
+DATA_PATH = Path(__file__).parent.joinpath('_data')
 PAPERS_PATH = DATA_PATH.joinpath('papers.yml')
 PEOPLE_PATH = DATA_PATH.joinpath('people.yml')
 CODE_PATH = DATA_PATH.joinpath('code.yml')
@@ -58,7 +58,6 @@ def make_network(data):
     edges = []
 
     dan = data['people']['people'][0]['name']
-    nodes[dan]['kind'] = 'PI'
 
     for category in data['papers']['categories']:
         for paper in category['pubs']:
@@ -68,11 +67,22 @@ def make_network(data):
                 'kind': 'paper'
             }
 
+            if 'links' in paper:
+                nodes[title]['url'] = paper['links'][0]['url']
+
             for name in paper['authors']:
+                if name == dan:
+                    continue
+
                 nodes[name]['name'] = name
 
-                if name != dan:
-                    nodes[name]['kind'] = 'collaborator'
+                nodes[name]['kind'] = 'collaborator'
+
+                for person in data['people']['collaborators']:
+                    if person['name'] == name:
+                        if person.get('url'):
+                            nodes[name]['url'] = person['url']
+                            break
 
                 edges.append([title, name])
 
@@ -83,10 +93,11 @@ def make_network(data):
             'kind': 'code'
         }
         for name in project['authors']:
-            nodes[name]['name'] = name
+            if name == dan:
+                continue
 
-            if name != dan:
-                nodes[name]['kind'] = 'collaborator'
+            nodes[name]['name'] = name
+            nodes[name]['kind'] = 'collaborator'
 
             edges.append([title, name])
 
@@ -96,26 +107,61 @@ def make_network(data):
             continue
 
         title = person['title'].lower()
-        kind = 'collaborator'
-        if title.startswith('phd'):
-            kind = 'PhD'
-        elif title.startswith('ms'):
-            kind = 'Masters'
-        elif title.startswith('undergrad'):
-            kind = 'Undergraduate'
 
         nodes[name]['name'] = name
-        nodes[name]['kind'] = kind
-        edges.append([dan, name])
+        nodes[name]['kind'] = 'lab member'
+
+        url = person.get('url')
+
+        if url and url != '/':
+            nodes[name]['url'] = url
+
+    kind_to_color_map = {
+        'collaborator': '#FFD166',
+        'lab member': '#EF476F',
+        'paper': '#118AB2',
+        'code': '#06D6A0',
+    }
+    # kind_to_color_map = {
+    #     'lab member': '#E55934',
+    #     'collaborator': '#9BC53D',
+    #     'code': '#FDE74C',
+    #     'paper': '#5BC0EB',
+    # }
+
+    for node in nodes:
+        kind = nodes[node]['kind']
+        size = 1
+        if kind == 'lab member':
+            size = 3
+        elif kind == 'collaborator':
+            size = 1.75
+
+        nodes[node]['size'] = size
+        nodes[node]['color'] = kind_to_color_map[kind]
 
     web = Web(adjacency=edges, nodes=dict(nodes))
-    web.display.colorBy = 'kind'
-    web.display.colorPalette = 'Dark2'
+    web.display.sizeBy = 'size'
+    web.display.colorBy = 'color'
+    # web.display.colorBy = 'kind'
+    # web.display.colorPalette = 'Dark2'
     web.display.hideMenu = True
     web.display.showLegend = False
+    web.display.g = .4
+    web.display.w = 400
+    web.display.h = 400
+    web.display.scaleLinkOpacity = True
+    web.display.scaleLinkWidth = True
+    web.display.scales = {
+        'nodeSize': {
+            'min': 0.75,
+            'max': 1.5,
+        }
+    }
 
     WEBWEB_JSON_PATH.write_text(web.json)
     web.show()
+    # web.save('/Users/hne/Desktop/labweb_colors_1.html')
 
 
 if __name__ == '__main__':
