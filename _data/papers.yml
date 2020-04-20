@@ -142,7 +142,7 @@ categories:
         - text: Nature Scientific Reports
           url: https://www.nature.com/articles/s41598-019-50039-w
         - text: PDF
-          url: /assets/papers/berdahl2019dynamics.pdf
+          url: https://drive.google.com/open?id=1n8qxz6iGOzIAOyP_Iz1j3PdJjVgM5wWa
         - text: arXiv
           url: "http://arxiv.org/abs/1604.02096"
     - title: "webweb: a tool for creating, displaying, and sharing interactive network visualizations on the web"
@@ -170,7 +170,7 @@ categories:
       - text: PNAS
         url: "https://www.pnas.org/content/early/2019/04/24/1817431116"
       - text: PDF
-        url: /assets/papers/way2019productivity.pdf
+        url: https://drive.google.com/open?id=1Xf2ZtVzOmZncaAsp2lsJnmZjdA7FvYwi
     - title: "Bayes-optimal estimation of overlap between populations of fixed size"
       authors:
       - Daniel B. Larremore
@@ -181,7 +181,7 @@ categories:
       - text: PLOS Computational Biology
         url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006898"
       - text: PDF
-        url: /assets/papers/larremore2019bayes.pdf
+        url: https://drive.google.com/open?id=1llQuykgLYGmwo1kEm-T9MAbwqMnXp6R1
       - text: code
         url: "https://github.com/dblarremore/BayesianRepertoireOverlap"
       - text: web tool
@@ -201,7 +201,7 @@ categories:
       - text: Chaos
         url: "https://aip.scitation.org/doi/10.1063/1.5043429"
       - text: PDF
-        url: /assets/papers/agrawal2018robust.pdf
+        url: https://drive.google.com/open?id=1LjIdqOMa6_ySCPIYleB8Q33-GpJ8bUb3
       - text: arXiv
         url: "https://arxiv.org/abs/1804.05266"
     - title: "A physical model for efficient ranking in networks"
@@ -216,9 +216,9 @@ categories:
       - text: Science Advances
         url: "http://advances.sciencemag.org/content/4/7/eaar8260"
       - text: PDF
-        url: /assets/papers/debacco2018physical.pdf
+        url: https://drive.google.com/open?id=1VnWP9ifNsUjHk7P5ieNYizslSaU7vSx7
       - text: PDF Supplement
-        url: /assets/papers/debacco2018physical_supplement.pdf
+        url: https://drive.google.com/open?id=1LVvsVjh8ptd3CReCbkSEW8k87zFF7f-s
       - text: arXiv
         url: "https://arxiv.org/abs/1709.09002"
       - text: code
@@ -236,7 +236,7 @@ categories:
       - text: SIAM Review
         url: "https://epubs.siam.org/doi/abs/10.1137/16M1087175"
       - text: PDF
-        url: /assets/papers/fosdick2018configuring.pdf
+        url: https://drive.google.com/open?id=1PURch6qW9wF6GYZaf-uvvhh5kpNM_aKH
       - text: arXiv
         url: "http://arxiv.org/abs/1608.00607"
       - text: code & slides
@@ -254,7 +254,7 @@ categories:
       - text: PNAS
         url: "http://www.pnas.org/content/114/44/E9216.abstract"
       - text: PDF
-        url: /assets/papers/way2017misleading.pdf
+        url: https://drive.google.com/open?id=19hRq1Ry1Q_UJStBk3NP0Gi9GuxISQh6u
     - title: "The ground truth about metadata and community detection in networks"
       authors:
       - Leto Peel*
@@ -267,9 +267,9 @@ categories:
       - text: Science Advances
         url: "http://advances.sciencemag.org/content/3/5/e1602548.full"
       - text: PDF
-        url: /assets/papers/peel2017ground.pdf
+        url: https://drive.google.com/open?id=1rtGMDuIXlTQg4sPkuT4X2O-N4aKapSm7
       - text: PDF Supplement
-        url: /assets/papers/peel2017ground_supplement.pdf
+        url: https://drive.google.com/open?id=1bWyQeq_lZUizNHCKJBS7FWMuydV0j2m2
       - text: code & data
         url: "http://danlarremore.com/metadata"
     - title: "Community detection, link prediction, and layer interdependence in multilayer networks"
@@ -285,7 +285,7 @@ categories:
       - text: PRE
         url: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042317"
       - text: PDF
-        url: /assets/papers/debacco2017community.pdf
+        url: https://drive.google.com/open?id=1VOD6Zsc46oXcCwqtMwzzaPumkfXdSp8N
     - title: "Gender, Productivity, and Prestige in Computer Science Faculty Hiring Networks"
       authors:
       - Samuel F. Way
@@ -298,7 +298,7 @@ categories:
       - text: Proc WWW 2016
         url: "https://dl.acm.org/citation.cfm?id=2883073"
       - text: PDF
-        url: /assets/papers/way2016gender.pdf
+        url: https://drive.google.com/open?id=1XBrD1MVPyvlX_pIZ7N8a3_XbXSvTntz2
     - title: "Ape parasite origins of human malaria virulence genes"
       authors:
       - Daniel B. Larremore
@@ -320,7 +320,7 @@ categories:
       - text: Nature Comms
         url: "http://www.nature.com/ncomms/2015/151012/ncomms9368/full/ncomms9368.html"
       - text: PDF
-        url: /assets/papers/larremore2015ape.pdf
+        url: https://drive.google.com/open?id=1xtjptToio1D8vyGjpCva8GtGjRJmvXKk
     - title: "Systematic inequality and hierarchy in faculty hiring networks"
       authors:
       - Aaron Clauset
@@ -333,7 +333,7 @@ categories:
       - text: Science Advances
         url: "http://advances.sciencemag.org/content/1/1/e1400005"
       - text: PDF
-        url: /assets/papers/clauset2015systematic.pdf
+        url: https://drive.google.com/open?id=1ZS7iTeXYa3vZ3Nq-qCIF0FaIhkYTgYgO
       - text: code and data
         url: "http://tuvalu.santafe.edu/~aaronc/facultyhiring/"
       - text: interactive data visualization
@@ -366,7 +366,7 @@ categories:
       - text: Infection and Immunity
         url: "http://iai.asm.org/content/83/1/276.short"
       - text: PDF
-        url: /assets/papers/bei2015immune.pdf
+        url: https://drive.google.com/open?id=1gnfXdgrVbxEinQT63c-E0y_OztAdoakO
     - title: "Efficiently inferring community structure in bipartite networks"
       authors:
       - Daniel B. Larremore
@@ -379,7 +379,7 @@ categories:
       - text: PRE
         url: "http://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012805"
       - text: PDF
-        url: /assets/papers/larremore2014efficiently.pdf
+        url: https://drive.google.com/open?id=1W0chdIER--gPrURPgSefBN9S__CZuaPD
       - text: code and data
         url: "/openscience"
     - title: "Inhibition Causes Ceaseless Dynamics in Networks of Excitable Nodes"
@@ -396,7 +396,7 @@ categories:
       - text: PRL
         url: "http://link.aps.org/doi/10.1103/PhysRevLett.112.138103"
       - text: PDF
-        url: /assets/papers/larremore2014inhibition.pdf
+        url: https://drive.google.com/open?id=19u5Bbur-X6iBb_rlwb7GWKCtRl1ex5s-
     - title: "A network approach to analyzing highly recombinant malaria parasite genes"
       authors:
       - Daniel B. Larremore
@@ -409,7 +409,7 @@ categories:
       - text: PLoS Comp Bio
         url: "http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003268"
       - text: PDF
-        url: /assets/papers/larremore2013network.pdf
+        url: https://drive.google.com/open?id=1Kwhpl2djID0584KvzjaA8mIzcLdtdmzq
       - text: interactive figures
         url: "http://danlarremore.com/var/"
       - text: network and sequence data
@@ -425,7 +425,7 @@ categories:
       - text: PRE
         url: "http://pre.aps.org/abstract/PRE/v86/i3/e031140"
       - text: PDF
-        url: /assets/papers/taylor2012social.pdf
+        url: https://drive.google.com/open?id=1RkdWRbd3JYhn5QUHiEBvVw5CGdcT9gqy
     - title: "Statistical properties of avalanches in networks"
       authors:
       - Daniel B. Larremore
@@ -439,7 +439,7 @@ categories:
       - text: PRE
         url: "http://pre.aps.org/abstract/PRE/v85/i6/e066131"
       - text: PDF
-        url: /assets/papers/larremore2012statistical.pdf
+        url: https://drive.google.com/open?id=1ie1ByNSRL5641_JLVgnl0tKGZ5hFF3qz
     - title: "Effects of network topology, transmission delays, and refractoriness on the response of coupled excitable systems to a stochastic stimulus"
       authors:
       - Daniel B. Larremore
@@ -453,7 +453,7 @@ categories:
       - text: Chaos
         url: "http://link.aip.org/link/?cha/21/025117"
       - text: PDF
-        url: /assets/papers/larremore2011effects.pdf
+        url: https://drive.google.com/open?id=1BFfa4wZ9HPZ_xpEzdQobK9gSOVjykkCB
     - title: "Predicting criticality and dynamic range in complex networks: effects of topology"
       authors:
       - Daniel B. Larremore
@@ -466,7 +466,7 @@ categories:
       - text: PRL
         url: "http://prl.aps.org/abstract/PRL/v106/i5/e058101"
       - text: PDF
-        url: /assets/papers/larremore2011predicting.pdf
+        url: https://drive.google.com/open?id=14DWKX04ep3-FTRgCvSdUlu8ef8H6XQVC
   
   - heading: Essays, Columns, Book Chapters, Miscellaneous
     pubs:
@@ -480,7 +480,7 @@ categories:
       - text: Systems Medicine
         url: https://www.sciencedirect.com/science/article/pii/B9780128012383115120
       - text: PDF
-        url: /assets/papers/childs2020network.pdf
+        url: https://drive.google.com/open?id=1tJ5xXxKuWuoteIwp3a1rLk3kr3AkkOsl
     - title: "More Inclusive Scholarship Begins With Active Experimentation"
       authors:
       - Daniel B. Larremore
@@ -538,7 +538,7 @@ categories:
       - text: Science
         url: http://science.sciencemag.org/content/355/6324/477
       - text: PDF
-        url: /assets/papers/clauset2017data.pdf
+        url: https://drive.google.com/open?id=1HYPb1JCTPRI4odwP3Cudk3hC9259o2YY
     - title: "Critical Dynamics in Complex Networks"
       authors:
       - Daniel B. Larremore
@@ -561,4 +561,4 @@ categories:
       - text: IEEE S&P
         url: http://www.computer.org/csdl/mags/sp/2012/06/msp2012060094-abs.html
       - text: PDF
-        url: /assets/papers/geer2012progress.pdf
+        url: https://drive.google.com/open?id=1KGHnbAWIzKWrv9EYdXgc7tumTFSkBhFH
