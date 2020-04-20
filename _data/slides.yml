@@ -1,18 +1,18 @@
 slides:
   - title: "Workshop: Data Visualization"
-    url: /assets/slides/workshop_DataVisualization.pdf
+    url: https://drive.google.com/file/d/1LouVvISCRlWkItZgzoHcgoU5Q1VyHT4U/view?usp=sharing
     image_path: /assets/images/slides/workshop_DataVisualization.png
   - title: "Workshop: Giving a Talk"
-    url: /assets/slides/workshop_GivingATalk.pdf
+    url: https://drive.google.com/file/d/13efH6iA6toPtJ91KBt_QCeAyQBcSN7SA/view?usp=sharing
     image_path: /assets/images/slides/workshop_GivingATalk.png
   - title: "Workshop: Clean Code"
-    url: /assets/slides/workshop_CleanCode.pdf
+    url: https://drive.google.com/file/d/1TraVwRkbkCbHq-s_-NS69ZEbRNwH8XNh/view?usp=sharing
     image_path: /assets/images/slides/workshop_CleanCode.png
   - title: "Workshop: Peer Review"
-    url: /assets/slides/workshop_PeerReview.pdf
+    url: https://drive.google.com/file/d/1g7VSbUkF9wBszcjHCeZlGHoHqUqYfDC0/view?usp=sharing
     image_path: /assets/images/slides/workshop_PeerReview.png
   - title: "Communities & hierarchies"
-    url: /assets/slides/Larremore_LargeScaleStructure.pdf
+    url: https://drive.google.com/file/d/1A1dtxrEitT4PfNvThMg1ak7jr5vXcq2I/view?usp=sharing
     image_path: /assets/images/slides/Larremore_LargeScaleStructure.png
 
 recordings:
