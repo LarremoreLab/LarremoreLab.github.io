@@ -15,7 +15,7 @@ categories:
       venue: Submitted
       links:
         - text: preprint
-          url: https://dash.harvard.edu/handle/1/42659939
+          url: https://www.medrxiv.org/content/10.1101/2020.04.15.20067066v1
         - text: interactive calculation tool
           url: https://larremorelab.github.io/covid-serology
     - title: "Control of excitable systems is optimal near criticality"
