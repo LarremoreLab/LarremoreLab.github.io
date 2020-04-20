@@ -1,0 +1,21 @@
+slides:
+  - title: "Workshop: Data Visualization"
+    url: /assets/slides/workshop_DataVisualization.pdf
+    image_path: /assets/images/slides/workshop_DataVisualization.png
+  - title: "Workshop: Giving a Talk"
+    url: /assets/slides/workshop_GivingATalk.pdf
+    image_path: /assets/images/slides/workshop_GivingATalk.png
+  - title: "Workshop: Clean Code"
+    url: /assets/slides/workshop_CleanCode.pdf
+    image_path: /assets/images/slides/workshop_CleanCode.png
+  - title: "Workshop: Peer Review"
+    url: /assets/slides/workshop_PeerReview.pdf
+    image_path: /assets/images/slides/workshop_PeerReview.png
+  - title: "Communities & hierarchies"
+    url: /assets/slides/Larremore_LargeScaleStructure.pdf
+    image_path: /assets/images/slides/Larremore_LargeScaleStructure.png
+
+recordings:
+  - title: "Gender, Prestige, & Productivity<br>in Academic Hiring Networks<br>and Career Trajectories"
+    url: https://bids.berkeley.edu/resources/videos/gender-prestige-and-productivity-academic-hiring-networks-and-career-trajectories
+    image_path: /assets/images/slides/BIDS.png

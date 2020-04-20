@@ -1,0 +1,21 @@
+projects:
+  - name: "Scientific Ecosystem"
+    people: 
+      - Dr. Eun Lee 
+      - K. Hunter Wapman
+      - Nick LaBerge
+      - Ian van Buskirk
+      - Mike Hoefer
+      - Katie Spoon
+      - Aaron Clauset
+      - Allison C. Morgan
+      - Kate Wootton
+  - name: "Malaria"
+    people:
+      - Erik Johnson
+      - Suchita Lulla
+  - name: "Networks"
+    people:
+      - Tzu-Chi Yen
+      - Aaron Aaeng
+      - Apara Venkat

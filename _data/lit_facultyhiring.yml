@@ -1,0 +1,140 @@
+categories:
+
+  - heading: Sociology
+    publications:
+    - url: 
+      title: "The Prestige of Ph.D. Granting Departments of Sociology: A Simple Network Approach"
+      authors: Hanneman
+      date: 2001
+      notes: 
+    - url: 
+      title: "The Academic Caste System: Prestige Hierarchies in PhD Exchange Network"
+      authors: Burris
+      date: 2004
+      notes:
+    - url: https://onlinelibrary.wiley.com/doi/10.1111/cars.12252
+      title: "Academic Hiring Networks and Institutional Prestige: A Case Study of Canadian Sociology"
+      authors: Nevin
+      date: 2019 
+      notes:
+
+  - heading: Political Science
+    publications:
+    - url: https://www.jstor.org/stable/pdf/20452007.pdf
+      title: "Ranking Doctoral Programs by Placement: A New Method"
+      authors: Schmidt, Chingos
+      date: 2007
+      notes:
+    - url: https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/social-networks-in-political-science-hiring-and-placement-of-phds-19602002/492DB41146CD1A74C7D39EC3D7B75DD4#
+      title: "Social Networks in Political Science: Hiring and Placement of Ph.D.s, 1960 - 2002"
+      authors: Fowler, Grofman, Masuoka
+      date: 2007
+      notes:
+    - url: http://gppreview.com/2012/12/03/superpowers-the-american-academic-elite/
+      title: "Superpowers: The American Academic Elite"
+      authors: Oprisko
+      date: 2012
+      notes:
+    - url: https://alexandreafonso.me/2019/02/11/academic-hierarchies-in-us-political-science/
+      title: Academic Hierarchies in US Political Science
+      authors: Afonso
+      date: 2019
+      notes:
+
+  - heading: Economics
+    publications:
+    - url:
+      title: Ranking Economics Departments Worldwide on the Basis of PhD Placement
+      authors: Amir, Knauff
+      date: 2008
+      notes:
+  
+  - heading: Business, Computer Science, History
+    publications:
+    - url: http://advances.sciencemag.org/content/1/1/e1400005
+      title: Systematic inequality and hierarchy in faculty hiring networks
+      authors: Clauset, Arbesman, Larremore
+      date: 2015
+      notes:
+    - url: https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0166-4
+      title: Prestige drives epistemic inequality in the diffusion of scientific ideas
+      authors: Morgan, Economou, Way, Clauset
+      date: 2018
+      notes:
+    - url: https://www.pnas.org/content/114/44/E9216.abstract
+      title: The misleading narrative of the canonical faculty productivity trajectory
+      authors: Way, Morgan, Clauset, Larremore
+      date: 2018
+      notes:
+
+  - heading: Communication
+    publications:
+    - url:
+      title: "Network Effects in the Academic Market: Mechanisms for Hiring and Placing PhDs in Communication (2007 - 2014)"
+      authors: Mai, Liu, Gonzalez-Bailon
+      date: 2015
+      notes:
+
+  - heading: Mathematics
+    publications:
+    - url:
+      title: Mathematical genealogy and department prestige
+      authors: Myers, Mucha, Porter
+      date: 2011
+      notes:
+
+  - heading: Anthropology
+    publications:
+    - url: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/aman.13158
+      title: The Social Network of US Academic Anthropology and Its Inequalities
+      authors: Kawa, Michelangeli, Clark, Ginsberg, McCarty
+      date: 2018
+      notes:
+
+  - heading: Operations Research / Industrial Systems Engineering (ORIE)
+    publications:
+    - url:
+      title: A Social Network Analysis of the ORIE Faculty Hiring Network
+      authors: Del Castillo, Meyers, Chen
+      date: 2018
+      notes:
+
+  - heading: Information Schools
+    publications:
+    - url: https://www.biz.uiowa.edu/faculty/kangzhao/pub/JOI_2019.pdf
+      title: "Standing on the shoulders of giants?—Faculty hiring in information school"
+      authors: Zuo, Zhao, Ni
+      date: 2019
+      notes:
+
+  - heading: Across Fields in South Africa
+    publications:
+    - url: https://link.springer.com/article/10.1007/s11192-018-2858-8
+      title: Emergent structures in faculty hiring networks, and the effects of mobility on academic performance
+      authors: Cowan, Rossello
+      date: 2018
+      notes:
+
+  - heading: Methods papers that use hiring network data
+    publications:
+    - url: https://advances.sciencemag.org/content/4/7/eaar8260
+      title: A physical model for efficient ranking in networks
+      authors: De Bacco, Larremore, Moore
+      date: 2018
+      notes:
+    - url: https://www.math.ucla.edu/~mason/papers/supracentrality-chapter-published.pdf
+      title: Supracentrality Analysis of Temporal Networks with Directed Interlayer Coupling
+      authors: Taylor, Porter, Mucha
+      date: 2019
+      notes:
+    - url: https://www.math.ucla.edu/~mason/papers/taylor-mms-final.pdf
+      title: Eigenvector-based centrality measures for temporal networks
+      authors: Taylor, Myers, Clauset, Porter, Mucha
+      date: 2017
+      notes:
+    - url: https://arxiv.org/abs/1904.02059
+      title: Tunable Eigenvector-Based Centralities for Multiplex and Temporal Networks
+      authors: Taylor, Porter, Mucha
+      date: 2019
+      notes:
+

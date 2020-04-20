@@ -1,0 +1,281 @@
+categories:
+  - heading: Coronavirus
+    press:
+    - url: https://soundcloud.com/radio-1190/tracking-covid-19-through-facebook-data
+      author: John Boughey
+      date: 04/14/2020
+      venue: Radio 1190, Boulder, CO
+    - url: https://gazette.com/health/slowdown-in-coronavirus-growth-a-sign-that-social-distancing-in-colorado-has-worked-doctors-say/article_f911392e-7b80-11ea-95ea-c7f3c637385c.html
+      author: Evan Wyloge
+      venue: Colorado Springs Gazette
+      date: 04/10/2020
+    - url: https://www.colorado.edu/today/2020/04/07/mathematician-using-facebook-data-fight-against-covid-19
+      author: Daniel Strain
+      venue: CU Boulder Today
+      date: 04/07/2020
+    - url: https://www.denverpost.com/2020/03/22/colorado-coronavirus-impact/
+      author: Jon Murray
+      venue: The Denver Post
+      date: 03/22/2020
+  - heading: Ethics of Machine Learning
+    press:
+    - url: https://theoutline.com/post/8186/artificial-intelligence-destroy-environment?zd=1&zi=ig57pyel
+      venue: The Outline
+      author: Melanie Ehrenkranz
+      date: 11/2019
+  - heading: Academic Environments
+    press:
+    - url: https://www.insidehighered.com/news/2019/05/02/study-when-it-comes-research-output-where-phds-get-hired-matters-more-where-they
+      venue: Inside Higher Ed
+      author: Colleen Flaherty
+      date: 05/2019
+    - url: https://www.chemistryworld.com/news/contrary-to-received-wisdom-graduates-from-prestigious-institutions-arent-more-productive/3010442.article
+      venue: Chemistry World
+      author: Bradley Van Paridon
+      date: 04/2019
+  - heading: Academic Parental Leave Policies
+    press:
+    - url: https://www.dailyprogress.com/news/local/uva/uva-expanding-paid-parental-leave/article_940eb834-b620-11e8-b775-1bf47a81d70a.html
+      venue: The Daily Progress
+      author: Ruth Serven Smith
+      date: 09/2018
+  - heading: Productivity Trajectories
+    press:
+    - url: https://www.nature.com/articles/d41586-018-06627-3
+      venue: Nature Index
+      author: Smriti Mallapaty
+      date: 09/2018
+    - url: http://www.sciencemag.org/careers/2017/10/faculty-careers-can-progress-many-directions
+      venue: Science Careers
+      author: Viviane Callier
+      date: 10/2017
+    - url: https://www.colorado.edu/today/2017/10/17/does-faculty-productivity-really-decline-age-new-study-says-no
+      venue: CU Boulder Today
+      author: Lisa Marshall
+      date: 10/2017
+    - url: https://www.insidehighered.com/news/2017/10/18/new-study-pushes-back-decades-studies-suggesting-scientific-productivity-peaks-early
+      venue: Inside Higher Ed
+      author: Colleen Flaherty
+      date: 10/2017
+    - url: http://www.chronicle.com/article/Professors-Productivity/241477?cid=wcontentlist
+      venue: The Chronicle of Higher Education
+      author: Julia Martinez
+      date: 10/2017
+    - url: https://www.timeshighereducation.com/news/scientists-bust-myth-academic-productivity-declines-age
+      venue: Times Higher Education
+      author: Rachael Pells
+      date: 10/2017
+  - heading: Data-driven predictions in the science of science
+    press:
+    - url: http://www.eltiempo.com/estilo-de-vida/ciencia/entrevista-a-daniel-larremore-y-aaron-clauset/16821534
+      venue: El Tiempo (Colombia)
+      author: Nicolas Bustamante H
+      date: 02/2017
+    - url: http://blogthinkbig.com/6-tipos-de-predicciones-asombrosas-en-las-que-la-ciencia-trabaja/
+      venue: BlogThinkBig (Spain)
+      author: Pablo G. Bejerano
+      date: 02/2017   
+    - url: http://www.dn.se/nyheter/vetenskap/vem-kan-spa-framtiden-manniskan-eller-maskinen/
+      venue: Dagens Nyheter (Sweden)
+      author: Maria Gunther
+      date: 02/2017   
+    - url: http://www.theaustralian.com.au/higher-education/innovation-in-sc...-unpredictable-study/news-story/c9ad6a3eb81900a2f1d2ec63f6b267c1
+      venue: The Australian
+      author: John Ross
+      date: 02/2017  
+    - url: https://psmag.com/science-funding-prioritizes-past-success-and-thats-a-problem-51200a47b9fd#.fsozodw5s
+      venue: Pacific Standard
+      author: Nathan Collins
+      date: 02/2017 
+    - url: http://www.colorado.edu/today/2017/02/03/possibilities-and-limits-using-data-predict-scientific-discoveries
+      venue: University of Colorado
+      author: 02/2017
+    - url: https://ing.dk/artikel/vi-kan-da-altid-stole-paa-eksperimenter-maalinger-eller-kan-vi-193023
+      venue: Ingenioren (Denmark)
+      author: Jens Ramskov
+      date: 02/2017
+    - url: /pdf/PredictionsWeekendavisen.pdf
+      venue: Weekendavisen (Denmark)
+      author: Gunver Vestergaard
+      date: 02/2017
+    - url: https://phys.org/news/2017-03-discoveriesenabling-novelty.html
+      venue: Phys.org
+      author: Thea Singer
+      date: 03/2017
+    - url: https://news.northeastern.edu/2017/03/predicting-discoveries-enabling-research-or-killing-novelty/
+      venue: Northeastern News
+      author: Thea Singer
+      date: 03/2017
+  - heading: 72 Hours of Science
+    press:
+    - url: http://gizmodo.com/when-things-go-viral-and-everybody-wins-1769950969
+      venue: Gizmodo
+      author: Jennifer Ouelette
+      date: 04/2016
+    - url: https://www.technologyreview.com/s/601298/why-beneficial-epidemics-spread-more-quickly-than-harmful-ones/
+      venue: MIT Technology Review
+      author: 04/2016
+  - heading: Malaria
+    press:  
+    - url: http://www.colorado.edu/today/2015/10/12/malaria-parasites-use-same-genetic-strategy-apes-humans
+      venue: University of Colorado
+      author: 10/2015
+    - url: http://www.hsph.harvard.edu/news/press-releases/genes-linked-with-malarias-virulence-shared-by-apes-humans/
+      venue: Harvard T.H. Chan School of Public Health
+      author: 10/2015
+    - url: https://www.quantamagazine.org/20151015-malaria-deadly-shuffle/
+      venue: Quanta Magazine
+      author: Veronique Greenwood
+      date: 10/2015
+    - url: https://www.scientificamerican.com/article/networks-untangle-malaria-s-deadly-shuffle/#
+      venue: Scientific American
+      author: Veronique Greenwood
+      date: 10/2015
+  - heading: Faculty hiring networks - Prestige and Gender
+    press:    
+    - url: http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2015_02_12/caredit.a1500039
+      venue: Science Careers
+      author: Rachel Bernstein
+      date: 02/2015
+    - url: http://www.colorado.edu/news/releases/2015/02/12/it-takes-more-merit-alma-maters-prestige-highly-predictive-faculty
+      venue: University of Colorado
+      author: Laura Snider
+      date: 02/2015
+    - url: http://qz.com/343521/18-universities-produce-half-of-us-and-canadas-computer-science-professors/
+      venue: Quartz Magazine
+      author: Sonali Kohli
+      date: 02/2015
+    - url: http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/02/12/academia-is-not-a-meritocracy/
+      venue: Washington Post
+      author: Henry Farrell
+      date: 02/2015
+    - url: https://www.insidehighered.com/news/2015/02/13/study-suggests-insular-faculty-hiring-practices-elite-departments
+      venue: Inside Higher Ed
+      author: Colleen Flaherty
+      date: 02/2015
+    - url: http://digressionsnimpressions.typepad.com/digressionsimpressions/2015/02/its-official-science-declares-we-are-in-a-rigged-lottery.html
+      venue: Digressions & Impressions
+      author: Eric Schliesser
+      date: 02/2015
+    - url: http://www.alwaysresearching.com/2015/02/13/the-academic-hierarchy-has-more-snakes-than-ladders/
+      venue: Always Researching
+      author: Mauricio Luque
+      date: 02/2015
+    - url: http://www.bostonglobe.com/news/science/2015/02/13/small-elite-network-heavily-represented-academia-study-suggests/4tHzZicp3gMaRYNdaTQ8jJ/story.html
+      venue: Boston Globe
+      author: Carolyn Johnson
+      date: 02/2015
+    - url: http://www.santafe.edu/news/item/clauset-science-advances-university-prestige/
+      venue: Santa Fe Institute
+      author: 02/2015
+    - url: http://www.aaas.org/news/faculty-hiring-dominated-graduates-elite-institutions
+      venue: AAAS News
+      author: Nadia Ramlagan
+      date: 02/2015
+    - url: http://gottwurfelt.com/2015/02/14/ranking-schools-based-on-hiring-networks/
+      venue: God Plays Dice
+      author: Michael Lugo
+      date: 02/2015
+    - url: http://www.dailycamera.com/cu-news/ci_27526978/cu-boulder-study-want-tenure-track-get-ph
+      venue: Daily Camera
+      author: Gloria Dickie
+      date: 02/2015
+    - url: http://tm.durusau.net/?p=60227
+      venue: Another Word For It
+      author: Patrick Dorusau
+      date: 02/2015
+    - url: http://curt-rice.com/2015/02/18/incontinent-pipeline-just-women-leaving-higher-education/
+      venue: Science in balance
+      author: Curt Rice
+      date: 02/2015
+    - url: http://dailynous.com/2015/02/13/quantifying-the-influence-of-prestige/
+      venue: Daily Nous
+      author: Justin Weinberg
+      date: 02/2015
+    - url: http://www.wired.com/2015/02/academic-hiring-uphill-battle/
+      venue: Wired
+      author: Sam Arbesman
+      author: 02/2015
+    - url: http://www.wired.com/2015/02/infoporn-college-faculties-serious-diversity-problem/
+      venue: Wired
+      author: Marcus Woo
+      date: 02/2015
+    - url: http://www.science20.com/news_articles/credentialism_alma_mater_predicts_chances_of_getting_a_faculty_job-153269
+      venue: Science20
+      author: 02/2015
+    - url: http://www.slate.com/articles/life/education/2015/02/university_hiring_if_you_didn_t_get_your_ph_d_at_an_elite_university_good.single.html
+      venue: Slate
+      author: Joel Warner and Aaron Clauset
+      author: 02/2015
+    - url: http://www.cengagebrain.com/blog/2015/02/diversity-in-college-important-for-college-students-and-college-professors/
+      venue: Cengage Brain
+      author: 02/2015
+    - url: http://dailyprincetonian.com/news/2015/03/ph-d-candidates-at-elite-schools-have-advantage-in-academic-job-market-study-finds/
+      venue: The Daily Princetonian
+      author: Zaynab Zaman
+      date: 03/2015
+    - url: https://chroniclevitae.com/news/929-academia-s-1-percent
+      venue: Chronicle Vitae
+      author: Sarah Kendzior
+      date: 03/2015
+    - url: https://annamritz.wordpress.com/2015/03/09/the-influence-of-prestige-in-academia/
+      venue: Ritz Bitz
+      author: Anna Ritz
+      date: 03/2015
+    - url: http://www.eight-hundred-words.net/blog/2015/3/9/academic-meritocracy
+      venue: eight hundred words
+      author: Mike O'Connor
+      date: 03/2015
+    - url: http://www.brandeis.edu/departments/history/news/index.html
+      venue: Brandeis University Press
+      author: 03/2015
+    - url: http://sarantakes.blogspot.com/2015/03/blog-clxxvi-176-another-study_29.html
+      venue: In the service of Clio
+      author: Nick Sarantakes
+      date: 03/2015
+    - url: https://raminskibba.net/2015/09/11/8-ways-to-improve-the-academic-system-for-science-and-scientists/
+      venue: Science Political
+      author: Ramin Skibba
+      date: 09/2015
+    - url: http://www.nature.com/news/racial-bias-continues-to-haunt-nih-grants-1.18807
+      venue: Nature
+      author: Erika Check Hayden
+      date: 11/2015
+    - url: http://www.sciencemag.org/careers/2016/03/how-prestige-shapes-professoriate
+      venue: Science
+      author: Beryl Lieff Benderly
+      date: 03/2016
+    - url: http://philosopherscocoon.typepad.com/blog/2016/03/a-depressing-article-on-prestige-bias-along-with-some-possibly-helpful-advice.html
+      venue: The Philosophers' Cocoon
+      author: Markus Arvan
+      date: 03/2016
+    - url: http://www.sciencemag.org/careers/2016/04/complex-role-gender-faculty-hiring
+      venue: Science Careers
+      author: Viviane Callier
+      date: 04/2016
+    - url: http://www.sciencemag.org/careers/2017/03/how-tyranny-prestige-disadvantages-women
+      venue: Science Careers
+      author: Beryl Lieff Benderly
+      date: 03/2017
+  - heading: PercoVIS
+    press:
+    - url: http://www.amazon.com/Simulation-Learning-Model-Centered-Franco-Landriscina/dp/1461419530/
+      venue: Simulation and Learning
+      author: Franco Landriscina
+      date: 2013
+    - url: http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6142528
+      venue: IEEE Security and Privacy
+      author: Daniel Geer
+      date: 2012
+  - heading: Random and Miscellaneous
+    press:
+    - url: https://physics.aps.org/articles/v10/91
+      venue:  APS Physics
+      author: Dan Larremore (Interview) - The Network that Lies Beneath
+      date: 2017 
+    - url: http://www.npr.org/blogs/money/2010/02/davids_lawnmowing_efficiency_h.html
+      venue: NPR Planet Money Blog
+      author: Dan Larremore (via email)
+      date: 2010
+    
+
