@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<title>Prevalence calculator (lab calibration data)</title>
+	</head>
+	<body>
+		
+<div class="container">
+            
+            <div class="section">
+                <div class="center-align">
+                    <a href="/covid19testgroup">
+                    <img src="/assets/images/covid/header.png">
+                    </a>
+                </div>
+                <h1 class="center-align"
+                style="margin-bottom:-5px;margin-top:-5px;">COVID-19 Testing Group</h1>
+
+                <div>The COVID-19 Testing Group is a community resource for <strong>sharing the latest information on COVID-19 prevalence, seroprevalence, and burden studies, planning tools, and data.</strong> This website is maintained jointly by the <a href="https://larremorelab.github.io">Larremore Lab</a> at the University of Colorado, Boulder and the <a href="https://sites.sph.harvard.edu/grad-lab/">Grad Lab</a> at the Harvard T.H. Chan School of Public Health. 
+                </div>
+            </div>
+
+<div id="app">
+
+			<h3>Prevalence with lab calibration data</h3>
+			<div id="desc">
+
+			<strong>This calculator is one of multiple resources available through the <a href="https://larremorelab.github.io/covid19testgroup">COVID-19 Testing Group</a>.</strong> It accompanies the manuscript "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys", which is available as a <a href="https://www.medrxiv.org/content/10.1101/2020.04.15.20067066v1">preprint</a>. This work is not yet peer reviewed.
+
+
+			<h5>Given test results in a population sample, and the test's lab calibration data, what is the posterior distribution of prevalence in the population, test sensitivity, and test specificity?</h5>
+			</div>
+
+			<div id="inputs">
+				<table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp inputtable">
+					<th>Field test results</th>
+					<tr class="row">
+						<th class="mdl-data-table__cell--non-numeric label"># positive tests</th>
+						<td>
+							<input id="numpos" type="number" step="1" min="0" max="10000" value="50">
+						</td>
+					</tr>
+
+					<tr class="row">
+						<th class="mdl-data-table__cell--non-numeric label"># negative tests</th>
+						<td>
+							<input id="numneg" type="number" step="1" min="0" max="10000" value="3280">
+						</td>
+					</tr>
+				</table>
+
+				<table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp inputtable">
+					<th>Test calibration results</th>
+					<tr class="row">
+						<th class="mdl-data-table__cell--non-numeric label"># true positives</th>
+						<td>
+							<input id="tp" type="number" step="1" min="0" value="178">
+						</td>
+					</tr>
+
+					<tr class="row">
+						<th class="mdl-data-table__cell--non-numeric label"># false positives</th>
+						<td>
+							<input id="fp" type="number" step="1" min="0" value="2">
+						</td>
+					</tr>
+
+					<tr class="row">
+						<th class="mdl-data-table__cell--non-numeric label"># true negatives</th>
+						<td>
+							<input id="tn" type="number" step="1" min="0" value="399">
+						</td>
+					</tr>
+
+					<tr class="row">
+						<th class="mdl-data-table__cell--non-numeric label"># false negatives</th>
+						<td>
+							<input id="fn" type="number" step="1" min="0" value="19">
+						</td>
+					</tr>
+				</table>
+
+				<table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp inputtable">
+					<!-- <th>MCMC settings</th> -->
+					<tr class="row">
+						<th class="mdl-data-table__cell--non-numeric label"># samples plotted</th>
+						<td>
+							<input id="numsamps" type="number" step="10" min="0" value="1000">
+						</td>
+					</tr>
+					<tr class="row" style="visibility:hidden">
+						<th class="mdl-data-table__cell--non-numeric label">Burn-in</th>
+						<td>
+							<input id="burnin" type="number" step="1" min="0" value="100">
+						</td>
+					</tr>
+					<tr class="row" style="visibility:hidden">
+						<th class="mdl-data-table__cell--non-numeric label">Thin</th>
+						<td>
+							<input id="thin" type="number" step="1" min="0" value="50">
+						</td>
+					</tr>
+				</table>
+
+				<button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored" id="runsampling">Update Graph</button>
+				<div id="samplingProgress" class="mdl-progress mdl-js-progress"></div>
+
+			</div>
+
+			<div id="vizcontainer" class="mdl-shadow--4dp">
+				<div id="posteriorviz"></div>
+				<div id="sensviz"></div>
+				<div id="specviz"></div>
+				<button class="mdl-button mdl-js-button mdl-button--raised" id="downloadsvg">Download image</button>
+			</div>
+
+			<p>Please report bugs with screenshots to daniel.larremore@colorado.edu. The source code for this visualization is on <a href="https://github.com/samzhang111/seroprevalence-viz">Github</a>.</p>
+		</div>
+
+
+		<link rel="stylesheet" type="text/css" href="/assets/css/covid/calc2.css">
+		<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-deep_purple.min.css">
+		<script defer="defer" src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <link rel="stylesheet" href="/assets/css/covid/covid19testgroup.css">
+</body></html>
+<script src="/assets/js/covid/calc2.60cd3913b11990dd9f9f.js"></script>
