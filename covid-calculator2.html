@@ -39,14 +39,16 @@
 					<tr class="row">
 						<th class="mdl-data-table__cell--non-numeric label"># positive tests</th>
 						<td>
-							<input id="numpos" type="number" step="1" min="0" max="10000" value="50">
+							<input class="validate" id="numpos" type="number" step="1" min="0" value="50">
+							<div class="helper-text" data-error="Must be >=0"></div>
 						</td>
 					</tr>
 
 					<tr class="row">
 						<th class="mdl-data-table__cell--non-numeric label"># negative tests</th>
 						<td>
-							<input id="numneg" type="number" step="1" min="0" max="10000" value="3280">
+							<input class="validate" id="numneg" type="number" step="1" min="0" value="3280">
+							<div class="helper-text" data-error="Must be >=0"></div>
 						</td>
 					</tr>
 				</table>
@@ -56,28 +58,32 @@
 					<tr class="row">
 						<th class="mdl-data-table__cell--non-numeric label"># true positives</th>
 						<td>
-							<input id="tp" type="number" step="1" min="0" value="178">
+							<input class="validate" id="tp" type="number" step="1" min="0" value="178">
+							<div class="helper-text" data-error="Must be >=0"></div>
 						</td>
 					</tr>
 
 					<tr class="row">
 						<th class="mdl-data-table__cell--non-numeric label"># false positives</th>
 						<td>
-							<input id="fp" type="number" step="1" min="0" value="2">
+							<input class="validate" id="fp" type="number" step="1" min="0" value="2">
+							<div class="helper-text" data-error="Must be >=0"></div>
 						</td>
 					</tr>
 
 					<tr class="row">
 						<th class="mdl-data-table__cell--non-numeric label"># true negatives</th>
 						<td>
-							<input id="tn" type="number" step="1" min="0" value="399">
+							<input class="validate" id="tn" type="number" step="1" min="0" value="399">
+							<div class="helper-text" data-error="Must be >=0"></div>
 						</td>
 					</tr>
 
 					<tr class="row">
 						<th class="mdl-data-table__cell--non-numeric label"># false negatives</th>
 						<td>
-							<input id="fn" type="number" step="1" min="0" value="19">
+							<input class="validate" id="fn" type="number" step="1" min="0" value="19">
+							<div class="helper-text" data-error="Must be >=0"></div>
 						</td>
 					</tr>
 				</table>
@@ -87,7 +93,8 @@
 					<tr class="row">
 						<th class="mdl-data-table__cell--non-numeric label"># samples plotted</th>
 						<td>
-							<input id="numsamps" type="number" step="10" min="0" value="1000">
+							<input class="validate" id="numsamps" type="number" step="10" min="1000" value="1000">
+							<div class="helper-text" data-error="Min: 1000"></div>
 						</td>
 					</tr>
 				</table>
@@ -114,4 +121,4 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
         <link rel="stylesheet" href="/assets/css/covid/covid19testgroup.css">
-<script src="/assets/js/covid/calc2.891f90524edfc2112a53.js"></script></div></body></html>
+<script src="/assets/js/covid/calc2.7987e9e9a2194bc64229.js"></script></div></body></html>

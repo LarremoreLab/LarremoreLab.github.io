@@ -33,28 +33,32 @@
 						<tr class="row">
 							<th class="mdl-data-table__cell--non-numeric label"># positive tests</th>
 							<td>
-								<input id="numpos" type="number" step="1" min="0" value="16">
+								<input class="validate" id="numpos" type="number" step="1" min="0" value="16">
+								<div class="helper-text" data-error="Must be >=0"></div>
 							</td>
 						</tr>
 
 						<tr class="row">
 							<th class="mdl-data-table__cell--non-numeric label"># negative tests</th>
 							<td>
-								<input id="numneg" type="number" step="1" min="0" value="84">
+								<input class="validate" id="numneg" type="number" step="1" min="0" value="84">
+								<div class="helper-text" data-error="Must be >=0"></div>
 							</td>
 						</tr>
 
 						<tr class="row">
 							<th class="mdl-data-table__cell--non-numeric label">Sensitivity</th>
 							<td>
-								<input id="sensitivity" type="number" step="0.001" min="0.6" max="1" value="0.93">
+								<input class="validate" id="sensitivity" type="number" step="0.001" min="0.1" max="1" value="0.93">
+								<div class="helper-text" data-error="Must be between 0.1 and 1"></div>
 							</td>
 						</tr>
 
 						<tr class="row">
 							<th class="mdl-data-table__cell--non-numeric label">Specificity</th>
 							<td>
-								<input id="specificity" type="number" step="0.001" min="0.6" max="1" value="0.975">
+								<input class="validate" id="specificity" type="number" step="0.001" min="0.1" max="1" value="0.975">
+								<div class="helper-text" data-error="Must be between 0.1 and 1"></div>
 							</td>
 						</tr>
 					</table>
@@ -68,7 +72,7 @@
 					<button class="mdl-button mdl-js-button mdl-button--raised" id="downloadsvg">Download image</button>
 				</div>
 
-				<h5>This is in beta. Please report bugs with screenshots to daniel.larremore@colorado.edu. The source code for this visualization is on <a href="https://github.com/samzhang111/seroprevalence-viz">Github</a>.</h5>
+				<p>This is in beta. Please report bugs with screenshots to daniel.larremore@colorado.edu. The source code for this visualization is on <a href="https://github.com/samzhang111/seroprevalence-viz">Github</a>.</p>
 			</div>
 
 		</div>
