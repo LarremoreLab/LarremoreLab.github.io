@@ -68,11 +68,11 @@ people:
     url: /
     title: Rotation Student, IQ Bio
     subject: malaria parasite genetics
-  - name: Sharon Wu
-    url: /
-    image_path: /assets/images/people/sharon_wu.jpg
-    title: Rotation Student, IQ Bio
-    subject: malaria parasite genetics
+  # - name: Sharon Wu
+  #   url: /
+  #   image_path: /assets/images/people/sharon_wu.jpg
+  #   title: Rotation Student, IQ Bio
+  #   subject: malaria parasite genetics
   - name: Katie Spoon
     url: /
     image_path: /assets/images/people/katie_spoon.jpg
