@@ -1,6 +1,10 @@
 categories:
   - heading: Coronavirus
     press:
+    - url: https://www.livescience.com/coronavirus-antibody-tests.html
+      author: Tia Ghose
+      date: 04/30/2020
+      venue: Live Science
     - url: https://www.propublica.org/article/what-antibody-studies-can-tell-you-and-more-importantly-what-they-cant
       author: Caroline Chen
       date: 04/28/2020
