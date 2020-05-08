@@ -10,7 +10,7 @@ categories:
       venue: Submitted
       links:
         - text: preprint
-        - url: https://dash.harvard.edu/handle/1/42664007
+          url: https://dash.harvard.edu/handle/1/42664007
     - title: "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys"
       authors:
       - Daniel B. Larremore
