@@ -1,6 +1,28 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City"
+      authors:
+      - Stephen M. Kissler*
+      - Nishant Kishore*
+      - Malavika Prabhu*
+      - Dena Goffman*
+      - Yaakov Beilin*
+      - Ruth Landau
+      - Cynthia Gyamfi-Bannerman
+      - Brian T. Bateman 
+      - Daniel Katz
+      - Jonathan Gal
+      - Angela Bianco
+      - Joanne Stone
+      - Daniel Larremore
+      - Caroline O. Buckee
+      - Yonatan H. Grad
+      year: 2020
+      venue: Submitted
+      links:
+        - text: preprint
+          url: https://dash.harvard.edu/handle/1/42665370
     - title: "Implications of test characteristics and population seroprevalence on 'immune passport' strategies"
       authors:
       - Daniel B. Larremore
