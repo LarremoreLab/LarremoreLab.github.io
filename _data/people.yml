@@ -33,11 +33,11 @@ people:
     image_path: /assets/images/people/nick.gif
     title: PhD Student, CS*
     subject: the scientific ecosystem
-  - name: Mike Hoefer
-    url: http://www.michaelhoefer.com/
-    image_path: /assets/images/people/mike.gif
-    title: PhD Student, CS*
-    subject: the scientific ecosystem
+  # - name: Mike Hoefer
+  #   url: http://www.michaelhoefer.com/
+  #   image_path: /assets/images/people/mike.gif
+  #   title: PhD Student, CS*
+  #   subject: the scientific ecosystem
   - name: Erik Johnson
     url: /
     image_path: /assets/images/people/erik.gif
