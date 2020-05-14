@@ -1,6 +1,10 @@
 categories:
   - heading: Coronavirus
     press:
+    - url: https://www.nytimes.com/2020/05/14/opinion/coronavirus-research-misinformation.html
+      author: Aleszu Bajak and Jeff Howe
+      date: 05/14/2020
+      venue: The New York Times  
     - url: https://money.com/coronavirus-antibody-tests-where-to-buy-cost/
       author: Elizabeth O'Brien
       date: 05/07/2020
