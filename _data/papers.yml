@@ -1,6 +1,16 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "The Unequal Impact of Parenthood in Academia"
+      authors:
+      - Allison C. Morgan
+      - Samuel F. Way
+      - Michael J. D. Hoefer
+      - Daniel B. Larremore
+      - Mirta Galesic
+      - Aaron Clauset
+      year: 2020
+      venue: Submitted
     - title: "Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City"
       authors:
       - Stephen M. Kissler*
