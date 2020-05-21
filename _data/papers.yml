@@ -1,6 +1,15 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
+      authors:
+      - Ryan M. Layer
+      - Bailey K. Fosdick
+      - Michael Bradshaw
+      - Daniel B. Larremore
+      - Paul Doherty
+      year: 2020
+      venue: Submitted
     - title: "The Unequal Impact of Parenthood in Academia"
       authors:
       - Allison C. Morgan
@@ -102,8 +111,8 @@ categories:
           url: "https://www.biorxiv.org/content/10.1101/2020.01.03.894220v1"
     - title: "Longitudinal analysis of naturally acquired antibodies to PfEMP1 CIDR domain variants and their association with malaria protection"
       authors:
-      - Nyamekye Obeng-Adjei
-      - Daniel B. Larremore
+      - Nyamekye Obeng-Adjei*
+      - Daniel B. Larremore*
       - Louise Turner
       - Aissata Ongoiba
       - Shanping Li
@@ -125,10 +134,10 @@ categories:
           url: https://www.biorxiv.org/content/10.1101/2020.02.11.944330v1
     - title: "Explaining Gender Differences in Academics' Career Trajectories"
       authors:
-      - Daniel B. Larremore
-      - Kenneth Joseph
-      - Aniko Hannak
-      - Andrei Cimpian
+      - Daniel B. Larremore*
+      - Kenneth Joseph*
+      - Aniko Hannak*
+      - Andrei Cimpian*
       year: 2020
       venue: Submitted
     - title: "Community Detection in Bipartite Networks with Stochastic Blockmodels"
