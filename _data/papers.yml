@@ -117,29 +117,6 @@ categories:
       links:
         - text: bioRxiv
           url: "https://www.biorxiv.org/content/10.1101/2020.01.03.894220v1"
-    - title: "Longitudinal analysis of naturally acquired antibodies to PfEMP1 CIDR domain variants and their association with malaria protection"
-      authors:
-      - Nyamekye Obeng-Adjei*
-      - Daniel B. Larremore*
-      - Louise Turner
-      - Aissata Ongoiba
-      - Shanping Li
-      - Safiatou Doumbo
-      - Takele B. Yazew
-      - Ogobara K. Doumbo
-      - Kassoum Kayentao
-      - Louis H. Miller
-      - Boubacar Traore
-      - Susan K. Pierce
-      - Caroline O. Buckee
-      - Thomas Lavstsen
-      - Peter D. Crompton
-      - Tuan M. Tran
-      year: 2020
-      venue: Submitted
-      links:
-        - text: bioRxiv
-          url: https://www.biorxiv.org/content/10.1101/2020.02.11.944330v1
     - title: "Explaining Gender Differences in Academics' Career Trajectories"
       authors:
       - Daniel B. Larremore*
@@ -179,6 +156,31 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Longitudinal analysis of naturally acquired antibodies to PfEMP1 CIDR domain variants and their association with malaria protection"
+      authors:
+      - Nyamekye Obeng-Adjei*
+      - Daniel B. Larremore*
+      - Louise Turner
+      - Aissata Ongoiba
+      - Shanping Li
+      - Safiatou Doumbo
+      - Takele B. Yazew
+      - Ogobara K. Doumbo
+      - Kassoum Kayentao
+      - Louis H. Miller
+      - Boubacar Traore
+      - Susan K. Pierce
+      - Caroline O. Buckee
+      - Thomas Lavstsen
+      - Peter D. Crompton
+      - Tuan M. Tran
+      year: 2020
+      venue: JCI Insight
+      links:
+        - text: JCI Insight
+          url: https://insight.jci.org/articles/view/137262
+        - text: bioRxiv
+          url: https://www.biorxiv.org/content/10.1101/2020.02.11.944330v2
     - title: "Dynamics of Beneficial Epidemics"
       authors:
       - Andrew Berdahl*
