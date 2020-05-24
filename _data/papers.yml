@@ -1,6 +1,14 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Jointly modeling prevalence, sensitivity and specificity for optimal sample allocation"
+      authors:
+      - Daniel B. Larremore*
+      - Bailey K. Fosdick*
+      - Sam Zhang
+      - Yonatan H. Grad
+      year: 2020
+      venue: Submitted
     - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
       authors:
       - Ryan M. Layer
