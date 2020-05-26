@@ -9,6 +9,9 @@ categories:
       - Yonatan H. Grad
       year: 2020
       venue: Submitted
+      links:
+        - text: preprint
+          url: https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1
     - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
       authors:
       - Ryan M. Layer
