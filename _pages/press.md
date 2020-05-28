@@ -2,11 +2,6 @@
 title: Press
 permalink: /press/
 toc: true
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-36889698-2"
-    anonymize_ip: false 
 ---
 
 {% for category in site.data.press.categories %}

@@ -6,11 +6,6 @@ header:
     overlay_color: "#000"
     overlay_filter: "0.2"
     overlay_image: /assets/images/threeoutside.jpg
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-36889698-2"
-    anonymize_ip: false 
 ---
 
 <div>

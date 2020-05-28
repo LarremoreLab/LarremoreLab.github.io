@@ -2,11 +2,6 @@
 title: Faculty Hiring Networks
 permalink: /facultyhiring/
 toc: true
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-36889698-2"
-    anonymize_ip: false 
 ---
 
 ![network](/assets/images/faculty_hiring.png)
