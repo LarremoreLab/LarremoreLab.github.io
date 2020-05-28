@@ -6,6 +6,11 @@ header:
     overlay_color: "#000"
     overlay_filter: "0.2"
     overlay_image: /assets/images/flatirons1.jpg
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-36889698-2"
+    anonymize_ip: false 
 ---
 {% for category in site.data.teaching.categories %}
   <h2>{{category.heading}}</h2>
