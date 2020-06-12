@@ -12,6 +12,8 @@ categories:
       links:
         - text: preprint
           url: https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1
+        - text: twitterthread
+          url: https://twitter.com/DanLarremore/status/1265682077032148994
     - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
       authors:
       - Ryan M. Layer
@@ -53,6 +55,10 @@ categories:
       links:
         - text: preprint
           url: https://dash.harvard.edu/handle/1/42665370
+        - text: twitterthread
+          url: https://twitter.com/yhgrad/status/1259077198016888832
+        - text: twitterthread (math)
+          url: https://twitter.com/DanLarremore/status/1259129523666251777
     - title: "Implications of test characteristics and population seroprevalence on 'immune passport' strategies"
       authors:
       - Daniel B. Larremore
@@ -78,6 +84,10 @@ categories:
       links:
         - text: preprint
           url: https://www.medrxiv.org/content/10.1101/2020.04.15.20067066v1
+        - text: twitterthread
+          url: https://twitter.com/yhgrad/status/1250858246002348034
+        - text: twitterthread (math)
+          url: https://twitter.com/DanLarremore/status/1250894157704355840
         - text: interactive calculation tool
           url: https://larremorelab.github.io/covid19testgroup
         - text: github
