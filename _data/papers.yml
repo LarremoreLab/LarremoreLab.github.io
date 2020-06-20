@@ -1,6 +1,20 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Surveillance testing of SARS-CoV-2"
+      authors:
+      - Daniel B. Larremore
+      - Bryan Wilder
+      - Evan Lester
+      - Soraya Shehata
+      - James M. Burke
+      - James A Hay
+      - Milind Tambe
+      - Michael J. Mina
+      - Roy Parker
+      year: 2020
+      venue: Submitted
+      links:
     - title: "Jointly modeling prevalence, sensitivity and specificity for optimal sample allocation"
       authors:
       - Daniel B. Larremore*
