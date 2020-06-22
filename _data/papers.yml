@@ -14,6 +14,9 @@ categories:
       - Roy Parker
       year: 2020
       venue: Submitted
+      links:
+        - text: PDF
+          url: https://drive.google.com/file/d/1f7Lxl-hRJmnxeuAf758F_6iO54Pio4TQ/view?usp=sharing
     - title: "Jointly modeling prevalence, sensitivity and specificity for optimal sample allocation"
       authors:
       - Daniel B. Larremore*
