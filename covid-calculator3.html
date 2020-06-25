@@ -16,21 +16,28 @@
                     <img src="../assets/images/covid/header.png">
                     </a>
                 </div>
-                <h1 class="center-align shift-up" style="margin-top:-5px;">COVID-19 Testing Group</h1>
+                <h2 class="center-align shift-up" style="margin-top:-5px;">COVID-19 Testing Group</h2>
 
-                <div>The COVID-19 Testing Group is a community resource for <strong>sharing the latest information on COVID-19 prevalence, seroprevalence, and burden studies, planning tools, and data.</strong> This website is maintained jointly by the <a href="https://larremorelab.github.io">Larremore Lab</a> at the University of Colorado, Boulder and the <a href="https://sites.sph.harvard.edu/grad-lab/">Grad Lab</a> at the Harvard T.H. Chan School of Public Health. 
+                <div>The COVID-19 Testing Group is a community resource for sharing COVID-19 prevalence, seroprevalence, and burden studies, as well as planning tools and data. This website is maintained by the <a href="https://larremorelab.github.io">Larremore Lab</a> at the University of Colorado, Boulder.
                 </div>
             </div>
 
 <div id="app">
 
-			<h3 style="margin-top: -5px">Surveillance testing with different policies</h3>
+			<h3 style="margin-top: -5px">Surveillance policy calculator</h3>
 			<div id="desc">
 
-			<strong>This calculator is one of multiple resources available through the <a href="https://larremorelab.github.io/covid19testgroup">COVID-19 Testing Group</a>.</strong> It accompanies the manuscript "Surveillance testing of SARS-CoV-2". This work is not yet peer reviewed.
+			This calculator accompanies the manuscript "<a href="https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v1">Surveillance testing of SARS-CoV-2</a>." This work is not yet peer reviewed.<br>
+			</div>
 
-
-			<h5>How do specificity of tests, frequency of testing, and sample-to-answer reporting time change the effectiveness of surveillance policies?</h5>
+			<div>
+			This calculator considers the impact of a surveillance policy on individuals and populations by explicitly including the interaction between testing and viral load trajectories. Here, a surveillance policy has 3 inputs: 
+			<ol>
+				<li>Test limit of detection. (For PCR, we suggest 3.)</li>
+				<li>Test frequency, measured in days between tests. (e.g. 7 for weekly testing)</li>
+				<li>Test sample-to-answer delay in days. (e.g. 1 for a one-day delay in results)</li>
+			</ol>
+			The simple model of viral loads is described in the Methods of <a href="https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v1">the preprint</a>. We used estimates that reflect the current literature, but the calculator below allows you to perform on-the-fly sensitivity analyses. Plots are described below.
 			</div>
 
 			<div id="inputs">
@@ -122,12 +129,15 @@
 					<div class="inline-graph" id="individual-infectiousnesses"></div>
 				</div>
 				<div id="summary">
-					<b>R =</b> <span id="fval"></span> x R_0
+					<b>Reproductive reduction factor:</b> <i>R</i>=<span id="fval"></span> &times; <i>R<sub>0</sub></i>
 				</div>
 			</div>
-
-			<p>Please report bugs with screenshots to daniel.larremore@colorado.edu. The source code for this visualization is on <a href="https://github.com/samzhang111/seroprevalence-viz">Github</a>.</p>
+			<p>Please report bugs with screenshots to daniel.larremore@colorado.edu. Visualization source code is on <a href="https://github.com/samzhang111/seroprevalence-viz">Github</a>.</p>
+			<div>
+				<b>[Lines]</b>: 100 viral load trajectories are drawn from the model. Hover over trajectories to see discrete-time values and model control points. <br><b>[Bars]</b> Infectiousness is removed from the population due to the self-isolation of symptomatics and by surveillance-driven isolation. The relative improvement of surveillance (R-intervention) over no surveillance (R<sub>0</sub>) can be computed to estimate the impact of surveillance on the reproductive number, below the plot. <br><b>[Scatter]</b> Surveillance need not catch every case to be broadly effective, but its implications for individuals are still important. The infectiousness of 100 individuals for no policy and for the surveillance policy are show as dots. If the policy misses an individual's infectious period due to lack of test or delay in results, the dot is blue. 
+			</div>
 		</div>
+		<div>&nbsp;</div>
 
 		<link rel="stylesheet" type="text/css" href="/assets/css/covid/calc3.css">
 		<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-deep_purple.min.css">
