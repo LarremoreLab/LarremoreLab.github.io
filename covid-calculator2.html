@@ -14,7 +14,7 @@
 		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
-		<title>Prevalence calculator (lab calibration data)</title>
+		<title>Prevalence calculator (lab validation data)</title>
 	</head>
 	<body>
 		
@@ -26,21 +26,21 @@
                     <img src="/assets/images/covid/header.png">
                     </a>
                 </div>
-                <h1 class="center-align" style="margin-top:-5px;">COVID-19 Testing Group</h1>
+                <h2 class="center-align shift-up" style="margin-top:-5px;">COVID-19 Testing Group</h2>
 
-                <div>The COVID-19 Testing Group is a community resource for <strong>sharing the latest information on COVID-19 prevalence, seroprevalence, and burden studies, planning tools, and data.</strong> This website is maintained jointly by the <a href="https://larremorelab.github.io">Larremore Lab</a> at the University of Colorado, Boulder and the <a href="https://sites.sph.harvard.edu/grad-lab/">Grad Lab</a> at the Harvard T.H. Chan School of Public Health. 
-                </div>
+                <div>The COVID-19 Testing Group is a community resource for sharing COVID-19 prevalence, seroprevalence, and burden studies, as well as planning tools and data. This website is maintained by the <a href="https://larremorelab.github.io">Larremore Lab</a> at the University of Colorado, Boulder and the <a href="https://sites.sph.harvard.edu/grad-lab/">Grad Lab</a> at the Harvard T.H. Chan School of Public Health. 
+				</div>
             </div>
 
 <div id="app">
 
-			<h3>Prevalence with lab calibration data</h3>
+			<h3 style="margin-top: -5px">Prevalence calculator<br>with lab validation data</h3>
 			<div id="desc">
 
-			<strong>This calculator is one of multiple resources available through the <a href="https://larremorelab.github.io/covid19testgroup">COVID-19 Testing Group</a>.</strong> It accompanies the manuscript "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys", which is available as a <a href="https://www.medrxiv.org/content/10.1101/2020.04.15.20067066v1">preprint</a>. This work is not yet peer reviewed.
+			<strong>This calculator is one of multiple resources available through the <a href="https://larremorelab.github.io/covid19testgroup">COVID-19 Testing Group</a>.</strong> It accompanies the preprint "<a href="https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1">Jointly modeling prevalence, sensitivity and specificity for optimal sample allocation</a>". This work is not yet peer reviewed.
 
 
-			<h5>Given test results in a population sample, and the test's lab calibration data, what is the posterior distribution of prevalence in the population, test sensitivity, and test specificity?</h5>
+			<h5>Given test results in a population sample, and the test's lab validation data, what is the posterior distribution of prevalence in the population, test sensitivity, and test specificity?</h5>
 			</div>
 
 			<div id="inputs">
@@ -64,7 +64,7 @@
 				</table>
 
 				<table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp inputtable">
-					<th>Test calibration results</th>
+					<th>Test validation results</th>
 					<tr class="row">
 						<th class="mdl-data-table__cell--non-numeric label"># true positives</th>
 						<td>
@@ -74,9 +74,9 @@
 					</tr>
 
 					<tr class="row">
-						<th class="mdl-data-table__cell--non-numeric label"># false positives</th>
+						<th class="mdl-data-table__cell--non-numeric label"># false negatives</th>
 						<td>
-							<input class="validate" id="fp" type="number" step="1" min="0" value="2">
+							<input class="validate" id="fn" type="number" step="1" min="0" value="19">
 							<div class="helper-text" data-error="Must be >=0"></div>
 						</td>
 					</tr>
@@ -90,12 +90,14 @@
 					</tr>
 
 					<tr class="row">
-						<th class="mdl-data-table__cell--non-numeric label"># false negatives</th>
+						<th class="mdl-data-table__cell--non-numeric label"># false positives</th>
 						<td>
-							<input class="validate" id="fn" type="number" step="1" min="0" value="19">
+							<input class="validate" id="fp" type="number" step="1" min="0" value="2">
 							<div class="helper-text" data-error="Must be >=0"></div>
 						</td>
 					</tr>
+
+					
 				</table>
 
 				<table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp inputtable">
