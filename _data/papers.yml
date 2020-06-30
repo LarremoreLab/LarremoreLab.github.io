@@ -34,18 +34,6 @@ categories:
           url: https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1
         - text: twitterthread
           url: https://twitter.com/DanLarremore/status/1265682077032148994
-    - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
-      authors:
-      - Ryan M. Layer
-      - Bailey K. Fosdick
-      - Michael Bradshaw
-      - Daniel B. Larremore
-      - Paul Doherty
-      year: 2020
-      venue: Submitted
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2020.06.04.20122093v1
     - title: "The Unequal Impact of Parenthood in Academia"
       authors:
       - Allison C. Morgan
@@ -187,7 +175,18 @@ categories:
       - Nina Fefferman
       year: 2020
       venue: Submitted
-
+    - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
+      authors:
+      - Ryan M. Layer
+      - Bailey K. Fosdick
+      - Michael Bradshaw
+      - Daniel B. Larremore
+      - Paul Doherty
+      year: 2020
+      venue: In Press
+      links:
+        - text: preprint
+          url: https://www.medrxiv.org/content/10.1101/2020.06.04.20122093v1
 
 
   - heading: "Published"
