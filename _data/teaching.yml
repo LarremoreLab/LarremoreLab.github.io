@@ -3,7 +3,7 @@ categories:
     courses:
     - title: CSCI 5352 - Network Analysis and Modeling
       term: Fall 2019
-      url: http://danlarremore.com/5352
+      url: /5352/
       urltitle: Course Webpage
     - title: CSCI 4802/5802 - CU Data Science Team
       term: Fall 2019
