@@ -20,7 +20,7 @@ categories:
         - text: interactive calculation tool
           url: https://larremorelab.github.io/covid-calculator3
         - text: twitterthread
-          url: https://twitter.com/DanLarremore/status/1276260291764826112?s=20
+          url: https://twitter.com/DanLarremore/status/1276260291764826112
     - title: "Jointly modeling prevalence, sensitivity and specificity for optimal sample allocation"
       authors:
       - Daniel B. Larremore*
