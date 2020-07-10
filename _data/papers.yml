@@ -9,6 +9,9 @@ categories:
       - Daniel B. Larremore
       venue: Submitted
       year: 2020
+      links:
+        - text: preprint
+          url: https://arxiv.org/abs/2007.04448
     - title: “Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador”
       authors:
       - Shazia Ruybal-Pesántez
