@@ -1,6 +1,10 @@
 categories:
   - heading: Coronavirus
     press:
+    - url: https://www.washingtonpost.com/health/long-delays-in-getting-test-results-hobble-coronavirus-response/2020/07/12/d32f7fa8-c1fe-11ea-b4f6-cb39cd8940fb_story.html
+      author: Rachel Weiner, William Wan, Abigail Hauslohner
+      date: 07/12/2020
+      venue: The Washington Post
     - url: https://thehill.com/changing-america/well-being/506193-test-frequency-more-important-than-sensitivity-for-coronavirus
       author: Chia-Yi Hou
       date: 07/07/2020
@@ -14,14 +18,22 @@ categories:
       venue: Nature News
     - url: https://www.buzzfeednews.com/article/peteraldhous/mario-molina-coronavirus-face-masks-pnas
       venue: Buzzfeed
+      date: 06/18/2020
     - url: https://www.nytimes.com/2020/06/18/health/coronavirus-retractions-studies.html 
       venue: The New York Times
+      date: 06/18/2020
+      author: Apoorva Mandavilli
     - url: https://reason.com/2020/06/22/prominent-researchers-say-a-widely-cited-study-on-wearing-masks-is-badly-flawed/
-      venue: reason
+      venue: Reason
+      date: 06/22/2020
+      author: Ronald Bailey
     - url: https://www.dailymail.co.uk/health/article-8440275/Scientists-urge-journal-retract-paper-claimed-masks-prevented-66-000-NYC-infections.html
       venue: Daily Mail UK
+      date: 06/19/2020
+      author: Natalie Nahal, Mary Kekatos
     - url: https://science.sciencemag.org/content/368/6498/1406.full
       venue: Science
+      date: 06/26/2020
     - url: https://www.kunc.org/post/utah-aims-test-10000-residents-ambitious-covid-19-study
       author: Rae Ellen Bichell
       date: 05/22/2020
