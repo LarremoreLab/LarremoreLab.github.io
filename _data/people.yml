@@ -11,6 +11,8 @@ people:
     image_path: /assets/images/people/eun.jpg
     title: Postdoc
     subject: the scientific ecosystem
+    aliases:
+      - Eun Lee
   - name: Tzu-Chi Yen
     url: https://junipertcy.info/
     image_path: /assets/images/people/tzuchi.gif
@@ -33,21 +35,23 @@ people:
     image_path: /assets/images/people/nick.gif
     title: PhD Student, CS*
     subject: the scientific ecosystem
-  # - name: Mike Hoefer
-  #   url: http://www.michaelhoefer.com/
-  #   image_path: /assets/images/people/mike.gif
-  #   title: PhD Student, CS*
-  #   subject: the scientific ecosystem
   - name: Erik Johnson
     url: /
     image_path: /assets/images/people/erik.gif
     title: PhD Student, APPM
     subject: malaria parasite genetics
-  - name: Aaron Aaeng
-    image_path: /assets/images/people/aaron.gif
-    url: https://github.com/aaronaaeng/
-    title: MS Student, CS
-    subject: complex networks 
+  - name: Kate Bubar
+    image_path: /assets/images/people/kate.gif
+    url: https://twitter.com/bubar_kate?lang=en
+    title: PhD Student, APPM
+    subject: infectious disease
+    aliases:
+      - Kate M. Bubar
+  # - name: Aaron Aaeng
+  #   image_path: /assets/images/people/aaron.gif
+  #   url: https://github.com/aaronaaeng/
+  #   title: MS Student, CS
+  #   subject: complex networks 
   - name: Upasana Dutta
     image_path: /assets/images/people/upasana_dutta.png
     url: /
@@ -58,18 +62,11 @@ people:
     image_path: /assets/images/people/suchi.gif
     title: Undergrad, CS & MCDB
     subject: malaria parasite genetics
-  - name: Apara Venkat
-    image_path: /assets/images/people/apara.gif
-    url: https://www.aparavenkat.com/
-    title: Undergrad, CS & APPM
-    subject: complex networks
-  - name: Kate Bubar
-    image_path: /assets/images/people/kate.gif
-    url: /
-    title: Rotation Student, IQ Bio
-    subject: malaria parasite genetics
-    aliases:
-      - Kate M. Bubar
+  # - name: Apara Venkat
+  #   image_path: /assets/images/people/apara.gif
+  #   url: https://www.aparavenkat.com/
+  #   title: Undergrad, CS & APPM
+  #   subject: complex networks
   # - name: Sharon Wu
   #   url: /
   #   image_path: /assets/images/people/sharon_wu.jpg
@@ -92,9 +89,16 @@ alumni:
     url: https://suyogsoti.github.io/
   - name: Katherine Younglove
     url: https://www.linkedin.com/in/katherine-younglove-565353169/
+    now: Oracle
   - name: Robert Steele
     url: https://github.com/SteeleRobert
-    now: now at USC
+    now: BS program, USC Computer Science
+  - name: Aparajithan Venkateswaran
+    url: https://www.aparavenkat.com/
+    now: PhD program, UW Statistics 
+  - name: Aaron Aaeng
+    url: https://github.com/aaronaaeng/
+    now: Nordstrom
 
 
 collaborators:
