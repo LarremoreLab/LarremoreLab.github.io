@@ -47,11 +47,11 @@ people:
     subject: infectious disease
     aliases:
       - Kate M. Bubar
-  # - name: Aaron Aaeng
-  #   image_path: /assets/images/people/aaron.gif
-  #   url: https://github.com/aaronaaeng/
-  #   title: MS Student, CS
-  #   subject: complex networks 
+  - name: Katie Spoon
+    url: /
+    image_path: /assets/images/people/katie_spoon.jpg
+    title: PhD Student, CS*
+    subject: the scientific ecosystem
   - name: Upasana Dutta
     image_path: /assets/images/people/upasana_dutta.png
     url: /
@@ -72,17 +72,20 @@ people:
   #   image_path: /assets/images/people/sharon_wu.jpg
   #   title: Rotation Student, IQ Bio
   #   subject: malaria parasite genetics
-  - name: Katie Spoon
-    url: /
-    image_path: /assets/images/people/katie_spoon.jpg
-    title: PhD Student, CS (Aug. 2020)*
-    subject: the scientific ecosystem
+  # - name: Aaron Aaeng
+  #   image_path: /assets/images/people/aaron.gif
+  #   url: https://github.com/aaronaaeng/
+  #   title: MS Student, CS
+  #   subject: complex networks 
   - name: Kate Wootton
     url: /
     image_path: /assets/images/people/kate_wootton.jpg
     title: Postdoc (January 2021)*
     subject: the scientific ecosystem
-
+  - name: Aloha Churchill
+    url: /
+    title: Undergrad, CS & APPM
+    subject: infectious disease
 
 alumni:
   - name: Suyog Soti
