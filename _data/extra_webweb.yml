@@ -9,14 +9,15 @@ projects:
       - Aaron Clauset
       - Allison C. Morgan
       - Kate Wootton
-  - name: "Malaria"
+  - name: "Infectious Disease"
     people:
       - Erik K. Johnson
       - Suchita Lulla
       - Kate M. Bubar
+      - Aloha Churchill
   - name: "Networks"
     people:
       - Tzu-Chi Yen
-      - Aaron Aaeng
-      - Apara Venkat
+      # - Aaron Aaeng
+      # - Apara Venkat
       - Upasana Dutta

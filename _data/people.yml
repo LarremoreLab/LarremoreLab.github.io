@@ -40,6 +40,8 @@ people:
     image_path: /assets/images/people/erik.gif
     title: PhD Student, APPM
     subject: malaria parasite genetics
+    aliases:
+      - Erik K. Johnson
   - name: Kate Bubar
     image_path: /assets/images/people/kate.gif
     url: https://twitter.com/bubar_kate?lang=en
@@ -62,21 +64,6 @@ people:
     image_path: /assets/images/people/suchi.gif
     title: Undergrad, CS & MCDB
     subject: malaria parasite genetics
-  # - name: Apara Venkat
-  #   image_path: /assets/images/people/apara.gif
-  #   url: https://www.aparavenkat.com/
-  #   title: Undergrad, CS & APPM
-  #   subject: complex networks
-  # - name: Sharon Wu
-  #   url: /
-  #   image_path: /assets/images/people/sharon_wu.jpg
-  #   title: Rotation Student, IQ Bio
-  #   subject: malaria parasite genetics
-  # - name: Aaron Aaeng
-  #   image_path: /assets/images/people/aaron.gif
-  #   url: https://github.com/aaronaaeng/
-  #   title: MS Student, CS
-  #   subject: complex networks 
   - name: Kate Wootton
     url: /
     image_path: /assets/images/people/kate_wootton.jpg
