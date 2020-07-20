@@ -29,27 +29,19 @@
             </section>
 
 <div class="divider"></div>
-            <div style="background-color: #fad6d8" class="center-align"><strong>This community needs your input! Suggest a paper, study, Twitterthread, or resource <a href="https://forms.gle/P1AWBK1F9ibiqzRr8">here</a>.</strong></div>
+            <!-- <div style="background-color: #fad6d8" class="center-align"><strong>This community needs your input! Suggest a paper, study, Twitterthread, or resource <a href="https://forms.gle/P1AWBK1F9ibiqzRr8">here</a>.</strong></div> -->
 
             <div class="section">
-                <div>The COVID-19 Testing Group is a community resource for <strong>sharing the latest information on COVID-19 prevalence, seroprevalence, and burden studies, planning tools, and data.</strong> This website is maintained jointly by the <a href="https://larremorelab.github.io">Larremore Lab</a> at the University of Colorado, Boulder and the <a href="https://sites.sph.harvard.edu/grad-lab/">Grad Lab</a> at the Harvard T.H. Chan School of Public Health. 
+                <div>The COVID-19 Testing Group is a community resource for <strong>sharing the latest information on COVID-19 prevalence, seroprevalence, and burden studies, planning tools, and data.</strong> This website is maintained by the <a href="https://larremorelab.github.io">Larremore Lab</a> at the University of Colorado Boulder with collaborations in the <a href="https://www.hsph.harvard.edu/yonatan-grad/">Grad Lab</a> and the <a href="https://ccdd.hsph.harvard.edu/people/michael-mina/">Mina Lab</a> at the Harvard T.H. Chan School of Public Health. 
                 </div>
             </div>
 
             
 
-            <h4>Get involved</h4>
-            <div>
-                <ol>
-                    <li>Suggest a paper, study, Twitterthread, or resource using this <a href="https://forms.gle/P1AWBK1F9ibiqzRr8">Google Form</a>.</li>
-                    <li>Follow the group on Twitter <a href="https://twitter.com/covid19testgrp">@covid19testgrp</a> or join the <a href="https://groups.google.com/forum/#covid19testgrp/join">mailing list</a>.</li>
-                </ol>
-                </div>
-
             <h4>Planning & analysis tools</h4>
             <div class="row">
-                <div class="col s12 m6">
-                    <div class="card">
+                <div class="col s12 m4">
+                    <div class="card large">
                         <div class="card-image">
                             <a href="/covid-calculator1">
                                 <img src="/assets/images/covid/calc1.png">
@@ -57,13 +49,13 @@
                         </div>
                         <div class="card-content">
                             <h5>Prevalence calculator for tests with known sensitivity and specificity</h5>
-                            <p>Given test results in a population sample, using a test with known sensitivity and specificity, what is the posterior distribution of prevalence in the population?</p>
+                            <p>Calculate a Bayesian posterior distribution for prevalence when se and sp are known.</p>
                         </div>
                     </div>
                 </div>
 
-                <div class="col s12 m6">
-                    <div class="card">
+                <div class="col s12 m4">
+                    <div class="card large">
                         <div class="card-image">
                             <a href="/covid-calculator2">
                                 <img src="/assets/images/covid/calc2.png">
@@ -71,7 +63,21 @@
                         </div>
                         <div class="card-content">
                             <h5>Prevalence calculator for tests with lab calibration data</h5>
-                            <p>Given test results in a population sample, and the test's lab calibration data, what is the posterior distribution of prevalence in the population, test sensitivity, and test specificity?</p>
+                            <p>Calculate a Bayesian <em>joint</em> posterior distribution for prevalence, se, and sp.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col s12 m4">
+                    <div class="card large">
+                        <div class="card-image">
+                            <a href="/covid-calculator3">
+                                <img src="/assets/images/covid/calc3.png">
+                            </a>
+                        </div>
+                        <div class="card-content">
+                            <h5>Surveillance policy calculator</h5>
+                            <p>Estimate the impact of test frequency, turnaround time, and limit of detection, on the effectiveness of screening and surveillance testing for SARS-CoV-2.</p>
                         </div>
                     </div>
                 </div>
@@ -79,7 +85,9 @@
             
 
 <h1 class="center-align">Data Collections</h1> 
-<p>The <a href="https://covidtracking.com/">COVID Tracking Project</a> has aggregated data on serological testing into <a href="http://airtable.com/shrGVEvpWp12RyLAI">a phenomenal Airtable</a> much of which is summarized in the Literature section below.</p>
+<ul>
+    <li><a href="http://twitter.com/DrJarlov">Henrik Jarlov</a> has compiled a comprehensive list of serological studies worldwide, available in a <a href="https://docs.google.com/spreadsheets/d/17Tf1Ln9VuE5ovpnhLRBJH-33L5KRaiB3NhvaiF3hWC0/edit#gid=0">Google Sheet</a>.</li>
+    <li>The <a href="https://covidtracking.com/">COVID Tracking Project</a> has aggregated data on serological testing into <a href="http://airtable.com/shrGVEvpWp12RyLAI">an Airtable</a>.</li>
 <p>FindDx has created a <a href="https://finddx.shinyapps.io/COVID19DxData/">serological test kit roundup</a>, scattered by sensitivity and specificity. Hover over a data point to learn about the test and its calibration data.</p>
             
             
@@ -265,18 +273,14 @@ self-administered sample collection for accurate large-scale SARS-CoV-2 testing.
 			<div class="collapsible-header"><img src="assets/images/covid/li_prep.png" height="16" width="16" style="margin-right: 10px;">SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation</div>
 			<div class="collapsible-body"><strong>Zhang</strong> et al. 4/3/2020 [<a href="https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1">link</a>]<br><strong>Summary — </strong>Previous studies suggested cat could be a potential susceptible animal of SARS-CoV-2. We investigated the infection of SARS-CoV-2 in cats by detecting specific serum antibodies. 15 of 102 (14.7%) cat sera collected after the outbreak were positive for the receptor binding domain of SARS-CoV-2 by ELISA, demonstrating that SARS-CoV-2 has infected the cat population in Wuhan during the outbreak</div></li></li>
 	</ul>
-<h4>Discussions</h4>
-                <ol>
-                    <li>Natalie Dean. <a href="https://twitter.com/nataliexdean/status/1251944376554659840?s=20">Best practices for the design of serosurveys</a>, Twitter [April 19 2020]</li>
-                    <li>David Eyre. <a href="https://twitter.com/drdavideyre/status/1252216860499722242?s=20">Comparison of 9 lateral flow kits and a novel ELISA</a>, Twitter [April 20, 2020]</li>
-                </ol>
+
 
         <footer class="page-footer">
           <div class="container">
             <div class="row">
               <div class="col l6 s12">
                 <h5 class="white-text">About us</h5>
-                <p class="grey-text text-lighten-4">This website is maintained jointly by the <a href="https://larremorelab.github.io">Larremore Lab</a> at the University of Colorado, Boulder and the <a href="https://www.hsph.harvard.edu/yonatan-grad/">Grad Lab</a> at the Harvard T.H. Chan School of Public Health. Web design by <a href="https://sam.zhang.fyi">Sam Zhang</a> using <a href="https://materializecss.com/">materialize</a>.
+                <p class="grey-text text-lighten-4">This website is maintained by the <a href="https://larremorelab.github.io">Larremore Lab</a> at the University of Colorado Boulder with collaborations in the <a href="https://www.hsph.harvard.edu/yonatan-grad/">Grad Lab</a> and the <a href="https://ccdd.hsph.harvard.edu/people/michael-mina/">Mina Lab</a> at the Harvard T.H. Chan School of Public Health. Web design by <a href="https://sam.zhang.fyi">Sam Zhang</a> using <a href="https://materializecss.com/">materialize</a>.
 </p>
               </div>
               <div class="col l4 offset-l2 s12">
