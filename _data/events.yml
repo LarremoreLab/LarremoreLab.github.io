@@ -6,26 +6,16 @@
   date: 2020 June 18
 - description : New COVID preprint <a href="https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1">Jointly modeling prevalence, sensitivity and specificity for optimal sample allocation</a>.
   date: 2020 May 26
-- description: Interviews in <a href="https://denverite.com/2020/05/21/gov-polis-will-join-mayor-hancock-to-unveil-massive-coronavirus-testing-site-at-pepsi-center/">Denverite</a> and <a href="https://www.kunc.org/post/utah-aims-test-10000-residents-ambitious-covid-19-study">KUNC</a>.
-  date: 2020 May 22
-- description: Comments on the importance of preprints in the time of COVID in a <a href="https://www.nytimes.com/2020/05/14/opinion/coronavirus-research-misinformation.html">New York Times</a> opinion piece.
-  date: 2020 May 14
 - description: New COVID preprint <a href="https://dash.harvard.edu/handle/1/42665370">Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City</a>.
   date: 2020 May 8
 - description: New COVID preprint <a href="https://dash.harvard.edu/handle/1/42664007">Implications of test characteristics and population seroprevalence on ‘immune passport’ strategies</a>.
   date: 2020 May 7
-- description: Interviews in <a href="https://www.livescience.com/coronavirus-antibody-tests.html">LiveScience</a>, <a href="https://www.propublica.org/article/what-antibody-studies-can-tell-you-and-more-importantly-what-they-cant">ProPublica</a>, <a href='https://www.newscientist.com/article/2241313-what-the-first-coronavirus-antibody-testing-surveys-can-tell-us/#ixzz6KYb2oZsO'>New Scientist</a>, and <a href="https://money.com/coronavirus-antibody-tests-where-to-buy-cost/">Money</a>.
-  date: 2020 Apr 30
 - description: Launched the <a href="https://larremorelab.github.io/covid19testgroup">COVID-19 Testing Group</a>, a community resource for sharing the latest information on COVID-19 prevalence, seroprevalence, and burden studies, planning tools, and data.
   date: 2020 Apr 20
 - description: New COVID preprint <a href="https://www.medrxiv.org/content/10.1101/2020.04.15.20067066v1">Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys</a> with <a href="https://larremorelab.github.io/covid-serology">an interactive calculation tool</a> as well as <a href="https://github.com/LarremoreLab/covid_serological_sampling">code and documentation</a>.
   date: 2020 Apr 16
-- description: Coverage of our COVID mobility work in <a href="https://www.colorado.edu/today/2020/04/07/mathematician-using-facebook-data-fight-against-covid-19">CU Boulder Today</a>.
-  date: 2020 Apr 7
 - description: "Joined the <a href='https://www.covid19mobility.org/researchers/'>COVID-19 Mobility Data Network</a>."
   date: 2020 Mar 25
-- description: "Dan spoke with <a href='https://www.denverpost.com/2020/03/22/colorado-coronavirus-impact/'>Jon Murray at the Denver Post</a> about coronavirus."
-  date: 2020 Mar 22
 - description: "Dan is giving a talk on the group's malaria work at the Computational BioScience seminar at CU Med. RC1 North 6107 10:30"
   date: 2020 Mar 9
 - description: "New paper out with Lauren Childs: <a href='https://www.sciencedirect.com/science/article/pii/B9780128012383115120'>Network Models for Malaria: Antigens, Dynamics, and Evolution Over Space and Time</a>."
