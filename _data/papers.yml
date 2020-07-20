@@ -93,16 +93,6 @@ categories:
           url: https://twitter.com/yhgrad/status/1259077198016888832
         - text: twitterthread (math)
           url: https://twitter.com/DanLarremore/status/1259129523666251777
-    - title: "Implications of test characteristics and population seroprevalence on 'immune passport' strategies"
-      authors:
-      - Daniel B. Larremore
-      - Kate M. Bubar
-      - Yonatan H. Grad
-      year: 2020
-      venue: Submitted
-      links:
-        - text: preprint
-          url: https://dash.harvard.edu/handle/1/42664007
     - title: "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys"
       authors:
       - Daniel B. Larremore
@@ -214,6 +204,17 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Implications of test characteristics and population seroprevalence on 'immune passport' strategies"
+      authors:
+      - Daniel B. Larremore
+      - Kate M. Bubar
+      - Yonatan H. Grad
+      year: 2020
+      volumeissue: ciaa1019
+      venue: Clinical Infectious Diseases
+      links:
+        - text: CID
+          url: https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa1019/5873748
     - title: "Longitudinal analysis of naturally acquired antibodies to PfEMP1 CIDR domain variants and their association with malaria protection"
       authors:
       - Nyamekye Obeng-Adjei*
