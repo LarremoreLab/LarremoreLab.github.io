@@ -38,8 +38,22 @@
 
             
 
-            <h4>Planning & analysis tools</h4>
+<h2 class="center-align">Planning & Analysis Tools</h2> 
             <div class="row">
+                <div class="col s12 m4">
+                    <div class="card large">
+                        <div class="card-image">
+                            <a href="/covid-calculator3">
+                                <img src="/assets/images/covid/calc3.png">
+                            </a>
+                        </div>
+                        <div class="card-content">
+                            <h5>Surveillance policy calculator</h5>
+                            <p>Estimate the impact of test frequency, turnaround time, and limit of detection, on the effectiveness of screening and surveillance testing for SARS-CoV-2.</p>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col s12 m4">
                     <div class="card large">
                         <div class="card-image">
@@ -68,32 +82,45 @@
                     </div>
                 </div>
 
-                <div class="col s12 m4">
-                    <div class="card large">
-                        <div class="card-image">
-                            <a href="/covid-calculator3">
-                                <img src="/assets/images/covid/calc3.png">
-                            </a>
-                        </div>
-                        <div class="card-content">
-                            <h5>Surveillance policy calculator</h5>
-                            <p>Estimate the impact of test frequency, turnaround time, and limit of detection, on the effectiveness of screening and surveillance testing for SARS-CoV-2.</p>
-                        </div>
-                    </div>
-                </div>
             </div>
-            
 
-<h1 class="center-align">Data Collections</h1> 
-<ul>
-    <li><a href="http://twitter.com/DrJarlov">Henrik Jarlov</a> has compiled a comprehensive list of serological studies worldwide, available in a <a href="https://docs.google.com/spreadsheets/d/17Tf1Ln9VuE5ovpnhLRBJH-33L5KRaiB3NhvaiF3hWC0/edit#gid=0">Google Sheet</a>.</li>
-    <li>The <a href="https://covidtracking.com/">COVID Tracking Project</a> has aggregated data on serological testing into <a href="http://airtable.com/shrGVEvpWp12RyLAI">an Airtable</a>.</li>
-<p>FindDx has created a <a href="https://finddx.shinyapps.io/COVID19DxData/">serological test kit roundup</a>, scattered by sensitivity and specificity. Hover over a data point to learn about the test and its calibration data.</p>
+<h2 class="center-align">Related Papers</h2> 
+
+<ul class="collapsible expandable">
+        <li>
+            <div class="collapsible-header"><img src="assets/images/covid/li_prep.png" height="16" width="16" style="margin-right: 10px;">Test sensitivity is secondary to frequency and turnaround time for COVID-19 surveillance</div>
+            <div class="collapsible-body"><strong>Larremore</strong> et al. 2020 [<a href="https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v2">link</a>]<br><strong>Summary — </strong>The COVID-19 pandemic has created a public health crisis. Because SARS-CoV-2 can spread from individuals with pre-symptomatic, symptomatic, and asymptomatic infections, the re-opening of societies and the control of virus spread will be facilitated by robust surveillance, for which virus testing will often be central. After infection, individuals undergo a period of incubation during which viral titers are usually too low to detect, followed by an exponential growth of virus, leading to a peak viral load and infectiousness, and ending with declining viral levels and clearance. Given the pattern of viral load kinetics, we model surveillance effectiveness considering test sensitivities, frequency, and sample-to-answer reporting time. These results demonstrate that effective surveillance, including time to first detection and outbreak control, depends largely on frequency of testing and the speed of reporting, and is only marginally improved by high test sensitivity. We therefore conclude that surveillance should prioritize accessibility, frequency, and sample-to-answer time; analytical limits of detection should be secondary.</div></li>
+        <li>
+            <div class="collapsible-header"><img src="assets/images/covid/li_prep.png" height="16" width="16" style="margin-right: 10px;">Jointly modeling prevalence, sensitivity and specificity for optimal sample allocation</div>
+            <div class="collapsible-body"><strong>Larremore, Fosdick, Zhang, Grad</strong> 2020 [<a href="https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1">link</a>]<br><strong>Summary — </strong>The design and interpretation of prevalence studies rely on point estimates of the performance characteristics of the diagnostic test used. When the test characteristics are not well defined and a limited number of tests are available, such as during an outbreak of a novel pathogen, tests can be used either for the field study itself or for additional validation to reduce uncertainty in the test characteristics. Because field data and validation data are based on finite samples, inferences drawn from these data carry uncertainty. In the absence of a framework to balance those uncertainties during study design, it is unclear how best to distribute tests to improve study estimates. Here, we address this gap by introducing a joint Bayesian model to simultaneously analyze lab validation and field survey data. In many scenarios, prevalence estimates can be most improved by apportioning additional effort towards validation rather than to the field. We show that a joint model provides superior estimation of prevalence, as well as sensitivity and specificity, compared with typical analyses that model lab and field data separately.</div></li>
+        <li>
+            <div class="collapsible-header"><img src="assets/images/covid/li_prep.png" height="16" width="16" style="margin-right: 10px;">Implications of test characteristics and population seroprevalence on ‘immune passport’ strategies</div>
+            <div class="collapsible-body"><strong>Larremore, Bubar, Grad</strong> 2020 [<a href="https://dash.harvard.edu/handle/1/42664007">link</a>]<br><strong>Summary — </strong>Social distancing and other community quarantine measures have slowed the spread of COVID-19 but have also contributed to an economic shutdown with immense cost and growing pressures to return people to work. Among various strategies, one is the use of “immune passports”, which would allow individuals with serological evidence of exposure to SARS-CoV-2 to return to work. This is premised on the belief that antibodies confer sufficient immunity to prevent COVID-19 infection, and carries both ethical and scientific challenges.</div></li>
+        <li>
+            <div class="collapsible-header"><img src="assets/images/covid/li_prep.png" height="16" width="16" style="margin-right: 10px;">Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys</div>
+            <div class="collapsible-body"><strong>Larremore</strong> et al. 2020 [<a href="https://www.medrxiv.org/content/10.1101/2020.04.15.20067066v2">link</a>]<br><strong>Summary — </strong>Establishing how many people have already been infected by SARS-CoV-2 is an urgent priority for controlling the COVID-19 pandemic. Patchy virological testing has hampered interpretation of confirmed case counts, and unknown rates of asymptomatic and mild infections make it challenging to develop evidence-based public health policies. Serological tests that identify past infection can be used to estimate cumulative incidence, but the relative accuracy and robustness of various sampling strategies has been unclear. Here, we used a flexible framework that integrates uncertainty from test characteristics, sample size, and heterogeneity in seroprevalence across tested subpopulations to compare estimates from sampling schemes. Using the same framework and making the assumption that serological positivity indicates immune protection, we propagated these estimates and uncertainty through dynamical models to assess the uncertainty in the epidemiological parameters needed to evaluate public health interventions. We examined the relative accuracy of convenience samples versus structured surveys to estimate population seroprevalence, and found that sampling schemes informed by demographics and contact networks outperform uniform sampling. The framework can be adapted to optimize the design of serological surveys given particular test characteristics and capacity, population demography, sampling strategy, and modeling approach, and can be tailored to support decision-making around introducing or removing interventions.</div></li>
+        </ul>
+
+<h2 class="center-align">Other Resources</h2> 
+
+<h4>Screening & Surveillance</h4>
+
+<p>Mike was on <a href="https://www.microbe.tv/twiv/twiv-640/">This Week in Virology</a> to talk about how we can break the back of this thing with cheap tests and fast turnaround times.</p>
+
+<p>The MGGG Team at Tufts made a nice <a href="https://mggg.github.io/uni-calculator/">university scenario planner</a>.</p>
+
+<h4>SARS-CoV-2 Serology</h4>
+
+<p><a href="http://twitter.com/DrJarlov">Henrik Jarlov</a> has compiled a comprehensive list of serological studies worldwide, available in a <a href="https://docs.google.com/spreadsheets/d/17Tf1Ln9VuE5ovpnhLRBJH-33L5KRaiB3NhvaiF3hWC0/edit#gid=0">Google Sheet</a>.</p>
+
+<p>The <a href="https://covidtracking.com/">COVID Tracking Project</a> has aggregated data on serological testing into <a href="http://airtable.com/shrGVEvpWp12RyLAI">an Airtable</a>.</p>
+
+<p>FindDx has created a <a href="https://finddx.shinyapps.io/COVID19DxData/">test kit roundup</a>, scattered by sensitivity and specificity. Hover over a data point to learn about the test and its calibration data.</p>
             
             
             
-            
-                           <h1 class="center-align">Literature</h1> 
+<!--             
+<h1 class="center-align">Literature</h1> 
         <div class="center-align">
             <img src="assets/images/covid/li_peer.png" height="16" width="16" style="margin-right: 4px; margin-left: 16px;">
             Peer Reviewed
@@ -272,7 +299,7 @@ self-administered sample collection for accurate large-scale SARS-CoV-2 testing.
 		<li>
 			<div class="collapsible-header"><img src="assets/images/covid/li_prep.png" height="16" width="16" style="margin-right: 10px;">SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation</div>
 			<div class="collapsible-body"><strong>Zhang</strong> et al. 4/3/2020 [<a href="https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1">link</a>]<br><strong>Summary — </strong>Previous studies suggested cat could be a potential susceptible animal of SARS-CoV-2. We investigated the infection of SARS-CoV-2 in cats by detecting specific serum antibodies. 15 of 102 (14.7%) cat sera collected after the outbreak were positive for the receptor binding domain of SARS-CoV-2 by ELISA, demonstrating that SARS-CoV-2 has infected the cat population in Wuhan during the outbreak</div></li></li>
-	</ul>
+	</ul> -->
 
 
         <footer class="page-footer">
