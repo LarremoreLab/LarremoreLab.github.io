@@ -1,0 +1,356 @@
+has,prefers,count
+"Stanford","Stanford",9
+"UC Berkeley","UC Berkeley",7
+"MIT","MIT",27
+"Caltech","Caltech",2
+"Harvard","Harvard",2
+"Cornell","Cornell",3
+"Carnegie Mellon","Carnegie Mellon",23
+"Princeton","Princeton",2
+"Yale","Yale",0
+"Washington","Washington",2
+"Illinois, Urb. Champ.","Illinois, Urb. Champ.",3
+"Wisconsin, Madison","Wisconsin, Madison",1
+"UPenn","UPenn",1
+"Rice","Rice",2
+"UCLA","UCLA",4
+"NYU","NYU",1
+"Chicago","Chicago",0
+"UT, Austin","UT, Austin",2
+"Brown","Brown",1
+"Columbia","Columbia",1
+"Toronto","Toronto",17
+"Rochester","Rochester",2
+"Southern California","Southern California",3
+"Johns Hopkins","Johns Hopkins",0
+"UMass, Amherst","UMass, Amherst",2
+"Lower 180 Universities","Lower 180 Universities",1977
+"UC Berkeley","Stanford",8
+"MIT","Stanford",8
+"Caltech","Stanford",3
+"Harvard","Stanford",2
+"Cornell","Stanford",3
+"Carnegie Mellon","Stanford",5
+"Princeton","Stanford",1
+"Yale","Stanford",1
+"Wisconsin, Madison","Stanford",1
+"UCLA","Stanford",2
+"Lower 180 Universities","Stanford",4
+"Stanford","UC Berkeley",9
+"MIT","UC Berkeley",8
+"Caltech","UC Berkeley",1
+"Harvard","UC Berkeley",2
+"Carnegie Mellon","UC Berkeley",5
+"Princeton","UC Berkeley",1
+"Washington","UC Berkeley",1
+"Illinois, Urb. Champ.","UC Berkeley",1
+"Wisconsin, Madison","UC Berkeley",2
+"UCLA","UC Berkeley",1
+"Chicago","UC Berkeley",1
+"Lower 180 Universities","UC Berkeley",4
+"Stanford","MIT",14
+"UC Berkeley","MIT",12
+"Caltech","MIT",2
+"Harvard","MIT",3
+"Cornell","MIT",1
+"Carnegie Mellon","MIT",2
+"Princeton","MIT",1
+"Rice","MIT",1
+"Columbia","MIT",1
+"Toronto","MIT",1
+"Lower 180 Universities","MIT",2
+"UC Berkeley","Caltech",2
+"MIT","Caltech",4
+"Carnegie Mellon","Caltech",3
+"Princeton","Caltech",1
+"Lower 180 Universities","Caltech",1
+"Stanford","Harvard",2
+"UC Berkeley","Harvard",3
+"MIT","Harvard",2
+"Cornell","Harvard",1
+"Carnegie Mellon","Harvard",2
+"Princeton","Harvard",3
+"Washington","Harvard",1
+"UPenn","Harvard",1
+"UMass, Amherst","Harvard",1
+"Lower 180 Universities","Harvard",2
+"Stanford","Cornell",7
+"UC Berkeley","Cornell",5
+"MIT","Cornell",8
+"Caltech","Cornell",3
+"Harvard","Cornell",2
+"Carnegie Mellon","Cornell",1
+"Washington","Cornell",2
+"Illinois, Urb. Champ.","Cornell",2
+"Wisconsin, Madison","Cornell",2
+"UPenn","Cornell",2
+"Chicago","Cornell",1
+"Toronto","Cornell",1
+"Southern California","Cornell",1
+"UMass, Amherst","Cornell",2
+"Lower 180 Universities","Cornell",5
+"Stanford","Carnegie Mellon",11
+"UC Berkeley","Carnegie Mellon",15
+"MIT","Carnegie Mellon",17
+"Caltech","Carnegie Mellon",2
+"Harvard","Carnegie Mellon",4
+"Cornell","Carnegie Mellon",3
+"Princeton","Carnegie Mellon",1
+"Yale","Carnegie Mellon",4
+"Washington","Carnegie Mellon",2
+"Wisconsin, Madison","Carnegie Mellon",1
+"UCLA","Carnegie Mellon",1
+"Chicago","Carnegie Mellon",3
+"UT, Austin","Carnegie Mellon",1
+"Brown","Carnegie Mellon",1
+"Columbia","Carnegie Mellon",3
+"Toronto","Carnegie Mellon",3
+"Johns Hopkins","Carnegie Mellon",1
+"UMass, Amherst","Carnegie Mellon",2
+"Lower 180 Universities","Carnegie Mellon",18
+"Stanford","Princeton",7
+"UC Berkeley","Princeton",3
+"MIT","Princeton",3
+"Harvard","Princeton",1
+"Cornell","Princeton",1
+"Carnegie Mellon","Princeton",2
+"Yale","Princeton",2
+"Washington","Princeton",2
+"Illinois, Urb. Champ.","Princeton",1
+"Rice","Princeton",1
+"Toronto","Princeton",1
+"Lower 180 Universities","Princeton",2
+"Stanford","Yale",2
+"UC Berkeley","Yale",1
+"MIT","Yale",5
+"Harvard","Yale",2
+"Cornell","Yale",2
+"Carnegie Mellon","Yale",1
+"Princeton","Yale",1
+"Rice","Yale",1
+"UT, Austin","Yale",1
+"Lower 180 Universities","Yale",4
+"Stanford","Washington",5
+"UC Berkeley","Washington",7
+"MIT","Washington",7
+"Caltech","Washington",1
+"Cornell","Washington",1
+"Carnegie Mellon","Washington",6
+"Princeton","Washington",1
+"Illinois, Urb. Champ.","Washington",1
+"Wisconsin, Madison","Washington",1
+"UPenn","Washington",1
+"UT, Austin","Washington",1
+"Toronto","Washington",4
+"Rochester","Washington",1
+"Lower 180 Universities","Washington",6
+"Stanford","Illinois, Urb. Champ.",6
+"UC Berkeley","Illinois, Urb. Champ.",4
+"MIT","Illinois, Urb. Champ.",3
+"Caltech","Illinois, Urb. Champ.",1
+"Harvard","Illinois, Urb. Champ.",1
+"Cornell","Illinois, Urb. Champ.",2
+"Carnegie Mellon","Illinois, Urb. Champ.",3
+"Princeton","Illinois, Urb. Champ.",1
+"Yale","Illinois, Urb. Champ.",2
+"Washington","Illinois, Urb. Champ.",1
+"Wisconsin, Madison","Illinois, Urb. Champ.",5
+"UPenn","Illinois, Urb. Champ.",1
+"Lower 180 Universities","Illinois, Urb. Champ.",13
+"Stanford","Wisconsin, Madison",2
+"UC Berkeley","Wisconsin, Madison",7
+"MIT","Wisconsin, Madison",2
+"Cornell","Wisconsin, Madison",3
+"Carnegie Mellon","Wisconsin, Madison",6
+"Washington","Wisconsin, Madison",4
+"Illinois, Urb. Champ.","Wisconsin, Madison",3
+"UCLA","Wisconsin, Madison",1
+"Chicago","Wisconsin, Madison",1
+"UT, Austin","Wisconsin, Madison",1
+"Lower 180 Universities","Wisconsin, Madison",5
+"Stanford","UPenn",4
+"UC Berkeley","UPenn",3
+"MIT","UPenn",3
+"Harvard","UPenn",1
+"Cornell","UPenn",3
+"Carnegie Mellon","UPenn",2
+"Princeton","UPenn",2
+"Yale","UPenn",1
+"Washington","UPenn",1
+"Wisconsin, Madison","UPenn",3
+"Rice","UPenn",1
+"UCLA","UPenn",1
+"Columbia","UPenn",2
+"Toronto","UPenn",1
+"Stanford","Rice",4
+"MIT","Rice",2
+"Cornell","Rice",1
+"Carnegie Mellon","Rice",1
+"Princeton","Rice",1
+"UT, Austin","Rice",2
+"Rochester","Rice",2
+"Johns Hopkins","Rice",1
+"Lower 180 Universities","Rice",1
+"Stanford","UCLA",4
+"UC Berkeley","UCLA",4
+"MIT","UCLA",7
+"Caltech","UCLA",1
+"Harvard","UCLA",1
+"Carnegie Mellon","UCLA",1
+"Yale","UCLA",1
+"Washington","UCLA",1
+"Illinois, Urb. Champ.","UCLA",5
+"UPenn","UCLA",1
+"NYU","UCLA",1
+"Columbia","UCLA",1
+"Toronto","UCLA",1
+"Lower 180 Universities","UCLA",2
+"Stanford","NYU",5
+"UC Berkeley","NYU",2
+"MIT","NYU",2
+"Caltech","NYU",1
+"Harvard","NYU",2
+"Cornell","NYU",1
+"Carnegie Mellon","NYU",1
+"Princeton","NYU",1
+"Yale","NYU",3
+"Washington","NYU",2
+"Wisconsin, Madison","NYU",1
+"Columbia","NYU",1
+"Stanford","Chicago",1
+"MIT","Chicago",5
+"Cornell","Chicago",5
+"Carnegie Mellon","Chicago",1
+"Princeton","Chicago",1
+"Illinois, Urb. Champ.","Chicago",2
+"Rice","Chicago",1
+"Columbia","Chicago",1
+"Lower 180 Universities","Chicago",1
+"Stanford","UT, Austin",2
+"UC Berkeley","UT, Austin",4
+"MIT","UT, Austin",7
+"Caltech","UT, Austin",1
+"Harvard","UT, Austin",1
+"Cornell","UT, Austin",4
+"Carnegie Mellon","UT, Austin",2
+"Princeton","UT, Austin",2
+"Washington","UT, Austin",1
+"Illinois, Urb. Champ.","UT, Austin",1
+"Rice","UT, Austin",1
+"UCLA","UT, Austin",2
+"Chicago","UT, Austin",1
+"Brown","UT, Austin",1
+"Columbia","UT, Austin",1
+"Toronto","UT, Austin",1
+"Johns Hopkins","UT, Austin",1
+"Lower 180 Universities","UT, Austin",6
+"UC Berkeley","Brown",2
+"MIT","Brown",8
+"Caltech","Brown",1
+"Carnegie Mellon","Brown",1
+"Yale","Brown",1
+"Illinois, Urb. Champ.","Brown",1
+"UPenn","Brown",1
+"Rice","Brown",1
+"NYU","Brown",1
+"Southern California","Brown",1
+"Lower 180 Universities","Brown",2
+"Stanford","Columbia",5
+"UC Berkeley","Columbia",3
+"MIT","Columbia",4
+"Harvard","Columbia",2
+"Carnegie Mellon","Columbia",3
+"Princeton","Columbia",2
+"Washington","Columbia",1
+"UPenn","Columbia",5
+"UCLA","Columbia",1
+"NYU","Columbia",1
+"UT, Austin","Columbia",1
+"Brown","Columbia",1
+"UMass, Amherst","Columbia",3
+"Lower 180 Universities","Columbia",2
+"Stanford","Toronto",2
+"UC Berkeley","Toronto",1
+"MIT","Toronto",4
+"Caltech","Toronto",1
+"Harvard","Toronto",2
+"Cornell","Toronto",1
+"Carnegie Mellon","Toronto",5
+"Princeton","Toronto",1
+"Illinois, Urb. Champ.","Toronto",1
+"Wisconsin, Madison","Toronto",2
+"Rice","Toronto",1
+"NYU","Toronto",1
+"Brown","Toronto",1
+"Lower 180 Universities","Toronto",10
+"Stanford","Rochester",1
+"UC Berkeley","Rochester",1
+"MIT","Rochester",2
+"Cornell","Rochester",3
+"Washington","Rochester",1
+"Illinois, Urb. Champ.","Rochester",1
+"Wisconsin, Madison","Rochester",1
+"Rice","Rochester",1
+"Chicago","Rochester",2
+"Brown","Rochester",1
+"Toronto","Rochester",2
+"UMass, Amherst","Rochester",1
+"Lower 180 Universities","Rochester",3
+"Stanford","Southern California",1
+"UC Berkeley","Southern California",2
+"MIT","Southern California",3
+"Caltech","Southern California",1
+"Cornell","Southern California",1
+"Carnegie Mellon","Southern California",6
+"Princeton","Southern California",1
+"Wisconsin, Madison","Southern California",2
+"UPenn","Southern California",1
+"UCLA","Southern California",2
+"Rochester","Southern California",1
+"Lower 180 Universities","Southern California",3
+"Stanford","Johns Hopkins",2
+"MIT","Johns Hopkins",1
+"Cornell","Johns Hopkins",1
+"Princeton","Johns Hopkins",1
+"UPenn","Johns Hopkins",4
+"UCLA","Johns Hopkins",2
+"Brown","Johns Hopkins",1
+"Lower 180 Universities","Johns Hopkins",3
+"Stanford","UMass, Amherst",2
+"UC Berkeley","UMass, Amherst",3
+"MIT","UMass, Amherst",6
+"Cornell","UMass, Amherst",2
+"Princeton","UMass, Amherst",1
+"Yale","UMass, Amherst",1
+"Washington","UMass, Amherst",1
+"UPenn","UMass, Amherst",1
+"UCLA","UMass, Amherst",1
+"UT, Austin","UMass, Amherst",6
+"Columbia","UMass, Amherst",1
+"Rochester","UMass, Amherst",1
+"Lower 180 Universities","UMass, Amherst",11
+"Stanford","Lower 180 Universities",82
+"UC Berkeley","Lower 180 Universities",105
+"MIT","Lower 180 Universities",151
+"Caltech","Lower 180 Universities",19
+"Harvard","Lower 180 Universities",40
+"Cornell","Lower 180 Universities",71
+"Carnegie Mellon","Lower 180 Universities",84
+"Princeton","Lower 180 Universities",56
+"Yale","Lower 180 Universities",31
+"Washington","Lower 180 Universities",53
+"Illinois, Urb. Champ.","Lower 180 Universities",142
+"Wisconsin, Madison","Lower 180 Universities",65
+"UPenn","Lower 180 Universities",65
+"Rice","Lower 180 Universities",31
+"UCLA","Lower 180 Universities",46
+"NYU","Lower 180 Universities",23
+"Chicago","Lower 180 Universities",19
+"UT, Austin","Lower 180 Universities",79
+"Brown","Lower 180 Universities",46
+"Columbia","Lower 180 Universities",35
+"Toronto","Lower 180 Universities",113
+"Rochester","Lower 180 Universities",26
+"Southern California","Lower 180 Universities",44
+"Johns Hopkins","Lower 180 Universities",16
+"UMass, Amherst","Lower 180 Universities",69

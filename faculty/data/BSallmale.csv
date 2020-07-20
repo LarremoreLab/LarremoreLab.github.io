@@ -1,0 +1,2959 @@
+has,prefers,count
+"Stanford","Stanford",17
+"MIT","MIT",21
+"Harvard","Harvard",50
+"UC Berkeley","UC Berkeley",2
+"Rochester","Rochester",2
+"Chicago","Chicago",10
+"Cornell","Cornell",2
+"Northwestern","Northwestern",6
+"Michigan","Michigan",12
+"Columbia","Columbia",8
+"Yale","Yale",8
+"UPenn","UPenn",7
+"Carnegie Mellon","Carnegie Mellon",3
+"Wisconsin","Wisconsin",7
+"UCLA","UCLA",5
+"NYU","NYU",8
+"Minnesota","Minnesota",5
+"Illinois, Urb. Champ.","Illinois, Urb. Champ.",4
+"Duke","Duke",4
+"Purdue","Purdue",9
+"Ohio State","Ohio State",7
+"Iowa","Iowa",8
+"UNC","UNC",5
+"Wash. U. in St. Louis","Wash. U. in St. Louis",0
+"Florida","Florida",3
+"UT Austin","UT Austin",9
+"Pittsburgh","Pittsburgh",2
+"Penn State","Penn State",4
+"Washington","Washington",1
+"Maryland","Maryland",3
+"Indiana","Indiana",10
+"Michigan State","Michigan State",12
+"Georgia Tech","Georgia Tech",3
+"Colorado, Boulder","Colorado, Boulder",0
+"UC Irvine","UC Irvine",0
+"Arizona","Arizona",3
+"Utah","Utah",0
+"Oregon","Oregon",1
+"USC","USC",13
+"SUNY Buffalo","SUNY Buffalo",1
+"UT Dallas","UT Dallas",2
+"Virginia","Virginia",3
+"Boston","Boston",3
+"UMass Amherst","UMass Amherst",6
+"TexasAM","TexasAM",3
+"Emory","Emory",0
+"Case Western","Case Western",7
+"UC Davis","UC Davis",1
+"Georgia","Georgia",2
+"Vanderbilt","Vanderbilt",0
+"Syracuse","Syracuse",2
+"Claremont","Claremont",0
+"Arizona State","Arizona State",4
+"South Carolina","South Carolina",0
+"Virginia Tech","Virginia Tech",3
+"Florida State","Florida State",6
+"Oklahoma","Oklahoma",4
+"Tulane","Tulane",2
+"UConn","UConn",2
+"Boston College","Boston College",1
+"Cincinnati","Cincinnati",3
+"Houston","Houston",8
+"Rutgers","Rutgers",1
+"Kansas","Kansas",2
+"Louisiana State","Louisiana State",3
+"Arkansas","Arkansas",3
+"Tennessee","Tennessee",5
+"Dartmouth","Dartmouth",0
+"Kentucky","Kentucky",6
+"Rice","Rice",1
+"SMU","SMU",0
+"Temple","Temple",8
+"George Washington","George Washington",8
+"Alabama","Alabama",2
+"Oklahoma State","Oklahoma State",6
+"SUNY Binghamton","SUNY Binghamton",0
+"Iowa State","Iowa State",0
+"CUNY Baruch","CUNY Baruch",0
+"Hawaii","Hawaii",0
+"Mississippi","Mississippi",1
+"Missouri, St. Louis","Missouri, St. Louis",0
+"Georgetown","Georgetown",0
+"Drexel","Drexel",2
+"Auburn","Auburn",0
+"Notre Dame","Notre Dame",3
+"NC State","NC State",1
+"Miami","Miami",0
+"Saint Louis","Saint Louis",3
+"Worcester","Worcester",0
+"William and Mary","William and Mary",1
+"Clarkson","Clarkson",0
+"Brigham Young","Brigham Young",1
+"Fordham","Fordham",0
+"Santa Clara","Santa Clara",0
+"Portland State","Portland State",0
+"Rollins","Rollins",0
+"Northeastern","Northeastern",0
+"Miami at Ohio","Miami at Ohio",0
+"Bentley","Bentley",0
+"Howard","Howard",1
+"Rochester Inst. Tech.","Rochester Inst. Tech.",0
+"Texas Christian","Texas Christian",0
+"Abilene","Abilene",0
+"Babson","Babson",0
+"Pepperdine","Pepperdine",0
+"Denver","Denver",0
+"Wake Forest","Wake Forest",0
+"Thunderbird","Thunderbird",0
+"Pace","Pace",0
+"Baylor","Baylor",2
+"DePaul","DePaul",1
+"Hofstra","Hofstra",2
+"MIT","Stanford",10
+"Harvard","Stanford",7
+"UC Berkeley","Stanford",6
+"Rochester","Stanford",3
+"Chicago","Stanford",2
+"Cornell","Stanford",1
+"Northwestern","Stanford",3
+"Michigan","Stanford",1
+"Columbia","Stanford",1
+"Yale","Stanford",4
+"UPenn","Stanford",2
+"Carnegie Mellon","Stanford",2
+"Wisconsin","Stanford",1
+"UCLA","Stanford",4
+"NYU","Stanford",1
+"Minnesota","Stanford",1
+"Duke","Stanford",4
+"Ohio State","Stanford",2
+"Iowa","Stanford",1
+"UNC","Stanford",1
+"Case Western","Stanford",1
+"Kansas","Stanford",1
+"Stanford","MIT",18
+"Harvard","MIT",10
+"UC Berkeley","MIT",2
+"Rochester","MIT",1
+"Chicago","MIT",8
+"Cornell","MIT",3
+"Michigan","MIT",1
+"Columbia","MIT",1
+"Yale","MIT",1
+"UPenn","MIT",6
+"Wisconsin","MIT",2
+"NYU","MIT",1
+"Iowa","MIT",1
+"Penn State","MIT",1
+"UC Irvine","MIT",1
+"Arizona State","MIT",1
+"Stanford","Harvard",15
+"MIT","Harvard",21
+"UC Berkeley","Harvard",6
+"Rochester","Harvard",4
+"Chicago","Harvard",6
+"Cornell","Harvard",4
+"Northwestern","Harvard",4
+"Michigan","Harvard",4
+"Columbia","Harvard",3
+"Yale","Harvard",2
+"UPenn","Harvard",4
+"Carnegie Mellon","Harvard",3
+"UCLA","Harvard",2
+"NYU","Harvard",2
+"Duke","Harvard",3
+"Purdue","Harvard",2
+"Pittsburgh","Harvard",2
+"Boston","Harvard",1
+"Stanford","UC Berkeley",14
+"MIT","UC Berkeley",8
+"Harvard","UC Berkeley",7
+"Rochester","UC Berkeley",1
+"Chicago","UC Berkeley",3
+"Cornell","UC Berkeley",1
+"Northwestern","UC Berkeley",1
+"Columbia","UC Berkeley",2
+"Yale","UC Berkeley",2
+"UPenn","UC Berkeley",2
+"Wisconsin","UC Berkeley",5
+"UCLA","UC Berkeley",1
+"NYU","UC Berkeley",1
+"Minnesota","UC Berkeley",1
+"Florida","UC Berkeley",1
+"Penn State","UC Berkeley",1
+"Northeastern","UC Berkeley",1
+"Stanford","Rochester",1
+"MIT","Rochester",3
+"Harvard","Rochester",2
+"UC Berkeley","Rochester",2
+"Chicago","Rochester",4
+"Northwestern","Rochester",2
+"Columbia","Rochester",1
+"UPenn","Rochester",2
+"Carnegie Mellon","Rochester",1
+"UCLA","Rochester",1
+"Duke","Rochester",1
+"Purdue","Rochester",1
+"UNC","Rochester",2
+"Georgia Tech","Rochester",1
+"Arizona","Rochester",1
+"Oregon","Rochester",1
+"SUNY Buffalo","Rochester",1
+"Stanford","Chicago",4
+"MIT","Chicago",16
+"Harvard","Chicago",14
+"UC Berkeley","Chicago",3
+"Rochester","Chicago",3
+"Cornell","Chicago",2
+"Northwestern","Chicago",4
+"Michigan","Chicago",5
+"Columbia","Chicago",1
+"Yale","Chicago",7
+"UPenn","Chicago",3
+"Wisconsin","Chicago",1
+"UCLA","Chicago",4
+"NYU","Chicago",2
+"Illinois, Urb. Champ.","Chicago",1
+"Duke","Chicago",3
+"Purdue","Chicago",1
+"UNC","Chicago",1
+"Pittsburgh","Chicago",1
+"Penn State","Chicago",1
+"Washington","Chicago",1
+"Maryland","Chicago",1
+"Indiana","Chicago",1
+"Georgia Tech","Chicago",2
+"Arizona","Chicago",1
+"SUNY Buffalo","Chicago",1
+"Cincinnati","Chicago",1
+"Stanford","Cornell",1
+"MIT","Cornell",3
+"Harvard","Cornell",1
+"UC Berkeley","Cornell",2
+"Chicago","Cornell",3
+"Northwestern","Cornell",1
+"Michigan","Cornell",7
+"Yale","Cornell",2
+"UPenn","Cornell",4
+"Carnegie Mellon","Cornell",2
+"UCLA","Cornell",2
+"NYU","Cornell",3
+"Illinois, Urb. Champ.","Cornell",3
+"Ohio State","Cornell",2
+"Florida","Cornell",1
+"Penn State","Cornell",1
+"Stanford","Northwestern",15
+"MIT","Northwestern",15
+"Harvard","Northwestern",7
+"UC Berkeley","Northwestern",3
+"Rochester","Northwestern",6
+"Chicago","Northwestern",4
+"Cornell","Northwestern",3
+"Michigan","Northwestern",2
+"Columbia","Northwestern",7
+"Yale","Northwestern",1
+"UPenn","Northwestern",7
+"Carnegie Mellon","Northwestern",2
+"Wisconsin","Northwestern",2
+"Minnesota","Northwestern",1
+"Illinois, Urb. Champ.","Northwestern",1
+"Duke","Northwestern",4
+"Purdue","Northwestern",1
+"Ohio State","Northwestern",3
+"UNC","Northwestern",1
+"Wash. U. in St. Louis","Northwestern",1
+"UT Austin","Northwestern",1
+"Pittsburgh","Northwestern",1
+"Penn State","Northwestern",1
+"Maryland","Northwestern",2
+"Indiana","Northwestern",1
+"Michigan State","Northwestern",1
+"Georgia Tech","Northwestern",1
+"Arizona","Northwestern",1
+"Boston","Northwestern",1
+"TexasAM","Northwestern",1
+"Stanford","Michigan",7
+"MIT","Michigan",4
+"Harvard","Michigan",5
+"Rochester","Michigan",1
+"Chicago","Michigan",5
+"Cornell","Michigan",1
+"Northwestern","Michigan",10
+"Columbia","Michigan",2
+"Yale","Michigan",3
+"UPenn","Michigan",11
+"Carnegie Mellon","Michigan",6
+"Wisconsin","Michigan",1
+"UCLA","Michigan",2
+"NYU","Michigan",1
+"Purdue","Michigan",1
+"Ohio State","Michigan",1
+"UNC","Michigan",2
+"Penn State","Michigan",2
+"Maryland","Michigan",1
+"Michigan State","Michigan",2
+"UC Irvine","Michigan",1
+"USC","Michigan",1
+"SUNY Buffalo","Michigan",1
+"Cincinnati","Michigan",1
+"Stanford","Columbia",13
+"MIT","Columbia",13
+"Harvard","Columbia",10
+"UC Berkeley","Columbia",5
+"Chicago","Columbia",6
+"Cornell","Columbia",5
+"Northwestern","Columbia",3
+"Michigan","Columbia",2
+"Yale","Columbia",2
+"UPenn","Columbia",6
+"Carnegie Mellon","Columbia",4
+"UCLA","Columbia",1
+"NYU","Columbia",6
+"Duke","Columbia",1
+"Purdue","Columbia",1
+"UNC","Columbia",1
+"Florida","Columbia",1
+"Washington","Columbia",2
+"Stanford","Yale",2
+"MIT","Yale",8
+"Harvard","Yale",6
+"UC Berkeley","Yale",1
+"Rochester","Yale",2
+"Chicago","Yale",5
+"Cornell","Yale",1
+"Michigan","Yale",3
+"Columbia","Yale",1
+"UPenn","Yale",1
+"Carnegie Mellon","Yale",5
+"Wisconsin","Yale",1
+"UCLA","Yale",1
+"NYU","Yale",2
+"Minnesota","Yale",1
+"Duke","Yale",1
+"Maryland","Yale",1
+"Stanford","UPenn",21
+"MIT","UPenn",24
+"Harvard","UPenn",23
+"UC Berkeley","UPenn",7
+"Rochester","UPenn",4
+"Chicago","UPenn",14
+"Cornell","UPenn",6
+"Northwestern","UPenn",7
+"Michigan","UPenn",6
+"Columbia","UPenn",5
+"Yale","UPenn",3
+"Carnegie Mellon","UPenn",4
+"Wisconsin","UPenn",1
+"NYU","UPenn",1
+"Minnesota","UPenn",2
+"Illinois, Urb. Champ.","UPenn",1
+"Duke","UPenn",2
+"Purdue","UPenn",1
+"Iowa","UPenn",1
+"Florida","UPenn",1
+"UT Austin","UPenn",1
+"Penn State","UPenn",1
+"Maryland","UPenn",1
+"Indiana","UPenn",1
+"Arizona","UPenn",1
+"SUNY Buffalo","UPenn",1
+"Virginia","UPenn",1
+"TexasAM","UPenn",1
+"Rutgers","UPenn",1
+"Kansas","UPenn",1
+"Iowa State","UPenn",1
+"Stanford","Carnegie Mellon",3
+"MIT","Carnegie Mellon",3
+"Harvard","Carnegie Mellon",1
+"Rochester","Carnegie Mellon",2
+"Chicago","Carnegie Mellon",4
+"Cornell","Carnegie Mellon",4
+"Northwestern","Carnegie Mellon",2
+"Michigan","Carnegie Mellon",2
+"Columbia","Carnegie Mellon",1
+"Yale","Carnegie Mellon",1
+"UPenn","Carnegie Mellon",4
+"Wisconsin","Carnegie Mellon",2
+"UCLA","Carnegie Mellon",3
+"NYU","Carnegie Mellon",1
+"Minnesota","Carnegie Mellon",5
+"Purdue","Carnegie Mellon",2
+"Ohio State","Carnegie Mellon",1
+"Florida","Carnegie Mellon",1
+"Pittsburgh","Carnegie Mellon",1
+"Penn State","Carnegie Mellon",1
+"Washington","Carnegie Mellon",1
+"Georgia Tech","Carnegie Mellon",1
+"UC Irvine","Carnegie Mellon",1
+"USC","Carnegie Mellon",1
+"Houston","Carnegie Mellon",1
+"Tennessee","Carnegie Mellon",1
+"Rice","Carnegie Mellon",2
+"Stanford","Wisconsin",3
+"MIT","Wisconsin",1
+"Harvard","Wisconsin",1
+"UC Berkeley","Wisconsin",1
+"Chicago","Wisconsin",3
+"Cornell","Wisconsin",2
+"Northwestern","Wisconsin",2
+"Michigan","Wisconsin",3
+"Yale","Wisconsin",1
+"UPenn","Wisconsin",6
+"UCLA","Wisconsin",1
+"Minnesota","Wisconsin",2
+"Illinois, Urb. Champ.","Wisconsin",3
+"Duke","Wisconsin",1
+"Purdue","Wisconsin",1
+"Ohio State","Wisconsin",2
+"Iowa","Wisconsin",2
+"UNC","Wisconsin",2
+"UT Austin","Wisconsin",1
+"Maryland","Wisconsin",1
+"Michigan State","Wisconsin",1
+"Georgia Tech","Wisconsin",1
+"Arizona","Wisconsin",1
+"USC","Wisconsin",1
+"Emory","Wisconsin",1
+"Tennessee","Wisconsin",1
+"George Washington","Wisconsin",1
+"Stanford","UCLA",15
+"MIT","UCLA",6
+"Harvard","UCLA",6
+"UC Berkeley","UCLA",9
+"Chicago","UCLA",10
+"Cornell","UCLA",1
+"Northwestern","UCLA",1
+"Michigan","UCLA",2
+"Columbia","UCLA",3
+"Yale","UCLA",2
+"UPenn","UCLA",2
+"Wisconsin","UCLA",1
+"Duke","UCLA",2
+"Purdue","UCLA",2
+"UT Austin","UCLA",1
+"Washington","UCLA",1
+"Indiana","UCLA",1
+"Arizona State","UCLA",1
+"Stanford","NYU",17
+"MIT","NYU",9
+"Harvard","NYU",13
+"UC Berkeley","NYU",6
+"Rochester","NYU",5
+"Chicago","NYU",9
+"Cornell","NYU",5
+"Northwestern","NYU",8
+"Michigan","NYU",3
+"Columbia","NYU",7
+"Yale","NYU",2
+"UPenn","NYU",9
+"Carnegie Mellon","NYU",4
+"Wisconsin","NYU",1
+"UCLA","NYU",2
+"Minnesota","NYU",1
+"Duke","NYU",1
+"Ohio State","NYU",1
+"Iowa","NYU",1
+"Florida","NYU",2
+"Pittsburgh","NYU",3
+"Washington","NYU",1
+"Michigan State","NYU",1
+"Georgia Tech","NYU",1
+"George Washington","NYU",1
+"Iowa State","NYU",1
+"Stanford","Minnesota",4
+"MIT","Minnesota",1
+"Harvard","Minnesota",3
+"UC Berkeley","Minnesota",3
+"Rochester","Minnesota",1
+"Chicago","Minnesota",2
+"Northwestern","Minnesota",2
+"Michigan","Minnesota",4
+"Columbia","Minnesota",2
+"Yale","Minnesota",1
+"UPenn","Minnesota",8
+"Carnegie Mellon","Minnesota",2
+"Wisconsin","Minnesota",6
+"NYU","Minnesota",4
+"Illinois, Urb. Champ.","Minnesota",5
+"Purdue","Minnesota",2
+"Ohio State","Minnesota",2
+"Iowa","Minnesota",2
+"UNC","Minnesota",1
+"UT Austin","Minnesota",2
+"Maryland","Minnesota",1
+"Indiana","Minnesota",1
+"Michigan State","Minnesota",1
+"USC","Minnesota",1
+"Boston","Minnesota",1
+"Case Western","Minnesota",1
+"Georgia","Minnesota",1
+"Arizona State","Minnesota",1
+"Virginia Tech","Minnesota",1
+"Tulane","Minnesota",1
+"UConn","Minnesota",1
+"Arkansas","Minnesota",1
+"Mississippi","Minnesota",1
+"Stanford","Illinois, Urb. Champ.",2
+"MIT","Illinois, Urb. Champ.",4
+"Harvard","Illinois, Urb. Champ.",3
+"UC Berkeley","Illinois, Urb. Champ.",6
+"Rochester","Illinois, Urb. Champ.",2
+"Chicago","Illinois, Urb. Champ.",3
+"Cornell","Illinois, Urb. Champ.",3
+"Northwestern","Illinois, Urb. Champ.",4
+"Michigan","Illinois, Urb. Champ.",6
+"Columbia","Illinois, Urb. Champ.",2
+"UPenn","Illinois, Urb. Champ.",1
+"Carnegie Mellon","Illinois, Urb. Champ.",1
+"UCLA","Illinois, Urb. Champ.",1
+"NYU","Illinois, Urb. Champ.",1
+"Minnesota","Illinois, Urb. Champ.",2
+"Purdue","Illinois, Urb. Champ.",3
+"Ohio State","Illinois, Urb. Champ.",3
+"Iowa","Illinois, Urb. Champ.",1
+"Florida","Illinois, Urb. Champ.",2
+"UT Austin","Illinois, Urb. Champ.",4
+"Penn State","Illinois, Urb. Champ.",2
+"Indiana","Illinois, Urb. Champ.",1
+"Arizona","Illinois, Urb. Champ.",1
+"USC","Illinois, Urb. Champ.",1
+"SUNY Buffalo","Illinois, Urb. Champ.",1
+"Boston","Illinois, Urb. Champ.",1
+"Houston","Illinois, Urb. Champ.",1
+"Tennessee","Illinois, Urb. Champ.",1
+"Stanford","Duke",10
+"MIT","Duke",3
+"Harvard","Duke",1
+"UC Berkeley","Duke",6
+"Chicago","Duke",8
+"Northwestern","Duke",2
+"Michigan","Duke",3
+"Columbia","Duke",3
+"Yale","Duke",2
+"UPenn","Duke",5
+"Carnegie Mellon","Duke",4
+"UCLA","Duke",1
+"NYU","Duke",1
+"Minnesota","Duke",2
+"Illinois, Urb. Champ.","Duke",2
+"Iowa","Duke",1
+"UNC","Duke",2
+"UT Austin","Duke",2
+"UC Irvine","Duke",2
+"Virginia","Duke",1
+"Rutgers","Duke",1
+"Iowa State","Duke",1
+"NC State","Duke",1
+"Stanford","Purdue",1
+"MIT","Purdue",2
+"Rochester","Purdue",3
+"Chicago","Purdue",2
+"Cornell","Purdue",2
+"Northwestern","Purdue",1
+"Michigan","Purdue",5
+"Columbia","Purdue",1
+"Yale","Purdue",2
+"UPenn","Purdue",3
+"Carnegie Mellon","Purdue",6
+"Wisconsin","Purdue",1
+"UCLA","Purdue",1
+"Minnesota","Purdue",3
+"Illinois, Urb. Champ.","Purdue",1
+"Ohio State","Purdue",1
+"Iowa","Purdue",3
+"Wash. U. in St. Louis","Purdue",1
+"Pittsburgh","Purdue",1
+"Washington","Purdue",1
+"Michigan State","Purdue",1
+"Georgia Tech","Purdue",1
+"Boston","Purdue",1
+"Emory","Purdue",1
+"Georgia","Purdue",1
+"Louisiana State","Purdue",1
+"Tennessee","Purdue",1
+"Kentucky","Purdue",1
+"NC State","Purdue",1
+"Stanford","Ohio State",1
+"MIT","Ohio State",4
+"Harvard","Ohio State",1
+"UC Berkeley","Ohio State",2
+"Rochester","Ohio State",1
+"Chicago","Ohio State",7
+"Cornell","Ohio State",2
+"Northwestern","Ohio State",1
+"Michigan","Ohio State",1
+"Columbia","Ohio State",2
+"Yale","Ohio State",1
+"UPenn","Ohio State",3
+"Carnegie Mellon","Ohio State",1
+"Wisconsin","Ohio State",4
+"UCLA","Ohio State",2
+"NYU","Ohio State",2
+"Minnesota","Ohio State",3
+"Illinois, Urb. Champ.","Ohio State",2
+"Purdue","Ohio State",1
+"Iowa","Ohio State",1
+"UNC","Ohio State",1
+"Penn State","Ohio State",2
+"Maryland","Ohio State",1
+"Indiana","Ohio State",1
+"Michigan State","Ohio State",5
+"Arizona","Ohio State",1
+"Boston","Ohio State",1
+"Houston","Ohio State",1
+"Kansas","Ohio State",1
+"George Washington","Ohio State",1
+"Stanford","Iowa",3
+"UC Berkeley","Iowa",2
+"Rochester","Iowa",2
+"Chicago","Iowa",1
+"Cornell","Iowa",1
+"Northwestern","Iowa",5
+"Michigan","Iowa",5
+"Columbia","Iowa",1
+"UPenn","Iowa",2
+"Wisconsin","Iowa",4
+"UCLA","Iowa",1
+"Minnesota","Iowa",2
+"Illinois, Urb. Champ.","Iowa",1
+"Purdue","Iowa",3
+"Ohio State","Iowa",1
+"Wash. U. in St. Louis","Iowa",3
+"Florida","Iowa",2
+"Michigan State","Iowa",1
+"Georgia Tech","Iowa",1
+"Arizona State","Iowa",1
+"Boston College","Iowa",1
+"Kansas","Iowa",1
+"Stanford","UNC",9
+"MIT","UNC",3
+"Harvard","UNC",3
+"UC Berkeley","UNC",1
+"Rochester","UNC",1
+"Chicago","UNC",3
+"Cornell","UNC",4
+"Northwestern","UNC",4
+"Michigan","UNC",5
+"Yale","UNC",1
+"UPenn","UNC",9
+"Carnegie Mellon","UNC",3
+"Wisconsin","UNC",1
+"NYU","UNC",4
+"Minnesota","UNC",1
+"Duke","UNC",2
+"Ohio State","UNC",2
+"Iowa","UNC",1
+"UT Austin","UNC",2
+"Pittsburgh","UNC",1
+"Penn State","UNC",1
+"Maryland","UNC",1
+"Indiana","UNC",2
+"Michigan State","UNC",1
+"Arizona","UNC",2
+"USC","UNC",1
+"UMass Amherst","UNC",1
+"TexasAM","UNC",1
+"South Carolina","UNC",1
+"UConn","UNC",1
+"NC State","UNC",1
+"Stanford","Wash. U. in St. Louis",5
+"MIT","Wash. U. in St. Louis",2
+"Harvard","Wash. U. in St. Louis",2
+"UC Berkeley","Wash. U. in St. Louis",5
+"Rochester","Wash. U. in St. Louis",2
+"Chicago","Wash. U. in St. Louis",2
+"Cornell","Wash. U. in St. Louis",1
+"Northwestern","Wash. U. in St. Louis",2
+"Michigan","Wash. U. in St. Louis",2
+"Columbia","Wash. U. in St. Louis",1
+"Yale","Wash. U. in St. Louis",3
+"UPenn","Wash. U. in St. Louis",3
+"Carnegie Mellon","Wash. U. in St. Louis",1
+"UCLA","Wash. U. in St. Louis",1
+"NYU","Wash. U. in St. Louis",1
+"Minnesota","Wash. U. in St. Louis",4
+"Illinois, Urb. Champ.","Wash. U. in St. Louis",2
+"Duke","Wash. U. in St. Louis",3
+"UNC","Wash. U. in St. Louis",2
+"UT Austin","Wash. U. in St. Louis",1
+"Indiana","Wash. U. in St. Louis",1
+"Arizona","Wash. U. in St. Louis",2
+"Case Western","Wash. U. in St. Louis",1
+"Stanford","Florida",4
+"MIT","Florida",2
+"Rochester","Florida",3
+"Chicago","Florida",2
+"Northwestern","Florida",2
+"Michigan","Florida",3
+"Columbia","Florida",1
+"Yale","Florida",3
+"UPenn","Florida",3
+"Carnegie Mellon","Florida",1
+"Wisconsin","Florida",1
+"NYU","Florida",3
+"Minnesota","Florida",1
+"Illinois, Urb. Champ.","Florida",3
+"Duke","Florida",1
+"Purdue","Florida",1
+"Ohio State","Florida",1
+"UNC","Florida",1
+"Wash. U. in St. Louis","Florida",1
+"UT Austin","Florida",2
+"Pittsburgh","Florida",2
+"Penn State","Florida",1
+"Maryland","Florida",1
+"Indiana","Florida",2
+"Michigan State","Florida",1
+"Arizona","Florida",1
+"TexasAM","Florida",1
+"Emory","Florida",4
+"Claremont","Florida",1
+"Temple","Florida",1
+"Stanford","UT Austin",7
+"MIT","UT Austin",6
+"UC Berkeley","UT Austin",6
+"Rochester","UT Austin",1
+"Chicago","UT Austin",2
+"Cornell","UT Austin",2
+"Northwestern","UT Austin",2
+"Michigan","UT Austin",4
+"UPenn","UT Austin",1
+"Carnegie Mellon","UT Austin",8
+"Wisconsin","UT Austin",1
+"UCLA","UT Austin",3
+"NYU","UT Austin",2
+"Minnesota","UT Austin",5
+"Illinois, Urb. Champ.","UT Austin",3
+"Duke","UT Austin",4
+"Purdue","UT Austin",2
+"Ohio State","UT Austin",1
+"Iowa","UT Austin",2
+"Penn State","UT Austin",3
+"Washington","UT Austin",2
+"Indiana","UT Austin",3
+"Michigan State","UT Austin",3
+"UC Irvine","UT Austin",1
+"Arizona","UT Austin",1
+"USC","UT Austin",1
+"Boston","UT Austin",1
+"Case Western","UT Austin",1
+"Arizona State","UT Austin",1
+"Tennessee","UT Austin",1
+"Stanford","Pittsburgh",1
+"MIT","Pittsburgh",1
+"Harvard","Pittsburgh",1
+"UC Berkeley","Pittsburgh",2
+"Rochester","Pittsburgh",1
+"Northwestern","Pittsburgh",2
+"Michigan","Pittsburgh",4
+"Columbia","Pittsburgh",1
+"Yale","Pittsburgh",3
+"UPenn","Pittsburgh",4
+"Carnegie Mellon","Pittsburgh",3
+"Wisconsin","Pittsburgh",1
+"Minnesota","Pittsburgh",2
+"Illinois, Urb. Champ.","Pittsburgh",1
+"Purdue","Pittsburgh",1
+"Ohio State","Pittsburgh",1
+"Iowa","Pittsburgh",1
+"UNC","Pittsburgh",1
+"Wash. U. in St. Louis","Pittsburgh",1
+"Florida","Pittsburgh",1
+"UT Austin","Pittsburgh",3
+"Penn State","Pittsburgh",2
+"Maryland","Pittsburgh",1
+"Indiana","Pittsburgh",1
+"Emory","Pittsburgh",1
+"Syracuse","Pittsburgh",1
+"Fordham","Pittsburgh",1
+"Stanford","Penn State",1
+"MIT","Penn State",1
+"Harvard","Penn State",1
+"UC Berkeley","Penn State",4
+"Chicago","Penn State",1
+"Cornell","Penn State",1
+"Northwestern","Penn State",3
+"Columbia","Penn State",2
+"Yale","Penn State",1
+"UPenn","Penn State",2
+"Wisconsin","Penn State",1
+"UCLA","Penn State",1
+"NYU","Penn State",2
+"Minnesota","Penn State",2
+"Illinois, Urb. Champ.","Penn State",3
+"Duke","Penn State",1
+"Purdue","Penn State",3
+"Ohio State","Penn State",1
+"Iowa","Penn State",1
+"UNC","Penn State",1
+"Wash. U. in St. Louis","Penn State",1
+"Florida","Penn State",2
+"UT Austin","Penn State",1
+"Washington","Penn State",2
+"Maryland","Penn State",1
+"Michigan State","Penn State",1
+"Georgia Tech","Penn State",1
+"Arizona","Penn State",1
+"Utah","Penn State",1
+"Oregon","Penn State",2
+"Georgia","Penn State",1
+"Arizona State","Penn State",2
+"Virginia Tech","Penn State",1
+"Florida State","Penn State",1
+"Cincinnati","Penn State",1
+"Tennessee","Penn State",2
+"Kentucky","Penn State",1
+"Stanford","Washington",10
+"MIT","Washington",4
+"Harvard","Washington",1
+"UC Berkeley","Washington",4
+"Rochester","Washington",5
+"Chicago","Washington",2
+"Northwestern","Washington",4
+"Michigan","Washington",2
+"Columbia","Washington",3
+"UPenn","Washington",1
+"Carnegie Mellon","Washington",1
+"UCLA","Washington",4
+"NYU","Washington",1
+"Minnesota","Washington",1
+"Illinois, Urb. Champ.","Washington",2
+"Duke","Washington",1
+"Purdue","Washington",1
+"Ohio State","Washington",3
+"Iowa","Washington",1
+"UNC","Washington",1
+"Florida","Washington",1
+"UT Austin","Washington",2
+"Maryland","Washington",1
+"Indiana","Washington",3
+"Michigan State","Washington",1
+"UC Irvine","Washington",1
+"Oregon","Washington",1
+"USC","Washington",1
+"Stanford","Maryland",5
+"MIT","Maryland",6
+"Harvard","Maryland",5
+"UC Berkeley","Maryland",2
+"Rochester","Maryland",1
+"Chicago","Maryland",1
+"Cornell","Maryland",1
+"Northwestern","Maryland",5
+"Michigan","Maryland",5
+"Columbia","Maryland",1
+"Yale","Maryland",1
+"UPenn","Maryland",6
+"Carnegie Mellon","Maryland",3
+"Wisconsin","Maryland",4
+"UCLA","Maryland",2
+"NYU","Maryland",3
+"Minnesota","Maryland",1
+"Purdue","Maryland",3
+"Ohio State","Maryland",1
+"UNC","Maryland",1
+"Pittsburgh","Maryland",2
+"Indiana","Maryland",1
+"Michigan State","Maryland",2
+"Georgia Tech","Maryland",2
+"Arizona","Maryland",1
+"Oregon","Maryland",1
+"SUNY Buffalo","Maryland",1
+"Boston College","Maryland",1
+"Stanford","Indiana",3
+"MIT","Indiana",1
+"Chicago","Indiana",2
+"Northwestern","Indiana",3
+"Michigan","Indiana",6
+"Columbia","Indiana",1
+"Yale","Indiana",1
+"UPenn","Indiana",1
+"Carnegie Mellon","Indiana",1
+"UCLA","Indiana",2
+"Illinois, Urb. Champ.","Indiana",1
+"Duke","Indiana",1
+"Purdue","Indiana",4
+"Ohio State","Indiana",4
+"Iowa","Indiana",2
+"UNC","Indiana",2
+"Florida","Indiana",2
+"UT Austin","Indiana",3
+"Pittsburgh","Indiana",4
+"Penn State","Indiana",2
+"Washington","Indiana",1
+"Maryland","Indiana",1
+"Michigan State","Indiana",1
+"Colorado, Boulder","Indiana",1
+"Arizona","Indiana",4
+"SUNY Buffalo","Indiana",2
+"UT Dallas","Indiana",1
+"TexasAM","Indiana",3
+"Virginia Tech","Indiana",1
+"Boston College","Indiana",1
+"Arkansas","Indiana",1
+"MIT","Michigan State",3
+"Harvard","Michigan State",1
+"Northwestern","Michigan State",2
+"Michigan","Michigan State",4
+"Yale","Michigan State",1
+"Carnegie Mellon","Michigan State",2
+"Wisconsin","Michigan State",5
+"NYU","Michigan State",1
+"Minnesota","Michigan State",7
+"Illinois, Urb. Champ.","Michigan State",3
+"Purdue","Michigan State",5
+"Ohio State","Michigan State",4
+"Iowa","Michigan State",1
+"UNC","Michigan State",1
+"Florida","Michigan State",2
+"UT Austin","Michigan State",1
+"Penn State","Michigan State",2
+"Washington","Michigan State",1
+"Maryland","Michigan State",2
+"Indiana","Michigan State",5
+"Georgia Tech","Michigan State",1
+"SUNY Buffalo","Michigan State",1
+"UMass Amherst","Michigan State",3
+"Georgia","Michigan State",1
+"Syracuse","Michigan State",1
+"Arizona State","Michigan State",1
+"South Carolina","Michigan State",1
+"Florida State","Michigan State",1
+"Houston","Michigan State",1
+"Kansas","Michigan State",1
+"Alabama","Michigan State",1
+"Stanford","Georgia Tech",1
+"MIT","Georgia Tech",1
+"Rochester","Georgia Tech",1
+"Chicago","Georgia Tech",1
+"Cornell","Georgia Tech",2
+"Northwestern","Georgia Tech",1
+"Michigan","Georgia Tech",1
+"UPenn","Georgia Tech",2
+"Carnegie Mellon","Georgia Tech",1
+"UCLA","Georgia Tech",2
+"NYU","Georgia Tech",1
+"Illinois, Urb. Champ.","Georgia Tech",3
+"Duke","Georgia Tech",2
+"Ohio State","Georgia Tech",4
+"Iowa","Georgia Tech",1
+"UNC","Georgia Tech",1
+"UT Austin","Georgia Tech",5
+"Pittsburgh","Georgia Tech",4
+"Washington","Georgia Tech",2
+"Utah","Georgia Tech",1
+"Emory","Georgia Tech",2
+"Arizona State","Georgia Tech",1
+"Florida State","Georgia Tech",1
+"NC State","Georgia Tech",1
+"MIT","Colorado, Boulder",2
+"Harvard","Colorado, Boulder",1
+"Northwestern","Colorado, Boulder",1
+"Michigan","Colorado, Boulder",1
+"Columbia","Colorado, Boulder",1
+"Yale","Colorado, Boulder",3
+"UPenn","Colorado, Boulder",2
+"Carnegie Mellon","Colorado, Boulder",2
+"NYU","Colorado, Boulder",2
+"Minnesota","Colorado, Boulder",3
+"Illinois, Urb. Champ.","Colorado, Boulder",4
+"Purdue","Colorado, Boulder",1
+"Ohio State","Colorado, Boulder",2
+"UNC","Colorado, Boulder",1
+"Wash. U. in St. Louis","Colorado, Boulder",2
+"UT Austin","Colorado, Boulder",1
+"Penn State","Colorado, Boulder",3
+"Washington","Colorado, Boulder",3
+"Maryland","Colorado, Boulder",1
+"Indiana","Colorado, Boulder",2
+"Virginia","Colorado, Boulder",1
+"Georgia","Colorado, Boulder",1
+"South Carolina","Colorado, Boulder",1
+"Houston","Colorado, Boulder",1
+"Stanford","UC Irvine",3
+"MIT","UC Irvine",1
+"Harvard","UC Irvine",1
+"UC Berkeley","UC Irvine",1
+"Rochester","UC Irvine",2
+"Chicago","UC Irvine",3
+"Northwestern","UC Irvine",1
+"UPenn","UC Irvine",1
+"Carnegie Mellon","UC Irvine",2
+"Wisconsin","UC Irvine",1
+"UCLA","UC Irvine",2
+"NYU","UC Irvine",1
+"Minnesota","UC Irvine",1
+"Illinois, Urb. Champ.","UC Irvine",1
+"Purdue","UC Irvine",1
+"Wash. U. in St. Louis","UC Irvine",1
+"USC","UC Irvine",1
+"UMass Amherst","UC Irvine",1
+"Stanford","Arizona",1
+"MIT","Arizona",1
+"Harvard","Arizona",1
+"UC Berkeley","Arizona",3
+"Rochester","Arizona",1
+"Northwestern","Arizona",4
+"Michigan","Arizona",1
+"Yale","Arizona",1
+"Carnegie Mellon","Arizona",1
+"Wisconsin","Arizona",1
+"NYU","Arizona",3
+"Minnesota","Arizona",3
+"Illinois, Urb. Champ.","Arizona",2
+"Purdue","Arizona",4
+"Ohio State","Arizona",1
+"Iowa","Arizona",2
+"UNC","Arizona",1
+"Wash. U. in St. Louis","Arizona",2
+"Florida","Arizona",3
+"UT Austin","Arizona",3
+"Washington","Arizona",1
+"Maryland","Arizona",3
+"Indiana","Arizona",1
+"Michigan State","Arizona",2
+"Oregon","Arizona",1
+"SUNY Buffalo","Arizona",1
+"TexasAM","Arizona",2
+"Case Western","Arizona",1
+"Syracuse","Arizona",1
+"Stanford","Utah",3
+"Rochester","Utah",1
+"Northwestern","Utah",1
+"UPenn","Utah",1
+"NYU","Utah",1
+"Illinois, Urb. Champ.","Utah",1
+"Purdue","Utah",1
+"Iowa","Utah",1
+"UNC","Utah",2
+"Wash. U. in St. Louis","Utah",2
+"Michigan State","Utah",1
+"Arizona","Utah",1
+"Oregon","Utah",1
+"UConn","Utah",1
+"Stanford","Oregon",2
+"MIT","Oregon",1
+"Harvard","Oregon",1
+"UC Berkeley","Oregon",3
+"Rochester","Oregon",2
+"Chicago","Oregon",1
+"Northwestern","Oregon",2
+"Michigan","Oregon",6
+"Carnegie Mellon","Oregon",1
+"Wisconsin","Oregon",1
+"UCLA","Oregon",1
+"NYU","Oregon",1
+"Minnesota","Oregon",2
+"Duke","Oregon",1
+"Purdue","Oregon",2
+"Ohio State","Oregon",1
+"UNC","Oregon",1
+"Florida","Oregon",1
+"Washington","Oregon",2
+"UC Irvine","Oregon",1
+"USC","Oregon",1
+"Case Western","Oregon",2
+"Boston College","Oregon",1
+"Stanford","USC",11
+"MIT","USC",8
+"Harvard","USC",7
+"UC Berkeley","USC",5
+"Rochester","USC",1
+"Chicago","USC",7
+"Cornell","USC",1
+"Northwestern","USC",7
+"Michigan","USC",5
+"Columbia","USC",3
+"Yale","USC",4
+"UPenn","USC",4
+"Carnegie Mellon","USC",3
+"Wisconsin","USC",2
+"UCLA","USC",10
+"Minnesota","USC",1
+"Illinois, Urb. Champ.","USC",1
+"Purdue","USC",2
+"Ohio State","USC",2
+"Iowa","USC",3
+"Wash. U. in St. Louis","USC",1
+"Florida","USC",1
+"Pittsburgh","USC",2
+"Washington","USC",2
+"Indiana","USC",1
+"Michigan State","USC",1
+"Arizona","USC",1
+"SUNY Buffalo","USC",1
+"Case Western","USC",1
+"Claremont","USC",1
+"Arizona State","USC",1
+"Oklahoma","USC",1
+"MIT","SUNY Buffalo",2
+"UC Berkeley","SUNY Buffalo",1
+"Rochester","SUNY Buffalo",1
+"Northwestern","SUNY Buffalo",1
+"Columbia","SUNY Buffalo",1
+"UPenn","SUNY Buffalo",1
+"Wisconsin","SUNY Buffalo",1
+"UCLA","SUNY Buffalo",1
+"Minnesota","SUNY Buffalo",3
+"Illinois, Urb. Champ.","SUNY Buffalo",3
+"Purdue","SUNY Buffalo",5
+"Iowa","SUNY Buffalo",1
+"Wash. U. in St. Louis","SUNY Buffalo",1
+"Florida","SUNY Buffalo",1
+"UT Austin","SUNY Buffalo",1
+"Pittsburgh","SUNY Buffalo",1
+"Penn State","SUNY Buffalo",2
+"Washington","SUNY Buffalo",1
+"Indiana","SUNY Buffalo",2
+"USC","SUNY Buffalo",1
+"UT Dallas","SUNY Buffalo",2
+"Syracuse","SUNY Buffalo",1
+"Florida State","SUNY Buffalo",1
+"Oklahoma","SUNY Buffalo",1
+"Cincinnati","SUNY Buffalo",2
+"Louisiana State","SUNY Buffalo",1
+"Stanford","UT Dallas",2
+"MIT","UT Dallas",2
+"Harvard","UT Dallas",1
+"UC Berkeley","UT Dallas",2
+"Rochester","UT Dallas",3
+"Chicago","UT Dallas",3
+"Cornell","UT Dallas",3
+"Northwestern","UT Dallas",2
+"Columbia","UT Dallas",2
+"UPenn","UT Dallas",4
+"Carnegie Mellon","UT Dallas",4
+"Wisconsin","UT Dallas",1
+"UCLA","UT Dallas",1
+"NYU","UT Dallas",1
+"Minnesota","UT Dallas",1
+"Duke","UT Dallas",2
+"Purdue","UT Dallas",3
+"Ohio State","UT Dallas",2
+"UNC","UT Dallas",1
+"Wash. U. in St. Louis","UT Dallas",1
+"Florida","UT Dallas",1
+"UT Austin","UT Dallas",8
+"Pittsburgh","UT Dallas",1
+"Washington","UT Dallas",1
+"Michigan State","UT Dallas",2
+"UConn","UT Dallas",1
+"Kentucky","UT Dallas",1
+"Stanford","Virginia",3
+"MIT","Virginia",2
+"Harvard","Virginia",6
+"Northwestern","Virginia",1
+"Michigan","Virginia",4
+"Columbia","Virginia",1
+"Yale","Virginia",2
+"UPenn","Virginia",2
+"NYU","Virginia",1
+"Minnesota","Virginia",2
+"Purdue","Virginia",1
+"UNC","Virginia",1
+"Wash. U. in St. Louis","Virginia",2
+"UT Austin","Virginia",1
+"Penn State","Virginia",1
+"Washington","Virginia",2
+"Maryland","Virginia",1
+"Indiana","Virginia",1
+"Michigan State","Virginia",1
+"Georgia Tech","Virginia",5
+"USC","Virginia",1
+"Stanford","Boston",1
+"MIT","Boston",15
+"Harvard","Boston",12
+"UC Berkeley","Boston",4
+"Rochester","Boston",2
+"Chicago","Boston",1
+"Cornell","Boston",1
+"Northwestern","Boston",2
+"Michigan","Boston",3
+"Columbia","Boston",1
+"Yale","Boston",1
+"UPenn","Boston",2
+"Carnegie Mellon","Boston",1
+"UCLA","Boston",3
+"NYU","Boston",2
+"Purdue","Boston",1
+"Ohio State","Boston",1
+"UT Austin","Boston",1
+"Pittsburgh","Boston",1
+"Penn State","Boston",3
+"Washington","Boston",1
+"Indiana","Boston",1
+"Michigan State","Boston",2
+"SUNY Buffalo","Boston",1
+"Virginia","Boston",1
+"UMass Amherst","Boston",1
+"Rice","Boston",1
+"Cornell","UMass Amherst",2
+"Northwestern","UMass Amherst",1
+"Michigan","UMass Amherst",3
+"Wisconsin","UMass Amherst",1
+"NYU","UMass Amherst",1
+"Illinois, Urb. Champ.","UMass Amherst",4
+"Ohio State","UMass Amherst",1
+"Iowa","UMass Amherst",2
+"UNC","UMass Amherst",3
+"Wash. U. in St. Louis","UMass Amherst",1
+"Pittsburgh","UMass Amherst",1
+"Penn State","UMass Amherst",5
+"Maryland","UMass Amherst",2
+"Michigan State","UMass Amherst",1
+"Georgia Tech","UMass Amherst",1
+"Colorado, Boulder","UMass Amherst",2
+"UC Irvine","UMass Amherst",1
+"TexasAM","UMass Amherst",1
+"UC Davis","UMass Amherst",1
+"Virginia Tech","UMass Amherst",2
+"Tennessee","UMass Amherst",1
+"SMU","UMass Amherst",1
+"Stanford","TexasAM",1
+"MIT","TexasAM",1
+"UC Berkeley","TexasAM",1
+"Chicago","TexasAM",1
+"Cornell","TexasAM",2
+"Northwestern","TexasAM",2
+"Yale","TexasAM",1
+"Wisconsin","TexasAM",1
+"NYU","TexasAM",1
+"Minnesota","TexasAM",5
+"Illinois, Urb. Champ.","TexasAM",1
+"Purdue","TexasAM",1
+"Iowa","TexasAM",2
+"UNC","TexasAM",3
+"Florida","TexasAM",1
+"UT Austin","TexasAM",1
+"Penn State","TexasAM",3
+"Maryland","TexasAM",1
+"Indiana","TexasAM",3
+"Michigan State","TexasAM",1
+"Colorado, Boulder","TexasAM",1
+"Arizona","TexasAM",4
+"Oregon","TexasAM",1
+"USC","TexasAM",1
+"UT Dallas","TexasAM",2
+"Virginia","TexasAM",1
+"UMass Amherst","TexasAM",1
+"Georgia","TexasAM",1
+"Arizona State","TexasAM",5
+"South Carolina","TexasAM",1
+"Virginia Tech","TexasAM",2
+"Boston College","TexasAM",1
+"Houston","TexasAM",1
+"Louisiana State","TexasAM",1
+"Arkansas","TexasAM",2
+"MIT","Emory",1
+"Harvard","Emory",1
+"UC Berkeley","Emory",4
+"Rochester","Emory",2
+"Chicago","Emory",1
+"Cornell","Emory",2
+"Northwestern","Emory",3
+"Michigan","Emory",3
+"UPenn","Emory",6
+"UCLA","Emory",1
+"NYU","Emory",4
+"Minnesota","Emory",2
+"Illinois, Urb. Champ.","Emory",1
+"Duke","Emory",1
+"Purdue","Emory",1
+"Iowa","Emory",1
+"UNC","Emory",2
+"Florida","Emory",1
+"UT Austin","Emory",1
+"Pittsburgh","Emory",1
+"Washington","Emory",1
+"Indiana","Emory",2
+"Georgia Tech","Emory",1
+"Arizona","Emory",1
+"USC","Emory",2
+"TexasAM","Emory",1
+"Georgia","Emory",1
+"Alabama","Emory",1
+"Oklahoma State","Emory",1
+"Stanford","Case Western",3
+"MIT","Case Western",1
+"Harvard","Case Western",2
+"UC Berkeley","Case Western",2
+"Chicago","Case Western",3
+"Michigan","Case Western",2
+"Yale","Case Western",1
+"UPenn","Case Western",5
+"Wisconsin","Case Western",1
+"NYU","Case Western",1
+"UNC","Case Western",1
+"Wash. U. in St. Louis","Case Western",1
+"Florida","Case Western",2
+"UT Austin","Case Western",1
+"Pittsburgh","Case Western",2
+"Penn State","Case Western",1
+"Arizona","Case Western",1
+"SUNY Buffalo","Case Western",1
+"Houston","Case Western",1
+"Stanford","UC Davis",2
+"Rochester","UC Davis",1
+"Chicago","UC Davis",1
+"Cornell","UC Davis",1
+"Northwestern","UC Davis",2
+"UPenn","UC Davis",1
+"Minnesota","UC Davis",1
+"Ohio State","UC Davis",1
+"UNC","UC Davis",1
+"Florida","UC Davis",1
+"Washington","UC Davis",1
+"Maryland","UC Davis",1
+"Rice","UC Davis",2
+"Stanford","Georgia",1
+"MIT","Georgia",2
+"Rochester","Georgia",2
+"Chicago","Georgia",1
+"Cornell","Georgia",1
+"Michigan","Georgia",2
+"Yale","Georgia",1
+"UPenn","Georgia",3
+"Wisconsin","Georgia",2
+"UCLA","Georgia",2
+"NYU","Georgia",1
+"Minnesota","Georgia",2
+"Illinois, Urb. Champ.","Georgia",3
+"Purdue","Georgia",1
+"Ohio State","Georgia",1
+"UNC","Georgia",4
+"Florida","Georgia",1
+"UT Austin","Georgia",4
+"Penn State","Georgia",1
+"Washington","Georgia",2
+"Maryland","Georgia",1
+"Indiana","Georgia",1
+"Michigan State","Georgia",3
+"Colorado, Boulder","Georgia",1
+"Arizona","Georgia",1
+"Oregon","Georgia",1
+"USC","Georgia",1
+"Virginia","Georgia",2
+"TexasAM","Georgia",3
+"Emory","Georgia",1
+"Case Western","Georgia",1
+"Syracuse","Georgia",1
+"Arizona State","Georgia",1
+"South Carolina","Georgia",1
+"Florida State","Georgia",3
+"UConn","Georgia",1
+"Boston College","Georgia",2
+"Houston","Georgia",1
+"Notre Dame","Georgia",1
+"Stanford","Vanderbilt",3
+"Harvard","Vanderbilt",1
+"UC Berkeley","Vanderbilt",2
+"Chicago","Vanderbilt",5
+"Cornell","Vanderbilt",2
+"Northwestern","Vanderbilt",1
+"Michigan","Vanderbilt",1
+"UPenn","Vanderbilt",2
+"Carnegie Mellon","Vanderbilt",2
+"Wisconsin","Vanderbilt",2
+"Duke","Vanderbilt",2
+"Purdue","Vanderbilt",2
+"Ohio State","Vanderbilt",2
+"UNC","Vanderbilt",2
+"Indiana","Vanderbilt",1
+"Colorado, Boulder","Vanderbilt",1
+"Utah","Vanderbilt",1
+"Louisiana State","Vanderbilt",1
+"Stanford","Syracuse",1
+"Rochester","Syracuse",1
+"Chicago","Syracuse",1
+"Cornell","Syracuse",3
+"Michigan","Syracuse",3
+"Carnegie Mellon","Syracuse",2
+"Wisconsin","Syracuse",3
+"UCLA","Syracuse",1
+"NYU","Syracuse",2
+"Minnesota","Syracuse",1
+"Illinois, Urb. Champ.","Syracuse",2
+"Duke","Syracuse",1
+"Purdue","Syracuse",1
+"Ohio State","Syracuse",1
+"Florida","Syracuse",1
+"Penn State","Syracuse",1
+"Washington","Syracuse",1
+"Maryland","Syracuse",1
+"Indiana","Syracuse",2
+"Michigan State","Syracuse",1
+"Colorado, Boulder","Syracuse",2
+"SUNY Buffalo","Syracuse",2
+"Virginia Tech","Syracuse",1
+"Cincinnati","Syracuse",2
+"CUNY Baruch","Syracuse",1
+"Harvard","Claremont",1
+"UC Berkeley","Claremont",1
+"Chicago","Claremont",1
+"Cornell","Claremont",1
+"Michigan","Claremont",2
+"UPenn","Claremont",1
+"UCLA","Claremont",1
+"NYU","Claremont",1
+"Duke","Claremont",1
+"Ohio State","Claremont",1
+"Pittsburgh","Claremont",1
+"Washington","Claremont",1
+"Stanford","Arizona State",2
+"MIT","Arizona State",1
+"Harvard","Arizona State",1
+"UC Berkeley","Arizona State",6
+"Chicago","Arizona State",2
+"Cornell","Arizona State",1
+"Michigan","Arizona State",3
+"UPenn","Arizona State",1
+"Carnegie Mellon","Arizona State",1
+"UCLA","Arizona State",2
+"NYU","Arizona State",2
+"Minnesota","Arizona State",3
+"Illinois, Urb. Champ.","Arizona State",12
+"Purdue","Arizona State",4
+"Ohio State","Arizona State",4
+"UNC","Arizona State",2
+"UT Austin","Arizona State",4
+"Pittsburgh","Arizona State",1
+"Penn State","Arizona State",2
+"Maryland","Arizona State",1
+"Indiana","Arizona State",4
+"Michigan State","Arizona State",7
+"Arizona","Arizona State",2
+"USC","Arizona State",2
+"SUNY Buffalo","Arizona State",2
+"Boston","Arizona State",1
+"UMass Amherst","Arizona State",1
+"TexasAM","Arizona State",3
+"Georgia","Arizona State",2
+"Virginia Tech","Arizona State",1
+"Florida State","Arizona State",1
+"Boston College","Arizona State",1
+"Cincinnati","Arizona State",1
+"Houston","Arizona State",1
+"Rutgers","Arizona State",1
+"SMU","Arizona State",1
+"Alabama","Arizona State",2
+"Iowa State","Arizona State",1
+"Mississippi","Arizona State",1
+"NC State","Arizona State",1
+"Santa Clara","Arizona State",1
+"Stanford","South Carolina",2
+"MIT","South Carolina",2
+"Harvard","South Carolina",2
+"UC Berkeley","South Carolina",2
+"Yale","South Carolina",1
+"UPenn","South Carolina",1
+"Carnegie Mellon","South Carolina",2
+"Wisconsin","South Carolina",4
+"UCLA","South Carolina",1
+"Minnesota","South Carolina",3
+"Illinois, Urb. Champ.","South Carolina",1
+"Duke","South Carolina",3
+"Purdue","South Carolina",3
+"Ohio State","South Carolina",2
+"Iowa","South Carolina",1
+"UNC","South Carolina",1
+"Wash. U. in St. Louis","South Carolina",3
+"Florida","South Carolina",2
+"UT Austin","South Carolina",4
+"Pittsburgh","South Carolina",2
+"Maryland","South Carolina",1
+"Michigan State","South Carolina",4
+"Arizona","South Carolina",1
+"UMass Amherst","South Carolina",1
+"TexasAM","South Carolina",2
+"Emory","South Carolina",1
+"Georgia","South Carolina",2
+"Vanderbilt","South Carolina",1
+"Arizona State","South Carolina",2
+"Virginia Tech","South Carolina",1
+"Oklahoma","South Carolina",1
+"Tennessee","South Carolina",1
+"Alabama","South Carolina",1
+"CUNY Baruch","South Carolina",1
+"Stanford","Virginia Tech",1
+"Harvard","Virginia Tech",1
+"Cornell","Virginia Tech",2
+"Michigan","Virginia Tech",2
+"Carnegie Mellon","Virginia Tech",1
+"Wisconsin","Virginia Tech",2
+"UCLA","Virginia Tech",2
+"NYU","Virginia Tech",1
+"Illinois, Urb. Champ.","Virginia Tech",2
+"Purdue","Virginia Tech",3
+"Iowa","Virginia Tech",1
+"UNC","Virginia Tech",1
+"Florida","Virginia Tech",7
+"UT Austin","Virginia Tech",1
+"Pittsburgh","Virginia Tech",3
+"Penn State","Virginia Tech",1
+"Washington","Virginia Tech",2
+"Maryland","Virginia Tech",1
+"Indiana","Virginia Tech",4
+"Michigan State","Virginia Tech",2
+"Georgia Tech","Virginia Tech",1
+"Colorado, Boulder","Virginia Tech",4
+"UC Irvine","Virginia Tech",1
+"Arizona","Virginia Tech",1
+"SUNY Buffalo","Virginia Tech",1
+"Virginia","Virginia Tech",1
+"UMass Amherst","Virginia Tech",2
+"TexasAM","Virginia Tech",2
+"Emory","Virginia Tech",1
+"Georgia","Virginia Tech",4
+"Arizona State","Virginia Tech",1
+"Louisiana State","Virginia Tech",1
+"George Washington","Virginia Tech",1
+"Missouri, St. Louis","Virginia Tech",1
+"UPenn","Florida State",1
+"UCLA","Florida State",1
+"Illinois, Urb. Champ.","Florida State",5
+"Purdue","Florida State",1
+"Iowa","Florida State",1
+"UNC","Florida State",1
+"Florida","Florida State",2
+"UT Austin","Florida State",1
+"Penn State","Florida State",2
+"Indiana","Florida State",2
+"Michigan State","Florida State",3
+"Utah","Florida State",1
+"TexasAM","Florida State",2
+"Georgia","Florida State",3
+"South Carolina","Florida State",1
+"Virginia Tech","Florida State",2
+"Houston","Florida State",1
+"Tennessee","Florida State",2
+"Alabama","Florida State",1
+"Mississippi","Florida State",1
+"Chicago","Oklahoma",1
+"Northwestern","Oklahoma",1
+"UPenn","Oklahoma",1
+"Wisconsin","Oklahoma",1
+"Illinois, Urb. Champ.","Oklahoma",3
+"Iowa","Oklahoma",3
+"Wash. U. in St. Louis","Oklahoma",1
+"Florida","Oklahoma",2
+"UT Austin","Oklahoma",1
+"Pittsburgh","Oklahoma",1
+"Penn State","Oklahoma",2
+"Indiana","Oklahoma",3
+"Michigan State","Oklahoma",1
+"Colorado, Boulder","Oklahoma",1
+"Arizona","Oklahoma",3
+"Virginia","Oklahoma",1
+"TexasAM","Oklahoma",1
+"Georgia","Oklahoma",1
+"South Carolina","Oklahoma",1
+"Virginia Tech","Oklahoma",1
+"Florida State","Oklahoma",1
+"Rutgers","Oklahoma",1
+"Oklahoma State","Oklahoma",1
+"Auburn","Oklahoma",1
+"MIT","Tulane",2
+"Rochester","Tulane",1
+"Columbia","Tulane",2
+"Yale","Tulane",1
+"UCLA","Tulane",1
+"UNC","Tulane",1
+"Florida","Tulane",1
+"UT Austin","Tulane",2
+"SUNY Buffalo","Tulane",1
+"UMass Amherst","Tulane",1
+"TexasAM","Tulane",1
+"Georgia","Tulane",1
+"Arizona State","Tulane",1
+"George Washington","Tulane",1
+"MIT","UConn",1
+"UC Berkeley","UConn",2
+"Rochester","UConn",2
+"Chicago","UConn",1
+"Cornell","UConn",1
+"Northwestern","UConn",1
+"Columbia","UConn",2
+"Yale","UConn",1
+"UPenn","UConn",1
+"Carnegie Mellon","UConn",3
+"Wisconsin","UConn",2
+"UCLA","UConn",1
+"NYU","UConn",2
+"Minnesota","UConn",3
+"Duke","UConn",2
+"Purdue","UConn",1
+"Ohio State","UConn",1
+"UNC","UConn",1
+"Wash. U. in St. Louis","UConn",2
+"Florida","UConn",2
+"UT Austin","UConn",1
+"Pittsburgh","UConn",2
+"Penn State","UConn",4
+"Washington","UConn",1
+"Maryland","UConn",3
+"Colorado, Boulder","UConn",1
+"Arizona","UConn",1
+"Oregon","UConn",1
+"SUNY Buffalo","UConn",4
+"Boston","UConn",1
+"UMass Amherst","UConn",3
+"Florida State","UConn",2
+"Oklahoma","UConn",1
+"Kentucky","UConn",1
+"Stanford","Boston College",3
+"MIT","Boston College",5
+"Harvard","Boston College",1
+"Rochester","Boston College",5
+"Chicago","Boston College",1
+"Northwestern","Boston College",2
+"Michigan","Boston College",1
+"Columbia","Boston College",1
+"UPenn","Boston College",1
+"Carnegie Mellon","Boston College",2
+"UCLA","Boston College",1
+"NYU","Boston College",1
+"Ohio State","Boston College",1
+"UNC","Boston College",1
+"Penn State","Boston College",1
+"Washington","Boston College",1
+"Indiana","Boston College",1
+"Georgia Tech","Boston College",2
+"Boston","Boston College",3
+"UMass Amherst","Boston College",2
+"Emory","Boston College",1
+"Georgia","Boston College",1
+"Syracuse","Boston College",3
+"Arizona State","Boston College",1
+"Louisiana State","Boston College",1
+"Alabama","Boston College",1
+"Oklahoma State","Boston College",1
+"Fordham","Boston College",1
+"Stanford","Cincinnati",1
+"UC Berkeley","Cincinnati",1
+"Rochester","Cincinnati",1
+"Cornell","Cincinnati",1
+"Northwestern","Cincinnati",1
+"Michigan","Cincinnati",3
+"Columbia","Cincinnati",1
+"Wisconsin","Cincinnati",2
+"UCLA","Cincinnati",1
+"NYU","Cincinnati",1
+"Minnesota","Cincinnati",2
+"Illinois, Urb. Champ.","Cincinnati",2
+"Purdue","Cincinnati",1
+"Ohio State","Cincinnati",2
+"UNC","Cincinnati",2
+"Wash. U. in St. Louis","Cincinnati",1
+"Florida","Cincinnati",3
+"Pittsburgh","Cincinnati",1
+"Penn State","Cincinnati",1
+"Indiana","Cincinnati",8
+"Georgia Tech","Cincinnati",1
+"Utah","Cincinnati",1
+"Arizona State","Cincinnati",1
+"Tulane","Cincinnati",1
+"Tennessee","Cincinnati",1
+"Kentucky","Cincinnati",1
+"George Washington","Cincinnati",1
+"Stanford","Houston",2
+"MIT","Houston",2
+"Harvard","Houston",1
+"UC Berkeley","Houston",1
+"Rochester","Houston",1
+"Chicago","Houston",1
+"Cornell","Houston",1
+"Northwestern","Houston",1
+"Michigan","Houston",6
+"UPenn","Houston",2
+"UCLA","Houston",1
+"NYU","Houston",1
+"Minnesota","Houston",4
+"Illinois, Urb. Champ.","Houston",2
+"Duke","Houston",1
+"Ohio State","Houston",1
+"Iowa","Houston",1
+"Wash. U. in St. Louis","Houston",1
+"UT Austin","Houston",6
+"Penn State","Houston",3
+"Maryland","Houston",1
+"Indiana","Houston",2
+"Michigan State","Houston",1
+"Arizona","Houston",1
+"USC","Houston",2
+"TexasAM","Houston",3
+"Syracuse","Houston",1
+"Florida State","Houston",1
+"Tulane","Houston",1
+"Oklahoma State","Houston",1
+"Stanford","Rutgers",5
+"MIT","Rutgers",2
+"Harvard","Rutgers",3
+"UC Berkeley","Rutgers",2
+"Chicago","Rutgers",4
+"Cornell","Rutgers",2
+"Northwestern","Rutgers",4
+"Columbia","Rutgers",6
+"Yale","Rutgers",3
+"UPenn","Rutgers",3
+"UCLA","Rutgers",1
+"NYU","Rutgers",7
+"Minnesota","Rutgers",3
+"Illinois, Urb. Champ.","Rutgers",2
+"Purdue","Rutgers",3
+"Ohio State","Rutgers",4
+"Florida","Rutgers",1
+"Penn State","Rutgers",1
+"Indiana","Rutgers",1
+"Michigan State","Rutgers",2
+"Georgia Tech","Rutgers",1
+"Colorado, Boulder","Rutgers",1
+"Arizona","Rutgers",1
+"USC","Rutgers",1
+"SUNY Buffalo","Rutgers",2
+"UMass Amherst","Rutgers",1
+"Vanderbilt","Rutgers",1
+"Virginia Tech","Rutgers",1
+"Florida State","Rutgers",1
+"Tulane","Rutgers",2
+"Kansas","Rutgers",1
+"CUNY Baruch","Rutgers",1
+"MIT","Kansas",1
+"Chicago","Kansas",2
+"Cornell","Kansas",1
+"UPenn","Kansas",2
+"Wisconsin","Kansas",2
+"Minnesota","Kansas",1
+"Illinois, Urb. Champ.","Kansas",6
+"Purdue","Kansas",2
+"UNC","Kansas",1
+"Wash. U. in St. Louis","Kansas",1
+"UT Austin","Kansas",2
+"Pittsburgh","Kansas",1
+"Penn State","Kansas",1
+"Washington","Kansas",1
+"Maryland","Kansas",1
+"Indiana","Kansas",3
+"Oregon","Kansas",1
+"TexasAM","Kansas",1
+"South Carolina","Kansas",1
+"UConn","Kansas",2
+"Arkansas","Kansas",2
+"Tennessee","Kansas",1
+"Stanford","Louisiana State",1
+"Cornell","Louisiana State",1
+"Michigan","Louisiana State",1
+"UPenn","Louisiana State",3
+"UCLA","Louisiana State",1
+"Illinois, Urb. Champ.","Louisiana State",3
+"Duke","Louisiana State",2
+"Purdue","Louisiana State",3
+"Ohio State","Louisiana State",1
+"Iowa","Louisiana State",1
+"Florida","Louisiana State",3
+"UT Austin","Louisiana State",2
+"Indiana","Louisiana State",1
+"UC Irvine","Louisiana State",1
+"Georgia","Louisiana State",3
+"South Carolina","Louisiana State",1
+"Virginia Tech","Louisiana State",1
+"Florida State","Louisiana State",1
+"Houston","Louisiana State",1
+"Arkansas","Louisiana State",1
+"Tennessee","Louisiana State",1
+"Auburn","Louisiana State",1
+"UC Berkeley","Arkansas",1
+"Northwestern","Arkansas",1
+"Michigan","Arkansas",1
+"Carnegie Mellon","Arkansas",1
+"Wisconsin","Arkansas",1
+"UCLA","Arkansas",1
+"Minnesota","Arkansas",2
+"Illinois, Urb. Champ.","Arkansas",1
+"Iowa","Arkansas",2
+"UNC","Arkansas",1
+"Wash. U. in St. Louis","Arkansas",2
+"Pittsburgh","Arkansas",2
+"Penn State","Arkansas",1
+"Maryland","Arkansas",1
+"Indiana","Arkansas",3
+"Michigan State","Arkansas",3
+"Arizona","Arkansas",1
+"Oregon","Arkansas",2
+"TexasAM","Arkansas",7
+"Georgia","Arkansas",1
+"Syracuse","Arkansas",1
+"Arizona State","Arkansas",1
+"Virginia Tech","Arkansas",2
+"Oklahoma","Arkansas",1
+"Houston","Arkansas",1
+"Louisiana State","Arkansas",1
+"Temple","Arkansas",1
+"Alabama","Arkansas",1
+"Notre Dame","Arkansas",1
+"Cornell","Tennessee",2
+"Northwestern","Tennessee",1
+"Michigan","Tennessee",1
+"Illinois, Urb. Champ.","Tennessee",3
+"Purdue","Tennessee",1
+"Ohio State","Tennessee",5
+"Iowa","Tennessee",1
+"UNC","Tennessee",3
+"Wash. U. in St. Louis","Tennessee",2
+"Florida","Tennessee",2
+"Indiana","Tennessee",3
+"Michigan State","Tennessee",4
+"Georgia Tech","Tennessee",1
+"Colorado, Boulder","Tennessee",1
+"Arizona","Tennessee",1
+"TexasAM","Tennessee",3
+"Georgia","Tennessee",4
+"Syracuse","Tennessee",2
+"Arizona State","Tennessee",2
+"South Carolina","Tennessee",1
+"Virginia Tech","Tennessee",1
+"Florida State","Tennessee",3
+"Oklahoma","Tennessee",1
+"UConn","Tennessee",1
+"Cincinnati","Tennessee",1
+"Louisiana State","Tennessee",1
+"Arkansas","Tennessee",2
+"Iowa State","Tennessee",1
+"Stanford","Dartmouth",4
+"MIT","Dartmouth",6
+"Harvard","Dartmouth",5
+"Rochester","Dartmouth",3
+"Chicago","Dartmouth",1
+"Cornell","Dartmouth",2
+"Michigan","Dartmouth",1
+"Columbia","Dartmouth",4
+"UPenn","Dartmouth",1
+"UCLA","Dartmouth",1
+"Duke","Dartmouth",1
+"UT Austin","Dartmouth",3
+"Penn State","Dartmouth",2
+"Maryland","Dartmouth",1
+"USC","Dartmouth",1
+"Stanford","Kentucky",1
+"MIT","Kentucky",1
+"Chicago","Kentucky",2
+"Cornell","Kentucky",1
+"Wisconsin","Kentucky",5
+"Illinois, Urb. Champ.","Kentucky",2
+"Duke","Kentucky",1
+"Purdue","Kentucky",1
+"Ohio State","Kentucky",4
+"Iowa","Kentucky",2
+"Florida","Kentucky",2
+"UT Austin","Kentucky",3
+"Pittsburgh","Kentucky",1
+"Penn State","Kentucky",4
+"Maryland","Kentucky",1
+"Indiana","Kentucky",4
+"Michigan State","Kentucky",2
+"Georgia Tech","Kentucky",1
+"UC Irvine","Kentucky",1
+"SUNY Buffalo","Kentucky",1
+"Virginia","Kentucky",2
+"TexasAM","Kentucky",2
+"UC Davis","Kentucky",2
+"Georgia","Kentucky",1
+"Arizona State","Kentucky",2
+"South Carolina","Kentucky",2
+"Virginia Tech","Kentucky",1
+"Boston College","Kentucky",3
+"Arkansas","Kentucky",1
+"Tennessee","Kentucky",1
+"Stanford","Rice",1
+"Harvard","Rice",1
+"UC Berkeley","Rice",1
+"Chicago","Rice",2
+"Cornell","Rice",1
+"Northwestern","Rice",1
+"Michigan","Rice",4
+"UPenn","Rice",1
+"Carnegie Mellon","Rice",1
+"Minnesota","Rice",1
+"Illinois, Urb. Champ.","Rice",1
+"Duke","Rice",2
+"UNC","Rice",2
+"UT Austin","Rice",5
+"Pittsburgh","Rice",1
+"Maryland","Rice",1
+"Indiana","Rice",1
+"Michigan State","Rice",1
+"UC Irvine","Rice",1
+"Virginia","Rice",1
+"Tulane","Rice",1
+"Kentucky","Rice",1
+"Stanford","SMU",2
+"Harvard","SMU",1
+"Rochester","SMU",3
+"Chicago","SMU",1
+"Cornell","SMU",1
+"Northwestern","SMU",2
+"Michigan","SMU",1
+"Columbia","SMU",1
+"Yale","SMU",1
+"UPenn","SMU",3
+"UCLA","SMU",1
+"NYU","SMU",1
+"Minnesota","SMU",3
+"Ohio State","SMU",3
+"UNC","SMU",2
+"UT Austin","SMU",5
+"Penn State","SMU",2
+"Maryland","SMU",1
+"Michigan State","SMU",2
+"UC Irvine","SMU",1
+"USC","SMU",1
+"TexasAM","SMU",1
+"Georgia","SMU",2
+"Arizona State","SMU",3
+"Tulane","SMU",1
+"UConn","SMU",1
+"George Washington","SMU",1
+"MIT","Temple",3
+"Harvard","Temple",4
+"UC Berkeley","Temple",3
+"Rochester","Temple",1
+"Chicago","Temple",1
+"Cornell","Temple",3
+"Northwestern","Temple",3
+"Michigan","Temple",2
+"Columbia","Temple",1
+"Yale","Temple",1
+"UPenn","Temple",6
+"Carnegie Mellon","Temple",1
+"Wisconsin","Temple",4
+"NYU","Temple",2
+"Minnesota","Temple",1
+"Illinois, Urb. Champ.","Temple",1
+"Duke","Temple",1
+"Purdue","Temple",1
+"Ohio State","Temple",2
+"Iowa","Temple",1
+"Penn State","Temple",3
+"Washington","Temple",1
+"Maryland","Temple",2
+"Indiana","Temple",1
+"Michigan State","Temple",3
+"Arizona","Temple",1
+"Oregon","Temple",1
+"USC","Temple",2
+"SUNY Buffalo","Temple",1
+"Syracuse","Temple",1
+"Claremont","Temple",1
+"Arizona State","Temple",1
+"South Carolina","Temple",3
+"Virginia Tech","Temple",1
+"Florida State","Temple",1
+"Cincinnati","Temple",2
+"Rice","Temple",1
+"CUNY Baruch","Temple",1
+"NC State","Temple",1
+"Stanford","George Washington",2
+"MIT","George Washington",6
+"Harvard","George Washington",2
+"UC Berkeley","George Washington",4
+"Chicago","George Washington",4
+"Cornell","George Washington",1
+"Northwestern","George Washington",4
+"Michigan","George Washington",2
+"Columbia","George Washington",2
+"Yale","George Washington",1
+"Wisconsin","George Washington",1
+"NYU","George Washington",3
+"Minnesota","George Washington",1
+"Illinois, Urb. Champ.","George Washington",2
+"Duke","George Washington",1
+"Ohio State","George Washington",2
+"Wash. U. in St. Louis","George Washington",2
+"UT Austin","George Washington",1
+"Penn State","George Washington",2
+"Indiana","George Washington",1
+"Michigan State","George Washington",2
+"Colorado, Boulder","George Washington",1
+"Oregon","George Washington",1
+"SUNY Buffalo","George Washington",1
+"Case Western","George Washington",2
+"Georgia","George Washington",2
+"South Carolina","George Washington",1
+"Virginia Tech","George Washington",1
+"Boston College","George Washington",2
+"Rutgers","George Washington",1
+"Louisiana State","George Washington",3
+"Tennessee","George Washington",2
+"Stanford","Alabama",1
+"Chicago","Alabama",2
+"Cornell","Alabama",1
+"Michigan","Alabama",1
+"Columbia","Alabama",1
+"UPenn","Alabama",3
+"Illinois, Urb. Champ.","Alabama",2
+"Duke","Alabama",1
+"Purdue","Alabama",3
+"Ohio State","Alabama",2
+"UNC","Alabama",2
+"Wash. U. in St. Louis","Alabama",1
+"Florida","Alabama",2
+"UT Austin","Alabama",3
+"Pittsburgh","Alabama",2
+"Penn State","Alabama",2
+"Washington","Alabama",1
+"Indiana","Alabama",3
+"Michigan State","Alabama",1
+"Georgia Tech","Alabama",1
+"Arizona","Alabama",1
+"SUNY Buffalo","Alabama",2
+"UT Dallas","Alabama",1
+"Virginia","Alabama",1
+"TexasAM","Alabama",3
+"Georgia","Alabama",1
+"Vanderbilt","Alabama",1
+"Arizona State","Alabama",2
+"South Carolina","Alabama",1
+"Virginia Tech","Alabama",1
+"Florida State","Alabama",2
+"Oklahoma","Alabama",2
+"Cincinnati","Alabama",1
+"Houston","Alabama",1
+"Louisiana State","Alabama",1
+"Tennessee","Alabama",3
+"Kentucky","Alabama",1
+"SMU","Alabama",2
+"UPenn","Oklahoma State",1
+"Wisconsin","Oklahoma State",3
+"UCLA","Oklahoma State",1
+"Minnesota","Oklahoma State",1
+"Illinois, Urb. Champ.","Oklahoma State",1
+"Purdue","Oklahoma State",4
+"Ohio State","Oklahoma State",3
+"Iowa","Oklahoma State",4
+"UNC","Oklahoma State",1
+"UT Austin","Oklahoma State",2
+"Maryland","Oklahoma State",1
+"Indiana","Oklahoma State",1
+"Michigan State","Oklahoma State",2
+"Georgia Tech","Oklahoma State",2
+"Arizona","Oklahoma State",2
+"Utah","Oklahoma State",1
+"Oregon","Oklahoma State",1
+"SUNY Buffalo","Oklahoma State",1
+"UMass Amherst","Oklahoma State",1
+"TexasAM","Oklahoma State",6
+"Case Western","Oklahoma State",1
+"Georgia","Oklahoma State",1
+"Virginia Tech","Oklahoma State",1
+"Florida State","Oklahoma State",1
+"Oklahoma","Oklahoma State",1
+"Kansas","Oklahoma State",1
+"Louisiana State","Oklahoma State",1
+"Arkansas","Oklahoma State",1
+"Alabama","Oklahoma State",2
+"Iowa State","Oklahoma State",2
+"Rochester","SUNY Binghamton",1
+"Cornell","SUNY Binghamton",2
+"Michigan","SUNY Binghamton",2
+"UPenn","SUNY Binghamton",1
+"Minnesota","SUNY Binghamton",2
+"Illinois, Urb. Champ.","SUNY Binghamton",1
+"Ohio State","SUNY Binghamton",2
+"UT Austin","SUNY Binghamton",1
+"Pittsburgh","SUNY Binghamton",1
+"Penn State","SUNY Binghamton",1
+"Indiana","SUNY Binghamton",2
+"Utah","SUNY Binghamton",1
+"SUNY Buffalo","SUNY Binghamton",3
+"UT Dallas","SUNY Binghamton",1
+"Case Western","SUNY Binghamton",1
+"Virginia Tech","SUNY Binghamton",1
+"Louisiana State","SUNY Binghamton",2
+"Stanford","Iowa State",1
+"UC Berkeley","Iowa State",1
+"Rochester","Iowa State",1
+"Northwestern","Iowa State",1
+"Carnegie Mellon","Iowa State",2
+"Wisconsin","Iowa State",2
+"Minnesota","Iowa State",2
+"Illinois, Urb. Champ.","Iowa State",1
+"Purdue","Iowa State",2
+"Ohio State","Iowa State",3
+"Iowa","Iowa State",4
+"Wash. U. in St. Louis","Iowa State",1
+"UT Austin","Iowa State",3
+"Pittsburgh","Iowa State",1
+"Penn State","Iowa State",1
+"Maryland","Iowa State",1
+"Indiana","Iowa State",3
+"Michigan State","Iowa State",1
+"Utah","Iowa State",3
+"USC","Iowa State",1
+"UT Dallas","Iowa State",2
+"Georgia","Iowa State",1
+"Arizona State","Iowa State",2
+"Virginia Tech","Iowa State",2
+"Florida State","Iowa State",1
+"Oklahoma","Iowa State",2
+"Houston","Iowa State",2
+"Kansas","Iowa State",1
+"Alabama","Iowa State",1
+"Oklahoma State","Iowa State",1
+"Miami","Iowa State",1
+"Stanford","CUNY Baruch",2
+"MIT","CUNY Baruch",3
+"Harvard","CUNY Baruch",3
+"UC Berkeley","CUNY Baruch",3
+"Chicago","CUNY Baruch",1
+"Cornell","CUNY Baruch",1
+"Northwestern","CUNY Baruch",1
+"Michigan","CUNY Baruch",1
+"Columbia","CUNY Baruch",13
+"UPenn","CUNY Baruch",2
+"Carnegie Mellon","CUNY Baruch",2
+"Wisconsin","CUNY Baruch",1
+"NYU","CUNY Baruch",10
+"Minnesota","CUNY Baruch",1
+"Duke","CUNY Baruch",2
+"Purdue","CUNY Baruch",3
+"Iowa","CUNY Baruch",1
+"Wash. U. in St. Louis","CUNY Baruch",1
+"UT Austin","CUNY Baruch",2
+"Pittsburgh","CUNY Baruch",2
+"Penn State","CUNY Baruch",1
+"Washington","CUNY Baruch",1
+"Maryland","CUNY Baruch",1
+"Indiana","CUNY Baruch",1
+"Michigan State","CUNY Baruch",1
+"Arizona","CUNY Baruch",1
+"Oregon","CUNY Baruch",1
+"SUNY Buffalo","CUNY Baruch",4
+"UT Dallas","CUNY Baruch",2
+"Case Western","CUNY Baruch",1
+"Georgia","CUNY Baruch",2
+"Vanderbilt","CUNY Baruch",1
+"Tulane","CUNY Baruch",1
+"Boston College","CUNY Baruch",2
+"Rutgers","CUNY Baruch",2
+"Auburn","CUNY Baruch",1
+"Stanford","Hawaii",4
+"MIT","Hawaii",2
+"Chicago","Hawaii",1
+"Northwestern","Hawaii",1
+"Michigan","Hawaii",2
+"UPenn","Hawaii",2
+"Carnegie Mellon","Hawaii",1
+"UCLA","Hawaii",1
+"NYU","Hawaii",2
+"Illinois, Urb. Champ.","Hawaii",1
+"Duke","Hawaii",1
+"Purdue","Hawaii",3
+"Ohio State","Hawaii",1
+"UNC","Hawaii",1
+"UT Austin","Hawaii",1
+"Maryland","Hawaii",1
+"Indiana","Hawaii",1
+"Georgia Tech","Hawaii",1
+"Colorado, Boulder","Hawaii",1
+"Arizona","Hawaii",1
+"Utah","Hawaii",1
+"Syracuse","Hawaii",1
+"South Carolina","Hawaii",1
+"Oklahoma","Hawaii",1
+"Oklahoma State","Hawaii",2
+"Illinois, Urb. Champ.","Mississippi",1
+"Ohio State","Mississippi",1
+"Florida","Mississippi",1
+"UT Austin","Mississippi",2
+"Michigan State","Mississippi",2
+"Arizona","Mississippi",2
+"Georgia","Mississippi",3
+"Arizona State","Mississippi",1
+"Florida State","Mississippi",2
+"Oklahoma","Mississippi",1
+"Houston","Mississippi",1
+"Kansas","Mississippi",1
+"Louisiana State","Mississippi",1
+"Arkansas","Mississippi",2
+"Tennessee","Mississippi",2
+"Chicago","Missouri, St. Louis",1
+"Northwestern","Missouri, St. Louis",2
+"Yale","Missouri, St. Louis",1
+"Illinois, Urb. Champ.","Missouri, St. Louis",2
+"Purdue","Missouri, St. Louis",2
+"Iowa","Missouri, St. Louis",4
+"UT Austin","Missouri, St. Louis",1
+"Pittsburgh","Missouri, St. Louis",2
+"Penn State","Missouri, St. Louis",1
+"Michigan State","Missouri, St. Louis",1
+"Georgia Tech","Missouri, St. Louis",1
+"Colorado, Boulder","Missouri, St. Louis",1
+"Arizona","Missouri, St. Louis",1
+"Oregon","Missouri, St. Louis",1
+"UT Dallas","Missouri, St. Louis",1
+"TexasAM","Missouri, St. Louis",2
+"Arizona State","Missouri, St. Louis",1
+"Houston","Missouri, St. Louis",2
+"Kansas","Missouri, St. Louis",1
+"Stanford","Georgetown",4
+"MIT","Georgetown",1
+"UC Berkeley","Georgetown",3
+"Chicago","Georgetown",2
+"Cornell","Georgetown",3
+"Northwestern","Georgetown",1
+"Michigan","Georgetown",1
+"Columbia","Georgetown",2
+"UPenn","Georgetown",3
+"NYU","Georgetown",3
+"Illinois, Urb. Champ.","Georgetown",1
+"Duke","Georgetown",4
+"Ohio State","Georgetown",2
+"UNC","Georgetown",1
+"Wash. U. in St. Louis","Georgetown",2
+"Florida","Georgetown",1
+"Pittsburgh","Georgetown",1
+"Penn State","Georgetown",1
+"Washington","Georgetown",1
+"Maryland","Georgetown",1
+"Georgia Tech","Georgetown",1
+"Arizona","Georgetown",1
+"Emory","Georgetown",1
+"Case Western","Georgetown",2
+"South Carolina","Georgetown",2
+"Kansas","Georgetown",1
+"George Washington","Georgetown",1
+"Iowa State","Georgetown",1
+"Stanford","Drexel",1
+"UC Berkeley","Drexel",1
+"Chicago","Drexel",2
+"Michigan","Drexel",1
+"Columbia","Drexel",1
+"Yale","Drexel",1
+"UPenn","Drexel",5
+"NYU","Drexel",2
+"Minnesota","Drexel",3
+"Illinois, Urb. Champ.","Drexel",2
+"Duke","Drexel",1
+"Ohio State","Drexel",1
+"Iowa","Drexel",1
+"Wash. U. in St. Louis","Drexel",1
+"Florida","Drexel",1
+"UT Austin","Drexel",4
+"Pittsburgh","Drexel",2
+"Penn State","Drexel",5
+"Maryland","Drexel",2
+"Indiana","Drexel",1
+"Michigan State","Drexel",1
+"TexasAM","Drexel",1
+"Case Western","Drexel",1
+"Georgia","Drexel",1
+"Arizona State","Drexel",1
+"South Carolina","Drexel",1
+"UConn","Drexel",1
+"Boston College","Drexel",2
+"Kansas","Drexel",1
+"Louisiana State","Drexel",1
+"Tennessee","Drexel",1
+"Temple","Drexel",3
+"Michigan","Auburn",1
+"UPenn","Auburn",1
+"Illinois, Urb. Champ.","Auburn",1
+"Purdue","Auburn",1
+"Ohio State","Auburn",2
+"Penn State","Auburn",2
+"Washington","Auburn",1
+"Michigan State","Auburn",1
+"Georgia Tech","Auburn",1
+"Arizona","Auburn",1
+"TexasAM","Auburn",3
+"Georgia","Auburn",6
+"South Carolina","Auburn",2
+"Virginia Tech","Auburn",2
+"Florida State","Auburn",5
+"Louisiana State","Auburn",1
+"Arkansas","Auburn",1
+"Tennessee","Auburn",6
+"Kentucky","Auburn",1
+"Alabama","Auburn",3
+"Mississippi","Auburn",1
+"Stanford","Notre Dame",1
+"UC Berkeley","Notre Dame",1
+"Chicago","Notre Dame",4
+"Cornell","Notre Dame",1
+"Northwestern","Notre Dame",3
+"Michigan","Notre Dame",2
+"Columbia","Notre Dame",1
+"UPenn","Notre Dame",1
+"Carnegie Mellon","Notre Dame",1
+"Wisconsin","Notre Dame",3
+"Minnesota","Notre Dame",1
+"Illinois, Urb. Champ.","Notre Dame",7
+"Purdue","Notre Dame",2
+"Ohio State","Notre Dame",4
+"Iowa","Notre Dame",3
+"UNC","Notre Dame",1
+"Wash. U. in St. Louis","Notre Dame",1
+"Florida","Notre Dame",1
+"UT Austin","Notre Dame",1
+"Penn State","Notre Dame",3
+"Maryland","Notre Dame",1
+"Indiana","Notre Dame",4
+"Michigan State","Notre Dame",1
+"SUNY Buffalo","Notre Dame",1
+"TexasAM","Notre Dame",2
+"Case Western","Notre Dame",1
+"Georgia","Notre Dame",1
+"Vanderbilt","Notre Dame",1
+"Syracuse","Notre Dame",2
+"Arizona State","Notre Dame",1
+"Florida State","Notre Dame",1
+"Oklahoma","Notre Dame",1
+"Boston College","Notre Dame",1
+"Cincinnati","Notre Dame",1
+"Houston","Notre Dame",1
+"Kentucky","Notre Dame",1
+"Temple","Notre Dame",1
+"MIT","NC State",2
+"Harvard","NC State",1
+"Chicago","NC State",1
+"Northwestern","NC State",1
+"Wisconsin","NC State",1
+"UCLA","NC State",4
+"Minnesota","NC State",1
+"Duke","NC State",1
+"Purdue","NC State",3
+"Ohio State","NC State",2
+"Iowa","NC State",2
+"UNC","NC State",8
+"Florida","NC State",2
+"Washington","NC State",1
+"Maryland","NC State",2
+"Indiana","NC State",1
+"Michigan State","NC State",3
+"Georgia Tech","NC State",1
+"Virginia","NC State",1
+"TexasAM","NC State",1
+"Case Western","NC State",1
+"Vanderbilt","NC State",1
+"Arizona State","NC State",5
+"Florida State","NC State",2
+"Oklahoma","NC State",1
+"Tulane","NC State",1
+"Drexel","NC State",1
+"Northeastern","NC State",1
+"Stanford","Miami",1
+"MIT","Miami",1
+"Harvard","Miami",1
+"UC Berkeley","Miami",2
+"Rochester","Miami",3
+"Chicago","Miami",5
+"Cornell","Miami",3
+"Michigan","Miami",2
+"Yale","Miami",1
+"UPenn","Miami",1
+"Carnegie Mellon","Miami",3
+"Wisconsin","Miami",1
+"NYU","Miami",3
+"Illinois, Urb. Champ.","Miami",2
+"Duke","Miami",2
+"Ohio State","Miami",1
+"Florida","Miami",3
+"UT Austin","Miami",2
+"Pittsburgh","Miami",1
+"Penn State","Miami",4
+"Washington","Miami",1
+"Maryland","Miami",1
+"Indiana","Miami",1
+"Georgia Tech","Miami",2
+"USC","Miami",1
+"UMass Amherst","Miami",1
+"TexasAM","Miami",1
+"Arizona State","Miami",1
+"Virginia Tech","Miami",1
+"Kansas","Miami",1
+"Temple","Miami",2
+"SUNY Binghamton","Miami",1
+"Michigan","Saint Louis",1
+"UCLA","Saint Louis",1
+"NYU","Saint Louis",1
+"Illinois, Urb. Champ.","Saint Louis",3
+"Duke","Saint Louis",1
+"Purdue","Saint Louis",1
+"Ohio State","Saint Louis",1
+"Wash. U. in St. Louis","Saint Louis",1
+"Pittsburgh","Saint Louis",1
+"Indiana","Saint Louis",3
+"Michigan State","Saint Louis",2
+"SUNY Buffalo","Saint Louis",1
+"Georgia","Saint Louis",1
+"Syracuse","Saint Louis",1
+"South Carolina","Saint Louis",2
+"Cincinnati","Saint Louis",1
+"George Washington","Saint Louis",1
+"Oklahoma State","Saint Louis",1
+"MIT","Worcester",1
+"Pittsburgh","Worcester",1
+"UMass Amherst","Worcester",1
+"TexasAM","Worcester",1
+"Syracuse","Worcester",2
+"Boston College","Worcester",1
+"Hawaii","Worcester",1
+"Stanford","William and Mary",1
+"Harvard","William and Mary",1
+"Cornell","William and Mary",1
+"Northwestern","William and Mary",1
+"Minnesota","William and Mary",1
+"Purdue","William and Mary",1
+"Florida","William and Mary",1
+"UT Austin","William and Mary",2
+"Pittsburgh","William and Mary",1
+"Penn State","William and Mary",3
+"Washington","William and Mary",1
+"Maryland","William and Mary",1
+"Indiana","William and Mary",1
+"Michigan State","William and Mary",1
+"Arizona","William and Mary",1
+"Virginia","William and Mary",3
+"UMass Amherst","William and Mary",1
+"Case Western","William and Mary",1
+"Syracuse","William and Mary",1
+"Virginia Tech","William and Mary",2
+"Oklahoma","William and Mary",1
+"Boston College","William and Mary",1
+"Cornell","Clarkson",2
+"Michigan","Clarkson",1
+"Carnegie Mellon","Clarkson",1
+"Minnesota","Clarkson",1
+"Wash. U. in St. Louis","Clarkson",1
+"UT Austin","Clarkson",1
+"Pittsburgh","Clarkson",1
+"Michigan State","Clarkson",3
+"UMass Amherst","Clarkson",1
+"Virginia Tech","Clarkson",2
+"SUNY Binghamton","Clarkson",1
+"Stanford","Brigham Young",4
+"MIT","Brigham Young",3
+"Harvard","Brigham Young",1
+"UC Berkeley","Brigham Young",5
+"Rochester","Brigham Young",1
+"Cornell","Brigham Young",3
+"Michigan","Brigham Young",4
+"Yale","Brigham Young",1
+"UPenn","Brigham Young",5
+"Carnegie Mellon","Brigham Young",2
+"Wisconsin","Brigham Young",2
+"UCLA","Brigham Young",1
+"Minnesota","Brigham Young",5
+"Purdue","Brigham Young",1
+"Ohio State","Brigham Young",2
+"Florida","Brigham Young",2
+"UT Austin","Brigham Young",6
+"Penn State","Brigham Young",2
+"Washington","Brigham Young",8
+"Indiana","Brigham Young",6
+"Michigan State","Brigham Young",1
+"UC Irvine","Brigham Young",1
+"Arizona","Brigham Young",3
+"Utah","Brigham Young",5
+"Oregon","Brigham Young",1
+"Virginia","Brigham Young",1
+"TexasAM","Brigham Young",4
+"Emory","Brigham Young",1
+"Georgia","Brigham Young",4
+"South Carolina","Brigham Young",1
+"Florida State","Brigham Young",1
+"Houston","Brigham Young",1
+"Oklahoma State","Brigham Young",3
+"Stanford","Fordham",1
+"MIT","Fordham",1
+"UC Berkeley","Fordham",2
+"Rochester","Fordham",1
+"Chicago","Fordham",4
+"Cornell","Fordham",1
+"Northwestern","Fordham",3
+"Michigan","Fordham",1
+"Columbia","Fordham",6
+"Yale","Fordham",1
+"UPenn","Fordham",2
+"Carnegie Mellon","Fordham",1
+"NYU","Fordham",9
+"Illinois, Urb. Champ.","Fordham",1
+"Washington","Fordham",1
+"Maryland","Fordham",1
+"Indiana","Fordham",1
+"Michigan State","Fordham",1
+"UC Irvine","Fordham",1
+"Utah","Fordham",1
+"UConn","Fordham",1
+"Boston College","Fordham",1
+"Houston","Fordham",1
+"Rutgers","Fordham",3
+"Temple","Fordham",1
+"CUNY Baruch","Fordham",6
+"Stanford","Santa Clara",6
+"Harvard","Santa Clara",1
+"UC Berkeley","Santa Clara",6
+"Cornell","Santa Clara",1
+"Northwestern","Santa Clara",1
+"Michigan","Santa Clara",1
+"Columbia","Santa Clara",2
+"UPenn","Santa Clara",1
+"UCLA","Santa Clara",3
+"NYU","Santa Clara",2
+"Illinois, Urb. Champ.","Santa Clara",3
+"Purdue","Santa Clara",3
+"Ohio State","Santa Clara",1
+"Iowa","Santa Clara",1
+"Wash. U. in St. Louis","Santa Clara",1
+"Florida","Santa Clara",1
+"UT Austin","Santa Clara",3
+"Washington","Santa Clara",3
+"Indiana","Santa Clara",1
+"Arizona","Santa Clara",2
+"USC","Santa Clara",1
+"SUNY Buffalo","Santa Clara",1
+"UT Dallas","Santa Clara",1
+"UMass Amherst","Santa Clara",1
+"Virginia Tech","Santa Clara",1
+"Cincinnati","Santa Clara",1
+"Rutgers","Santa Clara",1
+"NC State","Santa Clara",1
+"Carnegie Mellon","Portland State",1
+"Wisconsin","Portland State",1
+"UCLA","Portland State",1
+"NYU","Portland State",1
+"Illinois, Urb. Champ.","Portland State",1
+"Washington","Portland State",1
+"Michigan State","Portland State",1
+"Colorado, Boulder","Portland State",1
+"Arizona","Portland State",1
+"Utah","Portland State",2
+"Oregon","Portland State",3
+"UT Dallas","Portland State",1
+"TexasAM","Portland State",1
+"Arizona State","Portland State",2
+"South Carolina","Portland State",1
+"Tennessee","Portland State",1
+"George Washington","Portland State",1
+"Cornell","Rollins",1
+"Columbia","Rollins",1
+"Purdue","Rollins",1
+"Ohio State","Rollins",1
+"Florida","Rollins",1
+"Penn State","Rollins",1
+"USC","Rollins",1
+"TexasAM","Rollins",2
+"South Carolina","Rollins",1
+"Florida State","Rollins",1
+"Oklahoma State","Rollins",1
+"Stanford","Northeastern",1
+"MIT","Northeastern",4
+"Harvard","Northeastern",7
+"UC Berkeley","Northeastern",1
+"Cornell","Northeastern",2
+"Michigan","Northeastern",3
+"Columbia","Northeastern",1
+"UPenn","Northeastern",4
+"NYU","Northeastern",2
+"Minnesota","Northeastern",1
+"Ohio State","Northeastern",2
+"UNC","Northeastern",3
+"Florida","Northeastern",1
+"Penn State","Northeastern",2
+"Maryland","Northeastern",1
+"Arizona","Northeastern",1
+"Oregon","Northeastern",1
+"USC","Northeastern",2
+"SUNY Buffalo","Northeastern",2
+"UT Dallas","Northeastern",1
+"Virginia","Northeastern",1
+"Boston","Northeastern",3
+"UMass Amherst","Northeastern",3
+"Case Western","Northeastern",1
+"Arizona State","Northeastern",1
+"South Carolina","Northeastern",4
+"Virginia Tech","Northeastern",3
+"Florida State","Northeastern",1
+"UConn","Northeastern",1
+"Boston College","Northeastern",1
+"Rutgers","Northeastern",1
+"Louisiana State","Northeastern",1
+"Arkansas","Northeastern",1
+"Tennessee","Northeastern",1
+"Temple","Northeastern",1
+"Iowa State","Northeastern",1
+"Missouri, St. Louis","Northeastern",1
+"Bentley","Northeastern",1
+"Harvard","Miami at Ohio",2
+"UC Berkeley","Miami at Ohio",1
+"Cornell","Miami at Ohio",2
+"Northwestern","Miami at Ohio",1
+"Carnegie Mellon","Miami at Ohio",1
+"Illinois, Urb. Champ.","Miami at Ohio",5
+"Purdue","Miami at Ohio",1
+"Ohio State","Miami at Ohio",3
+"Iowa","Miami at Ohio",2
+"UNC","Miami at Ohio",1
+"Wash. U. in St. Louis","Miami at Ohio",2
+"UT Austin","Miami at Ohio",1
+"Pittsburgh","Miami at Ohio",2
+"Penn State","Miami at Ohio",2
+"Washington","Miami at Ohio",1
+"Indiana","Miami at Ohio",5
+"Michigan State","Miami at Ohio",3
+"UT Dallas","Miami at Ohio",1
+"Virginia","Miami at Ohio",1
+"TexasAM","Miami at Ohio",2
+"Georgia","Miami at Ohio",3
+"Arizona State","Miami at Ohio",1
+"South Carolina","Miami at Ohio",2
+"Florida State","Miami at Ohio",1
+"Cincinnati","Miami at Ohio",5
+"Rutgers","Miami at Ohio",1
+"Kansas","Miami at Ohio",1
+"Louisiana State","Miami at Ohio",1
+"Tennessee","Miami at Ohio",2
+"Kentucky","Miami at Ohio",3
+"SMU","Miami at Ohio",1
+"Alabama","Miami at Ohio",1
+"Iowa State","Miami at Ohio",1
+"Auburn","Miami at Ohio",1
+"MIT","Bentley",6
+"Harvard","Bentley",5
+"Chicago","Bentley",4
+"Cornell","Bentley",2
+"Northwestern","Bentley",2
+"Michigan","Bentley",3
+"Columbia","Bentley",4
+"Yale","Bentley",3
+"Wisconsin","Bentley",6
+"Illinois, Urb. Champ.","Bentley",3
+"Purdue","Bentley",1
+"Iowa","Bentley",1
+"UNC","Bentley",3
+"UT Austin","Bentley",3
+"Pittsburgh","Bentley",1
+"Maryland","Bentley",2
+"Indiana","Bentley",7
+"Michigan State","Bentley",2
+"Colorado, Boulder","Bentley",3
+"Oregon","Bentley",2
+"SUNY Buffalo","Bentley",1
+"Virginia","Bentley",1
+"Boston","Bentley",10
+"UMass Amherst","Bentley",5
+"TexasAM","Bentley",3
+"Case Western","Bentley",2
+"UC Davis","Bentley",1
+"Syracuse","Bentley",1
+"Arizona State","Bentley",1
+"Virginia Tech","Bentley",1
+"UConn","Bentley",3
+"Boston College","Bentley",1
+"Houston","Bentley",2
+"Rutgers","Bentley",5
+"Tennessee","Bentley",1
+"Kentucky","Bentley",1
+"George Washington","Bentley",1
+"SUNY Binghamton","Bentley",1
+"Georgetown","Bentley",1
+"MIT","Howard",1
+"Harvard","Howard",1
+"Chicago","Howard",1
+"UCLA","Howard",1
+"NYU","Howard",1
+"Ohio State","Howard",2
+"Maryland","Howard",2
+"Indiana","Howard",1
+"UC Irvine","Howard",1
+"UMass Amherst","Howard",1
+"Georgia","Howard",1
+"Florida State","Howard",1
+"Cincinnati","Howard",1
+"Temple","Howard",1
+"George Washington","Howard",3
+"Northwestern","Rochester Inst. Tech.",1
+"Ohio State","Rochester Inst. Tech.",1
+"Indiana","Rochester Inst. Tech.",1
+"Michigan State","Rochester Inst. Tech.",2
+"SUNY Buffalo","Rochester Inst. Tech.",3
+"Virginia","Rochester Inst. Tech.",1
+"Case Western","Rochester Inst. Tech.",2
+"Syracuse","Rochester Inst. Tech.",2
+"Arizona State","Rochester Inst. Tech.",1
+"Arkansas","Rochester Inst. Tech.",1
+"Alabama","Rochester Inst. Tech.",2
+"SUNY Binghamton","Rochester Inst. Tech.",2
+"MIT","Texas Christian",1
+"Cornell","Texas Christian",1
+"Michigan","Texas Christian",2
+"UPenn","Texas Christian",1
+"NYU","Texas Christian",2
+"Minnesota","Texas Christian",1
+"Purdue","Texas Christian",6
+"Iowa","Texas Christian",1
+"UNC","Texas Christian",2
+"UT Austin","Texas Christian",2
+"Penn State","Texas Christian",1
+"Indiana","Texas Christian",1
+"Michigan State","Texas Christian",1
+"Colorado, Boulder","Texas Christian",1
+"UC Irvine","Texas Christian",1
+"Arizona","Texas Christian",1
+"Utah","Texas Christian",2
+"TexasAM","Texas Christian",2
+"Georgia","Texas Christian",2
+"Arizona State","Texas Christian",1
+"UConn","Texas Christian",1
+"Houston","Texas Christian",2
+"Kansas","Texas Christian",1
+"Louisiana State","Texas Christian",1
+"Arkansas","Texas Christian",1
+"Alabama","Texas Christian",1
+"Oklahoma State","Texas Christian",1
+"Auburn","Texas Christian",1
+"Florida","Abilene",1
+"UT Austin","Abilene",1
+"Indiana","Abilene",1
+"Colorado, Boulder","Abilene",1
+"TexasAM","Abilene",4
+"Arizona State","Abilene",1
+"Kansas","Abilene",1
+"SMU","Abilene",1
+"Oklahoma State","Abilene",1
+"Brigham Young","Abilene",1
+"Stanford","Babson",2
+"MIT","Babson",2
+"Harvard","Babson",8
+"Cornell","Babson",1
+"Columbia","Babson",1
+"Yale","Babson",1
+"UPenn","Babson",1
+"Wisconsin","Babson",2
+"UCLA","Babson",2
+"NYU","Babson",3
+"Duke","Babson",1
+"Purdue","Babson",1
+"Ohio State","Babson",1
+"UT Austin","Babson",2
+"Pittsburgh","Babson",1
+"Penn State","Babson",1
+"Indiana","Babson",3
+"Michigan State","Babson",1
+"Colorado, Boulder","Babson",1
+"Arizona","Babson",1
+"USC","Babson",1
+"Virginia","Babson",1
+"Boston","Babson",4
+"UMass Amherst","Babson",4
+"TexasAM","Babson",1
+"Syracuse","Babson",1
+"Virginia Tech","Babson",1
+"Florida State","Babson",1
+"UConn","Babson",1
+"Boston College","Babson",2
+"Tennessee","Babson",1
+"Northeastern","Babson",1
+"Stanford","Pepperdine",2
+"Northwestern","Pepperdine",1
+"UCLA","Pepperdine",2
+"NYU","Pepperdine",2
+"Minnesota","Pepperdine",1
+"Purdue","Pepperdine",1
+"UNC","Pepperdine",1
+"Wash. U. in St. Louis","Pepperdine",1
+"Florida","Pepperdine",1
+"UT Austin","Pepperdine",2
+"Pittsburgh","Pepperdine",1
+"Maryland","Pepperdine",1
+"Indiana","Pepperdine",1
+"Michigan State","Pepperdine",2
+"Colorado, Boulder","Pepperdine",1
+"UC Irvine","Pepperdine",1
+"USC","Pepperdine",8
+"TexasAM","Pepperdine",1
+"Case Western","Pepperdine",1
+"Georgia","Pepperdine",1
+"Claremont","Pepperdine",4
+"Louisiana State","Pepperdine",1
+"Arkansas","Pepperdine",2
+"Kentucky","Pepperdine",2
+"Drexel","Pepperdine",2
+"Cornell","Denver",1
+"Michigan","Denver",2
+"UPenn","Denver",1
+"NYU","Denver",1
+"Minnesota","Denver",1
+"Illinois, Urb. Champ.","Denver",1
+"Ohio State","Denver",1
+"Florida","Denver",1
+"UT Austin","Denver",1
+"Penn State","Denver",1
+"Washington","Denver",1
+"Michigan State","Denver",1
+"Colorado, Boulder","Denver",6
+"Arizona","Denver",1
+"Oregon","Denver",1
+"USC","Denver",2
+"Georgia","Denver",2
+"Syracuse","Denver",2
+"Virginia Tech","Denver",2
+"Florida State","Denver",1
+"Cincinnati","Denver",1
+"Houston","Denver",1
+"Arkansas","Denver",1
+"SMU","Denver",1
+"Saint Louis","Denver",1
+"Harvard","Wake Forest",1
+"UC Berkeley","Wake Forest",1
+"Chicago","Wake Forest",1
+"Duke","Wake Forest",1
+"Ohio State","Wake Forest",3
+"UNC","Wake Forest",8
+"UT Austin","Wake Forest",2
+"Maryland","Wake Forest",1
+"Indiana","Wake Forest",1
+"Colorado, Boulder","Wake Forest",1
+"Oregon","Wake Forest",1
+"USC","Wake Forest",1
+"Virginia","Wake Forest",2
+"Georgia","Wake Forest",2
+"Syracuse","Wake Forest",1
+"Virginia Tech","Wake Forest",2
+"Florida State","Wake Forest",1
+"Cincinnati","Wake Forest",1
+"Kentucky","Wake Forest",2
+"SMU","Wake Forest",1
+"Alabama","Wake Forest",1
+"Auburn","Wake Forest",1
+"Cornell","Thunderbird",2
+"Michigan","Thunderbird",1
+"Wisconsin","Thunderbird",1
+"Minnesota","Thunderbird",1
+"Illinois, Urb. Champ.","Thunderbird",1
+"Ohio State","Thunderbird",1
+"Iowa","Thunderbird",1
+"Penn State","Thunderbird",1
+"Washington","Thunderbird",1
+"Michigan State","Thunderbird",1
+"Colorado, Boulder","Thunderbird",2
+"USC","Thunderbird",1
+"Syracuse","Thunderbird",1
+"Arizona State","Thunderbird",3
+"South Carolina","Thunderbird",1
+"Virginia Tech","Thunderbird",1
+"Cincinnati","Thunderbird",1
+"Arkansas","Thunderbird",1
+"Hawaii","Thunderbird",1
+"Miami at Ohio","Thunderbird",1
+"Harvard","Pace",1
+"Chicago","Pace",1
+"Cornell","Pace",1
+"Northwestern","Pace",1
+"Columbia","Pace",5
+"Yale","Pace",2
+"UPenn","Pace",1
+"UCLA","Pace",1
+"NYU","Pace",9
+"Purdue","Pace",1
+"UC Irvine","Pace",1
+"Boston","Pace",1
+"Georgia","Pace",1
+"South Carolina","Pace",1
+"Virginia Tech","Pace",1
+"Rutgers","Pace",6
+"Louisiana State","Pace",1
+"Oklahoma State","Pace",1
+"CUNY Baruch","Pace",5
+"Fordham","Pace",3
+"MIT","Baylor",1
+"UC Berkeley","Baylor",1
+"Cornell","Baylor",1
+"Michigan","Baylor",1
+"UPenn","Baylor",1
+"Minnesota","Baylor",1
+"Illinois, Urb. Champ.","Baylor",3
+"Purdue","Baylor",1
+"Ohio State","Baylor",1
+"Iowa","Baylor",2
+"UNC","Baylor",2
+"Florida","Baylor",2
+"UT Austin","Baylor",5
+"Indiana","Baylor",3
+"Michigan State","Baylor",2
+"UC Irvine","Baylor",1
+"TexasAM","Baylor",5
+"Georgia","Baylor",3
+"South Carolina","Baylor",3
+"Florida State","Baylor",2
+"Oklahoma","Baylor",1
+"UConn","Baylor",1
+"Louisiana State","Baylor",3
+"Arkansas","Baylor",2
+"Tennessee","Baylor",1
+"SMU","Baylor",1
+"Oklahoma State","Baylor",3
+"Mississippi","Baylor",2
+"Notre Dame","Baylor",1
+"Saint Louis","Baylor",1
+"Stanford","DePaul",1
+"MIT","DePaul",1
+"Harvard","DePaul",2
+"Chicago","DePaul",3
+"Cornell","DePaul",3
+"Northwestern","DePaul",6
+"Michigan","DePaul",1
+"Yale","DePaul",1
+"Wisconsin","DePaul",3
+"UCLA","DePaul",1
+"Illinois, Urb. Champ.","DePaul",7
+"Purdue","DePaul",2
+"Ohio State","DePaul",1
+"Iowa","DePaul",1
+"UNC","DePaul",1
+"Florida","DePaul",1
+"Pittsburgh","DePaul",2
+"Indiana","DePaul",1
+"Michigan State","DePaul",2
+"Arizona","DePaul",1
+"UMass Amherst","DePaul",1
+"TexasAM","DePaul",2
+"Arizona State","DePaul",1
+"South Carolina","DePaul",1
+"Virginia Tech","DePaul",1
+"Florida State","DePaul",1
+"UConn","DePaul",1
+"Boston College","DePaul",1
+"Cincinnati","DePaul",1
+"Houston","DePaul",2
+"Rutgers","DePaul",1
+"Kansas","DePaul",1
+"Kentucky","DePaul",3
+"Alabama","DePaul",1
+"Oklahoma State","DePaul",1
+"SUNY Binghamton","DePaul",1
+"Iowa State","DePaul",1
+"Notre Dame","DePaul",1
+"NC State","DePaul",2
+"Saint Louis","DePaul",1
+"Stanford","Hofstra",1
+"Yale","Hofstra",1
+"NYU","Hofstra",10
+"Duke","Hofstra",1
+"Purdue","Hofstra",1
+"Pittsburgh","Hofstra",1
+"Penn State","Hofstra",1
+"Indiana","Hofstra",3
+"UMass Amherst","Hofstra",2
+"Syracuse","Hofstra",1
+"UConn","Hofstra",1
+"Houston","Hofstra",1
+"Rutgers","Hofstra",2
+"Arkansas","Hofstra",1
+"Tennessee","Hofstra",2
+"Kentucky","Hofstra",1
+"George Washington","Hofstra",3
+"Oklahoma State","Hofstra",1
+"SUNY Binghamton","Hofstra",2
+"CUNY Baruch","Hofstra",8
+"Saint Louis","Hofstra",1

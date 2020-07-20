@@ -1,0 +1,541 @@
+has,prefers,count
+"Stanford","Stanford",20
+"MIT","MIT",23
+"Harvard","Harvard",60
+"UC Berkeley","UC Berkeley",4
+"Rochester","Rochester",2
+"Chicago","Chicago",12
+"Cornell","Cornell",2
+"Northwestern","Northwestern",10
+"Michigan","Michigan",15
+"Columbia","Columbia",9
+"Yale","Yale",10
+"UPenn","UPenn",8
+"Carnegie Mellon","Carnegie Mellon",3
+"Wisconsin","Wisconsin",7
+"UCLA","UCLA",5
+"NYU","NYU",9
+"Minnesota","Minnesota",5
+"Illinois, Urb. Champ.","Illinois, Urb. Champ.",5
+"Duke","Duke",6
+"Purdue","Purdue",9
+"Ohio State","Ohio State",8
+"Iowa","Iowa",9
+"UNC","UNC",11
+"Wash. U. in St. Louis","Wash. U. in St. Louis",0
+"Florida","Florida",3
+"Lower 87 Universities","Lower 87 Universities",2650
+"MIT","Stanford",10
+"Harvard","Stanford",9
+"UC Berkeley","Stanford",6
+"Rochester","Stanford",3
+"Chicago","Stanford",2
+"Cornell","Stanford",2
+"Northwestern","Stanford",4
+"Michigan","Stanford",2
+"Columbia","Stanford",1
+"Yale","Stanford",6
+"UPenn","Stanford",2
+"Carnegie Mellon","Stanford",3
+"Wisconsin","Stanford",1
+"UCLA","Stanford",5
+"NYU","Stanford",1
+"Minnesota","Stanford",1
+"Duke","Stanford",4
+"Ohio State","Stanford",2
+"Iowa","Stanford",1
+"UNC","Stanford",1
+"Lower 87 Universities","Stanford",6
+"Stanford","MIT",22
+"Harvard","MIT",12
+"UC Berkeley","MIT",4
+"Rochester","MIT",1
+"Chicago","MIT",11
+"Cornell","MIT",3
+"Northwestern","MIT",1
+"Michigan","MIT",2
+"Columbia","MIT",2
+"Yale","MIT",2
+"UPenn","MIT",6
+"Wisconsin","MIT",2
+"NYU","MIT",2
+"Ohio State","MIT",1
+"Iowa","MIT",1
+"UNC","MIT",1
+"Lower 87 Universities","MIT",4
+"Stanford","Harvard",21
+"MIT","Harvard",25
+"UC Berkeley","Harvard",6
+"Rochester","Harvard",4
+"Chicago","Harvard",7
+"Cornell","Harvard",4
+"Northwestern","Harvard",7
+"Michigan","Harvard",6
+"Columbia","Harvard",6
+"Yale","Harvard",3
+"UPenn","Harvard",6
+"Carnegie Mellon","Harvard",4
+"UCLA","Harvard",4
+"NYU","Harvard",4
+"Duke","Harvard",3
+"Purdue","Harvard",3
+"Lower 87 Universities","Harvard",4
+"Stanford","UC Berkeley",18
+"MIT","UC Berkeley",10
+"Harvard","UC Berkeley",8
+"Rochester","UC Berkeley",2
+"Chicago","UC Berkeley",3
+"Cornell","UC Berkeley",1
+"Northwestern","UC Berkeley",2
+"Michigan","UC Berkeley",1
+"Columbia","UC Berkeley",2
+"Yale","UC Berkeley",3
+"UPenn","UC Berkeley",3
+"Wisconsin","UC Berkeley",5
+"UCLA","UC Berkeley",1
+"NYU","UC Berkeley",1
+"Minnesota","UC Berkeley",1
+"UNC","UC Berkeley",1
+"Florida","UC Berkeley",1
+"Lower 87 Universities","UC Berkeley",4
+"Stanford","Rochester",2
+"MIT","Rochester",3
+"Harvard","Rochester",2
+"UC Berkeley","Rochester",2
+"Chicago","Rochester",4
+"Northwestern","Rochester",3
+"Columbia","Rochester",1
+"UPenn","Rochester",2
+"Carnegie Mellon","Rochester",1
+"UCLA","Rochester",1
+"NYU","Rochester",2
+"Duke","Rochester",1
+"Purdue","Rochester",1
+"UNC","Rochester",2
+"Lower 87 Universities","Rochester",6
+"Stanford","Chicago",6
+"MIT","Chicago",18
+"Harvard","Chicago",17
+"UC Berkeley","Chicago",3
+"Rochester","Chicago",3
+"Cornell","Chicago",4
+"Northwestern","Chicago",4
+"Michigan","Chicago",6
+"Columbia","Chicago",2
+"Yale","Chicago",7
+"UPenn","Chicago",4
+"Carnegie Mellon","Chicago",1
+"Wisconsin","Chicago",1
+"UCLA","Chicago",4
+"NYU","Chicago",2
+"Illinois, Urb. Champ.","Chicago",1
+"Duke","Chicago",3
+"Purdue","Chicago",1
+"UNC","Chicago",1
+"Lower 87 Universities","Chicago",10
+"Stanford","Cornell",2
+"MIT","Cornell",3
+"Harvard","Cornell",1
+"UC Berkeley","Cornell",3
+"Chicago","Cornell",4
+"Northwestern","Cornell",3
+"Michigan","Cornell",7
+"Columbia","Cornell",1
+"Yale","Cornell",2
+"UPenn","Cornell",4
+"Carnegie Mellon","Cornell",2
+"UCLA","Cornell",2
+"NYU","Cornell",3
+"Illinois, Urb. Champ.","Cornell",4
+"Duke","Cornell",1
+"Ohio State","Cornell",2
+"Florida","Cornell",1
+"Lower 87 Universities","Cornell",1
+"Stanford","Northwestern",21
+"MIT","Northwestern",19
+"Harvard","Northwestern",9
+"UC Berkeley","Northwestern",4
+"Rochester","Northwestern",6
+"Chicago","Northwestern",5
+"Cornell","Northwestern",4
+"Michigan","Northwestern",3
+"Columbia","Northwestern",7
+"Yale","Northwestern",2
+"UPenn","Northwestern",8
+"Carnegie Mellon","Northwestern",2
+"Wisconsin","Northwestern",2
+"NYU","Northwestern",1
+"Minnesota","Northwestern",1
+"Illinois, Urb. Champ.","Northwestern",2
+"Duke","Northwestern",4
+"Purdue","Northwestern",1
+"Ohio State","Northwestern",3
+"UNC","Northwestern",1
+"Wash. U. in St. Louis","Northwestern",1
+"Lower 87 Universities","Northwestern",11
+"Stanford","Michigan",10
+"MIT","Michigan",4
+"Harvard","Michigan",7
+"UC Berkeley","Michigan",1
+"Rochester","Michigan",3
+"Chicago","Michigan",6
+"Cornell","Michigan",1
+"Northwestern","Michigan",12
+"Columbia","Michigan",3
+"Yale","Michigan",3
+"UPenn","Michigan",11
+"Carnegie Mellon","Michigan",6
+"Wisconsin","Michigan",1
+"UCLA","Michigan",2
+"NYU","Michigan",3
+"Illinois, Urb. Champ.","Michigan",1
+"Duke","Michigan",1
+"Purdue","Michigan",1
+"Ohio State","Michigan",1
+"UNC","Michigan",3
+"Lower 87 Universities","Michigan",10
+"Stanford","Columbia",17
+"MIT","Columbia",15
+"Harvard","Columbia",13
+"UC Berkeley","Columbia",6
+"Chicago","Columbia",7
+"Cornell","Columbia",5
+"Northwestern","Columbia",4
+"Michigan","Columbia",2
+"Yale","Columbia",3
+"UPenn","Columbia",6
+"Carnegie Mellon","Columbia",5
+"UCLA","Columbia",1
+"NYU","Columbia",7
+"Duke","Columbia",1
+"Purdue","Columbia",1
+"UNC","Columbia",1
+"Florida","Columbia",1
+"Lower 87 Universities","Columbia",4
+"Stanford","Yale",3
+"MIT","Yale",11
+"Harvard","Yale",9
+"UC Berkeley","Yale",2
+"Rochester","Yale",2
+"Chicago","Yale",5
+"Cornell","Yale",2
+"Michigan","Yale",4
+"Columbia","Yale",2
+"UPenn","Yale",1
+"Carnegie Mellon","Yale",5
+"Wisconsin","Yale",1
+"UCLA","Yale",1
+"NYU","Yale",3
+"Minnesota","Yale",1
+"Duke","Yale",1
+"Lower 87 Universities","Yale",1
+"Stanford","UPenn",23
+"MIT","UPenn",27
+"Harvard","UPenn",30
+"UC Berkeley","UPenn",10
+"Rochester","UPenn",4
+"Chicago","UPenn",19
+"Cornell","UPenn",8
+"Northwestern","UPenn",8
+"Michigan","UPenn",8
+"Columbia","UPenn",8
+"Yale","UPenn",4
+"Carnegie Mellon","UPenn",5
+"Wisconsin","UPenn",2
+"UCLA","UPenn",2
+"NYU","UPenn",2
+"Minnesota","UPenn",3
+"Illinois, Urb. Champ.","UPenn",2
+"Duke","UPenn",4
+"Purdue","UPenn",1
+"Iowa","UPenn",1
+"UNC","UPenn",1
+"Florida","UPenn",1
+"Lower 87 Universities","UPenn",15
+"Stanford","Carnegie Mellon",7
+"MIT","Carnegie Mellon",3
+"Harvard","Carnegie Mellon",2
+"UC Berkeley","Carnegie Mellon",1
+"Rochester","Carnegie Mellon",2
+"Chicago","Carnegie Mellon",4
+"Cornell","Carnegie Mellon",4
+"Northwestern","Carnegie Mellon",4
+"Michigan","Carnegie Mellon",4
+"Columbia","Carnegie Mellon",2
+"Yale","Carnegie Mellon",1
+"UPenn","Carnegie Mellon",4
+"Wisconsin","Carnegie Mellon",5
+"UCLA","Carnegie Mellon",3
+"NYU","Carnegie Mellon",1
+"Minnesota","Carnegie Mellon",5
+"Purdue","Carnegie Mellon",2
+"Ohio State","Carnegie Mellon",1
+"UNC","Carnegie Mellon",1
+"Florida","Carnegie Mellon",2
+"Lower 87 Universities","Carnegie Mellon",11
+"Stanford","Wisconsin",3
+"MIT","Wisconsin",1
+"Harvard","Wisconsin",1
+"UC Berkeley","Wisconsin",1
+"Chicago","Wisconsin",3
+"Cornell","Wisconsin",2
+"Northwestern","Wisconsin",3
+"Michigan","Wisconsin",4
+"Yale","Wisconsin",1
+"UPenn","Wisconsin",6
+"UCLA","Wisconsin",1
+"Minnesota","Wisconsin",3
+"Illinois, Urb. Champ.","Wisconsin",3
+"Duke","Wisconsin",1
+"Purdue","Wisconsin",1
+"Ohio State","Wisconsin",2
+"Iowa","Wisconsin",3
+"UNC","Wisconsin",2
+"Lower 87 Universities","Wisconsin",12
+"Stanford","UCLA",17
+"MIT","UCLA",8
+"Harvard","UCLA",8
+"UC Berkeley","UCLA",10
+"Chicago","UCLA",12
+"Cornell","UCLA",1
+"Northwestern","UCLA",2
+"Michigan","UCLA",3
+"Columbia","UCLA",3
+"Yale","UCLA",2
+"UPenn","UCLA",2
+"Carnegie Mellon","UCLA",1
+"Wisconsin","UCLA",2
+"Duke","UCLA",2
+"Purdue","UCLA",2
+"Lower 87 Universities","UCLA",6
+"Stanford","NYU",20
+"MIT","NYU",10
+"Harvard","NYU",15
+"UC Berkeley","NYU",6
+"Rochester","NYU",5
+"Chicago","NYU",11
+"Cornell","NYU",5
+"Northwestern","NYU",10
+"Michigan","NYU",3
+"Columbia","NYU",12
+"Yale","NYU",2
+"UPenn","NYU",12
+"Carnegie Mellon","NYU",4
+"Wisconsin","NYU",1
+"UCLA","NYU",2
+"Minnesota","NYU",1
+"Duke","NYU",2
+"Ohio State","NYU",1
+"Iowa","NYU",1
+"Florida","NYU",2
+"Lower 87 Universities","NYU",12
+"Stanford","Minnesota",5
+"MIT","Minnesota",2
+"Harvard","Minnesota",3
+"UC Berkeley","Minnesota",3
+"Rochester","Minnesota",2
+"Chicago","Minnesota",3
+"Northwestern","Minnesota",7
+"Michigan","Minnesota",4
+"Columbia","Minnesota",4
+"Yale","Minnesota",1
+"UPenn","Minnesota",8
+"Carnegie Mellon","Minnesota",3
+"Wisconsin","Minnesota",7
+"NYU","Minnesota",6
+"Illinois, Urb. Champ.","Minnesota",7
+"Purdue","Minnesota",2
+"Ohio State","Minnesota",5
+"Iowa","Minnesota",4
+"UNC","Minnesota",1
+"Lower 87 Universities","Minnesota",23
+"Stanford","Illinois, Urb. Champ.",2
+"MIT","Illinois, Urb. Champ.",4
+"Harvard","Illinois, Urb. Champ.",4
+"UC Berkeley","Illinois, Urb. Champ.",7
+"Rochester","Illinois, Urb. Champ.",2
+"Chicago","Illinois, Urb. Champ.",3
+"Cornell","Illinois, Urb. Champ.",5
+"Northwestern","Illinois, Urb. Champ.",4
+"Michigan","Illinois, Urb. Champ.",7
+"Columbia","Illinois, Urb. Champ.",2
+"UPenn","Illinois, Urb. Champ.",1
+"Carnegie Mellon","Illinois, Urb. Champ.",1
+"Wisconsin","Illinois, Urb. Champ.",1
+"UCLA","Illinois, Urb. Champ.",1
+"NYU","Illinois, Urb. Champ.",2
+"Minnesota","Illinois, Urb. Champ.",3
+"Duke","Illinois, Urb. Champ.",1
+"Purdue","Illinois, Urb. Champ.",3
+"Ohio State","Illinois, Urb. Champ.",4
+"Iowa","Illinois, Urb. Champ.",1
+"Florida","Illinois, Urb. Champ.",2
+"Lower 87 Universities","Illinois, Urb. Champ.",21
+"Stanford","Duke",10
+"MIT","Duke",4
+"Harvard","Duke",1
+"UC Berkeley","Duke",6
+"Chicago","Duke",9
+"Cornell","Duke",1
+"Northwestern","Duke",5
+"Michigan","Duke",4
+"Columbia","Duke",4
+"Yale","Duke",2
+"UPenn","Duke",5
+"Carnegie Mellon","Duke",4
+"UCLA","Duke",1
+"NYU","Duke",4
+"Minnesota","Duke",2
+"Illinois, Urb. Champ.","Duke",2
+"Iowa","Duke",1
+"UNC","Duke",2
+"Lower 87 Universities","Duke",9
+"Stanford","Purdue",2
+"MIT","Purdue",2
+"UC Berkeley","Purdue",1
+"Rochester","Purdue",3
+"Chicago","Purdue",3
+"Cornell","Purdue",2
+"Northwestern","Purdue",1
+"Michigan","Purdue",6
+"Columbia","Purdue",3
+"Yale","Purdue",2
+"UPenn","Purdue",4
+"Carnegie Mellon","Purdue",6
+"Wisconsin","Purdue",1
+"UCLA","Purdue",2
+"Minnesota","Purdue",3
+"Illinois, Urb. Champ.","Purdue",1
+"Ohio State","Purdue",1
+"Iowa","Purdue",3
+"Wash. U. in St. Louis","Purdue",1
+"Florida","Purdue",3
+"Lower 87 Universities","Purdue",13
+"Stanford","Ohio State",1
+"MIT","Ohio State",6
+"Harvard","Ohio State",1
+"UC Berkeley","Ohio State",2
+"Rochester","Ohio State",4
+"Chicago","Ohio State",8
+"Cornell","Ohio State",2
+"Northwestern","Ohio State",2
+"Michigan","Ohio State",1
+"Columbia","Ohio State",2
+"Yale","Ohio State",1
+"UPenn","Ohio State",4
+"Carnegie Mellon","Ohio State",1
+"Wisconsin","Ohio State",5
+"UCLA","Ohio State",2
+"NYU","Ohio State",2
+"Minnesota","Ohio State",7
+"Illinois, Urb. Champ.","Ohio State",2
+"Purdue","Ohio State",1
+"Iowa","Ohio State",1
+"UNC","Ohio State",2
+"Lower 87 Universities","Ohio State",18
+"Stanford","Iowa",4
+"UC Berkeley","Iowa",2
+"Rochester","Iowa",2
+"Chicago","Iowa",2
+"Cornell","Iowa",2
+"Northwestern","Iowa",6
+"Michigan","Iowa",6
+"Columbia","Iowa",1
+"UPenn","Iowa",3
+"Wisconsin","Iowa",6
+"UCLA","Iowa",1
+"NYU","Iowa",1
+"Minnesota","Iowa",5
+"Illinois, Urb. Champ.","Iowa",1
+"Purdue","Iowa",3
+"Ohio State","Iowa",1
+"Wash. U. in St. Louis","Iowa",4
+"Florida","Iowa",2
+"Lower 87 Universities","Iowa",8
+"Stanford","UNC",10
+"MIT","UNC",3
+"Harvard","UNC",3
+"UC Berkeley","UNC",1
+"Rochester","UNC",1
+"Chicago","UNC",4
+"Cornell","UNC",4
+"Northwestern","UNC",5
+"Michigan","UNC",7
+"Yale","UNC",1
+"UPenn","UNC",11
+"Carnegie Mellon","UNC",3
+"Wisconsin","UNC",1
+"NYU","UNC",4
+"Minnesota","UNC",1
+"Duke","UNC",2
+"Ohio State","UNC",2
+"Iowa","UNC",1
+"Lower 87 Universities","UNC",24
+"Stanford","Wash. U. in St. Louis",6
+"MIT","Wash. U. in St. Louis",3
+"Harvard","Wash. U. in St. Louis",3
+"UC Berkeley","Wash. U. in St. Louis",5
+"Rochester","Wash. U. in St. Louis",2
+"Chicago","Wash. U. in St. Louis",2
+"Cornell","Wash. U. in St. Louis",2
+"Northwestern","Wash. U. in St. Louis",3
+"Michigan","Wash. U. in St. Louis",2
+"Columbia","Wash. U. in St. Louis",2
+"Yale","Wash. U. in St. Louis",3
+"UPenn","Wash. U. in St. Louis",3
+"Carnegie Mellon","Wash. U. in St. Louis",2
+"UCLA","Wash. U. in St. Louis",2
+"NYU","Wash. U. in St. Louis",1
+"Minnesota","Wash. U. in St. Louis",4
+"Illinois, Urb. Champ.","Wash. U. in St. Louis",2
+"Duke","Wash. U. in St. Louis",4
+"Iowa","Wash. U. in St. Louis",1
+"UNC","Wash. U. in St. Louis",3
+"Lower 87 Universities","Wash. U. in St. Louis",6
+"Stanford","Florida",4
+"MIT","Florida",2
+"Rochester","Florida",3
+"Chicago","Florida",2
+"Cornell","Florida",1
+"Northwestern","Florida",2
+"Michigan","Florida",4
+"Columbia","Florida",1
+"Yale","Florida",3
+"UPenn","Florida",3
+"Carnegie Mellon","Florida",2
+"Wisconsin","Florida",3
+"NYU","Florida",5
+"Minnesota","Florida",1
+"Illinois, Urb. Champ.","Florida",3
+"Duke","Florida",1
+"Purdue","Florida",1
+"Ohio State","Florida",1
+"Iowa","Florida",1
+"UNC","Florida",1
+"Wash. U. in St. Louis","Florida",1
+"Lower 87 Universities","Florida",19
+"Stanford","Lower 87 Universities",156
+"MIT","Lower 87 Universities",148
+"Harvard","Lower 87 Universities",126
+"UC Berkeley","Lower 87 Universities",125
+"Rochester","Lower 87 Universities",61
+"Chicago","Lower 87 Universities",113
+"Cornell","Lower 87 Universities",103
+"Northwestern","Lower 87 Universities",136
+"Michigan","Lower 87 Universities",171
+"Columbia","Lower 87 Universities",105
+"Yale","Lower 87 Universities",57
+"UPenn","Lower 87 Universities",152
+"Carnegie Mellon","Lower 87 Universities",85
+"Wisconsin","Lower 87 Universities",98
+"UCLA","Lower 87 Universities",95
+"NYU","Lower 87 Universities",149
+"Minnesota","Lower 87 Universities",122
+"Illinois, Urb. Champ.","Lower 87 Universities",172
+"Duke","Lower 87 Universities",72
+"Purdue","Lower 87 Universities",132
+"Ohio State","Lower 87 Universities",144
+"Iowa","Lower 87 Universities",75
+"UNC","Lower 87 Universities",130
+"Wash. U. in St. Louis","Lower 87 Universities",59
+"Florida","Lower 87 Universities",99

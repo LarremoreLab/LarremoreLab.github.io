@@ -1,0 +1,136 @@
+has,prefers,count
+"Stanford","Stanford",1
+"UC Berkeley","UC Berkeley",1
+"MIT","MIT",5
+"Caltech","Caltech",0
+"Harvard","Harvard",0
+"Cornell","Cornell",0
+"Carnegie Mellon","Carnegie Mellon",7
+"Princeton","Princeton",1
+"Yale","Yale",0
+"Washington","Washington",1
+"Illinois, Urb. Champ.","Illinois, Urb. Champ.",1
+"Wisconsin, Madison","Wisconsin, Madison",0
+"UPenn","UPenn",0
+"Rice","Rice",0
+"UCLA","UCLA",0
+"NYU","NYU",0
+"Chicago","Chicago",0
+"UT, Austin","UT, Austin",0
+"Brown","Brown",0
+"Columbia","Columbia",0
+"Toronto","Toronto",2
+"Rochester","Rochester",0
+"Southern California","Southern California",0
+"Johns Hopkins","Johns Hopkins",0
+"UMass, Amherst","UMass, Amherst",0
+"Lower 180 Universities","Lower 180 Universities",314
+"UC Berkeley","Stanford",1
+"Caltech","Stanford",1
+"Cornell","Stanford",1
+"Carnegie Mellon","Stanford",1
+"Stanford","UC Berkeley",1
+"MIT","UC Berkeley",1
+"Stanford","MIT",3
+"UC Berkeley","MIT",2
+"Cornell","MIT",1
+"Columbia","MIT",1
+"MIT","Caltech",1
+"Carnegie Mellon","Caltech",1
+"UC Berkeley","Harvard",2
+"MIT","Harvard",1
+"Lower 180 Universities","Harvard",1
+"Stanford","Cornell",1
+"MIT","Cornell",1
+"Harvard","Cornell",1
+"Carnegie Mellon","Cornell",1
+"UPenn","Cornell",1
+"UMass, Amherst","Cornell",1
+"Stanford","Carnegie Mellon",1
+"UC Berkeley","Carnegie Mellon",1
+"MIT","Carnegie Mellon",3
+"Harvard","Carnegie Mellon",1
+"Wisconsin, Madison","Carnegie Mellon",1
+"Chicago","Carnegie Mellon",1
+"Columbia","Carnegie Mellon",1
+"Lower 180 Universities","Carnegie Mellon",6
+"Stanford","Princeton",2
+"MIT","Princeton",2
+"Lower 180 Universities","Princeton",1
+"Stanford","Yale",1
+"Cornell","Yale",2
+"Stanford","Washington",2
+"UC Berkeley","Washington",1
+"MIT","Washington",2
+"Lower 180 Universities","Washington",1
+"MIT","Illinois, Urb. Champ.",1
+"Wisconsin, Madison","Illinois, Urb. Champ.",1
+"Lower 180 Universities","Illinois, Urb. Champ.",1
+"UC Berkeley","Wisconsin, Madison",1
+"Cornell","Wisconsin, Madison",1
+"Carnegie Mellon","Wisconsin, Madison",1
+"Illinois, Urb. Champ.","Wisconsin, Madison",1
+"UCLA","Wisconsin, Madison",1
+"Lower 180 Universities","Wisconsin, Madison",1
+"Cornell","UPenn",1
+"Carnegie Mellon","UPenn",1
+"Princeton","UPenn",1
+"Columbia","UPenn",1
+"Stanford","Rice",2
+"MIT","UCLA",1
+"UPenn","UCLA",1
+"Stanford","NYU",2
+"MIT","NYU",1
+"Stanford","Chicago",1
+"Cornell","Chicago",1
+"UC Berkeley","UT, Austin",1
+"MIT","UT, Austin",1
+"Cornell","UT, Austin",1
+"Princeton","UT, Austin",1
+"Rice","UT, Austin",1
+"Chicago","UT, Austin",1
+"MIT","Brown",1
+"NYU","Brown",1
+"MIT","Columbia",1
+"Carnegie Mellon","Columbia",1
+"Washington","Columbia",1
+"UPenn","Columbia",2
+"UC Berkeley","Toronto",1
+"Carnegie Mellon","Toronto",2
+"Illinois, Urb. Champ.","Toronto",1
+"Wisconsin, Madison","Toronto",1
+"Lower 180 Universities","Toronto",3
+"MIT","Rochester",1
+"Rice","Rochester",1
+"MIT","Southern California",1
+"UCLA","Southern California",1
+"Stanford","Johns Hopkins",1
+"MIT","Johns Hopkins",1
+"UC Berkeley","UMass, Amherst",1
+"MIT","UMass, Amherst",1
+"Yale","UMass, Amherst",1
+"Lower 180 Universities","UMass, Amherst",2
+"Stanford","Lower 180 Universities",13
+"UC Berkeley","Lower 180 Universities",12
+"MIT","Lower 180 Universities",25
+"Harvard","Lower 180 Universities",10
+"Cornell","Lower 180 Universities",9
+"Carnegie Mellon","Lower 180 Universities",13
+"Princeton","Lower 180 Universities",6
+"Yale","Lower 180 Universities",3
+"Washington","Lower 180 Universities",10
+"Illinois, Urb. Champ.","Lower 180 Universities",20
+"Wisconsin, Madison","Lower 180 Universities",6
+"UPenn","Lower 180 Universities",15
+"Rice","Lower 180 Universities",5
+"UCLA","Lower 180 Universities",12
+"NYU","Lower 180 Universities",2
+"Chicago","Lower 180 Universities",2
+"UT, Austin","Lower 180 Universities",3
+"Brown","Lower 180 Universities",6
+"Columbia","Lower 180 Universities",7
+"Toronto","Lower 180 Universities",19
+"Rochester","Lower 180 Universities",2
+"Southern California","Lower 180 Universities",4
+"Johns Hopkins","Lower 180 Universities",2
+"UMass, Amherst","Lower 180 Universities",9
