@@ -1,6 +1,29 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: Serial population based serosurvey of antibodies to SARS-CoV-2 in a low and high transmission area of Karachi, Pakistan
+      authors:
+      - Muhammad Imran Nisar
+      - Nadia Ansari
+      - Mashal Amin
+      - Farah Khalid
+      - Aneeta Hotwani
+      - Najeeb Rehman
+      - Arjumand Rizvi
+      - Arslan Memon
+      - Zahoor Ahmed
+      - Ashfaque Ahmed
+      - Junaid Iqbal
+      - Ali Faisal Saleem
+      - Uzma Bashir Aamir
+      - Daniel B. Larremore
+      - Bailey K. Fosdick
+      - Fyezah Jehan
+      venue: Submitted
+      year: 2020
+      links:
+        - text: preprint
+          url: https://twitter.com/yaneerbaryam/status/1288585150511616002?s=20
     - title: "Emergence of hierarchy in networked endorsement dynamics"
       authors:
       - Mari Kawakatsu*
@@ -12,7 +35,7 @@ categories:
       links:
         - text: preprint
           url: https://arxiv.org/abs/2007.04448
-    - title: “Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador”
+    - title: Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador
       authors:
       - Shazia Ruybal-Pesántez
       - Fabian E. Sáenz
