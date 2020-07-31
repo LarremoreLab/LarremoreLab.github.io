@@ -1,6 +1,14 @@
 categories:
   - heading: Coronavirus
     press:
+    - url: https://www.elconfidencial.com/tecnologia/ciencia/2020-07-31/test-euro-baratos-masivos-diarios-covid-coronavirus_2701359/
+      author: Ángel Villarino
+      date: 07/31/2020
+      venue: El Confidencial
+    - url: https://www.usatoday.com/story/news/2020/07/29/fda-opens-door-rapid-home-covid-19-tests/5536528002/
+      author: Karen Weintraub
+      date: 07/29/2020
+      venue: USA Today
     - url: https://www.nytimes.com/2020/07/28/opinion/coronavirus-testing-antigen-pooling.html
       author: Aaron E Carroll
       date: 07/28/2020
