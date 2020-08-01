@@ -1,6 +1,10 @@
 categories:
   - heading: Coronavirus
     press:
+    - url: https://www.nytimes.com/2020/07/31/us/politics/trump-coronavirus-testing.html
+      author: Sheryl Gay Stolberg and Katherine J. Wu
+      date: 07/31/2020
+      venue: The New York Times
     - url: https://www.elconfidencial.com/tecnologia/ciencia/2020-07-31/test-euro-baratos-masivos-diarios-covid-coronavirus_2701359/
       author: Ángel Villarino
       date: 07/31/2020
