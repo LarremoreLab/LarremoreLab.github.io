@@ -1,6 +1,14 @@
 categories:
   - heading: Coronavirus
     press:
+    - url: https://www.theatlantic.com/health/archive/2020/08/how-to-test-every-american-for-covid-19-every-day/615217/
+      author: Robinson Meyer and Alexis C. Madrigal
+      date: 08/14/2020
+      venue: The Atlantic
+    - url: https://www.genomeweb.com/pcr/many-initiatives-turning-rt-lamp-alternative-pcr-rapid-covid-19-screening-assays
+      author: Madeleine Johnson
+      date: 08/13/2020
+      venue: GenomeWeb
     - url: https://www.nytimes.com/2020/08/06/health/rapid-Covid-tests.html
       author: Katherine J. Wu
       date: 08/06/2020
