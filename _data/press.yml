@@ -1,6 +1,10 @@
 categories:
   - heading: Coronavirus
     press:
+    - url: https://www.nytimes.com/2020/08/20/magazine/what-if-we-worried-less-about-the-accuracy-of-coronavirus-tests.html
+      author: Kim Tingley
+      date: 08/20/2020
+      venue: The New York Times Magazine
     - url: https://www.theatlantic.com/health/archive/2020/08/how-to-test-every-american-for-covid-19-every-day/615217/
       author: Robinson Meyer and Alexis C. Madrigal
       date: 08/14/2020
