@@ -37,46 +37,46 @@ weeks:
       #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/BlocksInNetworks.pdf
   - title: Week 7 - Spreading processes on networks
     links:  
-      - title: Lecture 7
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L7.pdf
-      - title: Kleinberg Ch 24
-        url: http://www.cs.cornell.edu/home/kleinber/agtbook-ch24.pdf
+      # - title: Lecture 7
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L7.pdf
+      # - title: Kleinberg Ch 24
+      #   url: http://www.cs.cornell.edu/home/kleinber/agtbook-ch24.pdf
   - title: Week 8 - Ranking in directed networks and pairwise comparisons
     links:
-      - title: Lecture 8 
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L8.pdf
+      # - title: Lecture 8 
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L8.pdf
   - title: Week 9 - Wrangling network data I (sampling)
     links:
-      - title: Lecture 9 
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L9.pdf
+      # - title: Lecture 9 
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L9.pdf
   - title: Week 10 - Wrangling network data II (data, statistics, and tests)
     links:
-      - title: Lecture 10
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L10.pdf
+      # - title: Lecture 10
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L10.pdf
   - title: Week 11 - Spatial networks
     links:
-      - title: Lecture 11
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L11.pdf
+      # - title: Lecture 11
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L11.pdf
   - title: Week 12 - Growing networks
     links:
-      - title: Lecture 12
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L12.pdf
+      # - title: Lecture 12
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L12.pdf
   - title: Week 13 - Dynamic Networks
     links:
-      - title: Lecture 13
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L13.pdf
+      # - title: Lecture 13
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L13.pdf
   - title: Weeks 14-15 - Project Presentations & Wrapup
     links:
 problems:
   - title: PS1
-    url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS1.pdf
+    # url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS1.pdf
   - title: PS2
-    url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS2.pdf
+    # url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS2.pdf
   - title: PS3
-    url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS3.pdf
+    # url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS3.pdf
   - title: PS4
-    url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS4.pdf
+    # url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS4.pdf
   - title: PS5
-    url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS5.pdf
+    # url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS5.pdf
   - title: PS6
-    url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS6.pdf
+    # url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS6.pdf
