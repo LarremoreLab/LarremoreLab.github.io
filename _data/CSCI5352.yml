@@ -1,40 +1,40 @@
 weeks:
   - title: Week 1 - Introduction and overview
     links:
-    - title: Lecture 0 
-      url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L0.pdf
-    - title: Lecture 1 
-      url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L1.pdf
+    # - title: Lecture 0 
+    #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L0.pdf
+    # - title: Lecture 1 
+    #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L1.pdf
   - title: Week 2 - Measures of structural importance
     links:
-      - title: Lecture 2
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L2.pdf
+      # - title: Lecture 2
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L2.pdf
   - title: Week 3 - Random graphs I
     links:
-      - title: Lecture 3
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L3.pdf
-      - title: webweb
-        url: http://webwebpage.github.io
-      - title: G(n,p) + webweb notebook
-        url: https://github.com/dblarremore/CSCI5352/blob/master/Notebooks/3_erdos_renyi_demo.ipynb
-      - title: PercoVIS
-        url: http://danlarremore.com/PercoVIS.html
+      # - title: Lecture 3
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L3.pdf
+      # - title: webweb
+      #   url: http://webwebpage.github.io
+      # - title: G(n,p) + webweb notebook
+      #   url: https://github.com/dblarremore/CSCI5352/blob/master/Notebooks/3_erdos_renyi_demo.ipynb
+      # - title: PercoVIS
+      #   url: http://danlarremore.com/PercoVIS.html
   - title: Week 4 - Random graphs II
     links:
-      - title: Lecture 4
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L4.pdf
+      # - title: Lecture 4
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L4.pdf
   - title: Week 5 - Large-scale structure I
     links:
-      - title: Lecture 5
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L5.pdf
+      # - title: Lecture 5
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L5.pdf
   - title: Week 6 - Large-scale structure II
     links:
-      - title: Lecture 6
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L6.pdf
-      - title: SBM + webweb notebook
-        url: https://github.com/dblarremore/CSCI5352/blob/master/Notebooks/6_sbm_demo.ipynb
-      - title: slides
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/BlocksInNetworks.pdf
+      # - title: Lecture 6
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L6.pdf
+      # - title: SBM + webweb notebook
+      #   url: https://github.com/dblarremore/CSCI5352/blob/master/Notebooks/6_sbm_demo.ipynb
+      # - title: slides
+      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/BlocksInNetworks.pdf
   - title: Week 7 - Spreading processes on networks
     links:  
       - title: Lecture 7
