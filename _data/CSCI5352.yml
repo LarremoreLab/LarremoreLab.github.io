@@ -68,8 +68,8 @@ weeks:
   - title: Weeks 14-15 - Project Presentations & Wrapup
     links:
 problems:
-  # - title: PS1
-  #   url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS1.pdf
+  - title: PS1
+    url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/csci5352_2020_HW1.pdf
   # - title: PS2
   #   url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS2.pdf
   # - title: PS3
