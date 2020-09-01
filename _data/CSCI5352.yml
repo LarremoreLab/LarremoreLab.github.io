@@ -70,13 +70,5 @@ weeks:
 problems:
   - title: PS1
     url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/csci5352_2020_HW1.pdf
-  # - title: PS2
-  #   url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS2.pdf
-  # - title: PS3
-  #   url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS3.pdf
-  # - title: PS4
-  #   url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS4.pdf
-  # - title: PS5
-  #   url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS5.pdf
-  # - title: PS6
-  #   url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/PS6.pdf
+  - title: PS2
+    url: https://github.com/dblarremore/CSCI5352/raw/master/ProblemSets/csci5352_2020_HW2.pdf
