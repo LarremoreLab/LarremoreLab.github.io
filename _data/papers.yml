@@ -1,12 +1,23 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
+      authors:
+      - Kate M. Bubar
+      - Stephen M. Kissler
+      - Marc Lipsitch
+      - Sarah Cobey
+      - Yonatan H. Grad
+      - Daniel B. Larremore
+      year: 2020
+      venue: Submitted
+      links:
     - title: A guide to choosing and implementing reference models for social network analysis
       authors:
       - Elizabeth Hobson
       - Matthew Silk
       - Nina Fefferman
-      - Daniel Larremore
+      - Daniel B. Larremore
       - Puck Rombach
       - Saray Shai
       - Noa Pinter-Wollman
