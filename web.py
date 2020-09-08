@@ -159,9 +159,9 @@ def make_network(data):
     web.display.colorBy = 'color'
     web.display.hideMenu = True
     web.display.showLegend = False
-    web.display.g = .45
-    web.display.w = 400
-    web.display.h = 400
+    web.display.gravity = 0.4
+    web.display.width = 400
+    web.display.height = 400
     web.display.scaleLinkOpacity = True
     web.display.scaleLinkWidth = True
     web.display.scales = {
