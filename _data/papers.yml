@@ -11,6 +11,11 @@ categories:
       - Daniel B. Larremore
       year: 2020
       venue: Submitted
+      links:
+        - text: preprint
+          url: https://www.medrxiv.org/content/10.1101/2020.09.08.20190629v1
+        - text: twitterthread
+          url: https://twitter.com/bubar_kate/status/1304472235214741504
     - title: A guide to choosing and implementing reference models for social network analysis
       authors:
       - Elizabeth Hobson
