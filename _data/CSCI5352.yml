@@ -27,8 +27,8 @@ weeks:
       #   url: http://danlarremore.com/PercoVIS.html
   - title: Week 4 - Random graphs II
     links:
-      # - title: Lecture 4
-      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L4.pdf
+      - title: Lecture 4
+        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L4.pdf
   - title: Week 5 - Large-scale structure I
     links:
       # - title: Lecture 5
