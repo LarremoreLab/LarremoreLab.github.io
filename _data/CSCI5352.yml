@@ -33,8 +33,8 @@ weeks:
         url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%204.pdf
   - title: Week 5 - Large-scale structure I
     links:
-      # - title: Lecture 5
-      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/L5.pdf
+      - title: Lecture 5
+        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L5.pdf
   - title: Week 6 - Large-scale structure II
     links:
       # - title: Lecture 6

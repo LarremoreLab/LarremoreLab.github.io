@@ -116,32 +116,6 @@ categories:
       - Aaron Clauset
       year: 2020
       venue: Submitted
-    - title: "Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City"
-      authors:
-      - Stephen M. Kissler*
-      - Nishant Kishore*
-      - Malavika Prabhu*
-      - Dena Goffman*
-      - Yaakov Beilin*
-      - Ruth Landau
-      - Cynthia Gyamfi-Bannerman
-      - Brian T. Bateman 
-      - Daniel Katz
-      - Jonathan Gal
-      - Angela Bianco
-      - Joanne Stone
-      - Daniel B. Larremore
-      - Caroline O. Buckee
-      - Yonatan H. Grad
-      year: 2020
-      venue: Submitted
-      links:
-        - text: preprint
-          url: https://dash.harvard.edu/handle/1/42665370
-        - text: twitterthread
-          url: https://twitter.com/yhgrad/status/1259077198016888832
-        - text: twitterthread (math)
-          url: https://twitter.com/DanLarremore/status/1259129523666251777
     - title: "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys"
       authors:
       - Daniel B. Larremore
@@ -253,6 +227,33 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City"
+      authors:
+      - Stephen M. Kissler*
+      - Nishant Kishore*
+      - Malavika Prabhu*
+      - Dena Goffman*
+      - Yaakov Beilin*
+      - Ruth Landau
+      - Cynthia Gyamfi-Bannerman
+      - Brian T. Bateman 
+      - Daniel Katz
+      - Jonathan Gal
+      - Angela Bianco
+      - Joanne Stone
+      - Daniel B. Larremore
+      - Caroline O. Buckee
+      - Yonatan H. Grad
+      year: 2020
+      volumeissue: 11, 4674
+      venue: Nature Communications
+      links:
+        - text: Nature Commmunications
+          url: https://www.nature.com/articles/s41467-020-18271-5
+        - text: twitterthread
+          url: https://twitter.com/yhgrad/status/1259077198016888832
+        - text: twitterthread (math)
+          url: https://twitter.com/DanLarremore/status/1259129523666251777
     - title: "Implications of test characteristics and population seroprevalence on 'immune passport' strategies"
       authors:
       - Daniel B. Larremore
