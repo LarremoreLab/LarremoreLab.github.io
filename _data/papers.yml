@@ -139,17 +139,6 @@ categories:
           url: https://larremorelab.github.io/covid19testgroup
         - text: github
           url: https://github.com/LarremoreLab/covid_serological_sampling
-    - title: "Control of excitable systems is optimal near criticality"
-      authors:
-      - Kathleen Finlinson
-      - Woodrow L. Shew
-      - Daniel B. Larremore
-      - Juan G. Restrepo
-      year: 2019
-      venue: Submitted
-      links:
-        - text: arXiv
-          url: https://arxiv.org/abs/1912.06690
     - title: "Plasmodium falciparum population genetic complexity influences transcriptional profile and immune recognition of highly related genotypic clusters" 
       authors:
       - Amy K. Bei
@@ -227,6 +216,20 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Control of excitable systems is optimal near criticality"
+      authors:
+      - Kathleen Finlinson
+      - Woodrow L. Shew
+      - Daniel B. Larremore
+      - Juan G. Restrepo
+      year: 2020
+      volumeissue: 2, 033450
+      venue: Physical Review Research
+      links:
+        - text: Physical Review Research
+          url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033450
+        - text: arXiv
+          url: https://arxiv.org/abs/1912.06690
     - title: "Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City"
       authors:
       - Stephen M. Kissler*
