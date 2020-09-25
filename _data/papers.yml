@@ -1,6 +1,21 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: Risk Factors of SARS-CoV-2 Antibodies in Arapahoe County First Responders - the COVID-19 Arapahoe SErosurveillance Study (CASES) Project
+      authors: 
+      - Katherine R. Sabourin
+      - Jonathan Schultz
+      - Joshua Romero
+      - Molly M. Lamb
+      - Daniel B. Larremore
+      - Thomas E. Morrison
+      - Ashley Frazer
+      - Shanta Zimmer
+      - Ross M. Kedl
+      - Thomas Jaenisch
+      - Rosemary Rochford
+      venue: Submitted
+      year: 2020
     - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
       authors:
       - Kate M. Bubar
@@ -168,24 +183,16 @@ categories:
           url: "https://www.biorxiv.org/content/10.1101/2020.01.03.894220v1"
     - title: "Explaining Gender Differences in Academics' Career Trajectories"
       authors:
-      - Daniel B. Larremore*
-      - Kenneth Joseph*
       - Aniko Hannak*
+      - Kenneth Joseph*
       - Andrei Cimpian*
-      year: 2020
-      venue: Submitted
-    - title: "Community Detection in Bipartite Networks with Stochastic Blockmodels"
-      authors:
-      - Tzu-Chi Yen
-      - Daniel B. Larremore
+      - Daniel B. Larremore*
       year: 2020
       venue: Submitted
       links:
         - text: arXiv
-          url: https://arxiv.org/abs/2001.11818
-        - text: github
-          url: https://github.com/junipertcy/bipartiteSBM
-    - title: Choice Symposium Working Paper
+          url: http://arxiv.org/abs/2009.10830
+    - title: "Choices In Networks: A Research Framework"
       authors: 
       - Alice Patania
       - Blake McShane
@@ -199,7 +206,7 @@ categories:
       - Michael Braun 
       - Nina Fefferman
       year: 2020
-      venue: Submitted
+      venue: In Press, Marketing Letters
     - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
       authors:
       - Ryan M. Layer
@@ -216,6 +223,21 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Community Detection in Bipartite Networks with Stochastic Blockmodels"
+      authors:
+      - Tzu-Chi Yen
+      - Daniel B. Larremore
+      year: 2020
+      venue: Physical Review E
+      volumeissue: 102, 032309
+      links:
+        - text: Physical Review E
+          url: https://link.aps.org/doi/10.1103/PhysRevE.102.032309
+        - text: arXiv
+          url: https://arxiv.org/abs/2001.11818
+        - text: github
+          url: https://github.com/junipertcy/bipartiteSBM
+
     - title: "Control of excitable systems is optimal near criticality"
       authors:
       - Kathleen Finlinson
