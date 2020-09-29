@@ -207,6 +207,10 @@ categories:
       - Nina Fefferman
       year: 2020
       venue: In Press, Marketing Letters
+
+
+  - heading: "Published"
+    pubs:
     - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
       authors:
       - Ryan M. Layer
@@ -215,14 +219,10 @@ categories:
       - Daniel B. Larremore
       - Paul Doherty
       year: 2020
-      venue: In Press
+      venue: ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Workshop on Humanitarian Data Mapping
       links:
-        - text: preprint
+        - text: KDD Workshop on Humanitarian Mapping
           url: https://www.medrxiv.org/content/10.1101/2020.06.04.20122093v1
-
-
-  - heading: "Published"
-    pubs:
     - title: "Community Detection in Bipartite Networks with Stochastic Blockmodels"
       authors:
       - Tzu-Chi Yen
@@ -252,7 +252,7 @@ categories:
           url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033450
         - text: arXiv
           url: https://arxiv.org/abs/1912.06690
-    - title: "Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City"
+    - title: "Reductions in commuting mobility correlate with geographic differences in SARS-CoV-2 prevalence in New York City"
       authors:
       - Stephen M. Kissler*
       - Nishant Kishore*
@@ -670,6 +670,15 @@ categories:
   
   - heading: Essays, Columns, Book Chapters, Miscellaneous
     pubs:
+    - title: "Rethinking Covid-19 Test Sensitivity — A Strategy for Containment"
+      authors:
+      - Michael J. Mina
+      - Roy Parker
+      - Daniel B. Larremore
+      year: 2020
+      links:
+      - text: New England Journal of Medicine
+        url: /
     - title: "Network models for malaria: antigens, dynamics, and evolution over space and time"
       authors: 
       - Lauren Childs
