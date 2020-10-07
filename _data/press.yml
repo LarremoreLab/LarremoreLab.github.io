@@ -1,6 +1,10 @@
 categories:
   - heading: Coronavirus
     press:
+    - url: https://www.nytimes.com/interactive/2020/10/02/science/charting-a-coronavirus-infection.html
+      date: 10/06/2020
+      venue: The New York Times
+      author: Katherine J. Wu and Jonathan Corum
     - url: https://www.9news.com/video/news/health/coronavirus/technology-would-help-cu-boulder-students-steer-clear-of-crowds/73-0017ab50-d6f8-4108-ac30-c6d34dbd9c14
       date: 09/12/2020
       venue: NBC Denver

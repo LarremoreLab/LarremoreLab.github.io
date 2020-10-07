@@ -192,6 +192,9 @@ categories:
       links:
         - text: arXiv
           url: http://arxiv.org/abs/2009.10830
+
+  - heading: "Published"
+    pubs:
     - title: "Choices In Networks: A Research Framework"
       authors: 
       - Alice Patania
@@ -206,11 +209,8 @@ categories:
       - Michael Braun 
       - Nina Fefferman
       year: 2020
-      venue: In Press, Marketing Letters
-
-
-  - heading: "Published"
-    pubs:
+      venue: Marketing Letters
+      volumeissue: 1-11
     - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
       authors:
       - Ryan M. Layer
