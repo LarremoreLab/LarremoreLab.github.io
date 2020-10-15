@@ -678,7 +678,7 @@ categories:
       year: 2020
       links:
       - text: New England Journal of Medicine
-        url: /
+        url: https://www.nejm.org/doi/full/10.1056/NEJMp2025631
     - title: "Network models for malaria: antigens, dynamics, and evolution over space and time"
       authors: 
       - Lauren Childs
