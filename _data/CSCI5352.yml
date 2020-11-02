@@ -2,77 +2,97 @@ weeks:
   - title: Week 1 - Introduction and overview
     links:
     - title: Lecture 0 
-      url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L0.pdf
+      url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L0.pdf
     - title: Lecture 1 
-      url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L1.pdf
+      url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L1.pdf
     - title: Notes
-      url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%201.pdf
+      url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%201.pdf
   - title: Week 2 - Measures of structural importance
     links:
       - title: Lecture 2
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L2.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L2.pdf
       - title: Notes
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%202.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%202.pdf
   - title: Week 3 - Random graphs I
     links:
       - title: Lecture 3
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L3.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L3.pdf
       - title: webweb
         url: http://webwebpage.github.io
       - title: G(n,p) + webweb notebook
         url: https://github.com/dblarremore/CSCI5352/blob/master/Notebooks/3_erdos_renyi_demo.ipynb
       - title: Notes
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%203.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%203.pdf
       # - title: PercoVIS
       #   url: http://danlarremore.com/PercoVIS.html
   - title: Week 4 - Random graphs II
     links:
       - title: Lecture 4
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L4.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L4.pdf
       - title: Notes
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%204.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%204.pdf
   - title: Week 5 - Large-scale structure I
     links:
       - title: Lecture 5
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L5.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L5.pdf
+      - title: Notes
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%205.pdf
   - title: Week 6 - Large-scale structure II
     links:
       - title: Lecture 6
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L6.pdf
-      # - title: SBM + webweb notebook
-      #   url: https://github.com/dblarremore/CSCI5352/blob/master/Notebooks/6_sbm_demo.ipynb
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L6.pdf
+      - title: Notes
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%206.pdf
+      - title: SBM + webweb notebook
+        url: https://github.com/dblarremore/CSCI5352/blob/master/Notebooks/6_sbm_demo.ipynb
       # - title: slides
-      #   url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/BlocksInNetworks.pdf
+      #   url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/BlocksInNetworks.pdf
   - title: Week 7 - Spreading processes on networks
     links:  
       - title: Lecture 7
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L7.pdf
-      # - title: Kleinberg Ch 24
-      #   url: http://www.cs.cornell.edu/home/kleinber/agtbook-ch24.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L7.pdf
+      - title: Notes
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%207.pdf
+      - title: Kleinberg Ch 24
+        url: http://www.cs.cornell.edu/home/kleinber/agtbook-ch24.pdf
   - title: Week 8 - Ranking in directed networks and pairwise comparisons
     links:
       - title: Lecture 8 
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L8.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L8.pdf
+      - title: Notes
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%208.pdf
   - title: Week 9 - Wrangling network data I (sampling)
     links:
       - title: Lecture 9 
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L9b.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L9b.pdf
+      - title: Notes
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%209.pdf
   - title: Week 10 - Wrangling network data II (data, statistics, and tests)
     links:
       - title: Lecture 10
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L10.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L10.pdf
+      - title: Notes
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%2010.pdf
+      - title: Notes
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%2010a.pdf
+      - title: Notes
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%2010b.pdf
+      - title: Notes
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%2010c.pdf
+      - title: Notes
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/Week%2010d.pdf
   - title: Week 11 - Spatial networks
     links:
       - title: Lecture 11
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L11.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L11.pdf
   - title: Week 12 - Growing networks
     links:
       - title: Lecture 12
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L12.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L12.pdf
   - title: Week 13 - Dynamic Networks
     links:
       - title: Lecture 13
-        url: https://docs.google.com/viewer?url=https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L13.pdf
+        url: https://github.com/dblarremore/CSCI5352/raw/master/Notes/csci5352_L13.pdf
   - title: Weeks 14-15 - Project Presentations & Wrapup
     links:
 problems:
