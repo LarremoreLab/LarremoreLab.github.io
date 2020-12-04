@@ -1,6 +1,10 @@
 categories:
   - heading: Coronavirus
     press:
+    - url: https://www.thedoctorwillseeyounow.com/content/public_health/art6278.html
+      date: 12/1/2020
+      venue: The Doctor Will See You Now
+      author: Laurie Wiegler
     - url: https://spectator.sme.sk/c/22526242/smarter-than-the-lockdown-slovakia-tries-to-outwit-the-coronavirus.html
       date: 11/3/2020
       venue: The Slovak Spectator (Slovakia)
@@ -9,6 +13,10 @@ categories:
       date: 11/01/2020
       venue: USA Today
       author: Rae Ellen Bichell
+    - url: https://www.voanews.com/covid-19-pandemic/coronavirus-measures-will-not-end-when-vaccine-arrives-experts-say
+      date: 10/27/2020
+      venue: Voice of America
+      author: Steve Baragona
     - url: https://www.nytimes.com/interactive/2020/10/02/science/charting-a-coronavirus-infection.html
       date: 10/06/2020
       venue: The New York Times

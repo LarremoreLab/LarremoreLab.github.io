@@ -1,6 +1,18 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: Modeling the effectiveness of olfactory testing to limit SARS-2-CoV transmission
+      authors:
+      - Daniel B. Larremore
+      - Derek Toomre
+      - Roy Parker
+      venue: Submitted
+      year: 2020
+      links:
+        - text: preprint
+          url: https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1
+        - text: twitterthread
+          url: https://twitter.com/DanLarremore/status/1334238554256338947
     - title: Risk Factors of SARS-CoV-2 Antibodies in Arapahoe County First Responders - the COVID-19 Arapahoe SErosurveillance Study (CASES) Project
       authors: 
       - Katherine R. Sabourin
@@ -14,7 +26,7 @@ categories:
       - Ross M. Kedl
       - Thomas Jaenisch
       - Rosemary Rochford
-      venue: Submitted
+      venue: In Press, Journal of Occupational and Environmental Medicine
       year: 2020
     - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
       authors:
