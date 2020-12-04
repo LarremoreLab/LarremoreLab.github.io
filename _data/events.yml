@@ -1,31 +1,36 @@
-- description: New editorial in the New England Journal of Medicine, <a href="/">Rethinking Covid-19 Test Sensitivity — A Strategy for Containment</a> with Michael Mina and Roy Parker.
+- description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1">Modeling the effectiveness of olfactory testing to limit SARS-2-CoV transmission
+</a>.
+  date: 2020 Dec 2
+- description: New paper in Science Advances, <a href="https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393">Test sensitivity is secondary to frequency and turnaround time for COVID-19 screening</a>.
+  date: 2020 Nov 20
+- description: New editorial in the New England Journal of Medicine, <a href="https://www.nejm.org/doi/full/10.1056/NEJMp2025631">Rethinking Covid-19 Test Sensitivity — A Strategy for Containment</a> with Michael Mina and Roy Parker.
   date: 2020 Sept 30
 - description: <a href="https://link.aps.org/doi/10.1103/PhysRevE.102.032309">Community Detection in Bipartite Networks with Stochastic Blockmodels</a> by <a href="https://junipertcy.info/">Tzu-Chi Yen</a> is published in Physical Review E.
   date: 2020 Sept 25
-- description: New preprint with <a href="https://twitter.com/bubar_kate?lang=en">Kate Bubar</a>, <a href="https://www.medrxiv.org/content/10.1101/2020.09.08.20190629v1">Model-informed COVID-19 vaccine prioritization strategies by age and serostatus</a>.
-  date: 2020 Sept 10
-- description: New COVID preprint <a href="https://www.medrxiv.org/content/10.1101/2020.07.28.20163451v1">Serial population based serosurvey of antibodies to SARS-CoV-2 in a low and high transmission area of Karachi, Pakistan</a>.
-  date: 2020 June 25
-- description: New COVID preprint <a href="https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v1">Surveillance testing of SARS-CoV-2</a> with an <a href="/covid-calculator3">online calculator</a>.
-  date: 2020 June 25
-- description: Our study of antibody responses to the malaria parasite among children was published in <a href="https://insight.jci.org/articles/view/137262">JCI Insight</a>.
-  date: 2020 June 18
-- description : New COVID preprint <a href="https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1">Jointly modeling prevalence, sensitivity and specificity for optimal sample allocation</a>.
-  date: 2020 May 26
-- description: New COVID preprint <a href="https://dash.harvard.edu/handle/1/42665370">Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City</a>.
-  date: 2020 May 8
-- description: New COVID preprint <a href="https://dash.harvard.edu/handle/1/42664007">Implications of test characteristics and population seroprevalence on ‘immune passport’ strategies</a>.
-  date: 2020 May 7
-- description: Launched the <a href="https://larremorelab.github.io/covid19testgroup">COVID-19 Testing Group</a>, a community resource for sharing the latest information on COVID-19 prevalence, seroprevalence, and burden studies, planning tools, and data.
-  date: 2020 Apr 20
-- description: New COVID preprint <a href="https://www.medrxiv.org/content/10.1101/2020.04.15.20067066v1">Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys</a> with <a href="https://larremorelab.github.io/covid-serology">an interactive calculation tool</a> as well as <a href="https://github.com/LarremoreLab/covid_serological_sampling">code and documentation</a>.
-  date: 2020 Apr 16
-- description: "Joined the <a href='https://www.covid19mobility.org/researchers/'>COVID-19 Mobility Data Network</a>."
-  date: 2020 Mar 25
-- description: "Dan is giving a talk on the group's malaria work at the Computational BioScience seminar at CU Med. RC1 North 6107 10:30"
-  date: 2020 Mar 9
-- description: "New paper out with Lauren Childs: <a href='https://www.sciencedirect.com/science/article/pii/B9780128012383115120'>Network Models for Malaria: Antigens, Dynamics, and Evolution Over Space and Time</a>."
-  date: 2020 Mar 3
+# - description: New preprint with <a href="https://twitter.com/bubar_kate?lang=en">Kate Bubar</a>, <a href="https://www.medrxiv.org/content/10.1101/2020.09.08.20190629v1">Model-informed COVID-19 vaccine prioritization strategies by age and serostatus</a>.
+#   date: 2020 Sept 10
+# - description: New COVID preprint <a href="https://www.medrxiv.org/content/10.1101/2020.07.28.20163451v1">Serial population based serosurvey of antibodies to SARS-CoV-2 in a low and high transmission area of Karachi, Pakistan</a>.
+#   date: 2020 June 25
+# - description: New COVID preprint <a href="https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v1">Surveillance testing of SARS-CoV-2</a> with an <a href="/covid-calculator3">online calculator</a>.
+#   date: 2020 June 25
+# - description: Our study of antibody responses to the malaria parasite among children was published in <a href="https://insight.jci.org/articles/view/137262">JCI Insight</a>.
+#   date: 2020 June 18
+# - description : New COVID preprint <a href="https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1">Jointly modeling prevalence, sensitivity and specificity for optimal sample allocation</a>.
+#   date: 2020 May 26
+# - description: New COVID preprint <a href="https://dash.harvard.edu/handle/1/42665370">Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City</a>.
+#   date: 2020 May 8
+# - description: New COVID preprint <a href="https://dash.harvard.edu/handle/1/42664007">Implications of test characteristics and population seroprevalence on ‘immune passport’ strategies</a>.
+#   date: 2020 May 7
+# - description: Launched the <a href="https://larremorelab.github.io/covid19testgroup">COVID-19 Testing Group</a>, a community resource for sharing the latest information on COVID-19 prevalence, seroprevalence, and burden studies, planning tools, and data.
+#   date: 2020 Apr 20
+# - description: New COVID preprint <a href="https://www.medrxiv.org/content/10.1101/2020.04.15.20067066v1">Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys</a> with <a href="https://larremorelab.github.io/covid-serology">an interactive calculation tool</a> as well as <a href="https://github.com/LarremoreLab/covid_serological_sampling">code and documentation</a>.
+#   date: 2020 Apr 16
+# - description: "Joined the <a href='https://www.covid19mobility.org/researchers/'>COVID-19 Mobility Data Network</a>."
+#   date: 2020 Mar 25
+# - description: "Dan is giving a talk on the group's malaria work at the Computational BioScience seminar at CU Med. RC1 North 6107 10:30"
+#   date: 2020 Mar 9
+# - description: "New paper out with Lauren Childs: <a href='https://www.sciencedirect.com/science/article/pii/B9780128012383115120'>Network Models for Malaria: Antigens, Dynamics, and Evolution Over Space and Time</a>."
+#   date: 2020 Mar 3
 # - description: Dan is participating in the Model-based Research and Reproducibility Workshop at the <a href="https://cos.io/">Center for Open Science</a> in Charlottesville, VA.
 #   date: 2020 Feb 4-5
 # - description: Dan will be giving the CU Boulder <a href="https://calendar.colorado.edu/event/applied_math_colloquium_-_dan_larremore#.XiDty1NKiL8">Applied Math Colloquium</a>.
