@@ -550,7 +550,7 @@ categories:
       - text: code and data
         url: "http://tuvalu.santafe.edu/~aaronc/facultyhiring/"
       - text: interactive data visualization
-        url: "http://danlarremore.com/faculty"
+        url: "https://larremorelab.github.io/faculty/"
     - title: "Immune characterization of P. falciparum parasites with a shared genetic signature in a region of decreasing transmission"
       authors:
       - Amy K. Bei

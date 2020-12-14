@@ -1,6 +1,14 @@
 categories:
   - heading: Coronavirus
     press:
+    - url: https://spectator.sme.sk/c/22540280/using-only-antigen-tests-for-mass-testing-was-the-right-move-says-american-mathematician.html
+      date: 11/23/2020
+      venue: The Slovak Spectator (Slovakia)
+      author: Nina Hrabovská Francelová
+    - url: https://cen.acs.org/biological-chemistry/infectious-disease/UKs-ambitious-Operation-Moonshot-screening/98/i48
+      date: 12/6/2020
+      venue: Chemical and Engineering News
+      author: Mark Peplow
     - url: https://www.thedoctorwillseeyounow.com/content/public_health/art6278.html
       date: 12/1/2020
       venue: The Doctor Will See You Now
@@ -121,10 +129,6 @@ categories:
       author: Umair Irfan
       date: 06/29/2020
       venue: Vox
-    - url: https://www.nature.com/articles/d41586-020-00502-w
-      date: 06/26/2020
-      venue: Nature News
-      author: Editors
     - url: https://www.buzzfeednews.com/article/peteraldhous/mario-molina-coronavirus-face-masks-pnas
       venue: Buzzfeed
       date: 06/18/2020
