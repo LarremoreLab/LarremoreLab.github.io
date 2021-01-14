@@ -1,38 +1,20 @@
 categories:
   - heading: Current Courses
     courses:
-    - title: CSCI 5352 - Network Analysis and Modeling
-      term: Fall 2019
-      url: /5352/
+    - title: CSCI 2897 / 2830 - Calculating Biological Quantities
+      term: Spring 2021
+      url: https://github.com/dblarremore/CSCI2897
       urltitle: Course Webpage
-    - title: CSCI 4802/5802 - CU Data Science Team
-      term: Fall 2019
-      url: http://danlarremore.com/4802
-      urltitle: Course Webpage
-    - title: CSCI 7000 - Current Topics in Interdisciplinary Research
-      term: Fall 2019
   - heading: Past Courses at CU Boulder
     courses:
+      - title: CSCI 7000 - Topics in Interdisciplinary Research
+        term: Fall 2019, Spring 2020, Fall 2020
       - title: CSCI 4802/5802 - Intro to Data Science w/ Prob & Stats
-        term: Spring 2019
-        url: https://public.tableau.com/shared/79SGW5SR2?:display_count=yes&:origin=viz_share_link
-        urltitle: Course Evals
+        term: Spring 2019, Fall 2019
       - title: CSCI 5352 - Network Analysis and Modeling
-        term: Fall 2018
-        url: https://public.tableau.com/shared/JR94KKDBT?:display_count=yes&:origin=viz_share_link
-        urltitle: Course Evals
+        term: Fall 2018, Fall 2019, Fall 2020
       - title: CSCI 3022 - Intro to Data Science w/ Prob & Stats
-        term: Fall 2018
-        url: https://public.tableau.com/shared/2KPYJCN6D?:display_count=yes&:origin=viz_share_link
-        urltitle: Course Evals
-      - title: CSCI 3022 - Intro to Data Science w/ Prob & Stats
-        term: Spring 2018
-        url: https://public.tableau.com/shared/TT9S3RPDG?:display_count=yes&:origin=viz_share_link
-        urltitle: Course Evals
-      - title: CSCI 3022 - Intro to Data Science w/ Prob & Stats
-        term: Fall 2017
-        url: https://public.tableau.com/shared/KRGZCC2N2?:display_count=yes&:origin=viz_share_link
-        urltitle: Course Evals
+        term: Fall 2017, Spring 2018, Fall, 2018
   - heading: Lecture Recordings
     courses:
       - title: Gender, prestige, and productivity in academic hiring networks and career trajectories
