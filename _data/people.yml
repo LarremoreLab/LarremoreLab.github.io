@@ -13,6 +13,11 @@ people:
     subject: the scientific ecosystem
     aliases:
       - Eun Lee
+  - name: Kate Wootton
+    url: /
+    image_path: /assets/images/people/kate_wootton.jpg
+    title: Postdoc*
+    subject: the scientific ecosystem
   - name: Tzu-Chi Yen
     url: https://junipertcy.info/
     image_path: /assets/images/people/tzuchi.gif
@@ -39,13 +44,13 @@ people:
     url: /
     image_path: /assets/images/people/erik.gif
     title: PhD Student, APPM
-    subject: malaria parasite genetics
+    subject: infectious disease
     aliases:
       - Erik K. Johnson
   - name: Kate Bubar
     image_path: /assets/images/people/kate.gif
     url: https://twitter.com/bubar_kate?lang=en
-    title: PhD Student, APPM
+    title: PhD Student, APPM+IQ Bio
     subject: infectious disease
     aliases:
       - Kate M. Bubar
@@ -56,19 +61,19 @@ people:
     subject: the scientific ecosystem
   - name: Upasana Dutta
     image_path: /assets/images/people/upasana_dutta.png
-    url: /
+    url: https://github.com/UpasanaDutta98
     title: MS Student, CS
     subject: complex networks
   - name: Suchita Lulla
     url: /
     image_path: /assets/images/people/suchi.gif
     title: Undergrad, CS & MCDB
-    subject: malaria parasite genetics
-  - name: Kate Wootton
-    url: /
-    image_path: /assets/images/people/kate_wootton.jpg
-    title: Postdoc (January 2021)*
-    subject: the scientific ecosystem
+    subject: infectious disease
+  - name: Casey Middleton
+    image_path: /assets/images/people/casey_middleton.jpg
+    url: https://github.com/caseymid48
+    title: PhD Student, IQ Bio
+    subject: infectious disease
   - name: Aloha Churchill
     url: /
     title: Undergrad, CS & APPM

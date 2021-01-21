@@ -28,21 +28,6 @@ categories:
       - Rosemary Rochford
       venue: In Press, Journal of Occupational and Environmental Medicine
       year: 2020
-    - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
-      authors:
-      - Kate M. Bubar
-      - Stephen M. Kissler
-      - Marc Lipsitch
-      - Sarah Cobey
-      - Yonatan H. Grad
-      - Daniel B. Larremore
-      year: 2020
-      venue: Submitted
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2020.09.08.20190629v1
-        - text: twitterthread
-          url: https://twitter.com/bubar_kate/status/1304472235214741504
     - title: A guide to choosing and implementing reference models for social network analysis
       authors:
       - Elizabeth Hobson
@@ -187,6 +172,24 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
+      authors:
+      - Kate M. Bubar
+      - Kyle Reinholt
+      - Stephen M. Kissler
+      - Marc Lipsitch
+      - Sarah Cobey
+      - Yonatan H. Grad
+      - Daniel B. Larremore
+      year: 2020
+      venue: Science
+      links:
+        - text: Science
+          url: https://science.sciencemag.org/lookup/doi/10.1126/science.abe6959
+        - text: interactive calculation tool
+          url: http://vaxfirst.colorado.edu
+        - text: twitterthread
+          url: https://twitter.com/bubar_kate/status/1304472235214741504
     - title: "Test sensitivity is secondary to frequency and turnaround time for COVID-19 screening"
       authors:
       - Daniel B. Larremore

@@ -1,5 +1,73 @@
 categories:
-  - heading: Coronavirus
+  - heading: COVID Vaccines
+    press:
+    - url: https://www.youtube.com/watch?v=MWuVUoM3fZo&feature=youtu.be&ab_channel=CGTNDenver
+      date: 12/23/2020
+      venue: CGTN Denver
+      author: Hendrik Sybrandy
+    - url: https://www.youtube.com/watch?v=nkjimcwHWts&feature=youtu.be&ab_channel=CGTNDenve
+      date: 01/18/2021
+      venue: CGTN Denver
+      author: Hendrik Sybrandy
+    - url: https://www.washingtonpost.com/politics/2021/01/11/health-202-recovered-coronavirus-patients-should-still-get-vaccine-experts-say/
+      date: 01/11/2021
+      venue: The Washington Post
+      author: Alexandra Ellerbeck
+    - url: https://www.nytimes.com/2021/01/17/world/trump-vaccine-doses.html
+      date: 01/17/2021
+      venue: The New York Times
+      author: Bryan Pietsch
+    - url: https://www.npr.org/sections/health-shots/2021/01/11/955659213/math-problem-whats-the-best-strategy-for-covid-19-vaccination?live=1
+      date: 01/11/2021
+      venue: NPR
+      author: Joe Palca
+    - url: https://www.wsj.com/articles/should-people-who-have-had-covid-19-wait-to-get-a-vaccine-11608562810
+      date: 12/21/2020
+      venue: The Wall Street Journal
+      author: Sarah Toy and Daniela Hernandez
+    - url: https://kdvr.com/news/coronavirus/covid-19-vaccine/cu-study-suggests-people-who-already-had-covid-19-should-let-others-get-vaccinated-first/
+      date: 12/11/2020
+      venue: Denver 31 News
+      author: Evan Kruegel
+    - url: https://www.thedenverchannel.com/news/local-news/cu-researchers-global-partners-model-which-covid-vaccine-distribution-strategies-work-best
+      date: 12/13/2020
+      venue: Denver 7 News
+      author: Lance Hernandez
+    - url: https://www.9news.com/article/news/local/next/colordoans-covid-19-global-policy/73-6c0949be-bfad-41a5-9224-e1253eaea999
+      date: 12/11/2020
+      venue: Denver 9 News
+      author: Anusha Roy
+    - url: https://www.nature.com/articles/d41587-020-00022-y
+      date: 11/25/2020
+      venue: Nature Biotechnology News
+      author: Elie Dolgin
+    - url: https://undark.org/2020/11/18/best-strategy-to-deploy-covid-19-vaccine/
+      date: 11/18/2020
+      venue: Undark
+      author: Republished in Fast Company, Scientific American, Medscape, Singularity Hub, MIT Technology Review, Smithsonian Magazine, and NCBI. Jill Neimark
+  - heading: COVID Olfactory Screening
+    press:
+    - url: https://www.nytimes.com/2021/01/19/health/coronavirus-testing-smell-odor.html
+      date: 01/19/2021
+      venue: The New York Times 
+      author: Katherine J. Wu
+    - url: https://denver.cbslocal.com/video/5031073-university-of-colorado-researchers-test-smell-test-for-coronavirus-infection/
+      date: 12/2020
+      venue: Denver 4 News
+      author: CBS Denver
+    - url: https://www.kktv.com/2020/12/10/new-smell-test-may-help-screen-more-people-for-covid-19/
+      date: 12/10/2020
+      venue: Colorado Springs 11 News 
+      author: Megan Hiler
+    - url: http://howonearthradio.org/archives/7886
+      date: 12/14/2020
+      venue: KGNU How On Earth Radio 
+      author: Shelley Schlender
+    - url: https://coloradosun.com/2021/01/04/colorado-coronavirus-scratch-and-sniff-test/
+      date: 01/04/2020
+      venue: The Colorado Sun
+      author: John Ingold
+  - heading: COVID Testing
     press:
     - url: https://spectator.sme.sk/c/22540280/using-only-antigen-tests-for-mass-testing-was-the-right-move-says-american-mathematician.html
       date: 11/23/2020
@@ -13,14 +81,6 @@ categories:
       date: 12/1/2020
       venue: The Doctor Will See You Now
       author: Laurie Wiegler
-    - url: https://www.nature.com/articles/d41587-020-00022-y
-      date: 11/25/2020
-      venue: Nature Biotechnology News
-      author: Elie Dolgin
-    - url: https://undark.org/2020/11/18/best-strategy-to-deploy-covid-19-vaccine/
-      date: 11/18/2020
-      venue: Undark (+ Fast Company, Scientific American, Medscape, Singularity Hub, MIT Technology Review, Smithsonian Magazine, and NCBI)
-      author: Jill Neimark
     - url: https://spectator.sme.sk/c/22526242/smarter-than-the-lockdown-slovakia-tries-to-outwit-the-coronavirus.html
       date: 11/3/2020
       venue: The Slovak Spectator (Slovakia)
@@ -33,23 +93,11 @@ categories:
       date: 10/27/2020
       venue: Voice of America
       author: Steve Baragona
-    - url: https://www.nytimes.com/interactive/2020/10/02/science/charting-a-coronavirus-infection.html
-      date: 10/06/2020
-      venue: The New York Times
-      author: Katherine J. Wu and Jonathan Corum
     - url: https://www.pnas.org/content/early/2020/09/29/2019062117
       date: 09/30/2020
       venue: Proceedings of the National Academy of Sciences
       author: Amy McDermott
-    - url: https://www.9news.com/video/news/health/coronavirus/technology-would-help-cu-boulder-students-steer-clear-of-crowds/73-0017ab50-d6f8-4108-ac30-c6d34dbd9c14
-      date: 09/12/2020
-      venue: NBC Denver
-      author: 9news.com
-    - url: https://denver.cbslocal.com/2020/09/11/cu-wi-fi-data-university-colorado-campus-study-covid-19-risk/
-      date: 09/11/2020
-      venue: CBS Denver
-      author: Alan Gionet
-    - url: https://www.politico.com/newsletters/politico-nightly-coronavirus-special-edition
+    - url: https://www.politico.com/newsletters/politico-nightly-coronavirus-special-edition/2020/08/31/soon-anyone-who-wants-a-test-can-get-a-test-490232
       author: Renuka Rayasam
       date: 08/31/2020
       venue: Politico 
@@ -125,6 +173,60 @@ categories:
       author: Chia-Yi Hou
       date: 07/07/2020
       venue: The Hill
+    - url: https://science.sciencemag.org/content/368/6498/1406.full
+      venue: Science
+      date: 06/26/2020
+      author: News at a glance
+    - url: https://denverite.com/2020/05/21/gov-polis-will-join-mayor-hancock-to-unveil-massive-coronavirus-testing-site-at-pepsi-center/
+      author: Esteban Hernandez
+      date: 05/21/2020
+      venue: Denverite
+  - heading: COVID-19 Antibody Testing
+    press:
+    - url: https://www.kunc.org/post/utah-aims-test-10000-residents-ambitious-covid-19-study
+      author: Rae Ellen Bichell
+      date: 05/22/2020
+      venue: KUNC
+    - url: https://www.newscientist.com/article/2241313-what-the-first-coronavirus-antibody-testing-surveys-can-tell-us/#ixzz6KYb2oZsO
+      author: Michael Le Page
+      date: 04/24/2020
+      venue: New Scientist
+    - url: https://money.com/coronavirus-antibody-tests-where-to-buy-cost/
+      author: Elizabeth O'Brien
+      date: 05/07/2020
+      venue: Money
+    - url: https://www.livescience.com/coronavirus-antibody-tests.html
+      author: Tia Ghose
+      date: 04/30/2020
+      venue: Live Science
+    - url: https://www.propublica.org/article/what-antibody-studies-can-tell-you-and-more-importantly-what-they-cant
+      author: Caroline Chen
+      date: 04/28/2020
+      venue: ProPublica
+  - heading: COVID-19 Mobility and WiFi Analyses
+    press:
+    - url: https://www.9news.com/video/news/health/coronavirus/technology-would-help-cu-boulder-students-steer-clear-of-crowds/73-0017ab50-d6f8-4108-ac30-c6d34dbd9c14
+      date: 09/12/2020
+      venue: NBC 9 News Denver
+      author: 9news.com
+    - url: https://denver.cbslocal.com/2020/09/11/cu-wi-fi-data-university-colorado-campus-study-covid-19-risk/
+      date: 09/11/2020
+      venue: CBS 7 News Denver
+      author: Alan Gionet
+    - url: https://soundcloud.com/radio-1190/tracking-covid-19-through-facebook-data
+      author: John Boughey
+      date: 04/14/2020
+      venue: Radio 1190, Boulder, CO
+    - url: https://www.colorado.edu/today/2020/04/07/mathematician-using-facebook-data-fight-against-covid-19
+      author: Daniel Strain
+      venue: CU Boulder Today
+      date: 04/07/2020
+  - heading: The COVID-19 Pandemic and Science
+    press:
+    - url: https://www.nytimes.com/interactive/2020/10/02/science/charting-a-coronavirus-infection.html
+      date: 10/06/2020
+      venue: The New York Times
+      author: Katherine J. Wu and Jonathan Corum
     - url: https://www.vox.com/2020/6/29/21302489/coronavirus-face-mask-covid-19-pnas-study
       author: Umair Irfan
       date: 06/29/2020
@@ -145,50 +247,14 @@ categories:
       venue: Daily Mail UK
       date: 06/19/2020
       author: Natalie Nahal, Mary Kekatos
-    - url: https://science.sciencemag.org/content/368/6498/1406.full
-      venue: Science
-      date: 06/26/2020
-      author: News at a glance
-    - url: https://www.kunc.org/post/utah-aims-test-10000-residents-ambitious-covid-19-study
-      author: Rae Ellen Bichell
-      date: 05/22/2020
-      venue: KUNC
-    - url: https://denverite.com/2020/05/21/gov-polis-will-join-mayor-hancock-to-unveil-massive-coronavirus-testing-site-at-pepsi-center/
-      author: Esteban Hernandez
-      date: 05/21/2020
-      venue: Denverite
     - url: https://www.nytimes.com/2020/05/14/opinion/coronavirus-research-misinformation.html
       author: Aleszu Bajak and Jeff Howe
       date: 05/14/2020
       venue: The New York Times  
-    - url: https://money.com/coronavirus-antibody-tests-where-to-buy-cost/
-      author: Elizabeth O'Brien
-      date: 05/07/2020
-      venue: Money
-    - url: https://www.livescience.com/coronavirus-antibody-tests.html
-      author: Tia Ghose
-      date: 04/30/2020
-      venue: Live Science
-    - url: https://www.propublica.org/article/what-antibody-studies-can-tell-you-and-more-importantly-what-they-cant
-      author: Caroline Chen
-      date: 04/28/2020
-      venue: ProPublica
-    - url: https://www.newscientist.com/article/2241313-what-the-first-coronavirus-antibody-testing-surveys-can-tell-us/#ixzz6KYb2oZsO
-      author: Michael Le Page
-      date: 04/24/2020
-      venue: New Scientist
-    - url: https://soundcloud.com/radio-1190/tracking-covid-19-through-facebook-data
-      author: John Boughey
-      date: 04/14/2020
-      venue: Radio 1190, Boulder, CO
     - url: https://gazette.com/health/slowdown-in-coronavirus-growth-a-sign-that-social-distancing-in-colorado-has-worked-doctors-say/article_f911392e-7b80-11ea-95ea-c7f3c637385c.html
       author: Evan Wyloge
       venue: Colorado Springs Gazette
       date: 04/10/2020
-    - url: https://www.colorado.edu/today/2020/04/07/mathematician-using-facebook-data-fight-against-covid-19
-      author: Daniel Strain
-      venue: CU Boulder Today
-      date: 04/07/2020
     - url: https://www.denverpost.com/2020/03/22/colorado-coronavirus-impact/
       author: Jon Murray
       venue: The Denver Post
