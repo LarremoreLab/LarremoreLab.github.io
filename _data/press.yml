@@ -1,18 +1,10 @@
 categories:
   - heading: COVID Vaccines
     press:
-    - url: https://www.youtube.com/watch?v=MWuVUoM3fZo&feature=youtu.be&ab_channel=CGTNDenver
-      date: 12/23/2020
-      venue: CGTN Denver
-      author: Hendrik Sybrandy
     - url: https://www.youtube.com/watch?v=nkjimcwHWts&feature=youtu.be&ab_channel=CGTNDenve
       date: 01/18/2021
       venue: CGTN Denver
       author: Hendrik Sybrandy
-    - url: https://www.washingtonpost.com/politics/2021/01/11/health-202-recovered-coronavirus-patients-should-still-get-vaccine-experts-say/
-      date: 01/11/2021
-      venue: The Washington Post
-      author: Alexandra Ellerbeck
     - url: https://www.nytimes.com/2021/01/17/world/trump-vaccine-doses.html
       date: 01/17/2021
       venue: The New York Times
@@ -21,18 +13,26 @@ categories:
       date: 01/11/2021
       venue: NPR
       author: Joe Palca
+    - url: https://www.washingtonpost.com/politics/2021/01/11/health-202-recovered-coronavirus-patients-should-still-get-vaccine-experts-say/
+      date: 01/11/2021
+      venue: The Washington Post
+      author: Alexandra Ellerbeck
+    - url: https://www.youtube.com/watch?v=MWuVUoM3fZo&feature=youtu.be&ab_channel=CGTNDenver
+      date: 12/23/2020
+      venue: CGTN Denver
+      author: Hendrik Sybrandy
     - url: https://www.wsj.com/articles/should-people-who-have-had-covid-19-wait-to-get-a-vaccine-11608562810
       date: 12/21/2020
       venue: The Wall Street Journal
       author: Sarah Toy and Daniela Hernandez
-    - url: https://kdvr.com/news/coronavirus/covid-19-vaccine/cu-study-suggests-people-who-already-had-covid-19-should-let-others-get-vaccinated-first/
-      date: 12/11/2020
-      venue: Denver 31 News
-      author: Evan Kruegel
     - url: https://www.thedenverchannel.com/news/local-news/cu-researchers-global-partners-model-which-covid-vaccine-distribution-strategies-work-best
       date: 12/13/2020
       venue: Denver 7 News
       author: Lance Hernandez
+    - url: https://kdvr.com/news/coronavirus/covid-19-vaccine/cu-study-suggests-people-who-already-had-covid-19-should-let-others-get-vaccinated-first/
+      date: 12/11/2020
+      venue: Denver 31 News
+      author: Evan Kruegel
     - url: https://www.9news.com/article/news/local/next/colordoans-covid-19-global-policy/73-6c0949be-bfad-41a5-9224-e1253eaea999
       date: 12/11/2020
       venue: Denver 9 News
