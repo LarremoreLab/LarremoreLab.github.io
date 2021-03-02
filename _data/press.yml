@@ -1,6 +1,34 @@
 categories:
   - heading: COVID Vaccines
     press:
+    - url: https://cra.org/ccc/using-computer-modeling-to-effectively-prioritize-and-distribute-the-covid-19-vaccine/
+      date: 02/16/2021
+      venue: The Computing Community Consortium
+      author: Computing Research Association
+    - url: https://www.denverpost.com/2021/02/16/colorado-chronic-conditions-covid-vaccine/
+      date: 02/16/2021
+      venue: The Denver Post
+      author: Meg Wingerter
+    - url: https://www.medscape.com/viewarticle/945699
+      date: 02/11/2021
+      venue: Medscape
+      author: Damian McNamara and Richard Franki
+    - url: https://www.kvnf.org/post/study-prioritize-vaccines-older-adults#stream/0
+      date: 01/27/2021
+      venue: KVNF Colorado
+      author: Gavin Dahl
+    - url: https://www.dailycamera.com/2021/01/26/vaccinating-ages-60-reduces-covid-19-deaths-overall-cu-boulder-study-finds/
+      date: 01/26/2021
+      venue: Boulder Daily Camera
+      author: Katie Langford
+    - url: https://www.t-online.de/nachrichten/ausland/id_89331046/corona-impfung-zuerst-fuer-junge-kann-indonesiens-weg-funktionieren-.html
+      date: 01/22/2021
+      venue: t-online
+      author: Annika Leister
+    - url: https://www.sueddeutsche.de/gesundheit/coronavirus-impfung-prioritaet-indonesien-1.5181984
+      date: 01/21/2021
+      venue: Süddeutsche Zeitung
+      author: Arne Perras and Berit Uhlmann
     - url: https://www.youtube.com/watch?v=nkjimcwHWts&feature=youtu.be&ab_channel=CGTNDenve
       date: 01/18/2021
       venue: CGTN Denver
@@ -47,6 +75,14 @@ categories:
       author: Republished in Fast Company, Scientific American, Medscape, Singularity Hub, MIT Technology Review, Smithsonian Magazine, and NCBI. Jill Neimark
   - heading: COVID Olfactory Screening
     press:
+    - url: https://www.youtube.com/watch?v=nDJ_AeRx4g0&feature=youtu.be&ab_channel=CGTNDenver
+      date: 01/28/2021
+      venue: CGTN America
+      author: Hendrik Sybrandy
+    - url: https://nation.africa/kenya/healthy-nation/what-if-there-was-a-less-irritating-way-to-test-for-covid--3269584
+      date: 01/26/2021
+      venue: Nation (Kenya)
+      author: Hellen Shikanda
     - url: https://www.nytimes.com/2021/01/19/health/coronavirus-testing-smell-odor.html
       date: 01/19/2021
       venue: The New York Times 
@@ -69,6 +105,10 @@ categories:
       author: John Ingold
   - heading: COVID Testing
     press:
+    - url: https://www.hrreporter.com/focus-areas/safety/many-employers-keen-on-rapid-testing-to-stay-open/338017
+      date: 02/21/2021
+      venue: HR Reporter (Canada)
+      author: Jim Wilson
     - url: https://spectator.sme.sk/c/22540280/using-only-antigen-tests-for-mass-testing-was-the-right-move-says-american-mathematician.html
       date: 11/23/2020
       venue: The Slovak Spectator (Slovakia)
@@ -223,6 +263,14 @@ categories:
       date: 04/07/2020
   - heading: The COVID-19 Pandemic and Science
     press:
+    - url: https://www.youtube.com/watch?v=wKOslhIFt6U&ab_channel=QuantaMagazine
+      date: 02/12/2021
+      venue: Quanta Magazine (Video)
+      author: Quanta Magazine
+    - url: https://www.quantamagazine.org/the-hard-lessons-of-modeling-the-coronavirus-pandemic-20210128/
+      date: 01/28/2021
+      venue: Quanta Magazine
+      author: Jordana Cepelewicz
     - url: https://www.nytimes.com/interactive/2020/10/02/science/charting-a-coronavirus-infection.html
       date: 10/06/2020
       venue: The New York Times
@@ -275,8 +323,16 @@ categories:
       venue: Chemistry World
       author: Bradley Van Paridon
       date: 04/2019
-  - heading: Academic Parental Leave Policies
+  - heading: Parenthood in Academia and Parental Leave
     press:
+    - url: https://blogs.sciencemag.org/editors-blog/2021/02/25/promoting-equity-in-research/
+      venue: Science
+      author: H. Holden Thorp
+      date: 02/25/2021
+    - url: https://www.colorado.edu/today/2021/02/25/why-do-men-publish-more-papers-women-motherhood-plays-key-role
+      venue: CU Boulder Today
+      author: Lisa Marshall
+      date: 02/25/2021
     - url: https://www.dailyprogress.com/news/local/uva/uva-expanding-paid-parental-leave/article_940eb834-b620-11e8-b775-1bf47a81d70a.html
       venue: The Daily Progress
       author: Ruth Serven Smith
