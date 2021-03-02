@@ -1,6 +1,14 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination
+      authors:
+      - Sarah Cobey
+      - Daniel B. Larremore
+      - Yonatan H. Grad
+      - Marc Lipsitch
+      year: 2021
+      venue: Submitted
     - title: Modeling the effectiveness of olfactory testing to limit SARS-2-CoV transmission
       authors:
       - Daniel B. Larremore
@@ -13,21 +21,6 @@ categories:
           url: https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1
         - text: twitterthread
           url: https://twitter.com/DanLarremore/status/1334238554256338947
-    - title: Risk Factors of SARS-CoV-2 Antibodies in Arapahoe County First Responders - the COVID-19 Arapahoe SErosurveillance Study (CASES) Project
-      authors: 
-      - Katherine R. Sabourin
-      - Jonathan Schultz
-      - Joshua Romero
-      - Molly M. Lamb
-      - Daniel B. Larremore
-      - Thomas E. Morrison
-      - Ashley Frazer
-      - Shanta Zimmer
-      - Ross M. Kedl
-      - Thomas Jaenisch
-      - Rosemary Rochford
-      venue: In Press, Journal of Occupational and Environmental Medicine
-      year: 2020
     - title: A guide to choosing and implementing reference models for social network analysis
       authors:
       - Elizabeth Hobson
@@ -68,7 +61,7 @@ categories:
       - Philip S. Chodrow*
       - Nicole Eikmeier*
       - Daniel B. Larremore
-      venue: Submitted
+      venue: In Press
       year: 2020
       links:
         - text: preprint
@@ -98,16 +91,6 @@ categories:
           url: https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1
         - text: twitterthread
           url: https://twitter.com/DanLarremore/status/1265682077032148994
-    - title: "The Unequal Impact of Parenthood in Academia"
-      authors:
-      - Allison C. Morgan
-      - Samuel F. Way
-      - Michael J. D. Hoefer
-      - Daniel B. Larremore
-      - Mirta Galesic
-      - Aaron Clauset
-      year: 2020
-      venue: Submitted
     - title: "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys"
       authors:
       - Daniel B. Larremore
@@ -172,6 +155,21 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "The Unequal Impact of Parenthood in Academia"
+      authors:
+      - Allison C. Morgan
+      - Samuel F. Way
+      - Michael J. D. Hoefer
+      - Daniel B. Larremore
+      - Mirta Galesic
+      - Aaron Clauset
+      year: 2021
+      venue: Science Advances
+      links:
+        - text: Science Advances
+          url: https://advances.sciencemag.org/content/7/9/eabd1996
+        - text: twitterthread
+          url: https://twitter.com/aaronclauset/status/1364685336131997696
     - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
       authors:
       - Kate M. Bubar
@@ -181,7 +179,7 @@ categories:
       - Sarah Cobey
       - Yonatan H. Grad
       - Daniel B. Larremore
-      year: 2020
+      year: 2021
       venue: Science
       links:
         - text: Science
@@ -189,7 +187,25 @@ categories:
         - text: interactive calculation tool
           url: http://vaxfirst.colorado.edu
         - text: twitterthread
-          url: https://twitter.com/bubar_kate/status/1304472235214741504
+          url: https://twitter.com/DanLarremore/status/1352396597628334082
+    - title: Risk Factors of SARS-CoV-2 Antibodies in Arapahoe County First Responders - the COVID-19 Arapahoe SErosurveillance Study (CASES) Project
+      authors: 
+      - Katherine R. Sabourin
+      - Jonathan Schultz
+      - Joshua Romero
+      - Molly M. Lamb
+      - Daniel B. Larremore
+      - Thomas E. Morrison
+      - Ashley Frazer
+      - Shanta Zimmer
+      - Ross M. Kedl
+      - Thomas Jaenisch
+      - Rosemary Rochford
+      venue: Journal of Occupational and Environmental Medicine
+      year: 2020
+      links:
+        - text: JOEM
+          url: https://journals.lww.com/joem/Abstract/9000/Risk_Factors_of_SARS_CoV_2_Antibodies_in_Arapahoe.98015.aspx
     - title: "Test sensitivity is secondary to frequency and turnaround time for COVID-19 screening"
       authors:
       - Daniel B. Larremore
@@ -212,21 +228,26 @@ categories:
         - text: twitterthread
           url: https://twitter.com/DanLarremore/status/1276260291764826112
     - title: "Choices In Networks: A Research Framework"
-      authors: 
-      - Alice Patania
-      - Blake McShane
-      - Brett Falk
-      - Daniel B. Larremore 
-      - Elea McDonnell Feit
-      - Elizabeth Bruch
+      authors:
       - Fred Feinberg
-      - John Helveston
-      - Mario Small
-      - Michael Braun 
+      - Elizabeth Bruch
+      - Michael Braun
+      - Brett Hemenway Falk
       - Nina Fefferman
+      - Elea McDonnell Feit
+      - John Helveston
+      - Daniel B. Larremore
+      - Blakely B. McShane
+      - Mario Small
+      - Alice Patania
       year: 2020
       venue: Marketing Letters
       volumeissue: 1-11
+      links:
+        - text: PDF
+          url: https://drive.google.com/file/d/1Qi4qIE5X814Dgt0tedSKVnOsUbpWpw3J/view?usp=sharing
+        - text: Marketing Letters
+          url: https://link.springer.com/article/10.1007/s11002-020-09541-9
     - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
       authors:
       - Ryan M. Layer

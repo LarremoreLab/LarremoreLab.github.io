@@ -61,5 +61,6 @@ header:
     </li>
 {% endfor %}
 </ul>
-* joint with the Clauset Lab.
+* joint with Aaron Clauset.
+† joint with Joshua Grochow.
 </div>
