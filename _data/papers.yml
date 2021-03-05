@@ -94,29 +94,6 @@ categories:
           url: https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1
         - text: twitterthread
           url: https://twitter.com/DanLarremore/status/1265682077032148994
-    - title: "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys"
-      authors:
-      - Daniel B. Larremore
-      - Bailey K. Fosdick
-      - Kate M. Bubar
-      - Sam Zhang
-      - Stephen M. Kissler
-      - C. Jessica E. Metcalf
-      - Caroline O. Buckee
-      - Yonatan H. Grad
-      year: 2020
-      venue: Submitted
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2020.04.15.20067066v1
-        - text: twitterthread
-          url: https://twitter.com/yhgrad/status/1250858246002348034
-        - text: twitterthread (math)
-          url: https://twitter.com/DanLarremore/status/1250894157704355840
-        - text: interactive calculation tool
-          url: https://larremorelab.github.io/covid19testgroup
-        - text: github
-          url: https://github.com/LarremoreLab/covid_serological_sampling
     - title: "Plasmodium falciparum population genetic complexity influences transcriptional profile and immune recognition of highly related genotypic clusters" 
       authors:
       - Amy K. Bei
@@ -158,6 +135,30 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys"
+      authors:
+      - Daniel B. Larremore
+      - Bailey K. Fosdick
+      - Kate M. Bubar
+      - Sam Zhang
+      - Stephen M. Kissler
+      - C. Jessica E. Metcalf
+      - Caroline O. Buckee
+      - Yonatan H. Grad
+      year: 2020
+      venue: eLife
+      volumeissue: "10:e64206"
+      links:
+        - text: eLife
+          url: https://elifesciences.org/articles/64206
+        - text: twitterthread
+          url: https://twitter.com/yhgrad/status/1250858246002348034
+        - text: twitterthread (math)
+          url: https://twitter.com/DanLarremore/status/1250894157704355840
+        - text: interactive calculation tool
+          url: https://larremorelab.github.io/covid19testgroup
+        - text: github
+          url: https://github.com/LarremoreLab/covid_serological_sampling
     - title: "The Unequal Impact of Parenthood in Academia"
       authors:
       - Allison C. Morgan
@@ -168,6 +169,7 @@ categories:
       - Aaron Clauset
       year: 2021
       venue: Science Advances
+      volumeissue: 7 (9), eabd1996
       links:
         - text: Science Advances
           url: https://advances.sciencemag.org/content/7/9/eabd1996
@@ -184,6 +186,7 @@ categories:
       - Daniel B. Larremore
       year: 2021
       venue: Science
+      volumeissue: 371 (6532), 916-921
       links:
         - text: Science
           url: https://science.sciencemag.org/lookup/doi/10.1126/science.abe6959
@@ -205,6 +208,7 @@ categories:
       - Thomas Jaenisch
       - Rosemary Rochford
       venue: Journal of Occupational and Environmental Medicine
+      volumeissue: 63 (3) 191-198
       year: 2020
       links:
         - text: JOEM
@@ -222,7 +226,7 @@ categories:
       - Roy Parker
       year: 2020
       venue: Science Advances
-      volumeissue: eabd5393
+      volumeissue: 7 (1), eabd5393
       links:
         - text: Science Advances
           url: https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393
