@@ -1,6 +1,29 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: Higher viral load drives infrequent SARS-CoV-2 transmission between asymptomatic residence hall roommates
+      authors:
+      - Kristen K. Bjorkman
+      - Tassa K. Saldi
+      - Erika Lasda
+      - Leisha Conners Bauer
+      - Jennifer Kovarik
+      - Patrick K. Gonzales
+      - Morgan R. Fink
+      - Kimngan L. Tat
+      - Cole R. Hager
+      - Jack C. Davis
+      - Christopher D. Ozeroff
+      - Gloria R. Brisson
+      - Daniel B. Larremore
+      - Leslie A. Leinwand
+      - Matthew B. McQueen
+      - Roy Parker
+      year: 2021
+      venue: Submitted
+      links:
+        - text: preprint
+          url: https://www.medrxiv.org/content/10.1101/2021.03.09.21253147v1
     - title: Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination
       authors:
       - Sarah Cobey
