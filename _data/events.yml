@@ -1,11 +1,15 @@
-- description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1">Modeling the effectiveness of olfactory testing to limit SARS-2-CoV transmission</a>.
+- description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2021.03.09.21253147v1">Higher viral load drives infrequent SARS-CoV-2 transmission between asymptomatic residence hall roommates</a>.
+  date: 2021 Mar 11
+- description: New preprint <a href="https://dash.harvard.edu/handle/1/37366988">Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination</a>.
+  date: 2021 Mar 1
+- description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1">Modeling the effectiveness of olfactory testing to limit SARS-CoV-2 transmission</a>.
   date: 2020 Dec 2
-- description: New paper in Science Advances, <a href="https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393">Test sensitivity is secondary to frequency and turnaround time for COVID-19 screening</a>.
-  date: 2020 Nov 20
-- description: New editorial in the New England Journal of Medicine, <a href="https://www.nejm.org/doi/full/10.1056/NEJMp2025631">Rethinking Covid-19 Test Sensitivity — A Strategy for Containment</a> with Michael Mina and Roy Parker.
-  date: 2020 Sept 30
-- description: <a href="https://link.aps.org/doi/10.1103/PhysRevE.102.032309">Community Detection in Bipartite Networks with Stochastic Blockmodels</a> by <a href="https://junipertcy.info/">Tzu-Chi Yen</a> is published in Physical Review E.
-  date: 2020 Sept 25
+# - description: New paper in Science Advances, <a href="https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393">Test sensitivity is secondary to frequency and turnaround time for COVID-19 screening</a>.
+#   date: 2020 Nov 20
+# - description: New editorial in the New England Journal of Medicine, <a href="https://www.nejm.org/doi/full/10.1056/NEJMp2025631">Rethinking Covid-19 Test Sensitivity — A Strategy for Containment</a> with Michael Mina and Roy Parker.
+#   date: 2020 Sept 30
+# - description: <a href="https://link.aps.org/doi/10.1103/PhysRevE.102.032309">Community Detection in Bipartite Networks with Stochastic Blockmodels</a> by <a href="https://junipertcy.info/">Tzu-Chi Yen</a> is published in Physical Review E.
+#   date: 2020 Sept 25
 # - description: New preprint with <a href="https://twitter.com/bubar_kate?lang=en">Kate Bubar</a>, <a href="https://www.medrxiv.org/content/10.1101/2020.09.08.20190629v1">Model-informed COVID-19 vaccine prioritization strategies by age and serostatus</a>.
 #   date: 2020 Sept 10
 # - description: New COVID preprint <a href="https://www.medrxiv.org/content/10.1101/2020.07.28.20163451v1">Serial population based serosurvey of antibodies to SARS-CoV-2 in a low and high transmission area of Karachi, Pakistan</a>.
