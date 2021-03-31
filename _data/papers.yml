@@ -1,6 +1,52 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+
+    - title: Disparities in SARS-CoV-2 seroprevalence among individuals presenting for care in central North Carolina over a six-month period
+      authors:
+      - Cesar A. Lopez
+      - Clark H. Cunningham
+      - Sierra Pugh
+      - Katerina Brandt
+      - Usaphea P. Vanna
+      - Matthew J. Delacruz
+      - Quique Guerra
+      - Samuel Jacob Goldstein
+      - Yixuan Jacob Hou
+      - Margaret Gearhart
+      - Christine Wiethorn
+      - Candace Pope
+      - Carolyn Amditis
+      - Kathryn Pruitt
+      - Cinthia Newberry-Dillon
+      - John Schmitz
+      - Lakshmanane Premkumar
+      - Adaora A. Adimora
+      - Michael Emch
+      - Ross Boyce
+      - Allison E. Aiello
+      - Bailey K. Fosdick
+      - Daniel B. Larremore
+      - Aravinda M. de Silva
+      - Jonathan J. J. Juliano
+      - Alena J. Markmann
+      year: 2021
+      venue: Submitted
+      links:
+        - text: preprint
+          url: https://www.medrxiv.org/content/10.1101/2021.03.25.21254320v2
+    - title: Socioeconomic Roots of Academic Faculty
+      authors: 
+      - Allison Morgan
+      - Aaron Clauset
+      - Daniel B. Larremore
+      - Nicholas LaBerge
+      - Mirta Galesic
+      year: 2021
+      venue: Submitted
+      links:
+        - text: preprint
+          url: https://osf.io/preprints/socarxiv/6wjxc/
     - title: Higher viral load drives infrequent SARS-CoV-2 transmission between asymptomatic residence hall roommates
       authors:
       - Kristen K. Bjorkman
