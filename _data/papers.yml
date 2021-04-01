@@ -28,7 +28,7 @@ categories:
       - Bailey K. Fosdick
       - Daniel B. Larremore
       - Aravinda M. de Silva
-      - Jonathan J. J. Juliano
+      - Jonathan J. Juliano
       - Alena J. Markmann
       year: 2021
       venue: Submitted
@@ -70,17 +70,6 @@ categories:
       links:
         - text: preprint
           url: https://www.medrxiv.org/content/10.1101/2021.03.09.21253147v1
-    - title: Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination
-      authors:
-      - Sarah Cobey
-      - Daniel B. Larremore
-      - Yonatan H. Grad
-      - Marc Lipsitch
-      year: 2021
-      venue: Submitted
-      links:
-        - text: preprint
-          url: https://dash.harvard.edu/handle/1/37366988
     - title: Modeling the effectiveness of olfactory testing to limit SARS-CoV-2 transmission
       authors:
       - Daniel B. Larremore
@@ -104,29 +93,6 @@ categories:
       - Noa Pinter-Wollman
       venue: Submitted
       year: 2020
-    - title: Serial population based serosurvey of antibodies to SARS-CoV-2 in a low and high transmission area of Karachi, Pakistan
-      authors:
-      - Muhammad Imran Nisar
-      - Nadia Ansari
-      - Mashal Amin
-      - Farah Khalid
-      - Aneeta Hotwani
-      - Najeeb Rehman
-      - Arjumand Rizvi
-      - Arslan Memon
-      - Zahoor Ahmed
-      - Ashfaque Ahmed
-      - Junaid Iqbal
-      - Ali Faisal Saleem
-      - Uzma Bashir Aamir
-      - Daniel B. Larremore
-      - Bailey K. Fosdick
-      - Fyezah Jehan
-      venue: Submitted
-      year: 2020
-      links:
-        - text: preprint
-          url: https://twitter.com/yaneerbaryam/status/1288585150511616002?s=20
     - title: "Emergence of hierarchy in networked endorsement dynamics"
       authors:
       - Mari Kawakatsu*
@@ -196,7 +162,7 @@ categories:
       - Kenneth Joseph*
       - Andrei Cimpian*
       - Daniel B. Larremore*
-      year: 2020
+      year: 2021
       venue: Submitted
       links:
         - text: arXiv
@@ -204,6 +170,32 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: Serial population-based serosurvey for COVID-19 in two neighborhoods of Karachi, Pakistan
+      authors:
+      - Muhammad Imran Nisar
+      - Nadia Ansari
+      - Farah Khalid
+      - Mashal Amin
+      - Hamna Shahbaz
+      - Aneeta Hotwani
+      - Najeeb Rehman
+      - Sierra Pugh
+      - Usma Mehmood
+      - Arjumand Rizvi
+      - Arslan Memon
+      - Zahoor Ahmed
+      - Ashfaque Ahmed
+      - Junaid Iqbal
+      - Ali Faisal Saleem
+      - Uzma Bashir Aamir
+      - Daniel B. Larremore
+      - Bailey K. Fosdick
+      - Fyezah Jehan
+      venue: International Journal of Infectious Diseases
+      year: 2021
+      links:
+        - text: International Journal of Infectious Diseases
+          url: https://www.sciencedirect.com/science/article/pii/S1201971221002587
     - title: "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys"
       authors:
       - Daniel B. Larremore
@@ -783,6 +775,17 @@ categories:
   
   - heading: Essays, Columns, Book Chapters, Miscellaneous
     pubs:
+    - title: Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination
+      authors:
+      - Sarah Cobey
+      - Daniel B. Larremore
+      - Yonatan H. Grad
+      - Marc Lipsitch
+      year: 2021
+      venue: Nature Reviews Immunology
+      links:
+        - text: Nature Reviews Immunology
+          url: https://www.nature.com/articles/s41577-021-00544-9.
     - title: "Rethinking Covid-19 Test Sensitivity — A Strategy for Containment"
       authors:
       - Michael J. Mina
