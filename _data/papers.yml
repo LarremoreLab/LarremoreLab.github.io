@@ -2,6 +2,28 @@ categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
 
+    - title: The Dynamics of Faculty Hiring Networks
+      authors:
+      - Eun Lee
+      - Daniel B. Larremore
+      - Aaron Clauset
+      venue: arxiv
+      year: 2021
+      links:
+        - text: preprint
+          url: https://arxiv.org/abs/2105.02949
+    - title: Modeling the effectiveness of olfactory testing to limit SARS-CoV-2 transmission
+      authors:
+      - Daniel B. Larremore
+      - Derek Toomre
+      - Roy Parker
+      venue: To appear in Nature Communications
+      year: 2021
+      links:
+        - text: preprint
+          url: https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1
+        - text: twitterthread
+          url: https://twitter.com/DanLarremore/status/1334238554256338947
     - title: Disparities in SARS-CoV-2 seroprevalence among individuals presenting for care in central North Carolina over a six-month period
       authors:
       - Cesar A. Lopez
@@ -70,18 +92,6 @@ categories:
       links:
         - text: preprint
           url: https://www.medrxiv.org/content/10.1101/2021.03.09.21253147v1
-    - title: Modeling the effectiveness of olfactory testing to limit SARS-CoV-2 transmission
-      authors:
-      - Daniel B. Larremore
-      - Derek Toomre
-      - Roy Parker
-      venue: Submitted
-      year: 2020
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1
-        - text: twitterthread
-          url: https://twitter.com/DanLarremore/status/1334238554256338947
     - title: A guide to choosing and implementing reference models for social network analysis
       authors:
       - Elizabeth Hobson
@@ -93,17 +103,6 @@ categories:
       - Noa Pinter-Wollman
       venue: Submitted
       year: 2020
-    - title: "Emergence of hierarchy in networked endorsement dynamics"
-      authors:
-      - Mari Kawakatsu*
-      - Philip S. Chodrow*
-      - Nicole Eikmeier*
-      - Daniel B. Larremore
-      venue: In Press
-      year: 2020
-      links:
-        - text: preprint
-          url: https://arxiv.org/abs/2007.04448
     - title: Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador
       authors:
       - Shazia Ruybal-Pesántez
@@ -170,6 +169,20 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Emergence of hierarchy in networked endorsement dynamics"
+      authors:
+      - Mari Kawakatsu*
+      - Philip S. Chodrow*
+      - Nicole Eikmeier*
+      - Daniel B. Larremore
+      venue: Proceedings of National Academy of Sciences USA 
+      year: 2021
+      volumeissue: 118(16)e2015188118
+      links:
+        - text: PNAS
+          url: https://www.pnas.org/content/118/16/e2015188118
+        - text: preprint
+          url: https://arxiv.org/abs/2007.04448
     - title: Serial population-based serosurvey for COVID-19 in two neighborhoods of Karachi, Pakistan
       authors:
       - Muhammad Imran Nisar
