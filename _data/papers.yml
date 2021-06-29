@@ -2,6 +2,18 @@ categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
 
+    - title: Test negative designs with uncertainty, sensitivity, and specificity
+      authors:
+      - Erik K. Johnson
+      - Rebecca Kahn
+      - Yonatan Grad
+      - Marc Lipsitch
+      - Daniel B. Larremore
+      venue: medrxiv
+      year: 2021
+      links:
+        - text: preprint
+          url: https://www.medrxiv.org/content/10.1101/2021.06.24.21259495v1
     - title: The Dynamics of Faculty Hiring Networks
       authors:
       - Eun Lee
@@ -12,18 +24,6 @@ categories:
       links:
         - text: preprint
           url: https://arxiv.org/abs/2105.02949
-    - title: Modeling the effectiveness of olfactory testing to limit SARS-CoV-2 transmission
-      authors:
-      - Daniel B. Larremore
-      - Derek Toomre
-      - Roy Parker
-      venue: To appear in Nature Communications
-      year: 2021
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1
-        - text: twitterthread
-          url: https://twitter.com/DanLarremore/status/1334238554256338947
     - title: Disparities in SARS-CoV-2 seroprevalence among individuals presenting for care in central North Carolina over a six-month period
       authors:
       - Cesar A. Lopez
@@ -169,6 +169,19 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: Modeling the effectiveness of olfactory testing to limit SARS-CoV-2 transmission
+      authors:
+      - Daniel B. Larremore
+      - Derek Toomre
+      - Roy Parker
+      venue: Nature Communications
+      year: 2021
+      volumeissue: 12, 3664
+      links:
+        - text: Nature Communications
+          url: https://www.nature.com/articles/s41467-021-23315-5
+        - text: twitterthread
+          url: https://twitter.com/DanLarremore/status/1334238554256338947
     - title: "Emergence of hierarchy in networked endorsement dynamics"
       authors:
       - Mari Kawakatsu*
