@@ -69,29 +69,6 @@ categories:
       links:
         - text: preprint
           url: https://osf.io/preprints/socarxiv/6wjxc/
-    - title: Higher viral load drives infrequent SARS-CoV-2 transmission between asymptomatic residence hall roommates
-      authors:
-      - Kristen K. Bjorkman
-      - Tassa K. Saldi
-      - Erika Lasda
-      - Leisha Conners Bauer
-      - Jennifer Kovarik
-      - Patrick K. Gonzales
-      - Morgan R. Fink
-      - Kimngan L. Tat
-      - Cole R. Hager
-      - Jack C. Davis
-      - Christopher D. Ozeroff
-      - Gloria R. Brisson
-      - Daniel B. Larremore
-      - Leslie A. Leinwand
-      - Matthew B. McQueen
-      - Roy Parker
-      year: 2021
-      venue: Submitted
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2021.03.09.21253147v1
     - title: A guide to choosing and implementing reference models for social network analysis
       authors:
       - Elizabeth Hobson
@@ -169,6 +146,30 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: Higher viral load drives infrequent SARS-CoV-2 transmission between asymptomatic residence hall roommates
+      authors:
+      - Kristen K. Bjorkman
+      - Tassa K. Saldi
+      - Erika Lasda
+      - Leisha Conners Bauer
+      - Jennifer Kovarik
+      - Patrick K. Gonzales
+      - Morgan R. Fink
+      - Kimngan L. Tat
+      - Cole R. Hager
+      - Jack C. Davis
+      - Christopher D. Ozeroff
+      - Gloria R. Brisson
+      - Daniel B. Larremore
+      - Leslie A. Leinwand
+      - Matthew B. McQueen
+      - Roy Parker
+      year: 2021
+      venue: Journal of Infectious Diseases
+      volumeissue: jiab386
+      links:
+        - text: Journal of Infectious Diseases
+          url: https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab386/6327655?guestAccessKey=d9df09c7-3dfe-4d3d-a7f2-7ede6708c945
     - title: Modeling the effectiveness of olfactory testing to limit SARS-CoV-2 transmission
       authors:
       - Daniel B. Larremore
