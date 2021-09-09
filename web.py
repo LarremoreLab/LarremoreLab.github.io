@@ -159,7 +159,7 @@ def make_network(data):
     web.display.colorBy = 'color'
     web.display.hideMenu = True
     web.display.showLegend = False
-    web.display.gravity = 0.4
+    web.display.gravity = 0.5
     web.display.width = 400
     web.display.height = 400
     web.display.scaleLinkOpacity = True

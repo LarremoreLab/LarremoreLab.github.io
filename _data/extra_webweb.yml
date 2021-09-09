@@ -7,14 +7,15 @@ projects:
       - Ian van Buskirk
       - Katie Spoon
       - Aaron Clauset
-      - Allison C. Morgan
-      - Kate Wootton
+      # - Allison C. Morgan
+      - Dr. Kate Wootton
   - name: "Infectious Disease"
     people:
       - Erik K. Johnson
-      - Suchita Lulla
+      # - Suchita Lulla
       - Kate M. Bubar
-      - Aloha Churchill
+      - Casey Middleton
+      # - Aloha Churchill
   - name: "Networks"
     people:
       - Tzu-Chi Yen

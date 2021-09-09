@@ -13,11 +13,13 @@ people:
     subject: the scientific ecosystem
     aliases:
       - Eun Lee
-  - name: Kate Wootton
+  - name: Dr. Kate Wootton
     url: https://kwootton.github.io/
     image_path: /assets/images/people/kate_wootton.jpg
     title: Postdoc*
     subject: the scientific ecosystem
+    aliases:
+      - Kate Wootton
   - name: Tzu-Chi Yen
     url: https://junipertcy.info/
     image_path: /assets/images/people/tzuchi.gif
