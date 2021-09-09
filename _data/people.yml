@@ -40,13 +40,6 @@ people:
     image_path: /assets/images/people/nick.gif
     title: PhD Student, CS*
     subject: the scientific ecosystem
-  - name: Erik Johnson
-    url: /
-    image_path: /assets/images/people/erik.gif
-    title: PhD Student, APPM
-    subject: infectious disease
-    aliases:
-      - Erik K. Johnson
   - name: Kate Bubar
     image_path: /assets/images/people/kate.gif
     url: https://twitter.com/bubar_kate?lang=en
@@ -71,6 +64,11 @@ people:
     subject: infectious disease
   
 alumni:
+  name: Erik Johnson
+    url: /
+    now: Invitae
+    aliases:
+      - Erik K. Johnson
   - name: Suchita Lulla
     url: /
     now: University of Utah
