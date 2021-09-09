@@ -64,22 +64,16 @@ people:
     url: https://github.com/UpasanaDutta98
     title: MS Student, CS
     subject: complex networks
-  - name: Suchita Lulla
-    url: /
-    image_path: /assets/images/people/suchi.gif
-    title: Undergrad, CS & MCDB
-    subject: infectious disease
   - name: Casey Middleton
     image_path: /assets/images/people/casey_middleton.jpg
     url: https://github.com/caseymid48
     title: PhD Student, IQ Bio
     subject: infectious disease
-  - name: Aloha Churchill
-    url: http://github.com/Aloha-Churchill
-    title: Undergrad, CS & APPM
-    subject: infectious disease
-
+  
 alumni:
+  - name: Suchita Lulla
+    url: /
+    now: University of Utah
   - name: Suyog Soti
     url: https://suyogsoti.github.io/
   - name: Katherine Younglove
