@@ -64,13 +64,11 @@ people:
     subject: infectious disease
   
 alumni:
-  name: Erik Johnson
-    url: /
+  - name: Erik K. Johnson
     now: Invitae
     aliases:
-      - Erik K. Johnson
+      - Erik Johnson
   - name: Suchita Lulla
-    url: /
     now: University of Utah
   - name: Suyog Soti
     url: https://suyogsoti.github.io/
