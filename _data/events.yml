@@ -1,23 +1,23 @@
-- description: New preprint <a href="https://arxiv.org/abs/2105.02949">The Dynamics of Faculty Hiring Networks</a> led by Dr. Eun Lee.
-  date: 2021 May 6
-- description: New publication <a href="https://www.nature.com/articles/s41577-021-00544-9.">Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination</a> in Nature Reviews Immunology.
-  date: 2021 Apr 1
-- description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2021.03.25.21254320v2">Disparities in SARS-CoV-2 seroprevalence among individuals presenting for care in central North Carolina over a six-month period</a>.
-  date: 2021 Mar 30
-- description: New preprint <a href="https://osf.io/preprints/socarxiv/6wjxc/">Socioeconomic Roots of Academic Faculty</a>.
-  date: 2021 Mar 24
-- description: New publication <a href="https://www.sciencedirect.com/science/article/pii/S1201971221002587">Serial population-based sero-surveys for COVID-19 in two neighborhoods of Karachi, Pakistan</a> in the International Journal of Infectious Diseases.
-  date: 2021 Mar 15
-- description: New publication <a href="https://elifesciences.org/articles/64206">Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys</a> in eLife.
-  date: 2021 Mar 15
-- description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2021.03.09.21253147v1">Higher viral load drives infrequent SARS-CoV-2 transmission between asymptomatic residence hall roommates</a>.
-  date: 2021 Mar 11
-- description: New publication <a href="https://advances.sciencemag.org/content/7/9/eabd1996">The unequal impact of parenthood in academia</a> in Science Advances.
-  date: 2021 Feb 24
-- description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1">Modeling the effectiveness of olfactory testing to limit SARS-CoV-2 transmission</a>.
-  date: 2020 Dec 2
-- description: New publication <a href="https://science.sciencemag.org/content/371/6532/916">Model-informed COVID-19 vaccine prioritization strategies by age and serostatus</a> in Science.
-  date: 2021 Feb 24
+# - description: New preprint <a href="https://arxiv.org/abs/2105.02949">The Dynamics of Faculty Hiring Networks</a> led by Dr. Eun Lee.
+#   date: 2021 May 6
+# - description: New publication <a href="https://www.nature.com/articles/s41577-021-00544-9.">Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination</a> in Nature Reviews Immunology.
+#   date: 2021 Apr 1
+# - description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2021.03.25.21254320v2">Disparities in SARS-CoV-2 seroprevalence among individuals presenting for care in central North Carolina over a six-month period</a>.
+#   date: 2021 Mar 30
+# - description: New preprint <a href="https://osf.io/preprints/socarxiv/6wjxc/">Socioeconomic Roots of Academic Faculty</a>.
+#   date: 2021 Mar 24
+# - description: New publication <a href="https://www.sciencedirect.com/science/article/pii/S1201971221002587">Serial population-based sero-surveys for COVID-19 in two neighborhoods of Karachi, Pakistan</a> in the International Journal of Infectious Diseases.
+#   date: 2021 Mar 15
+# - description: New publication <a href="https://elifesciences.org/articles/64206">Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys</a> in eLife.
+#   date: 2021 Mar 15
+# - description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2021.03.09.21253147v1">Higher viral load drives infrequent SARS-CoV-2 transmission between asymptomatic residence hall roommates</a>.
+#   date: 2021 Mar 11
+# - description: New publication <a href="https://advances.sciencemag.org/content/7/9/eabd1996">The unequal impact of parenthood in academia</a> in Science Advances.
+#   date: 2021 Feb 24
+# - description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2020.11.30.20241174v1">Modeling the effectiveness of olfactory testing to limit SARS-CoV-2 transmission</a>.
+#   date: 2020 Dec 2
+# - description: New publication <a href="https://science.sciencemag.org/content/371/6532/916">Model-informed COVID-19 vaccine prioritization strategies by age and serostatus</a> in Science.
+#   date: 2021 Feb 24
 # - description: New paper in Science Advances, <a href="https://advances.sciencemag.org/content/early/2020/11/20/sciadv.abd5393">Test sensitivity is secondary to frequency and turnaround time for COVID-19 screening</a>.
 #   date: 2020 Nov 20
 # - description: New editorial in the New England Journal of Medicine, <a href="https://www.nejm.org/doi/full/10.1056/NEJMp2025631">Rethinking Covid-19 Test Sensitivity — A Strategy for Containment</a> with Michael Mina and Roy Parker.
