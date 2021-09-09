@@ -2,6 +2,25 @@ categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
 
+    - title: The Dynamics of Faculty Hiring Networks
+      authors:
+      - Eun Lee
+      - Daniel B. Larremore
+      - Aaron Clauset
+      venue: in press, EPJ Data Science
+      year: 2021
+      links:
+        - text: preprint
+          url: https://arxiv.org/abs/2105.02949
+    - title: Bayesian estimation of population size and overlap from random subsamples
+      authors:
+      - Erik K. Johnson
+      - Daniel B. Larremore
+      venue: biorxiv
+      year: 2021
+      links:
+        - text: preprint
+          url: https://www.biorxiv.org/content/10.1101/2021.07.06.451319v1.abstract
     - title: Test negative designs with uncertainty, sensitivity, and specificity
       authors:
       - Erik K. Johnson
@@ -14,16 +33,6 @@ categories:
       links:
         - text: preprint
           url: https://www.medrxiv.org/content/10.1101/2021.06.24.21259495v1
-    - title: The Dynamics of Faculty Hiring Networks
-      authors:
-      - Eun Lee
-      - Daniel B. Larremore
-      - Aaron Clauset
-      venue: arxiv
-      year: 2021
-      links:
-        - text: preprint
-          url: https://arxiv.org/abs/2105.02949
     - title: Disparities in SARS-CoV-2 seroprevalence among individuals presenting for care in central North Carolina over a six-month period
       authors:
       - Cesar A. Lopez
@@ -69,17 +78,6 @@ categories:
       links:
         - text: preprint
           url: https://osf.io/preprints/socarxiv/6wjxc/
-    - title: A guide to choosing and implementing reference models for social network analysis
-      authors:
-      - Elizabeth Hobson
-      - Matthew Silk
-      - Nina Fefferman
-      - Daniel B. Larremore
-      - Puck Rombach
-      - Saray Shai
-      - Noa Pinter-Wollman
-      venue: Submitted
-      year: 2020
     - title: Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador
       authors:
       - Shazia Ruybal-Pesántez
@@ -127,7 +125,7 @@ categories:
       - Sarah K. Volkman
       - Carole A. Long
       - Dyann F. Wirth
-      year: 2020
+      year: 2021
       venue: Submitted
       links:
         - text: bioRxiv
@@ -146,6 +144,22 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: A guide to choosing and implementing reference models for social network analysis
+      authors:
+      - Elizabeth Hobson
+      - Matthew Silk
+      - Nina Fefferman
+      - Daniel B. Larremore
+      - Puck Rombach
+      - Saray Shai
+      - Noa Pinter-Wollman
+      venue: Biological Reviews
+      year: 2021
+      links:
+        - text: Biological Reviews
+          url: https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12775
+        - text: preprint
+          url: https://arxiv.org/abs/2012.04720
     - title: Higher viral load drives infrequent SARS-CoV-2 transmission between asymptomatic residence hall roommates
       authors:
       - Kristen K. Bjorkman
