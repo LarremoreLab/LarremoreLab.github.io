@@ -585,8 +585,8 @@ categories:
         url: https://drive.google.com/open?id=1PURch6qW9wF6GYZaf-uvvhh5kpNM_aKH
       - text: arXiv
         url: "http://arxiv.org/abs/1608.00607"
-      - text: code & slides
-        url: "http://danlarremore.com/configurationmodels/"
+      # - text: code & slides
+        # url: "http://danlarremore.com/configurationmodels/"
     - title: "The misleading narrative of the canonical faculty productivity trajectory"
       authors:
       - Samuel F. Way
@@ -616,8 +616,8 @@ categories:
         url: https://drive.google.com/open?id=1rtGMDuIXlTQg4sPkuT4X2O-N4aKapSm7
       - text: PDF Supplement
         url: https://drive.google.com/open?id=1bWyQeq_lZUizNHCKJBS7FWMuydV0j2m2
-      - text: code & data
-        url: "http://danlarremore.com/metadata"
+      # - text: code & data
+        # url: "http://danlarremore.com/metadata"
     - title: "Community detection, link prediction, and layer interdependence in multilayer networks"
       authors:
       - Caterina De Bacco
@@ -756,10 +756,10 @@ categories:
         url: "http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003268"
       - text: PDF
         url: https://drive.google.com/open?id=1Kwhpl2djID0584KvzjaA8mIzcLdtdmzq
-      - text: interactive figures
-        url: "http://danlarremore.com/var/"
-      - text: network and sequence data
-        url: "http://danlarremore.com/file/malariaDBLaNetworks2013.zip"
+      # - text: interactive figures
+        # url: "http://danlarremore.com/var/"
+      # - text: network and sequence data
+        # url: "http://danlarremore.com/file/malariaDBLaNetworks2013.zip"
     - title: "Social Climber attachment in forming networks produces phase transition in a measure of connectivity"
       authors:
       - Dane Taylor*
