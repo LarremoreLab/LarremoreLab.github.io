@@ -30,8 +30,8 @@ repos:
     links:
       - text: github (python)
         url: https://github.com/junipertcy/bipartiteSBM
-      - text: webpage (R, C++, MATLAB)
-        url: http://danlarremore.com/bipartiteSBM/index.html
+      # - text: webpage (R, C++, MATLAB)
+      #   url: http://danlarremore.com/bipartiteSBM/index.html
     description: The bipartite SBM is a model for finding community structure in bipartite networks. The Python version automatically chooses the number of groups using nonparametric Bayesian approach while the other implementations are parametric and require the user to choose the number of groups. 
     image_path: /assets/images/code/bisbm.png
   - title: "Bayesian Repertoire Overlap"
@@ -48,8 +48,8 @@ repos:
     authors:
       - Daniel B. Larremore
     links:
-      - text: webpage
-        url: http://danlarremore.com/PercoVIS.html
+      # - text: webpage
+      #   url: http://danlarremore.com/PercoVIS.html
       - text: github
         url: https://github.com/dblarremore/percovis
     image_path: /assets/images/code/percovis.jpg
