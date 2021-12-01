@@ -13,19 +13,6 @@ categories:
       links:
         - text: preprint
           url: https://www.medrxiv.org/content/10.1101/2021.10.19.21265231v1
-    - title: The Dynamics of Faculty Hiring Networks
-      authors:
-      - Eun Lee
-      - Daniel B. Larremore
-      - Aaron Clauset
-      venue: EPJ Data Science
-      volumeissue: 10, 48
-      year: 2021
-      links:
-        - text: EPJ Data Science
-          url: https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00303-9
-        - text: BMC Blog Post
-          url: https://blogs.biomedcentral.com/on-physicalsciences/2021/12/01/prestige-reinforces-hierarchies-in-academia/
     - title: Bayesian estimation of population size and overlap from random subsamples
       authors:
       - Erik K. Johnson
@@ -158,6 +145,19 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: The Dynamics of Faculty Hiring Networks
+      authors:
+      - Eun Lee
+      - Daniel B. Larremore
+      - Aaron Clauset
+      venue: EPJ Data Science
+      volumeissue: 10, 48
+      year: 2021
+      links:
+        - text: EPJ Data Science
+          url: https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00303-9
+        - text: BMC Blog Post
+          url: https://blogs.biomedcentral.com/on-physicalsciences/2021/12/01/prestige-reinforces-hierarchies-in-academia/
     - title: A guide to choosing and implementing reference models for social network analysis
       authors:
       - Elizabeth Hobson
