@@ -12,7 +12,8 @@ categories:
       venue: medrxiv
       links:
         - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2021.10.19.21265231v1
+          url: https://www.medrxiv.org/content/10.1101/2021.10.19.21265231v2
+      year: 2021
     - title: Bayesian estimation of population size and overlap from random subsamples
       authors:
       - Erik K. Johnson
