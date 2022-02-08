@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>DBLalpha</title>
+        <script type="text/javascript"  src="lib/jquery.min.js"></script>
+        <script type="text/javascript"  src="lib/d3.min.js"></script>
+        <link   type="text/css"         rel="stylesheet" href="styles/force.css"/>
+        <link   type="text/css"         rel="stylesheet" href="styles/style.css"/>
+        <script type="text/javascript"  src="scripts/dbla6.json"></script>
+        <link rel="icon"
+            type="image/png"
+            href="http://danlarremore.com/img/favicon.png">
+            </head>
+    <body>
+                <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TC538D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TC538D');</script>
+<!-- End Google Tag Manager -->
+
+        <div id="center">
+            <div id="menu">
+                Show data from
+                <select id="dataSelect" onchange='recomputeData();'>
+                    <option value="HVR1">HVR 1</option>
+                    <option value="HVR2">HVR 2</option>
+                    <option value="HVR3">HVR 3</option>
+                    <option value="HVR4">HVR 4</option>
+                    <option value="HVR5">HVR 5</option>
+                    <option value="HVR6">HVR 6</option>
+                    <option value="HVR7">HVR 7</option>
+                    <option value="HVR8">HVR 8</option>
+                    <option value="HVR9">HVR 9</option>
+                </select>
+                and compute color from
+                <select id="colorSelect" onchange='recomputeColor();'>
+                    <option value="none">none</option>
+                    <option value="HVR1">HVR 1</option>
+                    <option value="HVR2">HVR 2</option>
+                    <option value="HVR3">HVR 3</option>
+                    <option value="HVR4">HVR 4</option>
+                    <option value="HVR5">HVR 5</option>
+                    <option value="HVR6">HVR 6</option>
+                    <option value="HVR7">HVR 7</option>
+                    <option value="HVR8">HVR 8</option>
+                    <option value="HVR9">HVR 9</option>
+                    
+                    <option value="cyspolv">cys/PoLV group</option>
+                    <option value="cystwocysfour">cys2/cys4 group</option>
+                    <option value="ups">UPS</option>
+                    <option value="geneLength">var gene length</option>
+                </select>
+                with
+                <select id="nCommsSelect" onchange='recomputeColor();'>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                </select>
+                communities.
+                <br>
+                Highlight nodes whose names match <input type="text" id="highlightSelect" onchange='changeHighlight();' size="6">, or scale node size by
+                    <select id="scaleSelect" onchange='recomputeScale();'>
+                        <option value="none">none</option>
+                        <option value="geneLength">var gene length</option>
+                    </select>
+                    .
+            </div>
+            <div id="parameters">
+                Repulsion charge of <input type="text" id="chargeSelect" onchange='changeCharge();' value="50" size="3"> and link distance of <input type="text" id="distanceSelect" onchange='changeDistance();' value="35" size="3">.
+            </div>
+            <div id="chart"><div id="chartInfo" class="right"></div></div>
+        </div>
+        <script type="text/javascript"  src ="scripts/dbla6.js"></script>
+    </body>
+</html>

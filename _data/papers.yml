@@ -12,6 +12,9 @@ categories:
       - Aaron Clauset
       venue: submitted
       year: 2021
+      links:
+        - text: preprint
+          url: https://arxiv.org/abs/2201.00254 
     - title: SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Testing in Populations of Mixed Vaccination Status
       authors:
       - Kate M. Bubar*
