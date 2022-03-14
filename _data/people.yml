@@ -6,13 +6,6 @@ people:
     subject: Assistant Professor
     aliases:
       - Daniel B. Larremore
-  - name: Dr. Eun Lee
-    url: https://www.eunlee.net/
-    image_path: /assets/images/people/eun.gif
-    title: Postdoc*
-    subject: the scientific ecosystem
-    aliases:
-      - Eun Lee
   - name: Dr. Kate Wootton
     url: https://kwootton.github.io/
     image_path: /assets/images/people/kate_wootton.jpg
@@ -66,11 +59,17 @@ people:
     subject: infectious disease
   
 alumni:
+  - name: Dr. Eun Lee
+    now: Faculty, Pukyong National University
+    url: https://www.eunlee.net/
   - name: Erik K. Johnson
     now: Invitae
+    url: /
   - name: Suchita Lulla
     now: University of Utah
+    url: /
   - name: Suyog Soti
+    now: Google
     url: https://suyogsoti.github.io/
   - name: Katherine Younglove
     url: https://www.linkedin.com/in/katherine-younglove-565353169/
@@ -107,7 +106,7 @@ collaborators:
     url: http://tuvalu.santafe.edu/~aaronc/
   - name: Dane Taylor
     url: https://sites.google.com/site/danetaylorresearch/
-  - name: abigail Z. Jacobs
+  - name: Abigail Z. Jacobs
     url: http://azjacobs.com
   - name: Leto Peel
     url: https://googledrive.com/host/0Bz6WHrWac3FrZUtuOExWdlRGVG8/
