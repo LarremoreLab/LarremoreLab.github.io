@@ -1,24 +1,17 @@
 projects:
   - name: "Scientific Ecosystem"
-    people: 
-      - Dr. Eun Lee 
+    people:
       - K. Hunter Wapman
       - Nick LaBerge
       - Ian van Buskirk
       - Katie Spoon
       - Aaron Clauset
-      # - Allison C. Morgan
       - Dr. Kate Wootton
   - name: "Infectious Disease"
     people:
-      - Erik K. Johnson
-      # - Suchita Lulla
       - Kate M. Bubar
       - Casey Middleton
-      # - Aloha Churchill
   - name: "Networks"
     people:
       - Tzu-Chi Yen
-      # - Aaron Aaeng
-      # - Apara Venkat
       - Upasana Dutta
