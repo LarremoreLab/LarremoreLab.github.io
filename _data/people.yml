@@ -62,9 +62,13 @@ alumni:
   - name: Dr. Eun Lee
     now: Faculty, Pukyong National University
     url: https://www.eunlee.net/
-  - name: Erik K. Johnson
+    aliases:
+      - Eun Lee
+  - name: Dr. Erik K. Johnson
     now: Invitae
     url: /
+    aliases:
+      - Erik K. Johnson
   - name: Suchita Lulla
     now: University of Utah
     url: /
