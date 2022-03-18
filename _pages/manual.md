@@ -82,17 +82,17 @@ I will...
 
 The lab takes a pragmatic view of Open Science, meaning that papers, code, and data should be shared, but there may also be reasonable exceptions. One such exception is ethical: when we collect large datasets on the behaviors and opinions of other people, with IRB approval, we may avoid openly posting data to protect privacy. Another exception reflects the cost of data collection: some datasets require huge up-front efforts to collect and clean, and will not be published immediately after the first study that analyzes them. Still, even those datasets will be made available within 3 years of the first publication. 
 
-We collaborate and share code via GitHub. Internally, we also collaborate on drafts using shared Dropbox folders. I steadfastly refuse to use Overleaf. 
+We collaborate and share code via GitHub. Internally, we also collaborate on drafts using shared Dropbox folders, Overleaf, or Google Docs.
 
 We communicate using email, Slack, and GitHub, and each has a different purpose. For instance, codebase decisions, discussions, and to-dos should be on GitHub so they can be tracked properly. Anything that falls into a chat, DM, or meme category should go on Slack. Email is required for anything official, anything long, anything with external collaborators, or anything that you 100% don’t want to fall through the cracks. If something is time sensitive, make sure to say so. I am happy to be nudged about things if it has been a couple working days. WhatsApp is reserved for conferences. The creation of custom slack emojis is encouraged. 
 
 ## Meetings
 
-There is a weekly 1 hour all-hands lab meeting that we share with the Clauset Lab. This is actually registered as a course, so please enroll. CSCI-7000-803. There are also a weekly 1 hour meeting for the Science of Science team and the Malaria team. We use a Google Calendar to track these.
+There is a weekly 1 hour all-hands lab meeting that we share with the Clauset Lab. This is actually registered as a course, so please enroll (CSCI-7000). There may also be a weekly 1 hour meeting for the Science of Science team and the Infectious Diseases team. We use a Google Calendar to track these.
 
-For those not on the Science of Science team, please schedule a weekly meeting with Dan at the start of each semester. 
+In general, please schedule a weekly meeting with Dan at the start of each semester. 
 
-Each semester, we will also have a one-on-one professional development meeting that focuses solely on career, goals, tactics, and strategy. 
+Each calendar year, we will also have a one-on-one professional development meeting that focuses solely on career, goals, tactics, and strategy.
 
 <img src="/assets/images/manual/meeting.jpg"/>
 
@@ -110,7 +110,7 @@ Use Twitter for good, if at all.
 
 Make your work easily Googleable, but consider also doing privacy checks, and an Incognito Google Audit, where you turn off cookies and look yourself up. Like what you see? 
 
-Be a good person at conferences. Compliment speakers only on their science, after their talks. Go to the talks of your peers in the lab. 
+Be a good person at conferences. Compliment speakers only on their science or talk, not their appearance. Go to the talks of your peers in the lab. Invite stragglers to join your group for meals.
 
 ## Onboarding Checklist
 
@@ -131,14 +131,12 @@ Be a good person at conferences. Compliment speakers only on their science, afte
 - [Giving a talk](https://drive.google.com/file/d/13efH6iA6toPtJ91KBt_QCeAyQBcSN7SA/view?usp=sharing)
 - [Clean code](https://drive.google.com/file/d/1TraVwRkbkCbHq-s_-NS69ZEbRNwH8XNh/view?usp=sharing)
 - [Peer review](https://drive.google.com/file/d/1g7VSbUkF9wBszcjHCeZlGHoHqUqYfDC0/view?usp=sharing)
+- [LaTeX](https://drive.google.com/file/d/1X7pp1FXT53Zk-VDWAXggUM7uWjd7VMou/view?usp=sharing)
 
 ## Other Resources and Guides
 
-- Travel Guide
-- Reimbursement Guide
-- Conference Guide
-- Making a poster
-- Printing
+- [Travel Guide](https://www.colorado.edu/biofrontiers/travel)
+- [Printing](https://bit.colorado.edu/desktop-services/printing/building-printers/)
 
 ## Boundaries & Social Events
 
