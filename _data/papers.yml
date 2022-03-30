@@ -2,7 +2,7 @@ categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
 
-    - title: Subfield Prestige and Gender Inequality in Computing”
+    - title: Subfield Prestige and Gender Inequality in Computing
       authors: 
       - Nicholas LaBerge
       - K. Hunter Wapman
@@ -221,7 +221,7 @@ categories:
       year: 2021
       volumeissue: 12, 3664
       links:
-        - text: Nature Communications
+        - text: Nature Comms
           url: https://www.nature.com/articles/s41467-021-23315-5
         - text: twitterthread
           url: https://twitter.com/DanLarremore/status/1334238554256338947
@@ -447,7 +447,7 @@ categories:
       volumeissue: 11, 4674
       venue: Nature Communications
       links:
-        - text: Nature Commmunications
+        - text: Nature Comms
           url: https://www.nature.com/articles/s41467-020-18271-5
         - text: twitterthread
           url: https://twitter.com/yhgrad/status/1259077198016888832
