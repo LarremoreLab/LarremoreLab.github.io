@@ -42,7 +42,7 @@ people:
     image_path: /assets/images/people/kate.gif
     url: https://twitter.com/bubar_kate?lang=en
     title: PhD Student, APPM+IQ Bio
-    subject: infectious disease
+    subject: infectious diseases
     aliases:
       - Kate M. Bubar
   - name: Katie Spoon
@@ -56,10 +56,10 @@ people:
     title: MS Student, CS
     subject: complex networks
   - name: Casey Middleton
-    image_path: /assets/images/people/casey_middleton.jpg
+    image_path: /assets/images/people/casey.gif
     url: https://github.com/caseymid48
     title: PhD Student, IQ Bio
-    subject: infectious disease
+    subject: infectious diseases
     aliases:
       - Casey E. Middleton
   
