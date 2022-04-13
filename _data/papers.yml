@@ -2,6 +2,17 @@ categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
 
+    - title: Labor advantages drive the greater productivity of faculty at elite universities
+      authors:
+      - Sam Zhang
+      - K. Hunter Wapman
+      - Daniel B. Larremore
+      - Aaron Clauset
+      venue: submitted
+      year: 2022
+      links:
+        - text: preprint
+          url: https://arxiv.org/abs/2204.05989
     - title: Subfield Prestige and Gender Inequality in Computing
       authors: 
       - Nicholas LaBerge
