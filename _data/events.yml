@@ -1,13 +1,31 @@
-- description: New preprint <a href="https://arxiv.org/abs/2204.05989">Labor advantages drive the greater productivity of faculty at elite universities</a> led by Sam Zhang.
+- description: Co-led by Kate Bubar and Casey Middleton, new paper to appear in Nature Communications, <a href="https://www.medrxiv.org/content/10.1101/2021.10.19.21265231v3">SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Screening in Populations of Mixed Vaccination Status</a>.
+  date: 2022 April 19
+- description: New preprint, <a href="https://arxiv.org/abs/2204.05989">Labor advantages drive the greater productivity of faculty at elite universities</a> led by Sam Zhang.
   date: 2022 April 12
+- description: Casey Middleton wins the Departmental Outstanding Research Award for her work modeling vaccinate-or-test strategies!
+  date: 2022 April 11
+- description: Congratulations to Upasana Dutta for a brilliantly defended MS thesis, supervised by Aaron Clauset, and for winning the Bell Foundation Outstanding Research Award! Upasana is off to Penn to work with Duncan Watts this fall.
+  date: 2022 April 11
+- description: Tzu-Chi Yen is recognized with an Outstanding TA Award!
+  date: 2022 April 11
 - description: Dan joins the Editorial Board at PLOS Computational Biology as an Associate Editor.
   date: 2022 March 15
-- description: New preprint <a href="https://www.biorxiv.org/content/10.1101/2021.07.06.451319v1.abstract">Bayesian estimation of population size and overlap from random subsamples</a> led by Dr. Erik Johnson.
+- description: Dr. Eun Lee leaves the lab to begin a faculty position at Pukyong National University!
+  date: 2022 March 1
+- description: New preprint, <a href="https://arxiv.org/abs/2201.00254">Subfield prestige and gender inequality in computing</a> led by Nick LaBerge.
+  date: 2022 January 1
+- description: As part of the CU Boulder Pandemic Scientific Steering Committee and Science Team, Dan receives the 2021 Robert Stearns Alumni Award for campus service.
+  date: 2021 November 4
+- description: Dan recognized with the 2021 Provost's Faculty Achievement Award for work on COVID-19 vaccine prioritization.
+  date: 2021 October 5
+- description: Congratulations to Erik Johnson for a fantastic PhD Defense, co-supervised by Stephen Becker (APPM). Erik is off to Invitae as a computational biologist!
+  date: 2021 July 15
+- description: New preprint, <a href="https://www.biorxiv.org/content/10.1101/2021.07.06.451319v1.abstract">Bayesian estimation of population size and overlap from random subsamples</a> led by Dr. Erik Johnson.
   date: 2021 July 7
-- description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2021.06.24.21259495v1">Test negative designs with uncertainty, sensitivity, and specificity</a> led by Dr. Erik Johnson.
+- description: New preprint, <a href="https://www.medrxiv.org/content/10.1101/2021.06.24.21259495v1">Test negative designs with uncertainty, sensitivity, and specificity</a> led by Dr. Erik Johnson.
   date: 2021 June 27
-# - description: New preprint <a href="https://arxiv.org/abs/2105.02949">The Dynamics of Faculty Hiring Networks</a> led by Dr. Eun Lee.
-#   date: 2021 May 6
+- description: New preprint, <a href="https://arxiv.org/abs/2105.02949">The Dynamics of Faculty Hiring Networks</a> led by Dr. Eun Lee.
+  date: 2021 May 6
 # - description: New publication <a href="https://www.nature.com/articles/s41577-021-00544-9.">Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination</a> in Nature Reviews Immunology.
 #   date: 2021 Apr 1
 # - description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2021.03.25.21254320v2">Disparities in SARS-CoV-2 seroprevalence among individuals presenting for care in central North Carolina over a six-month period</a>.
