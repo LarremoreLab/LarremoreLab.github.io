@@ -18,14 +18,16 @@
   date: 2021 November 4
 - description: Dan recognized with the 2021 Provost's Faculty Achievement Award for work on COVID-19 vaccine prioritization.
   date: 2021 October 5
+- description: <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00303-9">The Dynamics of Faculty Hiring Networks</a>, led by Dr. Eun Lee, now published in EPJ Data Science.
+  date: 2021 September 7 
 - description: Congratulations to Erik Johnson for a fantastic PhD Defense, co-supervised by Stephen Becker (APPM). Erik is off to Invitae as a computational biologist!
   date: 2021 July 15
 - description: New preprint, <a href="https://www.biorxiv.org/content/10.1101/2021.07.06.451319v1.abstract">Bayesian estimation of population size and overlap from random subsamples</a> led by Dr. Erik Johnson.
   date: 2021 July 7
 - description: New preprint, <a href="https://www.medrxiv.org/content/10.1101/2021.06.24.21259495v1">Test negative designs with uncertainty, sensitivity, and specificity</a> led by Dr. Erik Johnson.
   date: 2021 June 27
-- description: New preprint, <a href="https://arxiv.org/abs/2105.02949">The Dynamics of Faculty Hiring Networks</a> led by Dr. Eun Lee.
-  date: 2021 May 6
+# - description: New preprint, <a href="https://arxiv.org/abs/2105.02949">The Dynamics of Faculty Hiring Networks</a> led by Dr. Eun Lee.
+#   date: 2021 May 6
 # - description: New publication <a href="https://www.nature.com/articles/s41577-021-00544-9.">Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination</a> in Nature Reviews Immunology.
 #   date: 2021 Apr 1
 # - description: New preprint <a href="https://www.medrxiv.org/content/10.1101/2021.03.25.21254320v2">Disparities in SARS-CoV-2 seroprevalence among individuals presenting for care in central North Carolina over a six-month period</a>.

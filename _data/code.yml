@@ -1,4 +1,25 @@
 repos:
+  - title: "Online Serial Screening Policy Calculator"
+    authors:
+      - Daniel B. Larremore
+      - Sam Zhang
+    links:
+      - text: Screening policy calculator
+        url: https://larremorelab.github.io/covid-calculator3
+    description: The impact of a serial testing policy depends on the test's frequency, turnaround time, and sensitivity, as well as the underlying viral kinetics. This calculator allows users to explore various potential parameters of each.
+  - title: "Online Bayesian Prevalance Calculators"
+    authors:
+      - Daniel B. Larremore
+      - Yonatan H. Grad
+      - Bailey K. Fosdick
+      - Sam Zhang
+    links:
+      - text: Prevalence calculator, known sensitivity and specificity
+        url: https://larremorelab.github.io/covid-calculator1
+      - text: Prevalence calculator, lab validation data
+        url: https://larremorelab.github.io/covid-calculator2
+    description: It is well known that estimates of prevalence are directly affected by the sensitivity and specificity of the diagnostic test being used. These calculators enable users to quickly compute Bayesian posteriors of prevalence, given field data and known sensitivity and specificity OR field data and lab validation data. This latter calculator recognizes the fact that sensitivity and specificity, themselves, are quantitites derived from data, and may thus be modeled jointly to estimate prevalence. 
+    image_path: /assets/images/covid/header.png
   - title: Paid Parental Leave Policies
     authors:
       - Allison C. Morgan

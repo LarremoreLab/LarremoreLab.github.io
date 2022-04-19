@@ -2,6 +2,18 @@ categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
 
+    - title: SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Screening in Populations of Mixed Vaccination Status
+      authors:
+      - Kate M. Bubar*
+      - Casey E. Middleton*
+      - Kristen K. Bjorkman
+      - Roy Parker
+      - Daniel B. Larremore
+      venue: In press, Nature Communications
+      links:
+        - text: preprint
+          url: https://www.medrxiv.org/content/10.1101/2021.10.19.21265231v2
+      year: 2022
     - title: Labor advantages drive the greater productivity of faculty at elite universities
       authors:
       - Sam Zhang
@@ -26,18 +38,6 @@ categories:
       links:
         - text: preprint
           url: https://arxiv.org/abs/2201.00254 
-    - title: SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Testing in Populations of Mixed Vaccination Status
-      authors:
-      - Kate M. Bubar*
-      - Casey E. Middleton*
-      - Kristen K. Bjorkman
-      - Roy Parker
-      - Daniel B. Larremore
-      venue: medrxiv
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2021.10.19.21265231v2
-      year: 2021
     - title: Bayesian estimation of population size and overlap from random subsamples
       authors:
       - Erik K. Johnson
@@ -855,6 +855,17 @@ categories:
   
   - heading: Essays, Columns, Book Chapters, Miscellaneous
     pubs:
+    - title: "Networks, Dynamics, and Prestige: How Hierarchies Emerge from Individual Choices"
+      authors:
+      - Mari Kawakatsu
+      - Philip S. Chodrow
+      - Nicole Eikmeier
+      - Daniel B. Larremore
+      year: 2021
+      venue: SIAM News Blog
+      links:
+        - text: SIAM News Blog
+          url: https://sinews.siam.org/Details-Page/networks-dynamics-and-prestige-how-hierarchies-emerge-from-individual-choices
     - title: Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination
       authors:
       - Sarah Cobey

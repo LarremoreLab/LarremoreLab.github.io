@@ -1,110 +1,22 @@
 categories:
-  - heading: COVID Vaccines
-    press:
-    - url: https://cra.org/ccc/using-computer-modeling-to-effectively-prioritize-and-distribute-the-covid-19-vaccine/
-      date: 02/16/2021
-      venue: The Computing Community Consortium
-      author: Computing Research Association
-    - url: https://www.denverpost.com/2021/02/16/colorado-chronic-conditions-covid-vaccine/
-      date: 02/16/2021
-      venue: The Denver Post
-      author: Meg Wingerter
-    - url: https://www.medscape.com/viewarticle/945699
-      date: 02/11/2021
-      venue: Medscape
-      author: Damian McNamara and Richard Franki
-    - url: https://www.kvnf.org/post/study-prioritize-vaccines-older-adults#stream/0
-      date: 01/27/2021
-      venue: KVNF Colorado
-      author: Gavin Dahl
-    - url: https://www.dailycamera.com/2021/01/26/vaccinating-ages-60-reduces-covid-19-deaths-overall-cu-boulder-study-finds/
-      date: 01/26/2021
-      venue: Boulder Daily Camera
-      author: Katie Langford
-    - url: https://www.t-online.de/nachrichten/ausland/id_89331046/corona-impfung-zuerst-fuer-junge-kann-indonesiens-weg-funktionieren-.html
-      date: 01/22/2021
-      venue: t-online
-      author: Annika Leister
-    - url: https://www.sueddeutsche.de/gesundheit/coronavirus-impfung-prioritaet-indonesien-1.5181984
-      date: 01/21/2021
-      venue: Süddeutsche Zeitung
-      author: Arne Perras and Berit Uhlmann
-    - url: https://www.youtube.com/watch?v=nkjimcwHWts&feature=youtu.be&ab_channel=CGTNDenve
-      date: 01/18/2021
-      venue: CGTN Denver
-      author: Hendrik Sybrandy
-    - url: https://www.nytimes.com/2021/01/17/world/trump-vaccine-doses.html
-      date: 01/17/2021
-      venue: The New York Times
-      author: Bryan Pietsch
-    - url: https://www.npr.org/sections/health-shots/2021/01/11/955659213/math-problem-whats-the-best-strategy-for-covid-19-vaccination?live=1
-      date: 01/11/2021
-      venue: NPR
-      author: Joe Palca
-    - url: https://www.washingtonpost.com/politics/2021/01/11/health-202-recovered-coronavirus-patients-should-still-get-vaccine-experts-say/
-      date: 01/11/2021
-      venue: The Washington Post
-      author: Alexandra Ellerbeck
-    - url: https://www.youtube.com/watch?v=MWuVUoM3fZo&feature=youtu.be&ab_channel=CGTNDenver
-      date: 12/23/2020
-      venue: CGTN Denver
-      author: Hendrik Sybrandy
-    - url: https://www.wsj.com/articles/should-people-who-have-had-covid-19-wait-to-get-a-vaccine-11608562810
-      date: 12/21/2020
-      venue: The Wall Street Journal
-      author: Sarah Toy and Daniela Hernandez
-    - url: https://www.thedenverchannel.com/news/local-news/cu-researchers-global-partners-model-which-covid-vaccine-distribution-strategies-work-best
-      date: 12/13/2020
-      venue: Denver 7 News
-      author: Lance Hernandez
-    - url: https://kdvr.com/news/coronavirus/covid-19-vaccine/cu-study-suggests-people-who-already-had-covid-19-should-let-others-get-vaccinated-first/
-      date: 12/11/2020
-      venue: Denver 31 News
-      author: Evan Kruegel
-    - url: https://www.9news.com/article/news/local/next/colordoans-covid-19-global-policy/73-6c0949be-bfad-41a5-9224-e1253eaea999
-      date: 12/11/2020
-      venue: Denver 9 News
-      author: Anusha Roy
-    - url: https://www.nature.com/articles/d41587-020-00022-y
-      date: 11/25/2020
-      venue: Nature Biotechnology News
-      author: Elie Dolgin
-    - url: https://undark.org/2020/11/18/best-strategy-to-deploy-covid-19-vaccine/
-      date: 11/18/2020
-      venue: Undark
-      author: Republished in Fast Company, Scientific American, Medscape, Singularity Hub, MIT Technology Review, Smithsonian Magazine, and NCBI. Jill Neimark
-  - heading: COVID Olfactory Screening
-    press:
-    - url: https://www.youtube.com/watch?v=nDJ_AeRx4g0&feature=youtu.be&ab_channel=CGTNDenver
-      date: 01/28/2021
-      venue: CGTN America
-      author: Hendrik Sybrandy
-    - url: https://nation.africa/kenya/healthy-nation/what-if-there-was-a-less-irritating-way-to-test-for-covid--3269584
-      date: 01/26/2021
-      venue: Nation (Kenya)
-      author: Hellen Shikanda
-    - url: https://www.nytimes.com/2021/01/19/health/coronavirus-testing-smell-odor.html
-      date: 01/19/2021
-      venue: The New York Times 
-      author: Katherine J. Wu
-    - url: https://denver.cbslocal.com/video/5031073-university-of-colorado-researchers-test-smell-test-for-coronavirus-infection/
-      date: 12/2020
-      venue: Denver 4 News
-      author: CBS Denver
-    - url: https://www.kktv.com/2020/12/10/new-smell-test-may-help-screen-more-people-for-covid-19/
-      date: 12/10/2020
-      venue: Colorado Springs 11 News 
-      author: Megan Hiler
-    - url: http://howonearthradio.org/archives/7886
-      date: 12/14/2020
-      venue: KGNU How On Earth Radio 
-      author: Shelley Schlender
-    - url: https://coloradosun.com/2021/01/04/colorado-coronavirus-scratch-and-sniff-test/
-      date: 01/04/2020
-      venue: The Colorado Sun
-      author: John Ingold
   - heading: COVID Testing
     press:
+    - url: https://www.cpr.org/show-episode/feb-11-2022-the-future-of-covid-19-testing-the-state-lawmakers-running-for-congress/
+      date: 02/11/2022
+      venue: Colorado Matters, CPR News
+      authro: Ryan Warner
+    - url: https://www.verywellhealth.com/covid-peak-infectiousness-isolation-5216463
+      date: 01/21/2022
+      venue: VeryWell Health
+      author: Julia Ingram
+    - url: https://www.washingtonpost.com/opinions/2021/12/15/our-playbook-fight-covid-19-is-outdated-here-are-10-updates-2022/
+      date: 12/15/2021
+      venue: Washington Post
+      author: Joseph Allen
+    - url: https://www.bostonglobe.com/2021/12/02/nation/how-fight-covid-again-again-rapid-tests/
+      date: 12/02/2021
+      venue: Boston Globe
+      author: Kara Miller
     - url: https://www.nytimes.com/wirecutter/blog/at-home-covid-antigen-tests/
       date: 08/14/2021
       venue: NY Times Wirecutter
@@ -225,6 +137,110 @@ categories:
       author: Esteban Hernandez
       date: 05/21/2020
       venue: Denverite
+  - heading: COVID Vaccines
+    press:
+    - url: https://cra.org/ccc/using-computer-modeling-to-effectively-prioritize-and-distribute-the-covid-19-vaccine/
+      date: 02/16/2021
+      venue: The Computing Community Consortium
+      author: Computing Research Association
+    - url: https://www.denverpost.com/2021/02/16/colorado-chronic-conditions-covid-vaccine/
+      date: 02/16/2021
+      venue: The Denver Post
+      author: Meg Wingerter
+    - url: https://www.medscape.com/viewarticle/945699
+      date: 02/11/2021
+      venue: Medscape
+      author: Damian McNamara and Richard Franki
+    - url: https://www.kvnf.org/post/study-prioritize-vaccines-older-adults#stream/0
+      date: 01/27/2021
+      venue: KVNF Colorado
+      author: Gavin Dahl
+    - url: https://www.dailycamera.com/2021/01/26/vaccinating-ages-60-reduces-covid-19-deaths-overall-cu-boulder-study-finds/
+      date: 01/26/2021
+      venue: Boulder Daily Camera
+      author: Katie Langford
+    - url: https://www.t-online.de/nachrichten/ausland/id_89331046/corona-impfung-zuerst-fuer-junge-kann-indonesiens-weg-funktionieren-.html
+      date: 01/22/2021
+      venue: t-online
+      author: Annika Leister
+    - url: https://www.sueddeutsche.de/gesundheit/coronavirus-impfung-prioritaet-indonesien-1.5181984
+      date: 01/21/2021
+      venue: Süddeutsche Zeitung
+      author: Arne Perras and Berit Uhlmann
+    - url: https://www.youtube.com/watch?v=nkjimcwHWts&feature=youtu.be&ab_channel=CGTNDenve
+      date: 01/18/2021
+      venue: CGTN Denver
+      author: Hendrik Sybrandy
+    - url: https://www.nytimes.com/2021/01/17/world/trump-vaccine-doses.html
+      date: 01/17/2021
+      venue: The New York Times
+      author: Bryan Pietsch
+    - url: https://www.npr.org/sections/health-shots/2021/01/11/955659213/math-problem-whats-the-best-strategy-for-covid-19-vaccination?live=1
+      date: 01/11/2021
+      venue: NPR
+      author: Joe Palca
+    - url: https://www.washingtonpost.com/politics/2021/01/11/health-202-recovered-coronavirus-patients-should-still-get-vaccine-experts-say/
+      date: 01/11/2021
+      venue: The Washington Post
+      author: Alexandra Ellerbeck
+    - url: https://www.youtube.com/watch?v=MWuVUoM3fZo&feature=youtu.be&ab_channel=CGTNDenver
+      date: 12/23/2020
+      venue: CGTN Denver
+      author: Hendrik Sybrandy
+    - url: https://www.wsj.com/articles/should-people-who-have-had-covid-19-wait-to-get-a-vaccine-11608562810
+      date: 12/21/2020
+      venue: The Wall Street Journal
+      author: Sarah Toy and Daniela Hernandez
+    - url: https://www.thedenverchannel.com/news/local-news/cu-researchers-global-partners-model-which-covid-vaccine-distribution-strategies-work-best
+      date: 12/13/2020
+      venue: Denver 7 News
+      author: Lance Hernandez
+    - url: https://kdvr.com/news/coronavirus/covid-19-vaccine/cu-study-suggests-people-who-already-had-covid-19-should-let-others-get-vaccinated-first/
+      date: 12/11/2020
+      venue: Denver 31 News
+      author: Evan Kruegel
+    - url: https://www.9news.com/article/news/local/next/colordoans-covid-19-global-policy/73-6c0949be-bfad-41a5-9224-e1253eaea999
+      date: 12/11/2020
+      venue: Denver 9 News
+      author: Anusha Roy
+    - url: https://www.nature.com/articles/d41587-020-00022-y
+      date: 11/25/2020
+      venue: Nature Biotechnology News
+      author: Elie Dolgin
+    - url: https://undark.org/2020/11/18/best-strategy-to-deploy-covid-19-vaccine/
+      date: 11/18/2020
+      venue: Undark
+      author: Republished in Fast Company, Scientific American, Medscape, Singularity Hub, MIT Technology Review, Smithsonian Magazine, and NCBI. Jill Neimark
+  - heading: COVID Olfactory Screening
+    press:
+    - url: https://www.youtube.com/watch?v=nDJ_AeRx4g0&feature=youtu.be&ab_channel=CGTNDenver
+      date: 01/28/2021
+      venue: CGTN America
+      author: Hendrik Sybrandy
+    - url: https://nation.africa/kenya/healthy-nation/what-if-there-was-a-less-irritating-way-to-test-for-covid--3269584
+      date: 01/26/2021
+      venue: Nation (Kenya)
+      author: Hellen Shikanda
+    - url: https://www.nytimes.com/2021/01/19/health/coronavirus-testing-smell-odor.html
+      date: 01/19/2021
+      venue: The New York Times 
+      author: Katherine J. Wu
+    - url: https://denver.cbslocal.com/video/5031073-university-of-colorado-researchers-test-smell-test-for-coronavirus-infection/
+      date: 12/2020
+      venue: Denver 4 News
+      author: CBS Denver
+    - url: https://www.kktv.com/2020/12/10/new-smell-test-may-help-screen-more-people-for-covid-19/
+      date: 12/10/2020
+      venue: Colorado Springs 11 News 
+      author: Megan Hiler
+    - url: http://howonearthradio.org/archives/7886
+      date: 12/14/2020
+      venue: KGNU How On Earth Radio 
+      author: Shelley Schlender
+    - url: https://coloradosun.com/2021/01/04/colorado-coronavirus-scratch-and-sniff-test/
+      date: 01/04/2020
+      venue: The Colorado Sun
+      author: John Ingold
   - heading: COVID-19 Antibody Testing
     press:
     - url: https://www.kunc.org/post/utah-aims-test-10000-residents-ambitious-covid-19-study
