@@ -50,11 +50,6 @@ people:
     image_path: /assets/images/people/katie_spoon.jpg
     title: PhD Student, CS*
     subject: the scientific ecosystem
-  - name: Upasana Dutta
-    image_path: /assets/images/people/upasana.gif
-    url: https://github.com/UpasanaDutta98
-    title: MS Student, CS
-    subject: complex networks
   - name: Casey Middleton
     image_path: /assets/images/people/casey.gif
     url: https://github.com/caseymid48
@@ -62,6 +57,11 @@ people:
     subject: infectious diseases
     aliases:
       - Casey E. Middleton
+  - name: Upasana Dutta
+    image_path: /assets/images/people/upasana.gif
+    url: https://github.com/UpasanaDutta98
+    title: MS Student, CS
+    subject: complex networks
   
 alumni:
   - name: Dr. Eun Lee
