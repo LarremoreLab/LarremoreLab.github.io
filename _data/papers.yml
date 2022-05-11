@@ -14,6 +14,19 @@ categories:
         - text: preprint
           url: https://www.medrxiv.org/content/10.1101/2021.10.19.21265231v2
       year: 2022
+    - title: Subfield Prestige and Gender Inequality in Computing
+      authors: 
+      - Nicholas LaBerge
+      - K. Hunter Wapman
+      - Allison C. Morgan
+      - Sam Zhang
+      - Daniel B. Larremore
+      - Aaron Clauset
+      venue: In press, Communications of the ACM
+      year: 2022
+      links:
+        - text: preprint
+          url: https://arxiv.org/abs/2201.00254 
     - title: Labor advantages drive the greater productivity of faculty at elite universities
       authors:
       - Sam Zhang
@@ -25,19 +38,6 @@ categories:
       links:
         - text: preprint
           url: https://arxiv.org/abs/2204.05989
-    - title: Subfield Prestige and Gender Inequality in Computing
-      authors: 
-      - Nicholas LaBerge
-      - K. Hunter Wapman
-      - Allison C. Morgan
-      - Sam Zhang
-      - Daniel B. Larremore
-      - Aaron Clauset
-      venue: submitted
-      year: 2021
-      links:
-        - text: preprint
-          url: https://arxiv.org/abs/2201.00254 
     - title: Bayesian estimation of population size and overlap from random subsamples
       authors:
       - Erik K. Johnson
@@ -167,6 +167,26 @@ categories:
       links:
         - text: arXiv
           url: http://arxiv.org/abs/2009.10830
+    - title: A universal immune response to infection can be measured in human saliva
+      authors:
+      - Qing Yang
+      - Nicholas R. Meyerson
+      - Camille L. Paige
+      - James H. Morrison
+      - Stephen K. Clark
+      - Will T. Fattor
+      - Carolyn J. Decker
+      - Halley R. Steiner
+      - Elena Lian
+      - Daniel B. Larremore
+      - Rushika Perera
+      - Eric M. Poeschla
+      - Roy Parker
+      - Robin D. Dowell
+      - Sara L. Sawyer
+      year: 2022
+      venue: Submitted
+
 
   - heading: "Published"
     pubs:
