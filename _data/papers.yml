@@ -1,7 +1,19 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
-
+    - title: Socioeconomic Roots of Academic Faculty
+      authors: 
+      - Allison C. Morgan
+      - Nicholas LaBerge
+      - Daniel B. Larremore
+      - Mirta Galesic
+      - Jennie E. Brand
+      - Aaron Clauset
+      year: 2022
+      venue: In press, Nature Human Behaviour
+      links:
+        - text: preprint
+          url: https://osf.io/preprints/socarxiv/6wjxc/
     - title: SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Screening in Populations of Mixed Vaccination Status
       authors:
       - Kate M. Bubar*
@@ -92,18 +104,6 @@ categories:
       links:
         - text: preprint
           url: https://www.medrxiv.org/content/10.1101/2021.03.25.21254320v2
-    - title: Socioeconomic Roots of Academic Faculty
-      authors: 
-      - Allison Morgan
-      - Aaron Clauset
-      - Daniel B. Larremore
-      - Nicholas LaBerge
-      - Mirta Galesic
-      year: 2021
-      venue: Submitted
-      links:
-        - text: preprint
-          url: https://osf.io/preprints/socarxiv/6wjxc/
     - title: Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador
       authors:
       - Shazia Ruybal-Pesántez
