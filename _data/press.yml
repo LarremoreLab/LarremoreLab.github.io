@@ -1,10 +1,13 @@
 categories:
+  - heading: Alan T. Waterman Award
+    press:
+    - content: <iframe src='https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6305662978112' allowfullscreen frameborder=0></iframe>
   - heading: COVID Testing
     press:
     - url: https://www.cpr.org/show-episode/feb-11-2022-the-future-of-covid-19-testing-the-state-lawmakers-running-for-congress/
       date: 02/11/2022
       venue: Colorado Matters, CPR News
-      authro: Ryan Warner
+      author: Ryan Warner
     - url: https://www.verywellhealth.com/covid-peak-infectiousness-isolation-5216463
       date: 01/21/2022
       venue: VeryWell Health

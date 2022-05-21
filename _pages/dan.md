@@ -19,6 +19,8 @@ classes: wide
 
 I finished a PhD in Applied Mathematics from the University of Colorado Boulder in 2012, advised by Juan G. Restrepo, after which I spent three years as a postdoctoral fellow at the Harvard T.H. Chan School of Public Health studying the genetic epidemiology of malaria in the Center for Communicable Disease Dynamics. I then joined the Santa Fe Institute as an Omidyar Fellow until 2017, when I joined the faculty at the University of Colorado Boulder in the Department of Computer Science and the BioFrontiers Institute.
 
+<iframe src='https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6305662978112' allowfullscreen frameborder=0></iframe>
+
 <h3>Research Interests</h3>
 <ul>
 <li><strong>Malaria's antigenic variation and evolution</strong> - The <em>var</em> genes of the malaria parasite <em>P. falciparum</em> evolve according to complicated and unknown rules, with selective pressures at multiple scales both within hosts and between hosts. I create and use mathematical tools to understand the structural and evolutionary constraints on <em>var</em> gene evolution, and their relationships with parasite virulence, population structure, and epidemiology.</li>

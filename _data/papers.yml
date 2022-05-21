@@ -14,18 +14,6 @@ categories:
       links:
         - text: preprint
           url: https://osf.io/preprints/socarxiv/6wjxc/
-    - title: SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Screening in Populations of Mixed Vaccination Status
-      authors:
-      - Kate M. Bubar*
-      - Casey E. Middleton*
-      - Kristen K. Bjorkman
-      - Roy Parker
-      - Daniel B. Larremore
-      venue: In press, Nature Communications
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2021.10.19.21265231v2
-      year: 2022
     - title: Subfield Prestige and Gender Inequality in Computing
       authors: 
       - Nicholas LaBerge
@@ -190,6 +178,18 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Screening in Populations of Mixed Vaccination Status
+      authors:
+      - Kate M. Bubar*
+      - Casey E. Middleton*
+      - Kristen K. Bjorkman
+      - Roy Parker
+      - Daniel B. Larremore
+      venue: Nature Communications
+      links:
+        - text: Nature Communications
+          url: https://www.nature.com/articles/s41467-022-30144-7
+      year: 2022
     - title: The Dynamics of Faculty Hiring Networks
       authors:
       - Eun Lee

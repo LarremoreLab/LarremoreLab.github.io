@@ -59,8 +59,11 @@ line.link {
   font-size: 12px;
   width: 400px;
 }
-#chartContainer {
+#chartContainerR {
   float: right;
+}
+#chartContainerL {
+  float: left;
 }
 @media screen and (max-width: 750px) {
   #chartContainer {
