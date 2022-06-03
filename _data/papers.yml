@@ -59,39 +59,6 @@ categories:
       links:
         - text: preprint
           url: https://www.medrxiv.org/content/10.1101/2021.06.24.21259495v1
-    - title: Disparities in SARS-CoV-2 seroprevalence among individuals presenting for care in central North Carolina over a six-month period
-      authors:
-      - Cesar A. Lopez
-      - Clark H. Cunningham
-      - Sierra Pugh
-      - Katerina Brandt
-      - Usaphea P. Vanna
-      - Matthew J. Delacruz
-      - Quique Guerra
-      - Samuel Jacob Goldstein
-      - Yixuan Jacob Hou
-      - Margaret Gearhart
-      - Christine Wiethorn
-      - Candace Pope
-      - Carolyn Amditis
-      - Kathryn Pruitt
-      - Cinthia Newberry-Dillon
-      - John Schmitz
-      - Lakshmanane Premkumar
-      - Adaora A. Adimora
-      - Michael Emch
-      - Ross Boyce
-      - Allison E. Aiello
-      - Bailey K. Fosdick
-      - Daniel B. Larremore
-      - Aravinda M. de Silva
-      - Jonathan J. Juliano
-      - Alena J. Markmann
-      year: 2021
-      venue: Submitted
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2021.03.25.21254320v2
     - title: Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador
       authors:
       - Shazia Ruybal-Pesántez
@@ -178,6 +145,40 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: Ethnoracial Disparities in SARS-CoV-2 Seroprevalence in a Large Cohort of Individuals in Central North Carolina from April to December 2020
+      authors:
+      - Cesar A. Lopez
+      - Clark H. Cunningham
+      - Sierra Pugh
+      - Katerina Brandt
+      - Usaphea P. Vanna
+      - Matthew J. Delacruz
+      - Quique Guerra
+      - Samuel Jacob Goldstein
+      - Yixuan Jacob Hou
+      - Margaret Gearhart
+      - Christine Wiethorn
+      - Candace Pope
+      - Carolyn Amditis
+      - Kathryn Pruitt
+      - Cinthia Newberry-Dillon
+      - John Schmitz
+      - Lakshmanane Premkumar
+      - Adaora A. Adimora
+      - Michael Emch
+      - Ross Boyce
+      - Allison E. Aiello
+      - Bailey K. Fosdick
+      - Daniel B. Larremore
+      - Aravinda M. de Silva
+      - Jonathan J. Juliano
+      - Alena J. Markmann
+      year: 2022
+      volumeissue: e00841-21
+      venue: mSphere
+      links:
+        - text: mSphere
+          url: https://journals.asm.org/doi/full/10.1128/msphere.00841-21
     - title: SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Screening in Populations of Mixed Vaccination Status
       authors:
       - Kate M. Bubar*
@@ -186,6 +187,7 @@ categories:
       - Roy Parker
       - Daniel B. Larremore
       venue: Nature Communications
+      volumeissue: 13, 2777
       links:
         - text: Nature Communications
           url: https://www.nature.com/articles/s41467-022-30144-7
