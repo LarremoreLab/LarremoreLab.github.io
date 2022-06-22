@@ -1,6 +1,32 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: Using Data for Good at Meta to understand population mobility in the wake of recent events
+      authors:
+      - Michael Bradshaw
+      - Devin Burke
+      - Bailey K. Fosdick
+      - Daniel B. Larremore
+      - Ryan Layer
+      year: 2022
+      venue: Submitted
+    - title: Serial Population-Based Serosurveys For COVID-19 In District East of Karachi, Pakistan
+      authors:
+      - Imran Nisar 
+      - Mashal Amin
+      - Nadia Ansari
+      - Farah Khalid
+      - Najeeb Rehman
+      - Aneeta Hotwani
+      - Arsalan Memon
+      - Usma Mehmood
+      - Ali Faisal Saleem
+      - Junaid Iqbal
+      - Daniel B. Larremore
+      - Bailey K. Fosdick
+      - Fyezah Jehan
+      year: 2022
+      venue: Submitted
     - title: Socioeconomic Roots of Academic Faculty
       authors: 
       - Allison C. Morgan
@@ -216,6 +242,7 @@ categories:
       - Noa Pinter-Wollman
       venue: Biological Reviews
       year: 2021
+      volumeissue: 96 (6)
       links:
         - text: Biological Reviews
           url: https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12775
