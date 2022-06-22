@@ -4,21 +4,16 @@
         <title>viz tutorial</title>
         <meta name="Author" content="Daniel B. Larremore"/>
         <meta http-equiv="content-Type" content="text/html;"/>
-        <link type="text/css" rel="stylesheet" href="../styles/style.css"/>
-        <link rel="icon"
-            type="image/png"
-            href="http://danlarremore.com/img/favicon.png">
-            </head>
-    
+        <!-- <link type="text/css" rel="stylesheet" href="../styles/style.css"/> -->
     <body>
                 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TC538D"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TC538D');</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-36889698-2');
+</script>
 <!-- End Google Tag Manager -->
         <!-- Container -->
         <div id="container">
@@ -30,7 +25,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="content">
                     
                     <h3>Methods</h3>
-                    <p>This page is just a guide for the interactive visualization. To learn about the methods used in the paper, to get the citation for the paper, or to contact the authors, check out the website for the project instead: <a href="http://tuvalu.santafe.edu/~aaronc/facultyhiring/" target="_blank">http://tuvalu.santafe.edu/~aaronc/facultyhiring/</a>. You can find shareable raw data there, too!</p>
+                    <p>This page is just a guide for the interactive visualization. To learn about the methods used in the paper, to get the citation for the paper, or to contact the authors, check out the website for the project instead: <a href="https://aaronclauset.github.io/facultyhiring/" target="_blank">http://tuvalu.santafe.edu/~aaronc/facultyhiring/</a>. You can find shareable raw data there, too!</p>
                     
                     <h3>In general: Circos / Chord / Sankey Plots</h3>
 <p> The plot that we've made is an adaptation of code in <a href="http://bl.ocks.org/mbostock/4062006" target="_blank">d3.js</a> which is in turn an interactive adaptation of <a href="http://circos.ca/" target="_blank">Circos</a> which is in turn a radial and bidirectional form of a <a href="http://en.wikipedia.org/wiki/Sankey_diagram" target="_blank">Sankey diagram</a>. If you like these plots, there are many excellent and interesting examples to explore.</p>
