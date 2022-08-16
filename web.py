@@ -147,9 +147,9 @@ def make_network(data):
         kind = nodes[node]['kind']
         size = 1
         if kind == 'lab member':
-            size = 1.5
+            size = 1.4
         elif kind == 'collaborator':
-            size = 1.25
+            size = 0.6
 
         nodes[node]['size'] = size
         nodes[node]['color'] = KIND_TO_COLOR_MAP[kind]
@@ -159,7 +159,7 @@ def make_network(data):
     web.display.colorBy = 'color'
     web.display.hideMenu = True
     web.display.showLegend = False
-    web.display.gravity = 0.5
+    web.display.gravity = 0.55
     web.display.width = 400
     web.display.height = 400
     web.display.scaleLinkOpacity = True

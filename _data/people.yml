@@ -18,7 +18,7 @@ people:
     subject: the scientific ecosystem
     aliases:
       - Hunter Wapman
-  - name: Ian van Buskirk
+  - name: Ian Van Buskirk
     url: /
     image_path: /assets/images/people/ian.gif
     title: PhD Student, CS*
@@ -49,13 +49,11 @@ people:
     subject: infectious diseases
     aliases:
       - Casey E. Middleton
-  - name: Upasana Dutta
-    image_path: /assets/images/people/upasana.gif
-    url: https://upasanadutta.owlstown.net/
-    title: MS Student, CS
-    subject: complex networks
   
 alumni:
+  - name: Upasana Dutta
+    now: PhD Student, University of Pennsylvania
+    url: https://upasanadutta.owlstown.net/
   - name: Dr. Kate Wootton
     url: https://kwootton.github.io/
     aliases:
