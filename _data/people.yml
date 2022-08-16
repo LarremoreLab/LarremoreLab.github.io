@@ -6,14 +6,6 @@ people:
     subject: Assistant Professor
     aliases:
       - Daniel B. Larremore
-  - name: Dr. Kate Wootton
-    url: https://kwootton.github.io/
-    image_path: /assets/images/people/kate_wootton.jpg
-    title: Postdoc*
-    image_path: /assets/images/people/katew.gif
-    subject: the scientific ecosystem
-    aliases:
-      - Kate Wootton
   - name: Tzu-Chi Yen
     url: https://junipertcy.info/
     image_path: /assets/images/people/tzuchi.gif
@@ -64,8 +56,13 @@ people:
     subject: complex networks
   
 alumni:
+  - name: Dr. Kate Wootton
+    url: https://kwootton.github.io/
+    aliases:
+      - Kate Wootton
+    now: Postdoctoral Fellow, University of Canterbury, New Zealand
   - name: Dr. Eun Lee
-    now: Faculty, Pukyong National University
+    now: Faculty, Pukyong National University, South Korea
     url: /
     aliases:
       - Eun Lee

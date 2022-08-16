@@ -15,9 +15,9 @@ classes: wide
 </ul>
 </div>
 
-<h3>About Me</h3>
+<h3>Bio</h3>
 
-I finished a PhD in Applied Mathematics from the University of Colorado Boulder in 2012, advised by Juan G. Restrepo, after which I spent three years as a postdoctoral fellow at the Harvard T.H. Chan School of Public Health studying the genetic epidemiology of malaria in the Center for Communicable Disease Dynamics. I then joined the Santa Fe Institute as an Omidyar Fellow until 2017, when I joined the faculty at the University of Colorado Boulder in the Department of Computer Science and the BioFrontiers Institute.
+Dr. Daniel Larremore is an Assistant Professor in the Department of Computer Science and the BioFrontiers Institute at the University of Colorado Boulder. He is also an affiliate of the Department of Applied Mathematics at the University of Colorado Boulder, and is a member of the external faculty of the Center for Communicable Disease Dynamics at the Harvard T. H. Chan School of Public Health. His research develops mathematical methods using novel combinations of networks, dynamical systems, and statistical inference to solve problems in two main areas: infectious disease epidemiology and computational social science. Prior to joining the University of Colorado faculty, he was an Omidyar Fellow at the Santa Fe Institute 2015-2017 and a post-doctoral fellow at the Harvard T.H. Chan School of Public Health 2012-2015. He obtained his Ph.D. in Applied Mathematics from the University of Colorado Boulder in 2012, and holds an undergraduate degree in Chemical Engineering from Washington University in St. Louis. In 2022, he received the Alan T. Waterman Award from the National Science Foundation.
 
 <iframe src='https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6305662978112' allowfullscreen frameborder=0></iframe>
 
