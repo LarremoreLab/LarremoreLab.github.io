@@ -45,19 +45,6 @@ categories:
       - Fyezah Jehan
       year: 2022
       venue: Submitted
-    - title: Socioeconomic Roots of Academic Faculty
-      authors: 
-      - Allison C. Morgan
-      - Nicholas LaBerge
-      - Daniel B. Larremore
-      - Mirta Galesic
-      - Jennie E. Brand
-      - Aaron Clauset
-      year: 2022
-      venue: In press, Nature Human Behaviour
-      links:
-        - text: preprint
-          url: https://osf.io/preprints/socarxiv/6wjxc/
     - title: Subfield Prestige and Gender Inequality in Computing
       authors: 
       - Nicholas LaBerge
@@ -187,8 +174,27 @@ categories:
       venue: Submitted
 
 
+
+
   - heading: "Published"
     pubs:
+    - title: Socioeconomic Roots of Academic Faculty
+      authors: 
+      - Allison C. Morgan
+      - Nicholas LaBerge
+      - Daniel B. Larremore
+      - Mirta Galesic
+      - Jennie E. Brand
+      - Aaron Clauset
+      year: 2022
+      venue: Nature Human Behaviour
+      links:
+        - text: Nature Human Behaviour
+          url: https://www.nature.com/articles/s41562-022-01425-4
+        - text: twitterthread
+          url: https://twitter.com/aaronclauset/status/1375116154553896965
+        - text: Research Briefing - Nature Human Behaviour
+          url: https://www.nature.com/articles/s41562-022-01426-3
     - title: Ethnoracial Disparities in SARS-CoV-2 Seroprevalence in a Large Cohort of Individuals in Central North Carolina from April to December 2020
       authors:
       - Cesar A. Lopez
