@@ -4,7 +4,7 @@ permalink: /us-faculty/
 classes: wide
 ---
 
-This page is a companion for the *Nature* article on faculty hiring and retention in U.S. academia, written by [Hunter Wapman](https://www.hne.golf/), [Sam Zhang](https://sam.zhang.fyi), [Aaron Clauset](https://aaronclauset.github.io), and [Daniel Larremore](https://larremorelab.github.io/). It hosts visualizations of patterns in US faculty hiring, as well as links to deidentified data and replication code.
+This page is a companion for the *Nature* article on faculty hiring and retention in US academia, written by [Hunter Wapman](https://www.hne.golf/), [Sam Zhang](https://sam.zhang.fyi), [Aaron Clauset](https://aaronclauset.github.io), and [Daniel Larremore](https://larremorelab.github.io/). It hosts visualizations of patterns in US faculty hiring, as well as links to deidentified data and replication code.
 
 ### Journal Reference
 K. H. Wapman, S. Zhang, A. Clauset, and D. B. Larremore, "[Quantifying hierarchy and dynamics in US faculty hiring and retention]()." *Nature* 1(2), 345 (2022).
