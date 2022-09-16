@@ -1,0 +1,7 @@
+<div id="hiring-flow-div"></div>
+
+<script type="text/javascript" src="{{ base.url | prepend: site.url }}/assets/js/us-faculty/webweb.js?{{site.time | date: '%s%N'}}"></script> 
+
+<script type="text/javascript">
+    var web = new Webweb.Webweb({{include.webweb_json | jsonify }})
+</script>
