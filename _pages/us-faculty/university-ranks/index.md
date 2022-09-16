@@ -3,7 +3,7 @@ title: Quantifying hierarchy and dynamics in US faculty hiring and retention —
 permalink: /us-faculty/university-ranks/
 ---
 
-Explore the visualization below to see how universities rank in terms of prestige<sup><a href="#prestige-ranks">1</a></sup> or production<sup><a href="#production-ranks">2</a></sup>. This visualization supplements the *Nature* article [Quantifying hierarchies and dynamics in US faculty hiring and retention](https://www.nature.com/articles/s41586-022-05222-x). You can find links to the code and data used in that paper, as well as to another explorable visualization of how scholars move between universities when they become professors, [here](https://larremorelab.github.io/us-faculty/).
+Explore the visualization below to see how universities rank in terms of prestige<sup><a href="#prestige-ranks">1</a></sup> or production<sup><a href="#production-ranks">2</a></sup>. This visualization supplements the *Nature* article [Quantifying hierarchy and dynamics in US faculty hiring and retention](https://www.nature.com/articles/s41586-022-05222-x). You can find links to the code and data used in that paper, as well as to another explorable visualization of how scholars move between universities when they become professors, [here](https://larremorelab.github.io/us-faculty/).
 
 {% include us-faculty/university-ranks.html %}
 
