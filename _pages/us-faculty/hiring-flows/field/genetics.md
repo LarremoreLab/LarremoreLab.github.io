@@ -1,6 +1,7 @@
 ---
 title: "US faculty — hiring flows: Genetics"
 permalink: /us-faculty/hiring-flows/Field/genetics/
+class: wide
 ---
 
 {% include us-faculty/hiring-flows.html webweb_json=site.data.us_faculty.hiring_flows.field.genetics %}

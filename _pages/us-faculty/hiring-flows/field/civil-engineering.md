@@ -1,6 +1,7 @@
 ---
 title: "US faculty — hiring flows: Civil Engineering"
 permalink: /us-faculty/hiring-flows/Field/civil-engineering/
+class: wide
 ---
 
 {% include us-faculty/hiring-flows.html webweb_json=site.data.us_faculty.hiring_flows.field.civil_engineering %}

@@ -1,6 +1,7 @@
 ---
 title: "US faculty — hiring flows: Industrial Engineering"
 permalink: /us-faculty/hiring-flows/Field/industrial-engineering/
+class: wide
 ---
 
 {% include us-faculty/hiring-flows.html webweb_json=site.data.us_faculty.hiring_flows.field.industrial_engineering %}
