@@ -11,14 +11,6 @@ categories:
       links:
         - text: arXiv
           url: https://arxiv.org/abs/2208.01714
-    - title: Quantifying hierarchy and dynamics in U.S. faculty hiring and retention
-      authors:
-      - K. Hunter Wapman
-      - Sam Zhang
-      - Aaron Clauset
-      - Daniel B. Larremore
-      year: 2022
-      venue: In press, Nature
     - title: Using Data for Good at Meta to understand population mobility in the wake of recent events
       authors:
       - Michael Bradshaw
@@ -178,6 +170,17 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: Quantifying hierarchy and dynamics in U.S. faculty hiring and retention
+      authors:
+      - K. Hunter Wapman
+      - Sam Zhang
+      - Aaron Clauset
+      - Daniel B. Larremore
+      year: 2022
+      venue: Nature
+      links:
+        - text: Nature
+          url: https://www.nature.com/articles/s41586-022-05222-x
     - title: Socioeconomic Roots of Academic Faculty
       authors: 
       - Allison C. Morgan
