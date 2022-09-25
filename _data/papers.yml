@@ -1,6 +1,14 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Optimizing prevalence estimates for a novel pathogen by reducing uncertainty in test characteristics"
+      authors:
+      - Daniel B. Larremore*
+      - Bailey K. Fosdick*
+      - Sam Zhang
+      - Yonatan H. Grad
+      year: 2022
+      venue: To appear in Epidemics
     - title: An Open-Source Cultural Consensus Approach to Name-Based Gender Classification
       authors:
       - Ian Van Buskirk
@@ -65,11 +73,12 @@ categories:
       authors:
       - Erik K. Johnson
       - Daniel B. Larremore
-      venue: In press, PLOS Computational Biology
+      venue: PLOS Computational Biology
       year: 2022
+      volumeissue: "18(9): e1010451"
       links:
-        - text: preprint
-          url: https://www.biorxiv.org/content/10.1101/2021.07.06.451319v1.abstract
+        - text: PLOS Computational Biology
+          url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010451
     - title: Test negative designs with uncertainty, sensitivity, and specificity
       authors:
       - Erik K. Johnson
@@ -92,14 +101,6 @@ categories:
       - Claudia A. Vera-Arias
       - Kathryn E. Tiedje
       - Karen P. Day 
-      year: 2020
-      venue: Submitted
-    - title: "Jointly modeling prevalence, sensitivity and specificity for optimal sample allocation"
-      authors:
-      - Daniel B. Larremore*
-      - Bailey K. Fosdick*
-      - Sam Zhang
-      - Yonatan H. Grad
       year: 2020
       venue: Submitted
       links:
