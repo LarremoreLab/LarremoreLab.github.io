@@ -22,3 +22,6 @@ recordings:
   - title: "Gender, Prestige, & Productivity<br>in Academic Hiring Networks<br>and Career Trajectories"
     url: https://bids.berkeley.edu/resources/videos/gender-prestige-and-productivity-academic-hiring-networks-and-career-trajectories
     image_path: /assets/images/slides/BIDS.png
+  - title: "Data Science as a Field"
+    url: https://www.coursera.org/lecture/data-science-as-a-field/dan-larremore-p6hfG
+    image_path: /assets/images/slides/DS_coursera.png

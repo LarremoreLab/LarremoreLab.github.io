@@ -21,6 +21,9 @@ categories:
         term: Fall 2017, Spring 2018, Fall, 2018
   - heading: Lecture Recordings
     courses:
+      - title: Data Science as a Field
+        url: https://www.coursera.org/lecture/data-science-as-a-field/dan-larremore-p6hfG
+        term: Coursera
       - title: Gender, prestige, and productivity in academic hiring networks and career trajectories
         url: https://bids.berkeley.edu/resources/videos/gender-prestige-and-productivity-academic-hiring-networks-and-career-trajectories
         urltitle: Berkeley Institute for Data Science
