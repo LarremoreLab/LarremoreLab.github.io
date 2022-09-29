@@ -4,7 +4,7 @@ classes: wide
 ---
 
 <div>
-<img src="/assets/images/daniel_b_larremore_crop_2017.jpg" alt="Daniel Larremore" width="400"/>
+<img src="/assets/images/Dan_Larremore_9-22-Crop.jpg" alt="Daniel Larremore" width="400"/>
 <h1>Daniel B. Larremore</h1>
 <ul style="list-style-type:none; margin: 0; padding: 0; line-height: 1;">
 <li>Assistant Professor, <a href="http://biofrontiers.colorado.edu/">BioFrontiers Institute</a></li>
