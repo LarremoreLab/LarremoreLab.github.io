@@ -24,7 +24,7 @@ categories:
       - title: Data Science as a Field
         url: https://www.coursera.org/lecture/data-science-as-a-field/dan-larremore-p6hfG
         term: Coursera
-      - title: Gender, prestige, and productivity in academic hiring networks and career trajectories
-        url: https://bids.berkeley.edu/resources/videos/gender-prestige-and-productivity-academic-hiring-networks-and-career-trajectories
-        urltitle: Berkeley Institute for Data Science
-        term: March 17, 2017
+      # - title: Gender, prestige, and productivity in academic hiring networks and career trajectories
+      #   url: https://bids.berkeley.edu/resources/videos/gender-prestige-and-productivity-academic-hiring-networks-and-career-trajectories
+      #   urltitle: Berkeley Institute for Data Science
+      #   term: March 17, 2017
