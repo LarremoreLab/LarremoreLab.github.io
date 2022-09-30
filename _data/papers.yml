@@ -1,14 +1,30 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
-    - title: "Optimizing prevalence estimates for a novel pathogen by reducing uncertainty in test characteristics"
-      authors:
-      - Daniel B. Larremore*
-      - Bailey K. Fosdick*
+    - title: Subfield Prestige and Gender Inequality in Computing
+      authors: 
+      - Nicholas LaBerge
+      - K. Hunter Wapman
+      - Allison C. Morgan
       - Sam Zhang
-      - Yonatan H. Grad
+      - Daniel B. Larremore
+      - Aaron Clauset
+      venue: In press, Communications of the ACM
       year: 2022
-      venue: To appear in Epidemics
+      links:
+        - text: preprint
+          url: https://arxiv.org/abs/2201.00254 
+    - title: Labor advantages drive the greater productivity of faculty at elite universities
+      authors:
+      - Sam Zhang
+      - K. Hunter Wapman
+      - Daniel B. Larremore
+      - Aaron Clauset
+      venue: submitted
+      year: 2022
+      links:
+        - text: preprint
+          url: https://arxiv.org/abs/2204.05989
     - title: An Open-Source Cultural Consensus Approach to Name-Based Gender Classification
       authors:
       - Ian Van Buskirk
@@ -45,40 +61,6 @@ categories:
       - Fyezah Jehan
       year: 2022
       venue: Submitted
-    - title: Subfield Prestige and Gender Inequality in Computing
-      authors: 
-      - Nicholas LaBerge
-      - K. Hunter Wapman
-      - Allison C. Morgan
-      - Sam Zhang
-      - Daniel B. Larremore
-      - Aaron Clauset
-      venue: In press, Communications of the ACM
-      year: 2022
-      links:
-        - text: preprint
-          url: https://arxiv.org/abs/2201.00254 
-    - title: Labor advantages drive the greater productivity of faculty at elite universities
-      authors:
-      - Sam Zhang
-      - K. Hunter Wapman
-      - Daniel B. Larremore
-      - Aaron Clauset
-      venue: submitted
-      year: 2022
-      links:
-        - text: preprint
-          url: https://arxiv.org/abs/2204.05989
-    - title: Bayesian estimation of population size and overlap from random subsamples
-      authors:
-      - Erik K. Johnson
-      - Daniel B. Larremore
-      venue: PLOS Computational Biology
-      year: 2022
-      volumeissue: "18(9): e1010451"
-      links:
-        - text: PLOS Computational Biology
-          url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010451
     - title: Test negative designs with uncertainty, sensitivity, and specificity
       authors:
       - Erik K. Johnson
@@ -167,10 +149,30 @@ categories:
       venue: Submitted
 
 
-
-
   - heading: "Published"
     pubs:
+    - title: Bayesian estimation of population size and overlap from random subsamples
+      authors:
+      - Erik K. Johnson
+      - Daniel B. Larremore
+      venue: PLOS Computational Biology
+      year: 2022
+      volumeissue: "18(9): e1010451"
+      links:
+        - text: PLOS Computational Biology
+          url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010451
+    - title: "Optimizing prevalence estimates for a novel pathogen by reducing uncertainty in test characteristics"
+      authors:
+      - Daniel B. Larremore*
+      - Bailey K. Fosdick*
+      - Sam Zhang
+      - Yonatan H. Grad
+      year: 2022
+      venue: Epidemics
+      links:
+        - text: Epidemics
+          url: https://www.sciencedirect.com/science/article/pii/S1755436522000743
+      volumeissue: 41, 100634
     - title: Quantifying hierarchy and dynamics in U.S. faculty hiring and retention
       authors:
       - K. Hunter Wapman
