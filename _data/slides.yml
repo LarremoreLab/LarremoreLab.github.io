@@ -1,4 +1,7 @@
 slides:
+  - title: "2022 NSF Waterman Lecture"
+    url: https://drive.google.com/file/d/1-3tV6W_Bmx1wae7zBDNv5963CfI0_Anu/view
+    image_path: /assets/images/slides/Larremore_Waterman_2022.png
   - title: "Workshop: Data Visualization"
     url: https://drive.google.com/file/d/1LouVvISCRlWkItZgzoHcgoU5Q1VyHT4U/view?usp=sharing
     image_path: /assets/images/slides/workshop_DataVisualization.png
@@ -17,14 +20,14 @@ slides:
   - title: "Communities & hierarchies"
     url: https://drive.google.com/file/d/1A1dtxrEitT4PfNvThMg1ak7jr5vXcq2I/view?usp=sharing
     image_path: /assets/images/slides/Larremore_LargeScaleStructure.png
-  - title: "2022 NSF Waterman Lecture"
-    url: https://drive.google.com/file/d/1-3tV6W_Bmx1wae7zBDNv5963CfI0_Anu/view
-    image_path: /assets/images/slides/Larremore_Waterman_2022.png
 
 recordings:
   # - title: "Gender, Prestige, & Productivity<br>in Academic Hiring Networks<br>and Career Trajectories"
   #   url: https://bids.berkeley.edu/resources/videos/gender-prestige-and-productivity-academic-hiring-networks-and-career-trajectories
   #   image_path: /assets/images/slides/BIDS.png
+  - title: "2022 NSF Waterman Lecture"
+    url: https://www.nsf.gov/sbe/videos/larremore-2022-waterman-lecture-video.jsp
+    image_path: /assets/images/slides/thumbnail_waterman_talk.png
   - title: "Data Science as a Field"
     url: https://www.coursera.org/lecture/data-science-as-a-field/dan-larremore-p6hfG
     image_path: /assets/images/slides/DS_coursera.png
