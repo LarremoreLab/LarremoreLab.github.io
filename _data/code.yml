@@ -1,5 +1,20 @@
 repos:
-  - title: "Online Serial Screening Policy Calculator"
+  - title: "Data & Code: Quantifying hierarchy and dynamics in US faculty hiring and retention"
+    authors:
+    - K. Hunter Wapman
+    - Sam Zhang
+    - Aaron Clauset
+    - Daniel B. Larremore
+    links:
+      - text: Explorable data visualizations
+        url: https://larremorelab.github.io/us-faculty
+      - text: Data
+        url: https://github.com/LarremoreLab/us-faculty-hiring-networks
+      - text: Code
+        url: https://github.com/LarremoreLab/us-faculty-hiring-and-retention-code
+    description: These data visualizations, datasets, networks, and code are all companions to <a href="https://www.nature.com/articles/s41586-022-05222-x">Wapman, Zhang, Clauset, and Larremore. <em>Nature</em>, (2022)</a>.
+    image_path: /assets/images/us-faculty/hiring-flows.png
+  - title: "Calculator: Online Serial Screening Policy"
     authors:
       - Daniel B. Larremore
       - Sam Zhang
@@ -7,7 +22,7 @@ repos:
       - text: Screening policy calculator
         url: https://larremorelab.github.io/covid-calculator3
     description: The impact of a serial testing policy depends on the test's frequency, turnaround time, and sensitivity, as well as the underlying viral kinetics. This calculator allows users to explore various potential parameters of each.
-  - title: "Online Bayesian Prevalance Calculators"
+  - title: "Calculator: Online Bayesian Prevalance"
     authors:
       - Daniel B. Larremore
       - Yonatan H. Grad
@@ -20,7 +35,7 @@ repos:
         url: https://larremorelab.github.io/covid-calculator2
     description: It is well known that estimates of prevalence are directly affected by the sensitivity and specificity of the diagnostic test being used. These calculators enable users to quickly compute Bayesian posteriors of prevalence, given field data and known sensitivity and specificity OR field data and lab validation data. This latter calculator recognizes the fact that sensitivity and specificity, themselves, are quantitites derived from data, and may thus be modeled jointly to estimate prevalence. 
     image_path: /assets/images/covid/header.png
-  - title: Paid Parental Leave Policies
+  - title: "Data: Paid Parental Leave Policies"
     authors:
       - Allison C. Morgan
       - Daniel B. Larremore
@@ -33,7 +48,7 @@ repos:
       - text: academia + tech
         url: https://aaronclauset.github.io/parental-leave/industry_academia.html
     description: Inspired in part by a study of university parental leave policies by Antecol et al. (New York Times, Inside HigherEd), we collected the paid parental leave policies for tenure-track faculty at 205 research universities in the US and Canada. The purpose of this post is to share the data we collected, highlight the complexity of many such policies, and share some preliminary analyses. Thanks to a tip from Laura Noren, we then obtained a dataset of paid parental leave policies for roughly 100 tech companies, crowdsourced by tech employees and community members after being started by Aaron Harnly of Amplify.
-  - title: "webweb"
+  - title: "Code: webweb"
     authors:
       - K. Hunter Wapman
       - Daniel B. Larremore
@@ -44,7 +59,7 @@ repos:
         url: https://github.com/dblarremore/webweb
     image_path: /assets/images/code/webweb.png
     description: webweb is a tool for creating, displaying, and sharing interactive network visualizations on the web, designed for simplicity and ease of use. With just a few lines of python, networkx, or matlab, webweb will build and launch a visualization in your browser.
-  - title: biSBM (bipartite Stochastic Block Model)
+  - title: "Code: biSBM (bipartite Stochastic Block Model)"
     authors:
       - Tzu-Chi Yen
       - Daniel B. Larremore
@@ -55,7 +70,7 @@ repos:
       #   url: http://danlarremore.com/bipartiteSBM/index.html
     description: The bipartite SBM is a model for finding community structure in bipartite networks. The Python version automatically chooses the number of groups using nonparametric Bayesian approach while the other implementations are parametric and require the user to choose the number of groups. 
     image_path: /assets/images/code/bisbm.png
-  - title: "Bayesian Repertoire Overlap"
+  - title: "Calculator & Code: Bayesian Repertoire Overlap"
     authors:
       - Daniel B. Larremore
     links:
