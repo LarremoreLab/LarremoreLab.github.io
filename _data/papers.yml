@@ -1,30 +1,6 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
-    - title: Subfield Prestige and Gender Inequality in Computing
-      authors: 
-      - Nicholas LaBerge
-      - K. Hunter Wapman
-      - Allison C. Morgan
-      - Sam Zhang
-      - Daniel B. Larremore
-      - Aaron Clauset
-      venue: In press, Communications of the ACM
-      year: 2022
-      links:
-        - text: preprint
-          url: https://arxiv.org/abs/2201.00254 
-    - title: Labor advantages drive the greater productivity of faculty at elite universities
-      authors:
-      - Sam Zhang
-      - K. Hunter Wapman
-      - Daniel B. Larremore
-      - Aaron Clauset
-      venue: submitted
-      year: 2022
-      links:
-        - text: preprint
-          url: https://arxiv.org/abs/2204.05989
     - title: An Open-Source Cultural Consensus Approach to Name-Based Gender Classification
       authors:
       - Ian Van Buskirk
@@ -151,6 +127,39 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: Labor advantages drive the greater productivity of faculty at elite universities
+      authors:
+      - Sam Zhang
+      - K. Hunter Wapman
+      - Daniel B. Larremore
+      - Aaron Clauset
+      venue: Science Advances
+      year: 2022
+      volumeissue: "8(46): eabq7056"
+      links:
+        - text: Science Advances
+          url: https://www.science.org/doi/10.1126/sciadv.abq7056
+        - text: twitterthread
+          url: https://twitter.com/_szhang/status/1593712551660990465
+    - title: Subfield Prestige and Gender Inequality in Computing
+      authors: 
+      - Nicholas LaBerge
+      - K. Hunter Wapman
+      - Allison C. Morgan
+      - Sam Zhang
+      - Daniel B. Larremore
+      - Aaron Clauset
+      venue: Communications of the ACM
+      year: 2022
+      links:
+        - text: CACM
+          url: https://cacm.acm.org/magazines/2022/12/266925-subfield-prestige-and-gender-inequality-among-us-computing-faculty/fulltext
+        - text: CACM interview with author Nicholas LaBerge
+          url: https://vimeo.com/761970439
+        - text: twitterthread
+          url: https://twitter.com/laberge_nick/status/1597267279313412096
+        - text: Cover Art
+          url: https://cacm.acm.org/magazines/2022/12
     - title: Bayesian estimation of population size and overlap from random subsamples
       authors:
       - Erik K. Johnson
