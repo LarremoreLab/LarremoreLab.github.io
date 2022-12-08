@@ -135,7 +135,7 @@ categories:
       - Aaron Clauset
       venue: Science Advances
       year: 2022
-      volumeissue: "8(46): eabq7056"
+      volumeissue: "8 (46), eabq7056"
       links:
         - text: Science Advances
           url: https://www.science.org/doi/10.1126/sciadv.abq7056
@@ -150,6 +150,7 @@ categories:
       - Daniel B. Larremore
       - Aaron Clauset
       venue: Communications of the ACM
+      volumeissue: 65 (12), 46-55
       year: 2022
       links:
         - text: CACM
@@ -166,7 +167,7 @@ categories:
       - Daniel B. Larremore
       venue: PLOS Computational Biology
       year: 2022
-      volumeissue: "18(9): e1010451"
+      volumeissue: "18 (9), e1010451"
       links:
         - text: PLOS Computational Biology
           url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010451
