@@ -26,7 +26,7 @@ recordings:
   #   url: https://bids.berkeley.edu/resources/videos/gender-prestige-and-productivity-academic-hiring-networks-and-career-trajectories
   #   image_path: /assets/images/slides/BIDS.png
   - title: "2022 NSF Waterman Lecture"
-    url: https://www.nsf.gov/sbe/videos/larremore-2022-waterman-lecture-video.jsp
+    url: https://www.youtube.com/watch?v=tvJMtfuxJg0&ab_channel=NationalScienceFoundationNews
     image_path: /assets/images/slides/thumbnail_waterman_talk.png
   - title: "Data Science as a Field"
     url: https://www.coursera.org/lecture/data-science-as-a-field/dan-larremore-p6hfG

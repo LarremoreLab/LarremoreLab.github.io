@@ -1,10 +1,26 @@
 categories:
   - heading: Faculty hiring networks [2022]
     press:
+    - url: https://tinyurl.com/y9jym9sy
+      date: 12/2022
+      author: Nathan Greenfield
+      venue: University World News
+    - url: https://tinyurl.com/2p8ruwef
+      date: 12/2022
+      author: Tom Hartsfield
+      venue: BigThink
     - url: https://www.nature.com/articles/d41586-022-03065-0
       date: 09/29/2022
       venue: Nature News & Views
       author: Cassidy R. Sugimoto
+    - url: https://tinyurl.com/yc3vprya
+      date: 09/2022
+      venue: Times Higher Education
+      author: Paul Basken
+    - url: https://tinyurl.com/2bzr4m4e
+      date: 09/2022
+      venue: The Scientist
+      author: Katherine Irving
     - url: https://www.nature.com/articles/d41586-022-03061-4
       date: 09/27/2022
       venue: Nature - the week in infographics
@@ -22,7 +38,7 @@ categories:
       author: Michael T. Nietzel
     - url: https://www.science.org/content/article/how-faculty-hiring-sustains-inequity-academia
       date: 09/21/2022
-      venue: Science
+      venue: Science Careers
       author: Viviane Callier
     - url: https://www.nature.com/articles/d41586-022-02998-w
       date: 09/21/2022
@@ -37,9 +53,23 @@ categories:
       venue: CU Boulder Today
       author: Daniel Strain
 
+  - heading: Labor Advantages in Academic Publishing
+    - url: https://tinyurl.com/2s3akjhu
+      date: 10/2022
+      author: Blair Fix
+      venue: Economics from the Top Down
+    - url: https://tinyurl.com/mrxh36ev
+      author: Miryam Naddaf
+      venue: Nature News
+      date: 11/2022
+    - url: https://tinyurl.com/2jjj3uss
+      author: Laura Hiscott
+      venue: Physics World
+      date: 11/2022
+
   - heading: Alan T. Waterman Award
     press:
-    - content: <iframe src='https://players.brightcove.net/679256133001/NkgrDczuol_default/index.html?videoId=6305662978112' allowfullscreen frameborder=0></iframe>
+    - content: <iframe width="560" height="315" src="https://www.youtube.com/embed/pyIg4r1wTMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     - url: https://www.nsf.gov/news/news_summ.jsp?cntn_id=304930
       date: 05/05/2022
       venue: National Science Foundation
@@ -48,6 +78,37 @@ categories:
       date: 05/05/2022
       venue: National Science Board
       author: Panel Discussion
+    - url: https://cccblog.org/2022/04/22/daniel-larremore-recognized-as-one-of-the-three-scientists-receiving-the-2023-alan-t-waterman-award/
+      date: 04/22/2022
+      venue: Computing Community Consortium Blog
+      author: Maddy Hunter
+
+  - heading: PopSci Brilliant 10
+    press:
+    - url: https://www.popsci.com/science/brilliant-10-2022/
+      date: 10/19/2022
+      venue: PopSci
+      author: Mara Grunbaum, Yasmin Tayag
+
+  - heading: Socioeconomic Roots of Academic Faculty
+    press:
+    - url: https://tinyurl.com/2p96emk3
+      date: 11/2022
+      venue: Higher Ed Dive
+      author: James Anderson
+    - url: https://tinyurl.com/2unjd9fa
+      date: 08/2022
+      venue: Inside Higher Education
+      author: Colleen Flaherty
+    - url: https://tinyurl.com/2p8x4fk4
+      date: 10/2022
+      author: Katie Langin
+      venue: Science Careers
+    - url: https://tinyurl.com/3ch9ba9w
+      date: 09/2022
+      venue: Lawyers, Giuns, and Money Blog
+      author: Erik Loomis
+
   - heading: COVID Testing
     press:
     - url: https://www.cpr.org/show-episode/feb-11-2022-the-future-of-covid-19-testing-the-state-lawmakers-running-for-congress/
@@ -186,6 +247,7 @@ categories:
       author: Esteban Hernandez
       date: 05/21/2020
       venue: Denverite
+
   - heading: COVID Vaccines
     press:
     - url: https://cra.org/ccc/using-computer-modeling-to-effectively-prioritize-and-distribute-the-covid-19-vaccine/
@@ -260,6 +322,7 @@ categories:
       date: 11/18/2020
       venue: Undark
       author: Republished in Fast Company, Scientific American, Medscape, Singularity Hub, MIT Technology Review, Smithsonian Magazine, and NCBI. Jill Neimark
+  
   - heading: COVID Olfactory Screening
     press:
     - url: https://www.youtube.com/watch?v=nDJ_AeRx4g0&feature=youtu.be&ab_channel=CGTNDenver
@@ -290,6 +353,7 @@ categories:
       date: 01/04/2020
       venue: The Colorado Sun
       author: John Ingold
+
   - heading: COVID-19 Antibody Testing
     press:
     - url: https://www.kunc.org/post/utah-aims-test-10000-residents-ambitious-covid-19-study
@@ -312,6 +376,7 @@ categories:
       author: Caroline Chen
       date: 04/28/2020
       venue: ProPublica
+
   - heading: COVID-19 Mobility and WiFi Analyses
     press:
     - url: https://www.9news.com/video/news/health/coronavirus/technology-would-help-cu-boulder-students-steer-clear-of-crowds/73-0017ab50-d6f8-4108-ac30-c6d34dbd9c14
@@ -330,6 +395,7 @@ categories:
       author: Daniel Strain
       venue: CU Boulder Today
       date: 04/07/2020
+
   - heading: The COVID-19 Pandemic and Science
     press:
     - url: https://www.youtube.com/watch?v=wKOslhIFt6U&ab_channel=QuantaMagazine
@@ -376,12 +442,14 @@ categories:
       author: Jon Murray
       venue: The Denver Post
       date: 03/22/2020
+
   - heading: Ethics of Machine Learning
     press:
     - url: https://theoutline.com/post/8186/artificial-intelligence-destroy-environment?zd=1&zi=ig57pyel
       venue: The Outline
       author: Melanie Ehrenkranz
       date: 11/2019
+
   - heading: Academic Environments
     press:
     - url: https://www.insidehighered.com/news/2019/05/02/study-when-it-comes-research-output-where-phds-get-hired-matters-more-where-they
@@ -392,6 +460,7 @@ categories:
       venue: Chemistry World
       author: Bradley Van Paridon
       date: 04/2019
+
   - heading: Parenthood in Academia and Parental Leave
     press:
     - url: https://blogs.sciencemag.org/editors-blog/2021/02/25/promoting-equity-in-research/
@@ -406,6 +475,7 @@ categories:
       venue: The Daily Progress
       author: Ruth Serven Smith
       date: 09/2018
+
   - heading: Productivity Trajectories
     press:
     - url: https://www.nature.com/articles/d41586-018-06627-3
@@ -499,8 +569,13 @@ categories:
       venue: Scientific American
       author: Veronique Greenwood
       date: 10/2015
+
   - heading: Faculty hiring networks [2015]
-    press:    
+    press:
+    - url: https://tinyurl.com/3x538u6y
+      venue: The Chronicle of Higher Education
+      author: Avram Alpert
+      date: 05/2022
     - url: http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2015_02_12/caredit.a1500039
       venue: Science Careers
       author: Rachel Bernstein
