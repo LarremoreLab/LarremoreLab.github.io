@@ -1,3 +1,7 @@
+- description: Dan promoted to Associate Professor.
+  date: 2023 March 7
+- description: Ian van Buskirk's paper <a href="https://arxiv.org/abs/2208.01714">An Open-Source Cultural Consensus Approach to Name-Based Gender Classification</a> has been accepted at <a href="https://www.icwsm.org/2023/index.html/">ICWSM 2023</a>.
+  date: 2023 March 1
 - description: New paper! Sam Zhang's work on the role of funded labor in explaining the greater productivitiy of faculty at elite universities is <a href="https://www.science.org/doi/10.1126/sciadv.abq7056">now published in Science Advances</a>.
   date: 2022 November
 - description: New paper! Nick Laberge's work on the relationship between subfield, prestige, and gender inequality in computing is <a href="https://cacm.acm.org/magazines/2022/12/266925-subfield-prestige-and-gender-inequality-among-us-computing-faculty/fulltext">now published in the CACM</a>, along with a lovely interview video and cover art! <iframe src="https://player.vimeo.com/video/761970439?h=65408c8907" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
@@ -32,12 +36,12 @@
   date: 2022 April 11
 - description: Tzu-Chi Yen is recognized with an Outstanding TA Award!
   date: 2022 April 11
-- description: Dan joins the Editorial Board at PLOS Computational Biology as an Associate Editor.
-  date: 2022 March 15
-- description: Dr. Eun Lee leaves the lab to begin a faculty position at Pukyong National University!
-  date: 2022 March 1
-- description: New preprint, <a href="https://arxiv.org/abs/2201.00254">Subfield prestige and gender inequality in computing</a> led by Nick LaBerge.
-  date: 2022 January 1
+# - description: Dan joins the Editorial Board at PLOS Computational Biology as an Associate Editor.
+  # date: 2022 March 15
+# - description: Dr. Eun Lee leaves the lab to begin a faculty position at Pukyong National University!
+  # date: 2022 March 1
+# - description: New preprint, <a href="https://arxiv.org/abs/2201.00254">Subfield prestige and gender inequality in computing</a> led by Nick LaBerge.
+  # date: 2022 January 1
 # - description: As part of the CU Boulder Pandemic Scientific Steering Committee and Science Team, Dan receives the 2021 Robert Stearns Alumni Award for campus service.
 #   date: 2021 November 4
 # - description: Dan recognized with the 2021 Provost's Faculty Achievement Award for work on COVID-19 vaccine prioritization.

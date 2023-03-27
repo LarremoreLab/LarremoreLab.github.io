@@ -1,25 +1,39 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Explaining Gender Differences in Academics' Career Trajectories"
+      authors:
+      - Aniko Hannak*
+      - Kenneth Joseph*
+      - Andrei Cimpian*
+      - Daniel B. Larremore*
+      year: 2023
+      venue: "In Press, Journal of Personality and Social Psychology: Attitudes and Social Cognition"
+      links:
+        - text: arXiv
+          url: http://arxiv.org/abs/2009.10830
+    - title: Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador
+      authors:
+      - Shazia Ruybal-Pesántez
+      - Fabian E. Sáenz
+      - Samantha Deed
+      - Erik K. Johnson
+      - Daniel B. Larremore
+      - Claudia A. Vera-Arias
+      - Kathryn E. Tiedje
+      - Karen P. Day 
+      year: 2023
+      venue: In Press, Frontiers in Tropical Diseases
     - title: An Open-Source Cultural Consensus Approach to Name-Based Gender Classification
       authors:
       - Ian Van Buskirk
       - Aaron Clauset
       - Daniel B. Larremore
-      year: 2022
-      venue: Submitted
+      year: 2023
+      venue: To appear at ICWSM 
       links:
         - text: arXiv
           url: https://arxiv.org/abs/2208.01714
-    - title: Using Data for Good at Meta to understand population mobility in the wake of recent events
-      authors:
-      - Michael Bradshaw
-      - Devin Burke
-      - Bailey K. Fosdick
-      - Daniel B. Larremore
-      - Ryan Layer
-      year: 2022
-      venue: Submitted
     - title: Serial Population-Based Serosurveys For COVID-19 In District East of Karachi, Pakistan
       authors:
       - Imran Nisar 
@@ -37,35 +51,6 @@ categories:
       - Fyezah Jehan
       year: 2022
       venue: Submitted
-    - title: Test negative designs with uncertainty, sensitivity, and specificity
-      authors:
-      - Erik K. Johnson
-      - Rebecca Kahn
-      - Yonatan Grad
-      - Marc Lipsitch
-      - Daniel B. Larremore
-      venue: medrxiv
-      year: 2021
-      links:
-        - text: preprint
-          url: https://www.medrxiv.org/content/10.1101/2021.06.24.21259495v1
-    - title: Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador
-      authors:
-      - Shazia Ruybal-Pesántez
-      - Fabian E. Sáenz
-      - Samantha Deed
-      - Erik K. Johnson
-      - Daniel B. Larremore
-      - Claudia A. Vera-Arias
-      - Kathryn E. Tiedje
-      - Karen P. Day 
-      year: 2020
-      venue: Submitted
-      links:
-        - text: preprint
-          url: https://www.biorxiv.org/content/10.1101/2020.05.23.112649v1
-        - text: twitterthread
-          url: https://twitter.com/DanLarremore/status/1265682077032148994
     - title: "Plasmodium falciparum population genetic complexity influences transcriptional profile and immune recognition of highly related genotypic clusters" 
       authors:
       - Amy K. Bei
@@ -93,18 +78,7 @@ categories:
       links:
         - text: bioRxiv
           url: "https://www.biorxiv.org/content/10.1101/2020.01.03.894220v1"
-    - title: "Explaining Gender Differences in Academics' Career Trajectories"
-      authors:
-      - Aniko Hannak*
-      - Kenneth Joseph*
-      - Andrei Cimpian*
-      - Daniel B. Larremore*
-      year: 2021
-      venue: Submitted
-      links:
-        - text: arXiv
-          url: http://arxiv.org/abs/2009.10830
-    - title: A universal immune response to infection can be measured in human saliva
+    - title: Human mRNA in saliva can correctly identify individuals harboring infection
       authors:
       - Qing Yang
       - Nicholas R. Meyerson
@@ -121,7 +95,7 @@ categories:
       - Roy Parker
       - Robin D. Dowell
       - Sara L. Sawyer
-      year: 2022
+      year: 2023
       venue: Submitted
 
 
@@ -945,6 +919,18 @@ categories:
   
   - heading: Essays, Columns, Book Chapters, Miscellaneous
     pubs:
+    - title: Test negative designs with uncertainty, sensitivity, and specificity
+      authors:
+      - Erik K. Johnson
+      - Rebecca Kahn
+      - Yonatan Grad
+      - Marc Lipsitch
+      - Daniel B. Larremore
+      venue: medrxiv
+      year: 2021
+      links:
+        - text: preprint
+          url: https://www.medrxiv.org/content/10.1101/2021.06.24.21259495v1
     - title: "Networks, Dynamics, and Prestige: How Hierarchies Emerge from Individual Choices"
       authors:
       - Mari Kawakatsu
