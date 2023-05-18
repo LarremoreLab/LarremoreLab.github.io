@@ -12,18 +12,6 @@ categories:
       links:
         - text: arXiv
           url: http://arxiv.org/abs/2009.10830
-    - title: Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador
-      authors:
-      - Shazia Ruybal-Pesántez
-      - Fabian E. Sáenz
-      - Samantha Deed
-      - Erik K. Johnson
-      - Daniel B. Larremore
-      - Claudia A. Vera-Arias
-      - Kathryn E. Tiedje
-      - Karen P. Day 
-      year: 2023
-      venue: In Press, Frontiers in Tropical Diseases
     - title: An Open-Source Cultural Consensus Approach to Name-Based Gender Classification
       authors:
       - Ian Van Buskirk
@@ -101,6 +89,53 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Geographically skewed recruitment and COVID-19 seroprevalence estimates: A cross-sectional serosurveillance study and mathematical modeling analysis"
+      authors: 
+      - Tyler Brown
+      - Pablo Martinez de Salazar Munoz
+      - Abhishek Bhatia
+      - Bridget Bunda
+      - Ellen K. Williams
+      - David Bor
+      - James S. Miller
+      - Amir Mohareb
+      - Julia Thierauf
+      - Wenxin Yang
+      - Julian Villalba
+      - Vivek Naranbai
+      - Wilfredo Garcia Beltran
+      - Tyler E. Miller
+      - Doug Kress
+      - Kristen Stelljes
+      - Keith Johnson
+      - Daniel B. Larremore
+      - Jochen Lennerz
+      - A. John Iafrate
+      - Satchit Balsari
+      - Caroline O. Buckee
+      - Yonatan H. Grad
+      year: 2023
+      venue: BMJ Open
+      volumeissue: "13:e061840"
+      links:
+        - text: BMJ Open
+          url: https://bmjopen.bmj.com/content/13/3/e061840.citation-tools
+    - title: Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador
+      authors:
+      - Shazia Ruybal-Pesántez
+      - Fabian E. Sáenz
+      - Samantha Deed
+      - Erik K. Johnson
+      - Daniel B. Larremore
+      - Claudia A. Vera-Arias
+      - Kathryn E. Tiedje
+      - Karen P. Day 
+      year: 2023
+      venue: Frontiers in Tropical Diseases
+      volumeissue: 4
+      links:
+        - text: Frontiers in Tropical Diseases
+          url: https://www.frontiersin.org/articles/10.3389/fitd.2023.1085862/full
     - title: Labor advantages drive the greater productivity of faculty at elite universities
       authors:
       - Sam Zhang
