@@ -1,6 +1,22 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Gender and retention Patterns among U.S. faculty"
+      authors: 
+      - Katie Spoon
+      - Nicholas LaBerge
+      - K. Hunter Wapman
+      - Sam Zhang
+      - Allison C. Morgan
+      - Mirta Galesic
+      - Bailey K. Fosdick
+      - Daniel B. Larremore
+      - Aaron Clauset
+      year: 2023
+      venue: "SocArXiv"
+      links:
+        - text: SocArXiv
+          url: https://osf.io/preprints/socarxiv/u26ze/
     - title: "Explaining Gender Differences in Academics' Career Trajectories"
       authors:
       - Aniko Hannak*
