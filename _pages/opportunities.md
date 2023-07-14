@@ -11,7 +11,7 @@ excerpt: "Interested in joining the team?"
 
 ## Postdocs 
 
-I'm always interested in learning about talented scientists. Send me an email with your CV and interests. Strong skills in applied mathematics, computer science, data science, or modeling are especially of interest!
+I'm always interested in learning about talented scientists. Send me an email with your CV and interests. Strong skills in applied mathematics, computer science, data science, modeling, and infectious diseases are especially of interest!
 
 ## PhD Students
 
@@ -19,8 +19,8 @@ It never hurts to send an email with your CV and interests! Even if I'm not look
 
 ## Master's Students
 
-It never hurts to send an email with your CV and interests! Even if I'm not looking for students, my colleagues here and elsewhere often are.
+I'll be on leave for Fall 2023, but, as above, it never hurts to send an email. 
 
 ## Undergraduate Students
 
-It never hurts to send an email with your current major, coursework background, any other research you've done, and your GPA. I'd also love to know what you're interested in, and why.
+I'll be on leave for Fall 2023, but, as above, it never hurts to send an email.

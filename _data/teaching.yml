@@ -1,14 +1,16 @@
 categories:
   - heading: Current Courses
     courses:
-    - title: CSCI 7000 - Topics in Interdisciplinary Research
-      term: Fall 2022
-    - title: CSCI 2897 / 2830 - Calculating Biological Quantities
-      term: Fall 2022
-      url: https://github.com/dblarremore/CSCI2897
-      urltitle: Course Webpage
+      - title: On Leave
+        term: Fall 2023
   - heading: Past Courses at CU Boulder
     courses:
+      - title: CSCI 4830 / 7000 - Computational and Mathematical Modelingn of Infectious Disease
+        term: Spring 2023
+      - title: CSCI 2897 / 2830 - Calculating Biological Quantities
+        term: Fall 2022
+      - title: CSCI 7000 - Topics in Interdisciplinary Research
+        term: Fall 2022
       - title: CSCI 2897 - Calculating Biological Quantities
         term: Spring 2021, Fall 2021
       - title: CSCI 7000 - Topics in Interdisciplinary Research
