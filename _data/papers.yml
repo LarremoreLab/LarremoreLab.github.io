@@ -1,6 +1,14 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "A model for efficient dynamical ranking in networks"
+      authors: 
+      - Andrea Della Vechia
+      - Kibidi Neocosmos
+      - Daniel B. Larremore
+      - Cristopher Moore
+      - Caterina De Bacco
+      year: 2023
     - title: "Gender and retention Patterns among U.S. faculty"
       authors: 
       - Katie Spoon
@@ -17,27 +25,6 @@ categories:
       links:
         - text: SocArXiv
           url: https://osf.io/preprints/socarxiv/u26ze/
-    - title: "Explaining Gender Differences in Academics' Career Trajectories"
-      authors:
-      - Aniko Hannak*
-      - Kenneth Joseph*
-      - Andrei Cimpian*
-      - Daniel B. Larremore*
-      year: 2023
-      venue: "In Press, Journal of Personality and Social Psychology: Attitudes and Social Cognition"
-      links:
-        - text: arXiv
-          url: http://arxiv.org/abs/2009.10830
-    - title: An Open-Source Cultural Consensus Approach to Name-Based Gender Classification
-      authors:
-      - Ian Van Buskirk
-      - Aaron Clauset
-      - Daniel B. Larremore
-      year: 2023
-      venue: To appear at ICWSM 
-      links:
-        - text: arXiv
-          url: https://arxiv.org/abs/2208.01714
     - title: Serial Population-Based Serosurveys For COVID-19 In District East of Karachi, Pakistan
       authors:
       - Imran Nisar 
@@ -105,6 +92,31 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: An Open-Source Cultural Consensus Approach to Name-Based Gender Classification
+      authors:
+      - Ian Van Buskirk
+      - Aaron Clauset
+      - Daniel B. Larremore
+      year: 2023
+      venue: ICWSM - Proceedings of the Seventeenth International AAAI Conference on Web and Social Media
+      links:
+        - text: ICWSM
+          url: https://ojs.aaai.org/index.php/ICWSM/article/view/22195
+        - text: arXiv
+          url: https://arxiv.org/abs/2208.01714
+    - title: "Field-Specific Ability Beliefs as an Explanation for Gender Differences in Academics’ Career Trajectories: Evidence From Public Profiles on ORCID.org"
+      authors:
+      - Aniko Hannak*
+      - Kenneth Joseph*
+      - Daniel B. Larremore*
+      - Andrei Cimpian*
+      year: 2023
+      venue: "Journal of Personality and Social Psychology: Attitudes and Social Cognition"
+      links:
+        - text: Journal of Personality and Social Psychology
+          url: https://psycnet.apa.org/fulltext/2023-83163-001.html
+        - text: arXiv
+          url: http://arxiv.org/abs/2009.10830
     - title: "Geographically skewed recruitment and COVID-19 seroprevalence estimates: A cross-sectional serosurveillance study and mathematical modeling analysis"
       authors: 
       - Tyler Brown
@@ -970,6 +982,17 @@ categories:
   
   - heading: Essays, Columns, Book Chapters, Miscellaneous
     pubs:
+    - title: "If the data do not speak for themselves, how ought we to speak for the data?"
+      authors:
+      - Ian Van Buskirk
+      - Brian Zaharatos
+      - Aaron Clauset
+      - Daniel B. Larremore
+      venue: "DARE Workshop Proceedings, AAAI ICWSM 2023"
+      year: 2023
+      links:
+        - text: ICWSM Workshop PDF
+          url: https://workshop-proceedings.icwsm.org/pdf/2023_12.pdf
     - title: Test negative designs with uncertainty, sensitivity, and specificity
       authors:
       - Erik K. Johnson
