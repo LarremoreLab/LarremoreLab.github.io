@@ -31,6 +31,6 @@ recordings:
   - title: "2022 NSF Waterman Lecture"
     url: https://www.youtube.com/watch?v=tvJMtfuxJg0&ab_channel=NationalScienceFoundationNews
     image_path: /assets/images/slides/thumbnail_waterman_talk.png
-  - title: "Data Science as a Field"
-    url: https://www.coursera.org/lecture/data-science-as-a-field/dan-larremore-p6hfG
-    image_path: /assets/images/slides/DS_coursera.png
+  # - title: "Data Science as a Field"
+  #   url: https://www.coursera.org/lecture/data-science-as-a-field/dan-larremore-p6hfG
+  #   image_path: /assets/images/slides/DS_coursera.png
