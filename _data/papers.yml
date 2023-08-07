@@ -9,6 +9,10 @@ categories:
       - Cristopher Moore
       - Caterina De Bacco
       year: 2023
+      venue: arXiv
+      links:
+        - text: arXiv
+          url: https://arxiv.org/abs/2307.13544
     - title: "Gender and retention Patterns among U.S. faculty"
       authors: 
       - Katie Spoon
