@@ -25,23 +25,6 @@ categories:
       links:
         - text: SocArXiv
           url: https://osf.io/preprints/socarxiv/u26ze/
-    - title: Serial Population-Based Serosurveys For COVID-19 In District East of Karachi, Pakistan
-      authors:
-      - Imran Nisar 
-      - Mashal Amin
-      - Nadia Ansari
-      - Farah Khalid
-      - Najeeb Rehman
-      - Aneeta Hotwani
-      - Arsalan Memon
-      - Usma Mehmood
-      - Ali Faisal Saleem
-      - Junaid Iqbal
-      - Daniel B. Larremore
-      - Bailey K. Fosdick
-      - Fyezah Jehan
-      year: 2022
-      venue: Submitted
     - title: "Plasmodium falciparum population genetic complexity influences transcriptional profile and immune recognition of highly related genotypic clusters" 
       authors:
       - Amy K. Bei
@@ -92,6 +75,27 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: Serial Population-Based Serosurveys For COVID-19 In District East of Karachi, Pakistan
+      authors:
+      - Imran Nisar 
+      - Mashal Amin
+      - Nadia Ansari
+      - Farah Khalid
+      - Najeeb Rehman
+      - Aneeta Hotwani
+      - Arsalan Memon
+      - Usma Mehmood
+      - Ali Faisal Saleem
+      - Junaid Iqbal
+      - Daniel B. Larremore
+      - Bailey K. Fosdick
+      - Fyezah Jehan
+      year: 2023
+      venue: Journal of Global Health Reports
+      volumeissue: 7:e2023051
+      links:
+        - text: Journal of Global Health Reports
+          url: https://www.joghr.org/article/84241-community-based-seroprevalence-of-sars-cov-2-in-an-urban-district-of-karachi-pakistan
     - title: An Open-Source Cultural Consensus Approach to Name-Based Gender Classification
       authors:
       - Ian Van Buskirk
