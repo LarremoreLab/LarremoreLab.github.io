@@ -6,10 +6,10 @@ people:
     subject: Assistant Professor
     aliases:
       - Daniel B. Larremore
-  - name: Tzu-Chi Yen
+  - name: Dr. Tzu-Chi Yen
     url: https://junipertcy.info/
     image_path: /assets/images/people/tzuchi.gif
-    title: PhD Student, CS†
+    title: Independent Postdoc
     subject: complex networks
   - name: K. Hunter Wapman
     url: https://hneutr.github.io

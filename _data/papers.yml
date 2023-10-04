@@ -1,6 +1,27 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Modeling the Transmission Mitigation Impact of Testing for Infectious Diseases"
+      authors:
+      - Casey Middleton
+      - Daniel B. Larremore
+      year: 2023
+      venue: medrxiv
+      links:
+        - text: medrxiv
+          url: https://www.medrxiv.org/content/10.1101/2023.09.22.23295983v1
+    - title: "Scientific productivity as a random walk"
+      authors:
+      - Sam Zhang
+      - Nicholas LaBerge
+      - Samuel F. Way
+      - Daniel B. Larremore
+      - Aaron Clauset
+      year: 2023
+      venue: arXiv
+      links:
+        - text: arXiv
+          url: https://arxiv.org/abs/2309.04414
     - title: "A model for efficient dynamical ranking in networks"
       authors: 
       - Andrea Della Vechia
