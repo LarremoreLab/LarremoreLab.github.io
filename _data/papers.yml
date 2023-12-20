@@ -1,6 +1,54 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Infectious disease surveillance needs for the United States: lessons from COVID-19"
+      authors:
+      - Marc Lipsitch
+      - Mary T. Bassett
+      - John S. Brownstein
+      - Paul Elliott
+      - David Eyre
+      - M. Kate Grabowski
+      - James A. Hay
+      - Michael Johansson
+      - Stephen M. Kissler
+      - Daniel B. Larremore
+      - Jennifer Layden
+      - Justin Lessler
+      - Ruth Lynfield
+      - Duncan MacCannell
+      - Lawrence C. Madoff
+      - C. Jessica E. Metcalf
+      - Lauren A. Meyers
+      - Sylvia K. Ofori
+      - Celia Quinn
+      - Ana I. Ramos Bento
+      - Nick Reich
+      - Steven Riley
+      - Roni Rosenfeld
+      - Matthew H. Samore
+      - Rangarajan Sampath
+      - Rachel B. Slayton
+      - David L. Swerdlow
+      - Shaun Truelove
+      - Jay K. Varma
+      - Yonatan H. Grad
+      year: 2023
+      venue: arXiv
+      links:
+        - text: arXiv
+          url: https://arxiv.org/abs/2311.13724
+    - title: "Gendered hiring and attrition on the path to parity for academic faculty"
+      authors:
+      - Nicholas LaBerge
+      - K. Hunter Wapman
+      - Aaron Clauset
+      - Daniel B. Larremore
+      year: 2023
+      venue: bioRxiv
+      links:
+        - text: bioRxiv
+          url: https://www.biorxiv.org/content/10.1101/2023.10.13.562268v1
     - title: "Modeling the Transmission Mitigation Impact of Testing for Infectious Diseases"
       authors:
       - Casey Middleton
@@ -34,22 +82,6 @@ categories:
       links:
         - text: arXiv
           url: https://arxiv.org/abs/2307.13544
-    - title: "Gender and retention Patterns among U.S. faculty"
-      authors: 
-      - Katie Spoon
-      - Nicholas LaBerge
-      - K. Hunter Wapman
-      - Sam Zhang
-      - Allison C. Morgan
-      - Mirta Galesic
-      - Bailey K. Fosdick
-      - Daniel B. Larremore
-      - Aaron Clauset
-      year: 2023
-      venue: "SocArXiv"
-      links:
-        - text: SocArXiv
-          url: https://osf.io/preprints/socarxiv/u26ze/
     - title: "Plasmodium falciparum population genetic complexity influences transcriptional profile and immune recognition of highly related genotypic clusters" 
       authors:
       - Amy K. Bei
@@ -100,6 +132,25 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Gender and retention Patterns among U.S. faculty"
+      authors: 
+      - Katie Spoon
+      - Nicholas LaBerge
+      - K. Hunter Wapman
+      - Sam Zhang
+      - Allison C. Morgan
+      - Mirta Galesic
+      - Bailey K. Fosdick
+      - Daniel B. Larremore
+      - Aaron Clauset
+      year: 2023
+      venue: Science Advances
+      volumeissue: 9 (42)
+      links:
+        - text: Science Advances
+          url: https://www.science.org/doi/10.1126/sciadv.adi2205
+        - text: SocArXiv
+          url: https://osf.io/preprints/socarxiv/u26ze/
     - title: Serial Population-Based Serosurveys For COVID-19 In District East of Karachi, Pakistan
       authors:
       - Imran Nisar 
