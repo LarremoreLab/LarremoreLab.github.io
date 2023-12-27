@@ -109,6 +109,10 @@ categories:
       links:
         - text: bioRxiv
           url: "https://www.biorxiv.org/content/10.1101/2020.01.03.894220v1"
+
+
+  - heading: "Published"
+    pubs:
     - title: Human mRNA in saliva can correctly identify individuals harboring infection
       authors:
       - Qing Yang
@@ -127,11 +131,12 @@ categories:
       - Robin D. Dowell
       - Sara L. Sawyer
       year: 2023
-      venue: Submitted
+      venue: mBio
+      volumeissue: e01712-23
+      links:
+        - text: mBio
+          url: https://doi.org/10.1128/mbio.01712-23
 
-
-  - heading: "Published"
-    pubs:
     - title: "Gender and retention Patterns among U.S. faculty"
       authors: 
       - Katie Spoon
