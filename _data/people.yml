@@ -6,18 +6,16 @@ people:
     subject: Associate Professor
     aliases:
       - Daniel B. Larremore
+  - name: Dr. Ellen DeGennaro
+    url: https://www.linkedin.com/in/ellen-degennaro-b3787a145/
+    image_path: ellen_degennaro.jpg
+    title: Postdoctoral Fellow
+    subject: infectious diseases
   - name: Dr. Tzu-Chi Yen
     url: https://junipertcy.info/
     image_path: /assets/images/people/tzuchi.gif
     title: Independent Postdoc
     subject: complex networks
-  - name: K. Hunter Wapman
-    url: https://hneutr.github.io
-    image_path: /assets/images/people/hunter.gif
-    title: PhD Student, CS
-    subject: the scientific ecosystem
-    aliases:
-      - Hunter Wapman
   - name: Ian Van Buskirk
     url: /
     image_path: /assets/images/people/ian.gif
@@ -51,6 +49,9 @@ people:
       - Casey E. Middleton
   
 alumni:
+  - name: K. Hunter Wapman
+    now: Writer, New York City
+    url: https://www.hne.golf/
   - name: Upasana Dutta
     now: PhD Student, University of Pennsylvania
     url: https://upasanadutta.owlstown.net/
