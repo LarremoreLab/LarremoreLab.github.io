@@ -38,17 +38,6 @@ categories:
       links:
         - text: arXiv
           url: https://arxiv.org/abs/2311.13724
-    - title: "Gendered hiring and attrition on the path to parity for academic faculty"
-      authors:
-      - Nicholas LaBerge
-      - K. Hunter Wapman
-      - Aaron Clauset
-      - Daniel B. Larremore
-      year: 2023
-      venue: bioRxiv
-      links:
-        - text: bioRxiv
-          url: https://www.biorxiv.org/content/10.1101/2023.10.13.562268v1
     - title: "Modeling the Transmission Mitigation Impact of Testing for Infectious Diseases"
       authors:
       - Casey Middleton
@@ -113,6 +102,18 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Gendered hiring and attrition on the path to parity for academic faculty"
+      authors:
+      - Nicholas LaBerge
+      - K. Hunter Wapman
+      - Aaron Clauset
+      - Daniel B. Larremore
+      year: 2024
+      venue: eLife
+      volumeissue: "13:RP93755"
+      links:
+        - text: eLife
+          url: https://doi.org/10.7554/eLife.93755
     - title: Human mRNA in saliva can correctly identify individuals harboring infection
       authors:
       - Qing Yang
@@ -136,7 +137,6 @@ categories:
       links:
         - text: mBio
           url: https://doi.org/10.1128/mbio.01712-23
-
     - title: "Gender and retention Patterns among U.S. faculty"
       authors: 
       - Katie Spoon

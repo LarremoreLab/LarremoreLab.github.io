@@ -8,7 +8,7 @@ people:
       - Daniel B. Larremore
   - name: Dr. Ellen DeGennaro
     url: https://www.linkedin.com/in/ellen-degennaro-b3787a145/
-    image_path: ellen_degennaro.jpg
+    image_path: /assets/images/people/ellen_degennaro.jpg
     title: Postdoctoral Fellow
     subject: infectious diseases
   - name: Dr. Tzu-Chi Yen
