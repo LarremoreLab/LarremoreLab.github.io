@@ -47,6 +47,11 @@ people:
     subject: infectious diseases
     aliases:
       - Casey E. Middleton
+  - name: Sam Zhang
+    image_path: /assets/images/people/sam.gif
+    url: https://sam.zhang.fyi/
+    title: PhD Student, APPM*
+    subject: the scientific ecosystem
   
 alumni:
   - name: K. Hunter Wapman
