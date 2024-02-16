@@ -1,6 +1,21 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Gendered devaluation underlies faculty retention"
+      authors:
+      - Katie Spoon
+      - Joanna Mendy
+      - Maria Martinez
+      - Mirta Galesic
+      - Daniel Larremore
+      - Aaron Clauset
+      - Lauren A. Rivera
+      year: 2024
+      venue: SocArXiv
+      links:
+        - text: SocArXiv
+          url: https://osf.io/preprints/socarxiv/g6xwk
+
     - title: "Infectious disease surveillance needs for the United States: lessons from COVID-19"
       authors:
       - Marc Lipsitch
