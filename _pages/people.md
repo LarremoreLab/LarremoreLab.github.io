@@ -62,5 +62,5 @@ header:
 {% endfor %}
 </ul>
 * joint with Aaron Clauset.
-† joint with Joshua Grochow.
+† joint with Sara Sawyer.
 </div>

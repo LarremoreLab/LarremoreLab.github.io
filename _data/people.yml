@@ -16,18 +16,6 @@ people:
     image_path: /assets/images/people/tzuchi.gif
     title: Independent Postdoc
     subject: complex networks
-  - name: Ian Van Buskirk
-    url: /
-    image_path: /assets/images/people/ian.gif
-    title: PhD Student, CS*
-    subject: the scientific ecosystem
-  - name: Nick LaBerge
-    url: https://nlaberge.github.io/
-    image_path: /assets/images/people/nick.gif
-    title: PhD Student, CS*
-    subject: the scientific ecosystem
-    aliases:
-      - Nicholas LaBerge
   - name: Kate Bubar
     image_path: /assets/images/people/kate.gif
     url: https://twitter.com/bubar_kate?lang=en
@@ -35,11 +23,18 @@ people:
     subject: infectious diseases
     aliases:
       - Kate M. Bubar
-  - name: Katie Spoon
-    url: https://katiespoon.github.io/
-    image_path: /assets/images/people/katie_spoon.gif
+  - name: Gabrielle Gionet
+    url: https://scholar.google.com/citations?user=FEHb_40AAAAJ&hl=en
+    image_path: /assets/images/people/gabi.gif
+    title: PhD Student, MCDB†
+    subject: infectious diseases
+  - name: Nick LaBerge
+    url: https://nlaberge.github.io/
+    image_path: /assets/images/people/nick.gif
     title: PhD Student, CS*
     subject: the scientific ecosystem
+    aliases:
+      - Nicholas LaBerge
   - name: Casey Middleton
     image_path: /assets/images/people/casey.gif
     url: https://github.com/CaseyMiddleton
@@ -47,6 +42,16 @@ people:
     subject: infectious diseases
     aliases:
       - Casey E. Middleton
+  - name: Katie Spoon
+    url: https://katiespoon.github.io/
+    image_path: /assets/images/people/katie_spoon.gif
+    title: PhD Student, CS*
+    subject: the scientific ecosystem
+  - name: Ian Van Buskirk
+    url: /
+    image_path: /assets/images/people/ian.gif
+    title: PhD Student, CS*
+    subject: the scientific ecosystem
   - name: Sam Zhang
     image_path: /assets/images/people/sam.gif
     url: https://sam.zhang.fyi/
