@@ -16,42 +16,42 @@
   date: 2023 June 13
 - description: Dan promoted to Associate Professor.
   date: 2023 March 7
-- description: Ian van Buskirk's paper <a href="https://arxiv.org/abs/2208.01714">An Open-Source Cultural Consensus Approach to Name-Based Gender Classification</a> has been accepted at <a href="https://www.icwsm.org/2023/index.html/">ICWSM 2023</a>.
-  date: 2023 March 1
-- description: New paper! Sam Zhang's work on the role of funded labor in explaining the greater productivitiy of faculty at elite universities is <a href="https://www.science.org/doi/10.1126/sciadv.abq7056">now published in Science Advances</a>.
-  date: 2022 November
-- description: New paper! Nick Laberge's work on the relationship between subfield, prestige, and gender inequality in computing is <a href="https://cacm.acm.org/magazines/2022/12/266925-subfield-prestige-and-gender-inequality-among-us-computing-faculty/fulltext">now published in the CACM</a>, along with a lovely interview video and cover art! <iframe src="https://player.vimeo.com/video/761970439?h=65408c8907" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-  date: 2022 November
-- description: Dan gives 2022 NSF Waterman Lecture. <a href="/slides/">Recording and slides available</a>.
-  date: 2022 September 28
-- description: New paper! Led by Hunter Wapman, "Quantifying hierarchy and dynamics in U.S. faculty hiring and retention" appears in Nature. 
-  date: 2022 September 27
-- description: New paper! "Optimizing prevalence estimates for a novel pathogen by reducing uncertainty in test characteristics" appears in Epidemics. 
-  date: 2022 September 22
-- description: New paper! Led by Erik Johnson, "Bayesian estimation of population size and overlap from random subsamples" appears in PLOS Computational Biology. 
-  date: 2022 September 19
-- description: Casey Middleton presents research at the <a href="https://midasnetwork.us/midas-network-annual-meeting-midas-2022/">2022 MIDAS Network Annual Meeting</a> in Bethesda, MD.
-  date: 2022 September 7-9
-- description: Postdoc Kate Wootton is off to the University of Canterbury where she'll take a position as a Postdoctoral Fellow!
-  date: 2022 July 31
-- description: Hunter, Katie, and Sam presented their work at the <a href="https://iscss.org/ic2s2/conference/">International Conference on Compuational Social Science</a> at the University of Chicago.
-  date: 2022 July 19-22
-- description: Hunter, Katie, and Sam presented at the first <a href="icssi.org">International Conference on the Science of Science and Innovation</a> at the National Academies of Science, Engineering, and Medicine, in Washington D.C. At the same time, Casey presented her work at <a href="https://www.eeid-2022-emory.org/">Ecology & Evolution of Infectious Diseases</a>.
-  date: 2022 June 6-9
-- description: Co-led by Kate Bubar and Casey Middleton, new paper in Nature Communications, <a href="https://www.nature.com/articles/s41467-022-30144-7">SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Screening in Populations of Mixed Vaccination Status</a>.
-  date: 2022 May 19
-- description: Many in the lab attended A New Synthesis for the Science of Science, organized at the Santa Fe Institute by Aaron Clauset, Dan Larremore, and Mirta Galesic.
-  date: 2022 May 5
-- description: Dan recieves the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=304930&sf163618992=1">Alan T. Waterman Award</a> from the National Science Foundation.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/pyIg4r1wTMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  date: 2022 May 5
-- description: New preprint, <a href="https://arxiv.org/abs/2204.05989">Labor advantages drive the greater productivity of faculty at elite universities</a> led by Sam Zhang.
-  date: 2022 April 12
-- description: Casey Middleton wins the Departmental Outstanding Research Award for her work modeling vaccinate-or-test strategies!
-  date: 2022 April 11
-- description: Congratulations to Upasana Dutta for a brilliantly defended MS thesis, supervised by Aaron Clauset, and for winning the Bell Foundation Outstanding Research Award! Upasana is off to Penn to work with Duncan Watts this fall.
-  date: 2022 April 11
-- description: Tzu-Chi Yen is recognized with an Outstanding TA Award!
-  date: 2022 April 11
+# - description: Ian van Buskirk's paper <a href="https://arxiv.org/abs/2208.01714">An Open-Source Cultural Consensus Approach to Name-Based Gender Classification</a> has been accepted at <a href="https://www.icwsm.org/2023/index.html/">ICWSM 2023</a>.
+#   date: 2023 March 1
+# - description: New paper! Sam Zhang's work on the role of funded labor in explaining the greater productivitiy of faculty at elite universities is <a href="https://www.science.org/doi/10.1126/sciadv.abq7056">now published in Science Advances</a>.
+#   date: 2022 November
+# - description: New paper! Nick Laberge's work on the relationship between subfield, prestige, and gender inequality in computing is <a href="https://cacm.acm.org/magazines/2022/12/266925-subfield-prestige-and-gender-inequality-among-us-computing-faculty/fulltext">now published in the CACM</a>, along with a lovely interview video and cover art! <iframe src="https://player.vimeo.com/video/761970439?h=65408c8907" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+#   date: 2022 November
+# - description: Dan gives 2022 NSF Waterman Lecture. <a href="/slides/">Recording and slides available</a>.
+#   date: 2022 September 28
+# - description: New paper! Led by Hunter Wapman, "Quantifying hierarchy and dynamics in U.S. faculty hiring and retention" appears in Nature. 
+#   date: 2022 September 27
+# - description: New paper! "Optimizing prevalence estimates for a novel pathogen by reducing uncertainty in test characteristics" appears in Epidemics. 
+#   date: 2022 September 22
+# - description: New paper! Led by Erik Johnson, "Bayesian estimation of population size and overlap from random subsamples" appears in PLOS Computational Biology. 
+#   date: 2022 September 19
+# - description: Casey Middleton presents research at the <a href="https://midasnetwork.us/midas-network-annual-meeting-midas-2022/">2022 MIDAS Network Annual Meeting</a> in Bethesda, MD.
+#   date: 2022 September 7-9
+# - description: Postdoc Kate Wootton is off to the University of Canterbury where she'll take a position as a Postdoctoral Fellow!
+#   date: 2022 July 31
+# - description: Hunter, Katie, and Sam presented their work at the <a href="https://iscss.org/ic2s2/conference/">International Conference on Compuational Social Science</a> at the University of Chicago.
+#   date: 2022 July 19-22
+# - description: Hunter, Katie, and Sam presented at the first <a href="icssi.org">International Conference on the Science of Science and Innovation</a> at the National Academies of Science, Engineering, and Medicine, in Washington D.C. At the same time, Casey presented her work at <a href="https://www.eeid-2022-emory.org/">Ecology & Evolution of Infectious Diseases</a>.
+#   date: 2022 June 6-9
+# - description: Co-led by Kate Bubar and Casey Middleton, new paper in Nature Communications, <a href="https://www.nature.com/articles/s41467-022-30144-7">SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Screening in Populations of Mixed Vaccination Status</a>.
+#   date: 2022 May 19
+# - description: Many in the lab attended A New Synthesis for the Science of Science, organized at the Santa Fe Institute by Aaron Clauset, Dan Larremore, and Mirta Galesic.
+#   date: 2022 May 5
+# - description: Dan recieves the <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=304930&sf163618992=1">Alan T. Waterman Award</a> from the National Science Foundation.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/pyIg4r1wTMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+#   date: 2022 May 5
+# - description: New preprint, <a href="https://arxiv.org/abs/2204.05989">Labor advantages drive the greater productivity of faculty at elite universities</a> led by Sam Zhang.
+#   date: 2022 April 12
+# - description: Casey Middleton wins the Departmental Outstanding Research Award for her work modeling vaccinate-or-test strategies!
+#   date: 2022 April 11
+# - description: Congratulations to Upasana Dutta for a brilliantly defended MS thesis, supervised by Aaron Clauset, and for winning the Bell Foundation Outstanding Research Award! Upasana is off to Penn to work with Duncan Watts this fall.
+#   date: 2022 April 11
+# - description: Tzu-Chi Yen is recognized with an Outstanding TA Award!
+#   date: 2022 April 11
 # - description: Dan joins the Editorial Board at PLOS Computational Biology as an Associate Editor.
   # date: 2022 March 15
 # - description: Dr. Eun Lee leaves the lab to begin a faculty position at Pukyong National University!
