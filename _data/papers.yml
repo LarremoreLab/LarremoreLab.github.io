@@ -53,15 +53,6 @@ categories:
       links:
         - text: arXiv
           url: https://arxiv.org/abs/2311.13724
-    - title: "Modeling the Transmission Mitigation Impact of Testing for Infectious Diseases"
-      authors:
-      - Casey Middleton
-      - Daniel B. Larremore
-      year: 2023
-      venue: medrxiv
-      links:
-        - text: medrxiv
-          url: https://www.medrxiv.org/content/10.1101/2023.09.22.23295983
     - title: "Scientific productivity as a random walk"
       authors:
       - Sam Zhang
@@ -117,6 +108,15 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Modeling the Transmission Mitigation Impact of Testing for Infectious Diseases"
+      authors:
+      - Casey Middleton
+      - Daniel B. Larremore
+      year: 2023
+      venue: Science Advances 
+      links:
+        - text: Science Advances  
+          url: https://doi.org/10.1126/sciadv.adk5108
     - title: "Gendered hiring and attrition on the path to parity for academic faculty"
       authors:
       - Nicholas LaBerge
