@@ -11,11 +11,15 @@ people:
     image_path: /assets/images/people/ellen_degennaro.gif
     title: Postdoctoral Fellow
     subject: infectious diseases
+    aliases:
+      - Ellen DeGennaro
   - name: Dr. Tzu-Chi Yen
     url: https://junipertcy.info/
     image_path: /assets/images/people/tzuchi.gif
     title: Independent Postdoc
     subject: complex networks
+    aliases:
+      - Tzu-Chi Yen
   - name: Kate Bubar
     image_path: /assets/images/people/kate.gif
     url: https://twitter.com/bubar_kate?lang=en
@@ -23,6 +27,7 @@ people:
     subject: infectious diseases
     aliases:
       - Kate M. Bubar
+      - Dr. Kate Bubar
   - name: Gabrielle Gionet
     url: https://scholar.google.com/citations?user=FEHb_40AAAAJ&hl=en
     image_path: /assets/images/people/gabi.gif

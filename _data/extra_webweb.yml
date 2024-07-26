@@ -6,10 +6,13 @@ projects:
       - Ian Van Buskirk
       - Katie Spoon
       - Aaron Clauset
-  - name: "Infectious Disease"
+      - Sam Zhang
+  - name: "Infectious Diseases"
     people:
       - Kate M. Bubar
       - Casey Middleton
+      - Ellen DeGennaro
+      - Gabrielle Gionet
   - name: "Networks"
     people:
       - Tzu-Chi Yen
