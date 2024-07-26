@@ -26,44 +26,6 @@ categories:
       links:
         - text: SocArXiv
           url: https://osf.io/preprints/socarxiv/g6xwk
-
-    - title: "Infectious disease surveillance needs for the United States: lessons from COVID-19"
-      authors:
-      - Marc Lipsitch
-      - Mary T. Bassett
-      - John S. Brownstein
-      - Paul Elliott
-      - David Eyre
-      - M. Kate Grabowski
-      - James A. Hay
-      - Michael Johansson
-      - Stephen M. Kissler
-      - Daniel B. Larremore
-      - Jennifer Layden
-      - Justin Lessler
-      - Ruth Lynfield
-      - Duncan MacCannell
-      - Lawrence C. Madoff
-      - C. Jessica E. Metcalf
-      - Lauren A. Meyers
-      - Sylvia K. Ofori
-      - Celia Quinn
-      - Ana I. Ramos Bento
-      - Nick Reich
-      - Steven Riley
-      - Roni Rosenfeld
-      - Matthew H. Samore
-      - Rangarajan Sampath
-      - Rachel B. Slayton
-      - David L. Swerdlow
-      - Shaun Truelove
-      - Jay K. Varma
-      - Yonatan H. Grad
-      year: 2023
-      venue: arXiv
-      links:
-        - text: arXiv
-          url: https://arxiv.org/abs/2311.13724
     - title: "Scientific productivity as a random walk"
       authors:
       - Sam Zhang
@@ -119,6 +81,44 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Infectious disease surveillance needs for the United States: lessons from COVID-19"
+      authors:
+      - Marc Lipsitch
+      - Mary T. Bassett
+      - John S. Brownstein
+      - Paul Elliott
+      - David Eyre
+      - M. Kate Grabowski
+      - James A. Hay
+      - Michael Johansson
+      - Stephen M. Kissler
+      - Daniel B. Larremore
+      - Jennifer Layden
+      - Justin Lessler
+      - Ruth Lynfield
+      - Duncan MacCannell
+      - Lawrence C. Madoff
+      - C. Jessica E. Metcalf
+      - Lauren A. Meyers
+      - Sylvia K. Ofori
+      - Celia Quinn
+      - Ana I. Ramos Bento
+      - Nicholas G. Reich
+      - Steven Riley
+      - Roni Rosenfeld
+      - Matthew H. Samore
+      - Rangarajan Sampath
+      - Rachel B. Slayton
+      - David L. Swerdlow
+      - Shaun Truelove
+      - Jay K. Varma
+      - Yonatan H. Grad
+      year: 2024
+      venue: Frontiers in Public Health
+      volumeissue: 12, 1408193
+      links:
+        - text: Frontiers in Public Health
+          url: https://doi.org/10.3389/fpubh.2024.1408193
     - title: "Modeling the Transmission Mitigation Impact of Testing for Infectious Diseases"
       authors:
       - Casey Middleton
