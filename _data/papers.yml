@@ -1,6 +1,17 @@
 categories:
   - heading: "In Press, Submitted, or In Prep"
     pubs:
+    - title: "Fundamental limits to the effectiveness of traveler screening with molecular tests"
+      authors:
+      - Kate M. Bubar
+      - Casey E. Middleton
+      - Daniel B. Larremore*
+      - Katelyn M. Gostic*
+      year: 2024
+      venue: medRxiv
+      links:
+        - text: medRxiv
+          url: https://www.medrxiv.org/content/10.1101/2024.07.11.24310291v1
     - title: "Gendered devaluation underlies faculty retention"
       authors:
       - Katie Spoon
@@ -112,8 +123,9 @@ categories:
       authors:
       - Casey Middleton
       - Daniel B. Larremore
-      year: 2023
+      year: 2024
       venue: Science Advances 
+      volumeissue: "10, eadk5108"
       links:
         - text: Science Advances  
           url: https://doi.org/10.1126/sciadv.adk5108
