@@ -13,6 +13,16 @@ people:
     subject: infectious diseases
     aliases:
       - Ellen DeGennaro
+  - name: Ben Aoki-Sherwood
+    url: /
+    image_path: /
+    title: PhD Student, CS*
+    subject: methods
+  - name: Kate Barnes
+    url: /
+    image_path: /
+    title: PhD Student, CS*
+    subject: the scientific ecosystem  
   - name: Gabrielle Gionet
     url: https://scholar.google.com/citations?user=FEHb_40AAAAJ&hl=en
     image_path: /assets/images/people/gabi.gif
@@ -31,11 +41,12 @@ people:
     title: PhD Student, CS*
     subject: the scientific ecosystem
   - name: Ian Van Buskirk
-    url: /
+    url: https://www.coarsegraining.com/
     image_path: /assets/images/people/ian.gif
     title: PhD Student, CS*
     subject: the scientific ecosystem
-  - name: Chethan Kavaraganahalli Prasanna
+  - name: Chethan KP
+    url: https://github.com/chethan749
     image_path: /assets/images/people/chethan.gif
     title: MS Student, CS
     subject: the scientific ecosystem
@@ -55,7 +66,7 @@ alumni:
       - Nick LaBerge
       - Nicholas LaBerge
   - name: Dr. Sam Zhang
-    now: Faculty, University of Vermont
+    now: Postdoc, SFI → Faculty, University of Vermont
     url: https://sam.zhang.fyi/
     aliases:
       - Sam Zhang
@@ -69,29 +80,29 @@ alumni:
     url: https://upasanadutta.owlstown.net/
   - name: Dr. Tzu-Chi Yen
     url: https://junipertcy.info/
-    now: Postdoc, University of Colorado Boulder
+    now: Postdoc, Applied Math, University of Colorado Boulder
     aliases:
       - Tzu-Chi Yen
   - name: Dr. Kate Wootton
     url: https://kwootton.github.io/
     aliases:
       - Kate Wootton
-    now: Postdoctoral Fellow, University of Canterbury, New Zealand
+    now: Postdoc, University of Canterbury, New Zealand
   - name: Dr. Eun Lee
     now: Faculty, Pukyong National University, South Korea
     url: /
     aliases:
       - Eun Lee
   - name: Dr. Erik K. Johnson
-    now: Research Scientist, University of Colorado Boulder
+    now: Invitae → TetraScience → Research Scientist, Layer Lab, University of Colorado Boulder
     url: /
     aliases:
       - Erik K. Johnson
   - name: Suchita Lulla
-    now: University of Utah
+    now: PhD student, UCLA Genetics & Genomics
     url: /
   - name: Suyog Soti
-    now: Google
+    now: Google → Databricks
     url: https://suyogsoti.github.io/
   - name: Katherine Younglove
     url: https://www.linkedin.com/in/katherine-younglove-565353169/
@@ -101,7 +112,7 @@ alumni:
     now: BS program, USC Computer Science
   - name: Aparajithan Venkateswaran
     url: https://www.aparavenkat.com/
-    now: PhD program, UW Statistics 
+    now: PhD, UW Statistics 2024 → Microsoft
   - name: Aaron Aaeng
     url: https://github.com/aaronaaeng/
     now: Nordstrom
