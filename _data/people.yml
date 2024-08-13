@@ -14,12 +14,12 @@ people:
     aliases:
       - Ellen DeGennaro
   - name: Ben Aoki-Sherwood
-    url: /
+    url: https://www.linkedin.com/in/ben-aoki-sherwood/
     image_path: /assets/images/people/ben_aokisherwood.jpg
     title: PhD Student, CS*
     subject: methods
   - name: Kate Barnes
-    url: /
+    url: https://k-barnes.github.io/
     image_path: /assets/images/people/kate_barnes.jpg
     title: PhD Student, CS*
     subject: the scientific ecosystem  
