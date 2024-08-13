@@ -13,33 +13,11 @@ people:
     subject: infectious diseases
     aliases:
       - Ellen DeGennaro
-  - name: Dr. Tzu-Chi Yen
-    url: https://junipertcy.info/
-    image_path: /assets/images/people/tzuchi.gif
-    title: Independent Postdoc
-    subject: complex networks
-    aliases:
-      - Tzu-Chi Yen
-  - name: Kate Bubar
-    image_path: /assets/images/people/kate.gif
-    url: https://twitter.com/bubar_kate?lang=en
-    title: PhD Student, APPM+IQ Bio
-    subject: infectious diseases
-    aliases:
-      - Kate M. Bubar
-      - Dr. Kate Bubar
   - name: Gabrielle Gionet
     url: https://scholar.google.com/citations?user=FEHb_40AAAAJ&hl=en
     image_path: /assets/images/people/gabi.gif
     title: PhD Student, MCDB†
     subject: infectious diseases
-  - name: Nick LaBerge
-    url: https://nlaberge.github.io/
-    image_path: /assets/images/people/nick.gif
-    title: PhD Student, CS*
-    subject: the scientific ecosystem
-    aliases:
-      - Nicholas LaBerge
   - name: Casey Middleton
     image_path: /assets/images/people/casey.gif
     url: https://github.com/CaseyMiddleton
@@ -57,19 +35,43 @@ people:
     image_path: /assets/images/people/ian.gif
     title: PhD Student, CS*
     subject: the scientific ecosystem
-  - name: Sam Zhang
-    image_path: /assets/images/people/sam.gif
-    url: https://sam.zhang.fyi/
-    title: PhD Student, APPM*
+  - name: Chethan Kavaraganahalli Prasanna
+    image_path: /assets/images/people/chethan.gif
+    title: MS Student, CS
     subject: the scientific ecosystem
   
 alumni:
-  - name: K. Hunter Wapman
+  - name: Dr. Kate Bubar
+    url: https://twitter.com/bubar_kate?lang=en
+    now: Postdoc, Stanford University
+    aliases:
+      - Kate Bubar
+      - Kate M. Bubar
+      - Dr. Kate Bubar
+  - name: Dr. Nick LaBerge
+    url: https://nlaberge.github.io/
+    now: U.S. Census Bureau
+    aliases:
+      - Nick LaBerge
+      - Nicholas LaBerge
+  - name: Dr. Sam Zhang
+    now: Faculty, University of Vermont
+    url: https://sam.zhang.fyi/
+    aliases:
+      - Sam Zhang
+  - name: Dr. K. Hunter Wapman
     now: Writer, New York City
     url: https://www.hne.golf/
+    aliases:
+      - K. Hunter Wapman
   - name: Upasana Dutta
     now: PhD Student, University of Pennsylvania
     url: https://upasanadutta.owlstown.net/
+  - name: Dr. Tzu-Chi Yen
+    url: https://junipertcy.info/
+    now: Postdoc, University of Colorado Boulder
+    aliases:
+      - Tzu-Chi Yen
   - name: Dr. Kate Wootton
     url: https://kwootton.github.io/
     aliases:
@@ -81,7 +83,7 @@ alumni:
     aliases:
       - Eun Lee
   - name: Dr. Erik K. Johnson
-    now: Invitae
+    now: Research Scientist, University of Colorado Boulder
     url: /
     aliases:
       - Erik K. Johnson
