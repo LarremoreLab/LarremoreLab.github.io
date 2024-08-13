@@ -15,12 +15,12 @@ people:
       - Ellen DeGennaro
   - name: Ben Aoki-Sherwood
     url: /
-    image_path: /
+    image_path: /assets/images/people/ben_aokisherwood.jpg
     title: PhD Student, CS*
     subject: methods
   - name: Kate Barnes
     url: /
-    image_path: /
+    image_path: /assets/images/people/kate_barnes.jpg
     title: PhD Student, CS*
     subject: the scientific ecosystem  
   - name: Gabrielle Gionet
