@@ -13,11 +13,19 @@ people:
     subject: infectious diseases
     aliases:
       - Ellen DeGennaro
+  - name: Dr. Rémy Pasco
+    url: https://scholar.google.com/citations?user=Uap8gRUAAAAJ&hl=en
+    image_path: /assets/images/people/remy_pasco.jpg
+    title: Research Associate
+    subject: infectious diseases
+    aliases:
+      - Remy Pasco
+      - Rémy Pasco
   - name: Ben Aoki-Sherwood
     url: https://www.linkedin.com/in/ben-aoki-sherwood/
     image_path: /assets/images/people/ben_aokisherwood.jpg
     title: PhD Student, CS*
-    subject: methods
+    subject: mathematical methods
   - name: Kate Barnes
     url: https://k-barnes.github.io/
     image_path: /assets/images/people/kate_barnes.jpg
