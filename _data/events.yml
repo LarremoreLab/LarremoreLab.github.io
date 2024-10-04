@@ -1,21 +1,35 @@
+- description: Welcome to new lab members, Kate Barnes and Ben Aoki-Sherwood!
+  date: 2024 August 21
+- description: Congratulations to Nick LaBerge on a successful thesis defense! Nick's off to a position at the U.S. Census Bureau!
+  date: 2024 August 15
+- description: Congratulations to Sam Zhang on a successful thesis defense! Sam's off to a postdoc at the Santa Fe Institute followed by a faculty job at the University of Vermont!
+  date: 2024 August 12
+- description: 'New review out in Frontiers in Public Health, <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1408193/full">Infectious disease surveillance needs for the United States:  lessons from Covid-19</a>'
+  date: 2024 July 14
+- description: New preprint led by Kate Bubar and Casey Middleton, <a href="https://www.medrxiv.org/content/10.1101/2024.07.11.24310291v1">Fundamental limits to the effectiveness of traveler screening with molecular tests</a>
+  date: 2024 July 12
+- description: Congratulations to Kate Bubar on a successful thesis defense! Kate's off to a postdoc at Stanford!
+  date: 2024 July 11
 - description: The lab is at ICSSI 2024! Talks from Katie Spoon, Carolina Chavez Ruelas, and Sam Zhang (delivered by Dan).
   date: 2024 July 1-3
 - description: New paper led by Nick LaBerge in eLife - <a href="https://elifesciences.org/reviewed-preprints/93755">Gendered hiring and attrition on the path to parity for academic faculty</a>.
   date: 2024 June 19
 - description: New paper from Casey Middleton in Science Advances - <a href="https://www.science.org/doi/full/10.1126/sciadv.adk5108">Modeling the transmission mitigation impact of testing for infectious diseases</a>.
   date: 2024 June 14
+- description: New preprint led by Katie Spoon, <a href="https://osf.io/preprints/socarxiv/g6xwk">Gendered devaluation underlies faculty retention</a>.
+  date: 2024 Mar 7
 - description: Ellen DeGennaro joins the lab as a postdoc, and Gabi Gionet joins as an IQ Bio rotation student. Welcome!
   date: 2024 Jan 11
 - description: Our first paper with the Sawyer Lab, <a href="https://journals.asm.org/doi/10.1128/mbio.01712-23">Human mRNA in saliva can correctly identify individuals harboring infection</a> was published in mBio! This is our first work on human RNAs in saliva and their association with infection.
   date: 2023 Nov 9
 - description: New paper! Led by Katie Spoon, <a href="https://www.science.org/doi/10.1126/sciadv.adi2205">Gender and retention patterns among U.S. faculty</a> published in Science Advances!
   date: 2023 Oct 20
-- description: New baby! Dan welcomes Attie to the world. <3
-  date: 2023 Sept
-- description: Hunter Wapman defended his thesis. Congratulations Dr. Wapman!
-  date: 2023 July 19
-- description: Dan receives the 2023 <a href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_Prize">Erdős–Rényi Prize</a> from the Network Science Society. [<a href="https://drive.google.com/file/d/1shQw0nw_Cjxw7TG1Vz625S67wmiNwyZA/view?usp=sharing">PDF Slides</a>].
-  date: 2023 July 14
+# - description: New baby! Dan welcomes Attie to the world. <3
+  # date: 2023 Sept
+# - description: Hunter Wapman defended his thesis. Congratulations Dr. Wapman!
+  # date: 2023 July 19
+# - description: Dan receives the 2023 <a href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_Prize">Erdős–Rényi Prize</a> from the Network Science Society. [<a href="https://drive.google.com/file/d/1shQw0nw_Cjxw7TG1Vz625S67wmiNwyZA/view?usp=sharing">PDF Slides</a>].
+  # date: 2023 July 14
 # - description: Tzu-Chi Yen defended his thesis. Congratulations Dr. Yen!
   # date: 2023 June 29
 # - description: Ian van Buskirk led the writing for an essay at the DARE Workshop for ICWSM 2023. <a href="https://workshop-proceedings.icwsm.org/pdf/2023_12.pdf">If the data do not speak for themselves, how ought we to speak for the data?</a>.

@@ -38,18 +38,6 @@ categories:
       links:
         - text: arXiv
           url: https://arxiv.org/abs/2309.04414
-    - title: "A model for efficient dynamical ranking in networks"
-      authors: 
-      - Andrea Della Vechia
-      - Kibidi Neocosmos
-      - Daniel B. Larremore
-      - Cristopher Moore
-      - Caterina De Bacco
-      year: 2023
-      venue: arXiv
-      links:
-        - text: arXiv
-          url: https://arxiv.org/abs/2307.13544
     - title: "Plasmodium falciparum population genetic complexity influences transcriptional profile and immune recognition of highly related genotypic clusters" 
       authors:
       - Amy K. Bei
@@ -81,6 +69,18 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Model for efficient dynamical ranking in networks"
+      authors: 
+      - Andrea Della Vechia
+      - Kibidi Neocosmos
+      - Daniel B. Larremore
+      - Cristopher Moore
+      - Caterina De Bacco
+      year: 2024
+      venue: Physical Review E
+      links:
+        - text: Physical Review E
+          url: https://doi.org/10.1103/PhysRevE.110.034310
     - title: "Infectious disease surveillance needs for the United States: lessons from COVID-19"
       authors:
       - Marc Lipsitch
