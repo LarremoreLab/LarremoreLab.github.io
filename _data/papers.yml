@@ -1,6 +1,15 @@
 categories:
-  - heading: "In Press, Submitted, or In Prep"
+  - heading: "Preprints, Under Review, or In Press"
     pubs:
+    - title: "Misère Connect Four is Solved"
+      authors:
+      - Robert Steele
+      - Daniel B. Larremore
+      year: 2024
+      venue: arXiv
+      links:
+        - text: arXiv
+          url: https://arxiv.org/abs/2410.05551
     - title: "Fundamental limits to the effectiveness of traveler screening with molecular tests"
       authors:
       - Kate M. Bubar
