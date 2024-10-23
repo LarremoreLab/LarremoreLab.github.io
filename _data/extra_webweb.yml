@@ -1,18 +1,19 @@
 projects:
   - name: "Scientific Ecosystem"
     people:
-      - K. Hunter Wapman
-      - Nick LaBerge
+      - Kate Barnes
       - Ian Van Buskirk
       - Katie Spoon
       - Aaron Clauset
-      - Sam Zhang
+      - Ben Aoki-Sherwood
+      - Chethan KP
   - name: "Infectious Diseases"
     people:
       - Kate M. Bubar
       - Casey Middleton
-      - Ellen DeGennaro
+      - Dr. Ellen DeGennaro
       - Gabrielle Gionet
-  - name: "Networks"
-    people:
-      - Tzu-Chi Yen
+      - Dr. Rémy Pasco
+  # - name: "Networks"
+  #   people:
+  #     - Tzu-Chi Yen

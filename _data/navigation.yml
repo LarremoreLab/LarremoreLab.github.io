@@ -12,5 +12,5 @@ main:
     url: /manual/
   - title: Teaching
     url: /teaching/
-  - title: Press
-    url: /press/
+  # - title: Press
+    # url: /press/
