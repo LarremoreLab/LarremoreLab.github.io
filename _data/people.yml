@@ -48,11 +48,6 @@ people:
     image_path: /assets/images/people/katie_spoon.gif
     title: PhD Student, CS*
     subject: the scientific ecosystem
-  - name: Ian Van Buskirk
-    url: https://www.coarsegraining.com/
-    image_path: /assets/images/people/ian.gif
-    title: PhD Student, CS*
-    subject: the scientific ecosystem
   - name: Chethan KP
     url: https://github.com/chethan749
     image_path: /assets/images/people/chethan.gif
@@ -60,6 +55,8 @@ people:
     subject: the scientific ecosystem
   
 alumni:
+  - name: Dr. Ian Van Buskirk
+    url: https://www.coarsegraining.com/
   - name: Dr. Kate Bubar
     url: https://twitter.com/bubar_kate?lang=en
     now: Postdoc, Stanford University
