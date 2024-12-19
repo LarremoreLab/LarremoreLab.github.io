@@ -15,7 +15,7 @@ people:
       - Ellen DeGennaro
   - name: Dr. Rémy Pasco
     url: https://scholar.google.com/citations?user=Uap8gRUAAAAJ&hl=en
-    image_path: /assets/images/people/remy_pasco.jpg
+    image_path: /assets/images/people/remy_pasco.gif
     title: Research Associate
     subject: infectious diseases
     aliases:
@@ -28,7 +28,7 @@ people:
     subject: mathematical methods
   - name: Kate Barnes
     url: https://k-barnes.github.io/
-    image_path: /assets/images/people/kate_barnes.jpg
+    image_path: /assets/images/people/kate_barnes.gif
     title: PhD Student, CS*
     subject: the scientific ecosystem  
   - name: Gabrielle Gionet
