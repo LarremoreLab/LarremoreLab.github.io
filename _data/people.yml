@@ -24,7 +24,7 @@ people:
   - name: Ben Aoki-Sherwood
     url: https://aoki-sherwoodb.github.io/
     image_path: /assets/images/people/ben_aokisherwood.gif
-    title: PhD Student, CS*
+    title: PhD Student, CS
     subject: mathematical methods
   - name: Kate Barnes
     url: https://k-barnes.github.io/
@@ -85,7 +85,7 @@ alumni:
     url: https://upasanadutta.owlstown.net/
   - name: Dr. Tzu-Chi Yen
     url: https://junipertcy.info/
-    now: Postdoc, Applied Math, University of Colorado Boulder
+    now: Global Healthcare Exchange
     aliases:
       - Tzu-Chi Yen
   - name: Dr. Kate Wootton

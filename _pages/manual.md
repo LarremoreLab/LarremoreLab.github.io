@@ -126,6 +126,7 @@ Be a good person at conferences. Compliment speakers only on their science or ta
 8. Make a Google Scholar page. 
 9. Swap phone numbers with a couple people in the lab in case of emergency.
 10. Decide on and commit to a regular JSCBB schedule.
+11. Set up a "tour of the lab and building" with Dan.
 
 ## "How to Science" Series
 
