@@ -5,8 +5,8 @@ categories:
       authors:
       - Robert Steele
       - Daniel B. Larremore
-      year: 2024
-      venue: arXiv
+      year: 2025
+      venue: to appear in ICGA Journal
       links:
         - text: arXiv
           url: https://arxiv.org/abs/2410.05551
@@ -47,33 +47,6 @@ categories:
       links:
         - text: arXiv
           url: https://arxiv.org/abs/2309.04414
-    - title: "Plasmodium falciparum population genetic complexity influences transcriptional profile and immune recognition of highly related genotypic clusters" 
-      authors:
-      - Amy K. Bei
-      - Daniel B. Larremore
-      - Kazutoyo Miura
-      - Ababacar Diouf
-      - Nicholas K. Baro
-      - Rachel F. Daniels
-      - Allison Griggs
-      - Eli L. Moss
-      - Daniel E. Neafsey
-      - Awa B. Deme
-      - Mouhamad Sy
-      - Stephen Schaffner
-      - Ambroise D. Ahouidi
-      - Daouda Ndiaye
-      - Tandakha Dieye
-      - Souleymane Mboup
-      - Caroline O. Buckee
-      - Sarah K. Volkman
-      - Carole A. Long
-      - Dyann F. Wirth
-      year: 2021
-      venue: Submitted
-      links:
-        - text: bioRxiv
-          url: "https://www.biorxiv.org/content/10.1101/2020.01.03.894220v1"
 
 
   - heading: "Published"
@@ -1103,6 +1076,33 @@ categories:
   
   - heading: Essays, Columns, Book Chapters, Miscellaneous
     pubs:
+    - title: "Plasmodium falciparum population genetic complexity influences transcriptional profile and immune recognition of highly related genotypic clusters" 
+      authors:
+      - Amy K. Bei
+      - Daniel B. Larremore
+      - Kazutoyo Miura
+      - Ababacar Diouf
+      - Nicholas K. Baro
+      - Rachel F. Daniels
+      - Allison Griggs
+      - Eli L. Moss
+      - Daniel E. Neafsey
+      - Awa B. Deme
+      - Mouhamad Sy
+      - Stephen Schaffner
+      - Ambroise D. Ahouidi
+      - Daouda Ndiaye
+      - Tandakha Dieye
+      - Souleymane Mboup
+      - Caroline O. Buckee
+      - Sarah K. Volkman
+      - Carole A. Long
+      - Dyann F. Wirth
+      year: 2021
+      venue: Submitted
+      links:
+        - text: bioRxiv
+          url: "https://www.biorxiv.org/content/10.1101/2020.01.03.894220v1"
     - title: "If the data do not speak for themselves, how ought we to speak for the data?"
       authors:
       - Ian Van Buskirk
