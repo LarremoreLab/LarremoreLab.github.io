@@ -68,9 +68,12 @@ def clean_all_names(data):
 def make_network(data):
     nodes = defaultdict(dict)
     edges = []
+    collaborator_connections = defaultdict(set)  # To track unique connections per collaborator
 
     dan = data['people']['people'][0]['name']
+    print(f"Main person: {dan}")
 
+    # Process papers - build nodes and count connections
     for category in data['papers']['categories']:
         for paper in category['pubs']:
             title = paper['title']
@@ -86,18 +89,11 @@ def make_network(data):
                 if name == dan:
                     continue
 
-                nodes[name]['name'] = name
-
-                nodes[name]['kind'] = 'collaborator'
-
-                for person in data['people']['collaborators']:
-                    if person['name'] == name:
-                        if person.get('url'):
-                            nodes[name]['url'] = person['url']
-                            break
-
+                # Add this paper to the collaborator's connections
+                collaborator_connections[name].add(title)
                 edges.append([title, name])
 
+    # Process code repos
     for project in data['code']['repos']:
         title = project['title']
         nodes[title] = {
@@ -107,12 +103,12 @@ def make_network(data):
         for name in project['authors']:
             if name == dan:
                 continue
-
-            nodes[name]['name'] = name
-            nodes[name]['kind'] = 'collaborator'
-
+            
+            # Add this code project to the collaborator's connections
+            collaborator_connections[name].add(title)
             edges.append([title, name])
 
+    # Process extra projects
     for project in data['extra']['projects']:
         project_name = project['name']
         nodes[project_name] = {
@@ -126,30 +122,58 @@ def make_network(data):
         for name in project['people']:
             if name == dan:
                 continue
+            
+            # Add this project to the collaborator's connections
+            collaborator_connections[name].add(project_name)
             edges.append([project_name, name])
 
+    # Set up collaborator nodes
+    for name, connections in collaborator_connections.items():
+        nodes[name]['name'] = name
+        nodes[name]['kind'] = 'collaborator'
+        
+        # Add URL if available
+        for person in data['people'].get('collaborators', []):
+            if person['name'] == name and person.get('url'):
+                nodes[name]['url'] = person['url']
+                break
+
+    # Set up lab member nodes
     for person in data['people']['people']:
         name = person['name']
         if name == dan:
             continue
 
-        title = person['title'].lower()
-
         nodes[name]['name'] = name
         nodes[name]['kind'] = 'lab member'
 
         url = person.get('url')
-
         if url and url != '/':
             nodes[name]['url'] = url
 
+    # Print connection counts for debugging
+    print("\nCollaborator connection counts:")
+    for name, connections in sorted(collaborator_connections.items()):
+        print(f"{name}: {len(connections)}")
+
+    # Set size based on connection count
     for node in nodes:
         kind = nodes[node]['kind']
-        size = 1
+        size = 1  # Default size for papers and code
+        
         if kind == 'lab member':
-            size = 1.4
+            size = 1.0  # Same size as high-frequency collaborators
         elif kind == 'collaborator':
-            size = 0.6
+            connection_count = len(collaborator_connections.get(node, set()))
+            
+            if connection_count < 2:  # One-off collaborators
+                size = 0.7  # Just a little smaller
+            elif connection_count < 5:  # 2-4 papers
+                size = 0.85  # A little smaller
+            else:  # 5+ papers
+                size = 1.0  # Just a little smaller than original
+                
+            print(f"Setting size for {node} with {connection_count} connections: {size}")
 
         nodes[node]['size'] = size
         nodes[node]['color'] = KIND_TO_COLOR_MAP[kind]
@@ -159,29 +183,38 @@ def make_network(data):
     web.display.colorBy = 'color'
     web.display.hideMenu = True
     web.display.showLegend = False
-    web.display.gravity = 0.55
+    web.display.gravity = 0.7
     web.display.width = 400
     web.display.height = 400
     web.display.scaleLinkOpacity = True
     web.display.scaleLinkWidth = True
     web.display.scales = {
         'nodeSize': {
-            'min': 0.65,
-            'max': 1.1,
+            'min': 0.7,  # Adjusted minimum size
+            'max': 1.0,  # Maximum size for frequent collaborators and lab members
         }
     }
 
+    print(f"Writing network data to {WEBWEB_JSON_PATH}")
     WEBWEB_JSON_PATH.write_text(web.json)
+    print("File written successfully!")
     # web.show()
 
 
 if __name__ == '__main__':
+    print("Loading data files...")
     data = {
         'papers': load_yaml(PAPERS_PATH),
         'people': load_yaml(PEOPLE_PATH),
         'code': load_yaml(CODE_PATH),
         'extra': load_yaml(EXTRA_WEBWEB_PATH),
     }
+    print("Data loaded successfully")
+    
+    print("Cleaning names...")
     clean_all_names(data)
-
+    print("Names cleaned successfully")
+    
+    print("Building network...")
     make_network(data)
+    print("Network built and saved successfully")

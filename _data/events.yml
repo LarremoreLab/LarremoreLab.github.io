@@ -1,3 +1,5 @@
+- description: Congratulations to Dr. Katie Spoon on a successful PhD defense!
+  date: 2025 April 30
 - description: Congratulations to Chethan KP on a successful MS defense!
   date: 2025 April 15
 - description: Congratulations to Dr. Casey Middleton on a successful PhD defense!
@@ -26,8 +28,8 @@
   date: 2024 June 19
 - description: New paper from Casey Middleton in Science Advances - <a href="https://www.science.org/doi/full/10.1126/sciadv.adk5108">Modeling the transmission mitigation impact of testing for infectious diseases</a>.
   date: 2024 June 14
-- description: New preprint led by Katie Spoon, <a href="https://osf.io/preprints/socarxiv/g6xwk">Gendered devaluation underlies faculty retention</a>.
-  date: 2024 Mar 7
+# - description: New preprint led by Katie Spoon, <a href="https://osf.io/preprints/socarxiv/g6xwk">Gendered devaluation underlies faculty retention</a>.
+#   date: 2024 Mar 7
 # - description: Ellen DeGennaro joins the lab as a postdoc, and Gabi Gionet joins as an IQ Bio rotation student. Welcome!
 #   date: 2024 Jan 11
 # - description: Our first paper with the Sawyer Lab, <a href="https://journals.asm.org/doi/10.1128/mbio.01712-23">Human mRNA in saliva can correctly identify individuals harboring infection</a> was published in mBio! This is our first work on human RNAs in saliva and their association with infection.
