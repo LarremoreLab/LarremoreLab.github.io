@@ -1,6 +1,23 @@
 categories:
   - heading: "Preprints, Under Review, or In Press"
     pubs:
+    - title: "Integrating viral kinetics into routine outbreak surveillance: challenges, opportunities, and lessons from COVID-19"
+      authors:
+      - James Hay
+      - Daniel B. Larremore
+      - Aishani Aatresh
+      - Stephen Kissler
+      year: 2025
+      venue: to appear in Philosophical Transactions B
+    - title: "Statistical Methods for Estimating the Protective Effects of Immune Markers Using Test-Negative Designs"
+      authors:
+      - Casey E. Middleton
+      - Daniel B. Larremore
+      year: 2025
+      venue: medRxiv
+      links:
+        - text: medRxiv
+          url: https://doi.org/10.1101/2025.04.05.25325304  
     - title: "Misère Connect Four is Solved"
       authors:
       - Robert Steele
