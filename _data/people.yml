@@ -36,91 +36,106 @@ people:
     image_path: /assets/images/people/gabi.gif
     title: PhD Student, MCDB†
     subject: infectious diseases
-  - name: Casey Middleton
-    image_path: /assets/images/people/casey.gif
-    url: https://github.com/CaseyMiddleton
-    title: PhD Student, IQ Bio
-    subject: infectious diseases
-    aliases:
-      - Casey E. Middleton
-  - name: Katie Spoon
-    url: https://katiespoon.github.io/
-    image_path: /assets/images/people/katie_spoon.gif
-    title: PhD Student, CS*
-    subject: the scientific ecosystem
-  - name: Chethan KP
-    url: https://github.com/chethan749
-    image_path: /assets/images/people/chethan.gif
-    title: MS Student, CS
-    subject: the scientific ecosystem
-  
+  - name: Violet Ross
+    title: PhD Student, CS (Fall 2025)
+
+external:
+  - name: Marilena Hohmann
+    url: https://marilenahohmann.github.io/
+    title: PhD Student, University of Copenhagen
+  - name: Jan Bachmann
+    url: https://mannbach.de/
+    title: PhD Student, Complexity Science Hub Vienna
+
 alumni:
-  - name: Dr. Ian Van Buskirk
-    url: https://www.coarsegraining.com/
-  - name: Dr. Kate Bubar
-    url: https://twitter.com/bubar_kate?lang=en
-    now: Postdoc, Stanford University
-    aliases:
-      - Kate Bubar
-      - Kate M. Bubar
-      - Dr. Kate Bubar
-  - name: Dr. Nick LaBerge
-    url: https://nlaberge.github.io/
-    now: U.S. Census Bureau
-    aliases:
-      - Nick LaBerge
-      - Nicholas LaBerge
-  - name: Dr. Sam Zhang
-    now: Postdoc, SFI → Faculty, University of Vermont
-    url: https://sam.zhang.fyi/
-    aliases:
-      - Sam Zhang
-  - name: Dr. K. Hunter Wapman
-    now: Writer, New York City
-    url: https://www.hne.golf/
-    aliases:
-      - K. Hunter Wapman
-  - name: Upasana Dutta
-    now: PhD Student, University of Pennsylvania
-    url: https://upasanadutta.owlstown.net/
-  - name: Dr. Tzu-Chi Yen
-    url: https://junipertcy.info/
-    now: Global Healthcare Exchange
-    aliases:
-      - Tzu-Chi Yen
-  - name: Dr. Kate Wootton
-    url: https://kwootton.github.io/
-    aliases:
-      - Kate Wootton
-    now: Postdoc, University of Canterbury, New Zealand
-  - name: Dr. Eun Lee
-    now: Faculty, Pukyong National University, South Korea
-    url: /
-    aliases:
-      - Eun Lee
-  - name: Dr. Erik K. Johnson
-    now: Invitae → TetraScience → Research Scientist, Layer Lab, University of Colorado Boulder
-    url: /
-    aliases:
-      - Erik K. Johnson
-  - name: Suchita Lulla
-    now: PhD student, UCLA Genetics & Genomics
-    url: /
-  - name: Suyog Soti
-    now: Google → Databricks
-    url: https://suyogsoti.github.io/
-  - name: Katherine Younglove
-    url: https://www.linkedin.com/in/katherine-younglove-565353169/
-    now: Oracle
-  - name: Robert Steele
-    url: https://github.com/SteeleRobert
-    now: BS program, USC Computer Science
-  - name: Aparajithan Venkateswaran
-    url: https://www.aparavenkat.com/
-    now: PhD, UW Statistics 2024 → Microsoft
-  - name: Aaron Aaeng
-    url: https://github.com/aaronaaeng/
-    now: Nordstrom
+  postdocs:
+    - name: Dr. Kate Wootton
+      url: https://kwootton.github.io/
+      aliases:
+        - Kate Wootton
+      now: Postdoc, University of Canterbury, New Zealand
+    - name: Dr. Eun Lee
+      now: Faculty, Pukyong National University, South Korea
+      url: /
+      aliases:
+        - Eun Lee
+  phd_students:
+    - name: Dr. Katie Spoon
+      url: https://katiespoon.github.io/
+      aliases:
+        - Katie Spoon
+    - name: Dr. Casey Middleton
+      url: https://github.com/CaseyMiddleton
+      now: Postdoc, University of Melbourne
+      aliases:
+        - Casey E. Middleton
+        - Casey Middleton
+    - name: Dr. Ian Van Buskirk
+      url: https://www.coarsegraining.com/
+      aliases:
+        - Ian Van Buskirk
+    - name: Dr. Kate Bubar
+      url: https://twitter.com/bubar_kate?lang=en
+      now: Postdoc, Stanford University
+      aliases:
+        - Kate Bubar
+        - Kate M. Bubar
+        - Dr. Kate Bubar
+    - name: Dr. Nick LaBerge
+      url: https://nlaberge.github.io/
+      now: U.S. Census Bureau
+      aliases:
+        - Nick LaBerge
+        - Nicholas LaBerge
+    - name: Dr. Sam Zhang
+      now: Postdoc, SFI → Faculty, University of Vermont
+      url: https://sam.zhang.fyi/
+      aliases:
+        - Sam Zhang
+    - name: Dr. K. Hunter Wapman
+      now: Writer, New York City
+      url: https://www.hne.golf/
+      aliases:
+        - K. Hunter Wapman
+    - name: Dr. Tzu-Chi Yen
+      url: https://junipertcy.info/
+      now: Global Healthcare Exchange
+      aliases:
+        - Tzu-Chi Yen
+    - name: Dr. Erik K. Johnson
+      now: Invitae → TetraScience → Research Scientist, Layer Lab, University of Colorado Boulder
+      url: /
+      aliases:
+        - Erik K. Johnson
+  ms_students:
+    - name: Chethan Kavaraganahalli Prasanna
+      url: https://github.com/chethan749
+      now: PhD Program, Network Science, Northeastern University
+    - name: Upasana Dutta
+      now: PhD Student, University of Pennsylvania
+      url: https://upasanadutta.owlstown.net/
+    - name: Aaron Aaeng
+      url: https://github.com/aaronaaeng/
+      now: Nordstrom
+  undergraduates:
+    - name: Suchita Lulla
+      now: PhD student, UCLA Genetics & Genomics
+      url: /
+    - name: Suyog Soti
+      now: Google → Databricks
+      url: https://suyogsoti.github.io/
+    - name: Katherine Younglove
+      url: https://www.linkedin.com/in/katherine-younglove-565353169/
+      now: Oracle
+    - name: Robert Steele
+      url: https://github.com/SteeleRobert
+      now: BS USC Computer Science → McKinsey → NYU Langone
+    - name: Aparajithan Venkateswaran
+      url: https://www.aparavenkat.com/
+      now: PhD, UW Statistics 2024 → Microsoft
+  affiliated:
+    - Lukasz Szymula, PhD Student, Adam Mickiewicz University
+    - Muhammad Faizan Khan, PhD Student, University of Rovira i Virgili
 
 
 collaborators:

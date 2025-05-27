@@ -45,22 +45,102 @@ header:
     </figure>
 {% endfor %}
 </div>
+
+<div>
+    <h3>Affiliated Students</h3>
+    <ul>
+{% for person in site.data.people.external %}
+    {% if person.url %}
+        <li><a href="{{ person.url}}" target="_blank">{{person.name}}</a>        
+    {% else %}
+        <li>{{person.name}}
+    {% endif %}
+    {% if person.title %}
+        - {{person.title}}
+    {% endif %}
+    </li>
+{% endfor %}
+    </ul>
+</div>
+
 <div>
     <h3>Alumni</h3>
+    
+    <h4>Postdoctoral Fellows</h4>
     <ul>
-{% for person in site.data.people.alumni %}
+{% for person in site.data.people.alumni.postdocs %}
     {% if person.url %}
-	<li><a href="{{ person.url}}" target="_blank">{{person.name}}</a>        
+        <li><a href="{{ person.url}}" target="_blank">{{person.name}}</a>        
     {% else %}
-    <li>{{person.name}}
-    }
+        <li>{{person.name}}
     {% endif %}
     {% if person.now %}
         ({{person.now}})
     {% endif %}
     </li>
 {% endfor %}
-</ul>
+    </ul>
+
+    <h4>PhD Students</h4>
+    <ul>
+{% for person in site.data.people.alumni.phd_students %}
+    {% if person.url %}
+        <li><a href="{{ person.url}}" target="_blank">{{person.name}}</a>        
+    {% else %}
+        <li>{{person.name}}
+    {% endif %}
+    {% if person.now %}
+        ({{person.now}})
+    {% endif %}
+    </li>
+{% endfor %}
+    </ul>
+
+    <h4>MS Students</h4>
+    <ul>
+{% for person in site.data.people.alumni.ms_students %}
+    {% if person.url %}
+        <li><a href="{{ person.url}}" target="_blank">{{person.name}}</a>        
+    {% else %}
+        <li>{{person.name}}
+    {% endif %}
+    {% if person.now %}
+        ({{person.now}})
+    {% endif %}
+    </li>
+{% endfor %}
+    </ul>
+
+    <h4>Undergraduates</h4>
+    <ul>
+{% for person in site.data.people.alumni.undergraduates %}
+    {% if person.url %}
+        <li><a href="{{ person.url}}" target="_blank">{{person.name}}</a>        
+    {% else %}
+        <li>{{person.name}}
+    {% endif %}
+    {% if person.now %}
+        ({{person.now}})
+    {% endif %}
+    </li>
+{% endfor %}
+    </ul>
+
+    <h4>Affiliated</h4>
+    <ul>
+{% for person in site.data.people.alumni.affiliated %}
+    {% if person.url %}
+        <li><a href="{{ person.url}}" target="_blank">{{person.name}}</a>        
+    {% else %}
+        <li>{{person.name}}
+    {% endif %}
+    {% if person.now %}
+        ({{person.now}})
+    {% endif %}
+    </li>
+{% endfor %}
+    </ul>
+
 * joint with Aaron Clauset.
 † joint with Sara Sawyer.
 </div>
