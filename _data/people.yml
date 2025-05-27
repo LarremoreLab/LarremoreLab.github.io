@@ -38,6 +38,8 @@ people:
     subject: infectious diseases
   - name: Violet Ross
     title: PhD Student, CS (Fall 2025)
+    image_path: /assets/images/people/violet_ross.jpg
+    subjection: mathematical methods
 
 external:
   - name: Marilena Hohmann
@@ -134,8 +136,10 @@ alumni:
       url: https://www.aparavenkat.com/
       now: PhD, UW Statistics 2024 → Microsoft
   affiliated:
-    - Lukasz Szymula, PhD Student, Adam Mickiewicz University
-    - Muhammad Faizan Khan, PhD Student, University of Rovira i Virgili
+    - name: Lukasz Szymula
+      now: PhD Student, Adam Mickiewicz University
+    - name: Muhammad Faizan Khan
+      now: PhD Student, University of Rovira i Virgili
 
 
 collaborators:
