@@ -66,7 +66,7 @@ header:
 <div>
     <h3>Alumni</h3>
     
-    <p><strong>Postdoctoral Fellows</strong></p>
+    <strong>Postdoctoral Fellows</strong><\br>
     <ul>
 {% for person in site.data.people.alumni.postdocs %}
     {% if person.url %}
@@ -81,7 +81,7 @@ header:
 {% endfor %}
     </ul>
 
-    <p><strong>PhD Students</strong></p>
+    <strong>PhD Students</strong><\br>
     <ul>
 {% for person in site.data.people.alumni.phd_students %}
     {% if person.url %}
@@ -96,7 +96,7 @@ header:
 {% endfor %}
     </ul>
 
-    <p><strong>MS Students</strong></p>
+    <strong>MS Students</strong><\br>
     <ul>
 {% for person in site.data.people.alumni.ms_students %}
     {% if person.url %}
@@ -111,7 +111,7 @@ header:
 {% endfor %}
     </ul>
 
-    <p><strong>Undergraduates</strong></p>
+    <strong>Undergraduates</strong><\br>
     <ul>
 {% for person in site.data.people.alumni.undergraduates %}
     {% if person.url %}
@@ -126,7 +126,7 @@ header:
 {% endfor %}
     </ul>
 
-    <p><strong>Affiliated</strong></p>
+    <strong>Past Affiliates</strong><\br>
     <ul>
 {% for person in site.data.people.alumni.affiliated %}
     {% if person.url %}
