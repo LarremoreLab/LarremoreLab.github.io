@@ -1,19 +1,17 @@
 projects:
   - name: "Scientific Ecosystem"
+    type: scieco
     people:
       - Kate Barnes
-      - Ian Van Buskirk
-      - Katie Spoon
-      - Aaron Clauset
       - Ben Aoki-Sherwood
-      - Chethan KP
+      - Dr. Katie Spoon
+      - Dr. Sam Zhang
   - name: "Infectious Diseases"
+    type: idepi
     people:
-      - Kate M. Bubar
-      - Casey Middleton
+      - Dr. Casey Middleton
+      - Dr. Kate Bubar
       - Dr. Ellen DeGennaro
       - Gabrielle Gionet
       - Dr. Rémy Pasco
-  # - name: "Networks"
-  #   people:
-  #     - Tzu-Chi Yen
+      - Violet Ross

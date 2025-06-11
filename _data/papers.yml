@@ -2,6 +2,7 @@ categories:
   - heading: "Preprints, Under Review, or In Press"
     pubs:
     - title: "Integrating viral kinetics into routine outbreak surveillance: challenges, opportunities, and lessons from COVID-19"
+      type: idepi
       authors:
       - James Hay
       - Daniel B. Larremore
@@ -9,7 +10,9 @@ categories:
       - Stephen Kissler
       year: 2025
       venue: to appear in Philosophical Transactions B
+
     - title: "Statistical Methods for Estimating the Protective Effects of Immune Markers Using Test-Negative Designs"
+      type: idepi
       authors:
       - Casey E. Middleton
       - Daniel B. Larremore
@@ -18,7 +21,9 @@ categories:
       links:
         - text: medRxiv
           url: https://doi.org/10.1101/2025.04.05.25325304  
+
     - title: "Fundamental limits to the effectiveness of traveler screening with molecular tests"
+      type: idepi
       authors:
       - Kate M. Bubar
       - Casey E. Middleton
@@ -29,7 +34,9 @@ categories:
       links:
         - text: medRxiv
           url: https://www.medrxiv.org/content/10.1101/2024.07.11.24310291v1
+
     - title: "Gendered devaluation underlies faculty retention"
+      type: scieco
       authors:
       - Katie Spoon
       - Joanna Mendy
@@ -43,7 +50,9 @@ categories:
       links:
         - text: SocArXiv
           url: https://osf.io/preprints/socarxiv/g6xwk
+
     - title: "Scientific productivity as a random walk"
+      type: scieco
       authors:
       - Sam Zhang
       - Nicholas LaBerge
@@ -60,6 +69,7 @@ categories:
   - heading: "Published"
     pubs:
     - title: "Misère Connect Four is Solved"
+      type: complex
       authors:
       - Robert Steele
       - Daniel B. Larremore
@@ -71,7 +81,9 @@ categories:
           url: https://arxiv.org/abs/2410.05551
         - text: ICGA Journal
           url: https://doi.org/10.1177/13896911251342484
+
     - title: "Model for efficient dynamical ranking in networks"
+      type: complex
       authors: 
       - Andrea Della Vechia
       - Kibidi Neocosmos
@@ -84,7 +96,9 @@ categories:
       links:
         - text: Physical Review E
           url: https://doi.org/10.1103/PhysRevE.110.034310
+
     - title: "Infectious disease surveillance needs for the United States: lessons from COVID-19"
+      type: idepi
       authors:
       - Marc Lipsitch
       - Mary T. Bassett
@@ -122,7 +136,9 @@ categories:
       links:
         - text: Frontiers in Public Health
           url: https://doi.org/10.3389/fpubh.2024.1408193
+
     - title: "Modeling the Transmission Mitigation Impact of Testing for Infectious Diseases"
+      type: idepi
       authors:
       - Casey Middleton
       - Daniel B. Larremore
@@ -132,7 +148,9 @@ categories:
       links:
         - text: Science Advances  
           url: https://doi.org/10.1126/sciadv.adk5108
+
     - title: "Gendered hiring and attrition on the path to parity for academic faculty"
+      type: scieco
       authors:
       - Nicholas LaBerge
       - K. Hunter Wapman
@@ -144,7 +162,9 @@ categories:
       links:
         - text: eLife
           url: https://doi.org/10.7554/eLife.93755.3
+
     - title: Human mRNA in saliva can correctly identify individuals harboring infection
+      type: idepi
       authors:
       - Qing Yang
       - Nicholas R. Meyerson
@@ -168,6 +188,7 @@ categories:
         - text: mBio
           url: https://doi.org/10.1128/mbio.01712-23
     - title: "Gender and retention Patterns among U.S. faculty"
+      type: scieco
       authors: 
       - Katie Spoon
       - Nicholas LaBerge
@@ -186,7 +207,9 @@ categories:
           url: https://www.science.org/doi/10.1126/sciadv.adi2205
         - text: SocArXiv
           url: https://osf.io/preprints/socarxiv/u26ze/
+
     - title: Serial Population-Based Serosurveys For COVID-19 In District East of Karachi, Pakistan
+      type: idepi
       authors:
       - Imran Nisar 
       - Mashal Amin
@@ -207,7 +230,9 @@ categories:
       links:
         - text: Journal of Global Health Reports
           url: https://www.joghr.org/article/84241-community-based-seroprevalence-of-sars-cov-2-in-an-urban-district-of-karachi-pakistan
+
     - title: An Open-Source Cultural Consensus Approach to Name-Based Gender Classification
+      type: scieco
       authors:
       - Ian Van Buskirk
       - Aaron Clauset
@@ -219,7 +244,9 @@ categories:
           url: https://ojs.aaai.org/index.php/ICWSM/article/view/22195
         - text: arXiv
           url: https://arxiv.org/abs/2208.01714
+
     - title: "Field-Specific Ability Beliefs as an Explanation for Gender Differences in Academics’ Career Trajectories: Evidence From Public Profiles on ORCID.org"
+      type: scieco
       authors:
       - Aniko Hannak*
       - Kenneth Joseph*
@@ -232,7 +259,9 @@ categories:
           url: https://psycnet.apa.org/fulltext/2023-83163-001.html
         - text: arXiv
           url: http://arxiv.org/abs/2009.10830
+
     - title: "Geographically skewed recruitment and COVID-19 seroprevalence estimates: A cross-sectional serosurveillance study and mathematical modeling analysis"
+      type: idepi
       authors: 
       - Tyler Brown
       - Pablo Martinez de Salazar Munoz
@@ -263,7 +292,9 @@ categories:
       links:
         - text: BMJ Open
           url: https://bmjopen.bmj.com/content/13/3/e061840
+
     - title: Evolution of Plasmodium falciparum var repertoires by sexual recombination sustains disease transmission after an outbreak in Ecuador
+      type: idepi
       authors:
       - Shazia Ruybal-Pesántez
       - Fabian E. Sáenz
@@ -279,7 +310,9 @@ categories:
       links:
         - text: Frontiers in Tropical Diseases
           url: https://www.frontiersin.org/articles/10.3389/fitd.2023.1085862/full
+
     - title: Labor advantages drive the greater productivity of faculty at elite universities
+      type: scieco
       authors:
       - Sam Zhang
       - K. Hunter Wapman
@@ -293,7 +326,9 @@ categories:
           url: https://www.science.org/doi/10.1126/sciadv.abq7056
         - text: twitterthread
           url: https://twitter.com/_szhang/status/1593712551660990465
+
     - title: Subfield Prestige and Gender Inequality in Computing
+      type: scieco
       authors: 
       - Nicholas LaBerge
       - K. Hunter Wapman
@@ -313,7 +348,9 @@ categories:
           url: https://twitter.com/laberge_nick/status/1597267279313412096
         - text: Cover Art
           url: https://cacm.acm.org/magazines/2022/12
+
     - title: Bayesian estimation of population size and overlap from random subsamples
+      type: idepi
       authors:
       - Erik K. Johnson
       - Daniel B. Larremore
@@ -323,7 +360,9 @@ categories:
       links:
         - text: PLOS Computational Biology
           url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010451
+
     - title: "Optimizing prevalence estimates for a novel pathogen by reducing uncertainty in test characteristics"
+      type: idepi
       authors:
       - Daniel B. Larremore*
       - Bailey K. Fosdick*
@@ -335,7 +374,9 @@ categories:
         - text: Epidemics
           url: https://www.sciencedirect.com/science/article/pii/S1755436522000743
       volumeissue: 41, 100634
+
     - title: Quantifying hierarchy and dynamics in U.S. faculty hiring and retention
+      type: scieco
       authors:
       - K. Hunter Wapman
       - Sam Zhang
@@ -347,7 +388,9 @@ categories:
       links:
         - text: Nature
           url: https://www.nature.com/articles/s41586-022-05222-x
+
     - title: Socioeconomic Roots of Academic Faculty
+      type: scieco
       authors: 
       - Allison C. Morgan
       - Nicholas LaBerge
@@ -364,7 +407,9 @@ categories:
           url: https://twitter.com/aaronclauset/status/1375116154553896965
         - text: Research Briefing - Nature Human Behaviour
           url: https://www.nature.com/articles/s41562-022-01426-3
+
     - title: Ethnoracial Disparities in SARS-CoV-2 Seroprevalence in a Large Cohort of Individuals in Central North Carolina from April to December 2020
+      type: idepi
       authors:
       - Cesar A. Lopez
       - Clark H. Cunningham
@@ -398,7 +443,9 @@ categories:
       links:
         - text: mSphere
           url: https://journals.asm.org/doi/full/10.1128/msphere.00841-21
+
     - title: SARS-CoV-2 Transmission and Impacts of Unvaccinated-Only Screening in Populations of Mixed Vaccination Status
+      type: idepi
       authors:
       - Kate M. Bubar*
       - Casey E. Middleton*
@@ -411,7 +458,9 @@ categories:
         - text: Nature Communications
           url: https://www.nature.com/articles/s41467-022-30144-7
       year: 2022
+
     - title: The Dynamics of Faculty Hiring Networks
+      type: scieco
       authors:
       - Eun Lee
       - Daniel B. Larremore
@@ -424,7 +473,9 @@ categories:
           url: https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00303-9
         - text: BMC Blog Post
           url: https://blogs.biomedcentral.com/on-physicalsciences/2021/12/01/prestige-reinforces-hierarchies-in-academia/
+
     - title: A guide to choosing and implementing reference models for social network analysis
+      type: complex
       authors:
       - Elizabeth Hobson
       - Matthew Silk
@@ -441,7 +492,9 @@ categories:
           url: https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12775
         - text: preprint
           url: https://arxiv.org/abs/2012.04720
+
     - title: Higher viral load drives infrequent SARS-CoV-2 transmission between asymptomatic residence hall roommates
+      type: idepi
       authors:
       - Kristen K. Bjorkman
       - Tassa K. Saldi
@@ -465,7 +518,9 @@ categories:
       links:
         - text: Journal of Infectious Diseases
           url: https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab386/6327655?guestAccessKey=d9df09c7-3dfe-4d3d-a7f2-7ede6708c945
+
     - title: Modeling the effectiveness of olfactory testing to limit SARS-CoV-2 transmission
+      type: idepi
       authors:
       - Daniel B. Larremore
       - Derek Toomre
@@ -478,7 +533,9 @@ categories:
           url: https://www.nature.com/articles/s41467-021-23315-5
         - text: twitterthread
           url: https://twitter.com/DanLarremore/status/1334238554256338947
+
     - title: "Emergence of hierarchy in networked endorsement dynamics"
+      type: complex
       authors:
       - Mari Kawakatsu*
       - Philip S. Chodrow*
@@ -492,7 +549,9 @@ categories:
           url: https://www.pnas.org/content/118/16/e2015188118
         - text: preprint
           url: https://arxiv.org/abs/2007.04448
+
     - title: Serial population-based serosurvey for COVID-19 in two neighborhoods of Karachi, Pakistan
+      type: idepi
       authors:
       - Muhammad Imran Nisar
       - Nadia Ansari
@@ -518,7 +577,9 @@ categories:
       links:
         - text: International Journal of Infectious Diseases
           url: https://www.sciencedirect.com/science/article/pii/S1201971221002587
+
     - title: "Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys"
+      type: idepi
       authors:
       - Daniel B. Larremore
       - Bailey K. Fosdick
@@ -542,7 +603,9 @@ categories:
           url: https://larremorelab.github.io/covid19testgroup
         - text: github
           url: https://github.com/LarremoreLab/covid_serological_sampling
+
     - title: "The Unequal Impact of Parenthood in Academia"
+      type: scieco
       authors:
       - Allison C. Morgan
       - Samuel F. Way
@@ -558,7 +621,9 @@ categories:
           url: https://advances.sciencemag.org/content/7/9/eabd1996
         - text: twitterthread
           url: https://twitter.com/aaronclauset/status/1364685336131997696
+
     - title: Model-informed COVID-19 vaccine prioritization strategies by age and serostatus
+      type: idepi
       authors:
       - Kate M. Bubar
       - Kyle Reinholt
@@ -577,7 +642,9 @@ categories:
           url: http://vaxfirst.colorado.edu
         - text: twitterthread
           url: https://twitter.com/DanLarremore/status/1352396597628334082
+
     - title: Risk Factors of SARS-CoV-2 Antibodies in Arapahoe County First Responders - the COVID-19 Arapahoe SErosurveillance Study (CASES) Project
+      type: idepi
       authors: 
       - Katherine R. Sabourin
       - Jonathan Schultz
@@ -596,7 +663,9 @@ categories:
       links:
         - text: JOEM
           url: https://journals.lww.com/joem/Abstract/9000/Risk_Factors_of_SARS_CoV_2_Antibodies_in_Arapahoe.98015.aspx
+
     - title: "Test sensitivity is secondary to frequency and turnaround time for COVID-19 screening"
+      type: idepi
       authors:
       - Daniel B. Larremore
       - Bryan Wilder
@@ -617,7 +686,9 @@ categories:
           url: https://larremorelab.github.io/covid-calculator3
         - text: twitterthread
           url: https://twitter.com/DanLarremore/status/1276260291764826112
+
     - title: "Choices In Networks: A Research Framework"
+      type: complex
       authors:
       - Fred Feinberg
       - Elizabeth Bruch
@@ -638,7 +709,9 @@ categories:
           url: https://drive.google.com/file/d/1Qi4qIE5X814Dgt0tedSKVnOsUbpWpw3J/view?usp=sharing
         - text: Marketing Letters
           url: https://link.springer.com/article/10.1007/s11002-020-09541-9
+
     - title: "Case Study: Using Facebook Data to Monitor Adherence to Stay-at-home Orders in Colorado and Utah"
+      type: idepi
       authors:
       - Ryan M. Layer
       - Bailey K. Fosdick
@@ -650,7 +723,9 @@ categories:
       links:
         - text: KDD Workshop on Humanitarian Mapping
           url: https://www.medrxiv.org/content/10.1101/2020.06.04.20122093v1
+
     - title: "Community Detection in Bipartite Networks with Stochastic Blockmodels"
+      type: complex
       authors:
       - Tzu-Chi Yen
       - Daniel B. Larremore
@@ -666,6 +741,7 @@ categories:
           url: https://github.com/junipertcy/bipartiteSBM
 
     - title: "Control of excitable systems is optimal near criticality"
+      type: complex
       authors:
       - Kathleen Finlinson
       - Woodrow L. Shew
@@ -679,7 +755,9 @@ categories:
           url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033450
         - text: arXiv
           url: https://arxiv.org/abs/1912.06690
+
     - title: "Reductions in commuting mobility correlate with geographic differences in SARS-CoV-2 prevalence in New York City"
+      type: idepi
       authors:
       - Stephen M. Kissler*
       - Nishant Kishore*
@@ -706,7 +784,9 @@ categories:
           url: https://twitter.com/yhgrad/status/1259077198016888832
         - text: twitterthread (math)
           url: https://twitter.com/DanLarremore/status/1259129523666251777
+
     - title: "Implications of test characteristics and population seroprevalence on 'immune passport' strategies"
+      type: idepi
       authors:
       - Daniel B. Larremore
       - Kate M. Bubar
@@ -717,7 +797,9 @@ categories:
       links:
         - text: CID
           url: https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa1019/5873748?guestAccessKey=a423bd4c-4735-47fa-9c56-6b1275c19f95
+
     - title: "Longitudinal analysis of naturally acquired antibodies to PfEMP1 CIDR domain variants and their association with malaria protection"
+      type: idepi
       authors:
       - Nyamekye Obeng-Adjei*
       - Daniel B. Larremore*
@@ -745,7 +827,9 @@ categories:
           url: https://drive.google.com/file/d/1eFdfbX7AXO-Cy48N_p12q8MDeb75G0V9/view?usp=sharing
         - text: bioRxiv
           url: https://www.biorxiv.org/content/10.1101/2020.02.11.944330v2
+
     - title: "Dynamics of Beneficial Epidemics"
+      type: idepi
       authors:
       - Andrew Berdahl*
       - Christa Brelsford*
@@ -772,7 +856,9 @@ categories:
           url: https://drive.google.com/open?id=1n8qxz6iGOzIAOyP_Iz1j3PdJjVgM5wWa
         - text: arXiv
           url: "http://arxiv.org/abs/1604.02096"
+
     - title: "webweb: a tool for creating, displaying, and sharing interactive network visualizations on the web"
+      type: complex
       authors:
       - K. Hunter Wapman
       - Daniel B. Larremore
@@ -784,7 +870,9 @@ categories:
         url: "http://webwebpage.github.io/"
       - text: JOSS
         url: "https://joss.theoj.org/papers/10.21105/joss.01458"
+
     - title: "Productivity, prominence, and the effects of academic environment"
+      type: scieco
       authors:
       - Samuel F. Way
       - Allison C. Morgan
@@ -798,7 +886,9 @@ categories:
         url: "https://www.pnas.org/content/early/2019/04/24/1817431116"
       - text: PDF
         url: https://drive.google.com/open?id=1Xf2ZtVzOmZncaAsp2lsJnmZjdA7FvYwi
+
     - title: "Bayes-optimal estimation of overlap between populations of fixed size"
+      type: idepi
       authors:
       - Daniel B. Larremore
       year: 2019
@@ -813,7 +903,9 @@ categories:
         url: "https://github.com/dblarremore/BayesianRepertoireOverlap"
       - text: web tool
         url: "http://bro.colorado.edu"
+
     - title: "Robust information capacity requires strong and balanced excitatory and inhibitory synapses"
+      type: complex
       authors:
       - Vidit Agrawal
       - Andrew B. Cowley
@@ -831,7 +923,9 @@ categories:
         url: https://drive.google.com/open?id=1LjIdqOMa6_ySCPIYleB8Q33-GpJ8bUb3
       - text: arXiv
         url: "https://arxiv.org/abs/1804.05266"
+
     - title: "A physical model for efficient ranking in networks"
+      type: complex
       authors:
       - Caterina De Bacco*
       - Daniel B. Larremore*
@@ -850,7 +944,9 @@ categories:
         url: "https://arxiv.org/abs/1709.09002"
       - text: code
         url: "https://github.com/cdebacco/SpringRank"
+
     - title: "Configuring random graph models with fixed degree sequences"
+      type: complex
       authors:
       - Bailey K. Fosdick*
       - Daniel B. Larremore*
@@ -866,9 +962,9 @@ categories:
         url: https://drive.google.com/open?id=1PURch6qW9wF6GYZaf-uvvhh5kpNM_aKH
       - text: arXiv
         url: "http://arxiv.org/abs/1608.00607"
-      # - text: code & slides
-        # url: "http://danlarremore.com/configurationmodels/"
+      
     - title: "The misleading narrative of the canonical faculty productivity trajectory"
+      type: scieco
       authors:
       - Samuel F. Way
       - Allison C. Morgan
@@ -882,7 +978,9 @@ categories:
         url: "http://www.pnas.org/content/114/44/E9216.abstract"
       - text: PDF
         url: https://drive.google.com/open?id=19hRq1Ry1Q_UJStBk3NP0Gi9GuxISQh6u
+
     - title: "The ground truth about metadata and community detection in networks"
+      type: complex
       authors:
       - Leto Peel*
       - Daniel B. Larremore*
@@ -897,9 +995,9 @@ categories:
         url: https://drive.google.com/open?id=1rtGMDuIXlTQg4sPkuT4X2O-N4aKapSm7
       - text: PDF Supplement
         url: https://drive.google.com/open?id=1bWyQeq_lZUizNHCKJBS7FWMuydV0j2m2
-      # - text: code & data
-        # url: "http://danlarremore.com/metadata"
+      
     - title: "Community detection, link prediction, and layer interdependence in multilayer networks"
+      type: complex
       authors:
       - Caterina De Bacco
       - Eleanor A. Power
@@ -913,7 +1011,9 @@ categories:
         url: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.042317"
       - text: PDF
         url: https://drive.google.com/open?id=1VOD6Zsc46oXcCwqtMwzzaPumkfXdSp8N
+
     - title: "Gender, Productivity, and Prestige in Computer Science Faculty Hiring Networks"
+      type: scieco
       authors:
       - Samuel F. Way
       - Daniel B. Larremore
@@ -926,7 +1026,9 @@ categories:
         url: "https://dl.acm.org/citation.cfm?id=2883073"
       - text: PDF
         url: https://drive.google.com/open?id=1XBrD1MVPyvlX_pIZ7N8a3_XbXSvTntz2
+
     - title: "Ape parasite origins of human malaria virulence genes"
+      type: idepi
       authors:
       - Daniel B. Larremore
       - Sesh A. Sundararaman
@@ -948,7 +1050,9 @@ categories:
         url: "http://www.nature.com/ncomms/2015/151012/ncomms9368/full/ncomms9368.html"
       - text: PDF
         url: https://drive.google.com/open?id=1xtjptToio1D8vyGjpCva8GtGjRJmvXKk
+
     - title: "Systematic inequality and hierarchy in faculty hiring networks"
+      type: scieco
       authors:
       - Aaron Clauset
       - Samuel Arbesman
@@ -962,10 +1066,12 @@ categories:
       - text: PDF
         url: https://drive.google.com/open?id=1ZS7iTeXYa3vZ3Nq-qCIF0FaIhkYTgYgO
       - text: code and data
-        url: "http://tuvalu.santafe.edu/~aaronc/facultyhiring/"
+        url: "https://aaronclauset.github.io/datacode.htm"
       - text: interactive data visualization
         url: "https://larremorelab.github.io/faculty/"
+
     - title: "Immune characterization of P. falciparum parasites with a shared genetic signature in a region of decreasing transmission"
+      type: idepi
       authors:
       - Amy K. Bei
       - Ababacar Diouf
@@ -994,7 +1100,9 @@ categories:
         url: "http://iai.asm.org/content/83/1/276.short"
       - text: PDF
         url: https://drive.google.com/open?id=1gnfXdgrVbxEinQT63c-E0y_OztAdoakO
+
     - title: "Efficiently inferring community structure in bipartite networks"
+      type: complex
       authors:
       - Daniel B. Larremore
       - Aaron Clauset
@@ -1009,7 +1117,9 @@ categories:
         url: https://drive.google.com/open?id=1W0chdIER--gPrURPgSefBN9S__CZuaPD
       - text: code and data
         url: "/openscience"
+
     - title: "Inhibition Causes Ceaseless Dynamics in Networks of Excitable Nodes"
+      type: complex
       authors:
       - Daniel B. Larremore
       - Woodrow L. Shew
@@ -1024,7 +1134,9 @@ categories:
         url: "http://link.aps.org/doi/10.1103/PhysRevLett.112.138103"
       - text: PDF
         url: https://drive.google.com/open?id=19u5Bbur-X6iBb_rlwb7GWKCtRl1ex5s-
+
     - title: "A network approach to analyzing highly recombinant malaria parasite genes"
+      type: idepi
       authors:
       - Daniel B. Larremore
       - Aaron Clauset
@@ -1037,11 +1149,9 @@ categories:
         url: "http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003268"
       - text: PDF
         url: https://drive.google.com/open?id=1Kwhpl2djID0584KvzjaA8mIzcLdtdmzq
-      # - text: interactive figures
-        # url: "http://danlarremore.com/var/"
-      # - text: network and sequence data
-        # url: "http://danlarremore.com/file/malariaDBLaNetworks2013.zip"
+
     - title: "Social Climber attachment in forming networks produces phase transition in a measure of connectivity"
+      type: complex
       authors:
       - Dane Taylor*
       - Daniel B. Larremore*
@@ -1053,7 +1163,9 @@ categories:
         url: "http://pre.aps.org/abstract/PRE/v86/i3/e031140"
       - text: PDF
         url: https://drive.google.com/open?id=1RkdWRbd3JYhn5QUHiEBvVw5CGdcT9gqy
+
     - title: "Statistical properties of avalanches in networks"
+      type: complex
       authors:
       - Daniel B. Larremore
       - Marshall Y. Carpenter
@@ -1067,7 +1179,9 @@ categories:
         url: "http://pre.aps.org/abstract/PRE/v85/i6/e066131"
       - text: PDF
         url: https://drive.google.com/open?id=1ie1ByNSRL5641_JLVgnl0tKGZ5hFF3qz
+
     - title: "Effects of network topology, transmission delays, and refractoriness on the response of coupled excitable systems to a stochastic stimulus"
+      type: complex
       authors:
       - Daniel B. Larremore
       - Woodrow L. Shew
@@ -1081,7 +1195,9 @@ categories:
         url: "http://link.aip.org/link/?cha/21/025117"
       - text: PDF
         url: https://drive.google.com/open?id=1BFfa4wZ9HPZ_xpEzdQobK9gSOVjykkCB
+
     - title: "Predicting criticality and dynamic range in complex networks: effects of topology"
+      type: complex
       authors:
       - Daniel B. Larremore
       - Woodrow L. Shew
@@ -1098,6 +1214,7 @@ categories:
   - heading: Essays, Columns, Book Chapters, Miscellaneous
     pubs:
     - title: "Plasmodium falciparum population genetic complexity influences transcriptional profile and immune recognition of highly related genotypic clusters" 
+      type: idepi
       authors:
       - Amy K. Bei
       - Daniel B. Larremore
@@ -1125,6 +1242,7 @@ categories:
         - text: bioRxiv
           url: "https://www.biorxiv.org/content/10.1101/2020.01.03.894220v1"
     - title: "If the data do not speak for themselves, how ought we to speak for the data?"
+      type: scieco
       authors:
       - Ian Van Buskirk
       - Brian Zaharatos
@@ -1136,6 +1254,7 @@ categories:
         - text: ICWSM Workshop PDF
           url: https://workshop-proceedings.icwsm.org/pdf/2023_12.pdf
     - title: Test negative designs with uncertainty, sensitivity, and specificity
+      type: idepi
       authors:
       - Erik K. Johnson
       - Rebecca Kahn
@@ -1148,6 +1267,7 @@ categories:
         - text: preprint
           url: https://www.medrxiv.org/content/10.1101/2021.06.24.21259495v1
     - title: "Networks, Dynamics, and Prestige: How Hierarchies Emerge from Individual Choices"
+      type: complex
       authors:
       - Mari Kawakatsu
       - Philip S. Chodrow
@@ -1159,6 +1279,7 @@ categories:
         - text: SIAM News Blog
           url: https://sinews.siam.org/Details-Page/networks-dynamics-and-prestige-how-hierarchies-emerge-from-individual-choices
     - title: Concerns about SARS-CoV-2 evolution should not hold back efforts to expand vaccination
+      type: idepi
       authors:
       - Sarah Cobey
       - Daniel B. Larremore
@@ -1170,6 +1291,7 @@ categories:
         - text: Nature Reviews Immunology
           url: https://www.nature.com/articles/s41577-021-00544-9.
     - title: "Rethinking Covid-19 Test Sensitivity — A Strategy for Containment"
+      type: idepi
       authors:
       - Michael J. Mina
       - Roy Parker
@@ -1182,6 +1304,7 @@ categories:
       - text: PDF
         url: https://drive.google.com/file/d/1dztJydFACQt7ngq9Ozqj_0Px1-14YT0h/view?usp=sharing
     - title: "Network models for malaria: antigens, dynamics, and evolution over space and time"
+      type: idepi
       authors: 
       - Lauren Childs
       - Daniel B. Larremore
@@ -1193,6 +1316,7 @@ categories:
       - text: PDF
         url: https://drive.google.com/open?id=1tJ5xXxKuWuoteIwp3a1rLk3kr3AkkOsl
     - title: "More Inclusive Scholarship Begins With Active Experimentation"
+      type: scieco
       authors:
       - Daniel B. Larremore
       - Allison C. Morgan
@@ -1206,6 +1330,7 @@ categories:
       - text: PDF
         url: /assets/pdf/larremore2017more.pdf
     - title: "Why predicting the future is more than just horseplay"
+      type: scieco
       authors:
         - Daniel B. Larremore
         - Aaron Clauset
@@ -1216,6 +1341,7 @@ categories:
       - text: The Christian Science Monitor
         url: http://www.csmonitor.com/Science/Complexity/2017/0424/Why-predicting-the-future-is-more-than-just-horseplay
     - title: "On the records"
+      type: complex
       authors:
       - Andrew Berdahl
       - Uttam Bhat
@@ -1238,6 +1364,7 @@ categories:
       year: 2017
       venue: arXiv
     - title: "Data-driven predictions in the science of science"
+      type: scieco
       authors:
       - Aaron Clauset
       - Daniel B. Larremore
@@ -1251,6 +1378,7 @@ categories:
       - text: PDF
         url: https://drive.google.com/open?id=1HYPb1JCTPRI4odwP3Cudk3hC9259o2YY
     - title: "Critical Dynamics in Complex Networks"
+      type: complex
       authors:
       - Daniel B. Larremore
       - Woodrow L. Shew
@@ -1261,7 +1389,8 @@ categories:
       links:
       - text: Wiley
         url: http://www.wiley.com/WileyCDA/WileyTitle/productCd-3527411046.html
-    - title: "Progess Is Infectious"
+    - title: "Progress Is Infectious"
+      type: complex
       authors:
       - Daniel E. Geer Jr.
       - Daniel B. Larremore

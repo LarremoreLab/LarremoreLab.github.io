@@ -11,11 +11,20 @@ EXTRA_WEBWEB_PATH = DATA_PATH.joinpath('extra_webweb.yml')
 WEBWEB_JSON_PATH = DATA_PATH.joinpath('index_web.json')
 
 KIND_TO_COLOR_MAP = {
-    'collaborator': '#78C81F',
-    'lab member': '#E01E7B',
-    'paper': '#1C7BE0',
-    'code': '#D2D215',
+    'collaborator': '#999999',
+    # 'collaborator': '#78C81F',
+    'lab member': '#E01E7B',     # Pink for current lab members
+    'alumni': '#9d1557',         # Yellow for alumni
+
+    'paper_scieco': '#8ebef1',   # Pink for scieco papers
+    'paper_idepi': '#1C7BE0',    # Blue for idepi papers  
+    'paper_complex': '#14579f',  # Grey for complex papers
+
+    'code_scieco': '#8ebef1',    # Pink for scieco code
+    'code_idepi': '#1C7BE0',     # Blue for idepi code
+    'code_complex': '#14579f',   # Grey for complex code
 }
+
 
 
 def load_yaml(path):
@@ -28,14 +37,38 @@ def clean_name(name):
     return name
 
 
+# def people_to_aliases(all_people):
+#     aliases = dict()
+#     for person in all_people['people'] + all_people['alumni']:
+#         person_name = person['name']
+#         aliases[person_name] = person_name
+
+#         for alias in person.get('aliases', []):
+#             aliases[alias] = person_name
+
+#     return aliases
+
 def people_to_aliases(all_people):
     aliases = dict()
-    for person in all_people['people'] + all_people['alumni']:
+    
+    # Process current people
+    for person in all_people['people']:
         person_name = person['name']
         aliases[person_name] = person_name
 
         for alias in person.get('aliases', []):
             aliases[alias] = person_name
+
+    # Process alumni - now organized by category
+    alumni_data = all_people.get('alumni', {})
+    for category, people_list in alumni_data.items():
+        if isinstance(people_list, list):
+            for person in people_list:
+                person_name = person['name']
+                aliases[person_name] = person_name
+
+                for alias in person.get('aliases', []):
+                    aliases[alias] = person_name
 
     return aliases
 
@@ -60,9 +93,18 @@ def clean_all_names(data):
         for i, person in enumerate(item.get('people', [])):
             item['people'][i] = aliases.get(person, person)
 
-    for person in data['people']['people'] + data['people']['alumni']:
+    # Process current people
+    for person in data['people']['people']:
         name = clean_name(person['name'])
         person['name'] = aliases.get(name, name)
+    
+    # Process alumni - now organized by category
+    alumni_data = data['people'].get('alumni', {})
+    for category, people_list in alumni_data.items():
+        if isinstance(people_list, list):
+            for person in people_list:
+                name = clean_name(person['name'])
+                person['name'] = aliases.get(name, name)
 
 
 def make_network(data):
@@ -77,9 +119,10 @@ def make_network(data):
     for category in data['papers']['categories']:
         for paper in category['pubs']:
             title = paper['title']
+            paper_type = paper.get('type', 'scieco')  # Default to scieco if no type
             nodes[title] = {
                 'name': title,
-                'kind': 'paper'
+                'kind': f'paper_{paper_type}'  # Use paper_scieco, paper_idepi, or paper_complex
             }
 
             if 'links' in paper:
@@ -93,12 +136,14 @@ def make_network(data):
                 collaborator_connections[name].add(title)
                 edges.append([title, name])
 
+
     # Process code repos
     for project in data['code']['repos']:
         title = project['title']
+        code_type = project.get('type', 'scieco')  # Default to scieco if no type
         nodes[title] = {
             'name': title,
-            'kind': 'code'
+            'kind': f'code_{code_type}'  # Use code_scieco, code_idepi, or code_complex
         }
         for name in project['authors']:
             if name == dan:
@@ -111,9 +156,10 @@ def make_network(data):
     # Process extra projects
     for project in data['extra']['projects']:
         project_name = project['name']
+        project_type = project.get('type', 'scieco')  # Default to scieco if no type
         nodes[project_name] = {
             'name': project_name,
-            'kind': 'code'
+            'kind': f'code_{project_type}'  # Use code_scieco, code_idepi, or code_complex
         }
 
         if project.get('url'):
@@ -151,18 +197,35 @@ def make_network(data):
         if url and url != '/':
             nodes[name]['url'] = url
 
+    # Set up alumni nodes
+    alumni_data = data['people'].get('alumni', {})
+    for category, people_list in alumni_data.items():
+        if isinstance(people_list, list):
+            for person in people_list:
+                name = person['name']
+                if name in nodes:  # Only if they appear in collaborations
+                    nodes[name]['kind'] = 'alumni'
+                    
+                    url = person.get('url')
+                    if url and url != '/':
+                        nodes[name]['url'] = url
+
     # Print connection counts for debugging
     print("\nCollaborator connection counts:")
     for name, connections in sorted(collaborator_connections.items()):
         print(f"{name}: {len(connections)}")
-
+    
     # Set size based on connection count
     for node in nodes:
         kind = nodes[node]['kind']
-        size = 1  # Default size for papers and code
-        
-        if kind == 'lab member':
+        if kind.startswith('paper_'):  # Any paper type
+            size = 1.0  # Papers are larger
+        elif kind.startswith('code_'):  # Any code type
+            size = 0.7  # Code/data contributions are smaller
+        elif kind == 'lab member':
             size = 1.0  # Same size as high-frequency collaborators
+        elif kind == 'alumni':
+            size = 1.0  # Same size as lab members
         elif kind == 'collaborator':
             connection_count = len(collaborator_connections.get(node, set()))
             
@@ -174,7 +237,7 @@ def make_network(data):
                 size = 1.0  # Just a little smaller than original
                 
             print(f"Setting size for {node} with {connection_count} connections: {size}")
-
+        
         nodes[node]['size'] = size
         nodes[node]['color'] = KIND_TO_COLOR_MAP[kind]
 
