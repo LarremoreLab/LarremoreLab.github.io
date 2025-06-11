@@ -18,15 +18,6 @@ categories:
       links:
         - text: medRxiv
           url: https://doi.org/10.1101/2025.04.05.25325304  
-    - title: "Misère Connect Four is Solved"
-      authors:
-      - Robert Steele
-      - Daniel B. Larremore
-      year: 2025
-      venue: to appear in ICGA Journal
-      links:
-        - text: arXiv
-          url: https://arxiv.org/abs/2410.05551
     - title: "Fundamental limits to the effectiveness of traveler screening with molecular tests"
       authors:
       - Kate M. Bubar
@@ -68,6 +59,18 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Misère Connect Four is Solved"
+      authors:
+      - Robert Steele
+      - Daniel B. Larremore
+      year: 2025
+      venue: ICGA Journal
+      volumeissue: 13896911251342484
+      links:
+        - text: arXiv [preferred]
+          url: https://arxiv.org/abs/2410.05551
+        - text: ICGA Journal
+          url: https://doi.org/10.1177/13896911251342484
     - title: "Model for efficient dynamical ranking in networks"
       authors: 
       - Andrea Della Vechia
@@ -77,6 +80,7 @@ categories:
       - Caterina De Bacco
       year: 2024
       venue: Physical Review E
+      volumeissue: 110, 034310
       links:
         - text: Physical Review E
           url: https://doi.org/10.1103/PhysRevE.110.034310
