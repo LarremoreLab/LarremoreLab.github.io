@@ -31,7 +31,3 @@ Dr. Daniel Larremore is the Associate Chair for Research and an Associate Profes
 
 <li><strong>The scientific ecosystem</strong> - The scientific method of hypothesis, experiment, and conclusion poorly describes modern scientific discovery and productivity. Instead, science is done by <em>people</em> who play various social roles in the ecosystem of science. I investigate faculty hiring, productivity patterns, scientific careers, and the dynamics of discovery through large-scale data collection and modeling.</li>
 </ul> 
-
-<h3>Outside the Lab</h3>
-
-I lean in to Boulder stereotypes by climbing, mountain biking, running, and skiing. Boulder is a beautiful place to live, so I try to get outside a lot. I like to read, usually in a cycle consisting of nonfiction, literature, and science fiction. When I have time, I like to make art, typically sculpture with paper. If I had to do another job outside of science, I think I'd like to be a writer. 
