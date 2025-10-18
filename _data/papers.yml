@@ -22,19 +22,6 @@ categories:
         - text: medRxiv
           url: https://doi.org/10.1101/2025.04.05.25325304  
 
-    - title: "Fundamental limits to the effectiveness of traveler screening with molecular tests"
-      type: idepi
-      authors:
-      - Kate M. Bubar
-      - Casey E. Middleton
-      - Daniel B. Larremore*
-      - Katelyn M. Gostic*
-      year: 2024
-      venue: medRxiv
-      links:
-        - text: medRxiv
-          url: https://www.medrxiv.org/content/10.1101/2024.07.11.24310291v1
-
     - title: "Gendered devaluation underlies faculty retention"
       type: scieco
       authors:
@@ -68,6 +55,18 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "A fundamental limit to the effectiveness of traveller screening with molecular tests"
+      type: idepi
+      authors:
+      - Kate M. Bubar
+      - Casey E. Middleton
+      - Daniel B. Larremore*
+      - Katelyn M. Gostic*
+      year: 2025
+      venue: Epidemiology and Infection
+      links:
+        - text: Epidemiology and Infection
+          url: https://doi.org/10.1017/S0950268825100381
     - title: "Misère Connect Four is Solved"
       type: complex
       authors:
