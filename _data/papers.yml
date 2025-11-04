@@ -79,7 +79,7 @@ categories:
         - text: arXiv [preferred]
           url: https://arxiv.org/abs/2410.05551
         - text: ICGA Journal
-          url: https://doi.org/10.1177/13896911251342484
+          url: https://journals.sagepub.com/doi/10.1177/13896911251342484
 
     - title: "Model for efficient dynamical ranking in networks"
       type: complex
