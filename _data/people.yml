@@ -37,7 +37,7 @@ people:
     title: PhD Student, MCDB†
     subject: infectious diseases
   - name: Violet Ross
-    title: PhD Student, CS (Fall 2025)
+    title: PhD Student, CS
     image_path: /assets/images/people/violet_ross.gif
     subject: mathematical methods
 
@@ -67,6 +67,7 @@ alumni:
   phd_students:
     - name: Dr. Katie Spoon
       url: https://katiespoon.github.io/
+      now: Postdoc, Staford University; Faculty, UT El Paso 2026
       aliases:
         - Katie Spoon
     - name: Dr. Casey Middleton
@@ -77,6 +78,7 @@ alumni:
         - Casey Middleton
     - name: Dr. Ian Van Buskirk
       url: https://www.coarsegraining.com/
+      now: Palantir
       aliases:
         - Ian Van Buskirk
     - name: Dr. Kate Bubar
