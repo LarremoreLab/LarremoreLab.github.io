@@ -18,3 +18,4 @@ vendor/bundle
 assets/images/people/edit
 *.psd
 *.mov
+venv

@@ -6,13 +6,6 @@ people:
     subject: Associate Professor
     aliases:
       - Daniel B. Larremore
-  - name: Dr. Ellen DeGennaro
-    url: https://www.linkedin.com/in/ellen-degennaro-b3787a145/
-    image_path: /assets/images/people/ellen_degennaro.gif
-    title: Postdoctoral Fellow
-    subject: infectious diseases
-    aliases:
-      - Ellen DeGennaro
   - name: Dr. Rémy Pasco
     url: https://scholar.google.com/citations?user=Uap8gRUAAAAJ&hl=en
     image_path: /assets/images/people/remy_pasco.gif
@@ -54,6 +47,10 @@ external:
 
 alumni:
   postdocs:
+    - name: Dr. Ellen DeGennaro
+      url: https://www.linkedin.com/in/ellen-degennaro-b3787a145/
+      aliases:
+        - Ellen DeGennaro
     - name: Dr. Kate Wootton
       url: https://kwootton.github.io/
       aliases:
