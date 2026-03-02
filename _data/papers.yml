@@ -1,6 +1,43 @@
 categories:
   - heading: "Preprints, Under Review, or In Press"
     pubs:
+    - title: "Consensus and fragmentation in academic publication preferences"
+      type: scieco
+      authors:
+      - Ian Van Buskirk
+      - Marilena Hohmann
+      - Ekaterina Landgren
+      - Johan Ugander
+      - Aaron Clauset
+      - Daniel B. Larremore
+      year: 2026
+      venue: arXiv
+      links:
+        - text: arXiv
+          url: ""
+
+    - title: "Editorial and peer review dynamics at elite general science journals"
+      type: scieco
+      authors:
+      - Sam Zhang
+      - Nicholas LaBerge
+      - Quinten McElhiney
+      - Daniel B. Larremore
+      - Aaron Clauset
+      year: 2026
+      venue: Submitted
+
+    - title: "Researchers play distinct epistemic roles in constructing ecological knowledge"
+      type: scieco
+      authors:
+        - Kate L. Wootton
+        - Jennifer A. Dunne
+        - Mirta Galesic
+        - Aaron Clauset
+        - Daniel B. Larremore
+      year: 2026
+      venue: Submitted
+
     - title: "Integrating viral kinetics into routine outbreak surveillance: challenges, opportunities, and lessons from COVID-19"
       type: idepi
       authors:
@@ -10,17 +47,6 @@ categories:
       - Stephen Kissler
       year: 2025
       venue: to appear in Philosophical Transactions B
-
-    - title: "Statistical Methods for Estimating the Protective Effects of Immune Markers Using Test-Negative Designs"
-      type: idepi
-      authors:
-      - Casey E. Middleton
-      - Daniel B. Larremore
-      year: 2025
-      venue: medRxiv
-      links:
-        - text: medRxiv
-          url: https://doi.org/10.1101/2025.04.05.25325304  
 
     - title: "Gendered devaluation underlies faculty retention"
       type: scieco
@@ -55,6 +81,18 @@ categories:
 
   - heading: "Published"
     pubs:
+    - title: "Statistical Methods for Estimating the Protective Effects of Immune Markers Using Test-Negative Designs"
+      type: idepi
+      authors:
+      - Casey E. Middleton
+      - Daniel B. Larremore
+      year: 2025
+      venue: American Journal of Epidemiology
+      links:
+        - text: American Journal of Epidemiology
+          url: https://doi.org/10.1093/aje/kwaf280
+        - text: medRxiv
+          url: https://doi.org/10.1101/2025.04.05.25325304  
     - title: "A fundamental limit to the effectiveness of traveller screening with molecular tests"
       type: idepi
       authors:

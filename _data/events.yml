@@ -1,3 +1,11 @@
+- description: New preprint out on the arXiv — Consensus and fragmentation in academic publication preferences, with Ian Van Buskirk, Marilena Hohmann, Ekaterina Landgren, Johan Ugander, and Aaron Clauset.
+  date: 2026 March 4
+- description: The International Conference on the Science of Science and Innovation (ICSSI) will be held here at CU Boulder, June 29 to July 1, chaired by Dan Larremore, Erin Leahey, and Bhaven Sampat. See <a href="https://icssi.org">ICSSI.org</a> for details!
+  date: 2025 March 2
+- description: Paper submitted! — Researchers play distinct epistemic roles in constructing ecological knowledge, with Kate Wootton, Jennifer Dunne, Mirta Galesic, and Aaron Clauset.
+  date: 2026 February 21
+- description: Revised paper submitted — Editorial and peer review dynamics at elite general science journals, led by Sam Zhang, Nicholas LaBerge, and Quinten McElhiney.
+  date: 2026 February 1
 - description: The Open Pathogen Kinetics Commons is now LIVE at <a href="http://openpkcommons.org/">OpenPKCommons.org</a>. Our initial launch shares viral kinetics data from an initial four pathogens, dozens of studies, and tens of thousands of data points!
   date: 2025 December 1
 - description: Aaron Clauset and Dan launch <a href="http://cevianlabs.io/">Cevian Labs</a>.
@@ -22,28 +30,28 @@
   date: 2025 April 7
 - description: New preprint out on the arXiv - <a href="https://arxiv.org/abs/2410.05551">Misere Connect Four is Solved</a>.
   date: 2025 February 17
-- description: Congratulations to Ian van Buskirk on a successful thesis defense!
-  date: 2024 November 13
-- description: New paper out in Phys Rev E - <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.034310">Model for efficient dynamical ranking in networks</a>.
-  date: 2024 September 12
-- description: Welcome to new lab members, Kate Barnes and Ben Aoki-Sherwood!
-  date: 2024 August 21
-- description: Congratulations to Nick LaBerge on a successful thesis defense! Nick's off to a position at the U.S. Census Bureau!
-  date: 2024 August 15
-- description: Congratulations to Sam Zhang on a successful thesis defense! Sam's off to a postdoc at the Santa Fe Institute followed by a faculty job at the University of Vermont!
-  date: 2024 August 12
-- description: 'New review out in Frontiers in Public Health, <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1408193/full">Infectious disease surveillance needs for the United States:  lessons from Covid-19</a>'
-  date: 2024 July 14
-- description: New preprint led by Kate Bubar and Casey Middleton, <a href="https://www.medrxiv.org/content/10.1101/2024.07.11.24310291v1">Fundamental limits to the effectiveness of traveler screening with molecular tests</a>
-  date: 2024 July 12
-- description: Congratulations to Dr. Kate Bubar on a successful thesis defense! Kate's off to a postdoc at Stanford!
-  date: 2024 July 11
-- description: The lab is at ICSSI 2024! Talks from Katie Spoon, Carolina Chavez Ruelas, and Sam Zhang (delivered by Dan).
-  date: 2024 July 1-3
-- description: New paper led by Nick LaBerge in eLife - <a href="https://elifesciences.org/reviewed-preprints/93755">Gendered hiring and attrition on the path to parity for academic faculty</a>.
-  date: 2024 June 19
-- description: New paper from Casey Middleton in Science Advances - <a href="https://www.science.org/doi/full/10.1126/sciadv.adk5108">Modeling the transmission mitigation impact of testing for infectious diseases</a>.
-  date: 2024 June 14
+# - description: Congratulations to Ian van Buskirk on a successful thesis defense!
+#   date: 2024 November 13
+# - description: New paper out in Phys Rev E - <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.034310">Model for efficient dynamical ranking in networks</a>.
+#   date: 2024 September 12
+# - description: Welcome to new lab members, Kate Barnes and Ben Aoki-Sherwood!
+#   date: 2024 August 21
+# - description: Congratulations to Nick LaBerge on a successful thesis defense! Nick's off to a position at the U.S. Census Bureau!
+#   date: 2024 August 15
+# - description: Congratulations to Sam Zhang on a successful thesis defense! Sam's off to a postdoc at the Santa Fe Institute followed by a faculty job at the University of Vermont!
+#   date: 2024 August 12
+# - description: 'New review out in Frontiers in Public Health, <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1408193/full">Infectious disease surveillance needs for the United States:  lessons from Covid-19</a>'
+#   date: 2024 July 14
+# - description: New preprint led by Kate Bubar and Casey Middleton, <a href="https://www.medrxiv.org/content/10.1101/2024.07.11.24310291v1">Fundamental limits to the effectiveness of traveler screening with molecular tests</a>
+#   date: 2024 July 12
+# - description: Congratulations to Dr. Kate Bubar on a successful thesis defense! Kate's off to a postdoc at Stanford!
+#   date: 2024 July 11
+# - description: The lab is at ICSSI 2024! Talks from Katie Spoon, Carolina Chavez Ruelas, and Sam Zhang (delivered by Dan).
+#   date: 2024 July 1-3
+# - description: New paper led by Nick LaBerge in eLife - <a href="https://elifesciences.org/reviewed-preprints/93755">Gendered hiring and attrition on the path to parity for academic faculty</a>.
+#   date: 2024 June 19
+# - description: New paper from Casey Middleton in Science Advances - <a href="https://www.science.org/doi/full/10.1126/sciadv.adk5108">Modeling the transmission mitigation impact of testing for infectious diseases</a>.
+#   date: 2024 June 14
 # - description: New preprint led by Katie Spoon, <a href="https://osf.io/preprints/socarxiv/g6xwk">Gendered devaluation underlies faculty retention</a>.
 #   date: 2024 Mar 7
 # - description: Ellen DeGennaro joins the lab as a postdoc, and Gabi Gionet joins as an IQ Bio rotation student. Welcome!
