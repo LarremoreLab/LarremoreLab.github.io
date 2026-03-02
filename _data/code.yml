@@ -1,4 +1,18 @@
 repos:
+  - title: "Data & Code: Consensus and Fragmentation in Academic Publication Preferences"
+    type: scieco
+    authors:
+      - Ian Van Buskirk
+      - Marilena Hohmann
+      - Ekaterina Landgren
+      - Johan Ugander
+      - Aaron Clauset
+      - Daniel B. Larremore
+    links:
+      - text: GitHub
+        url: https://github.com/LarremoreLab/academic-publication-preferences
+    description: Survey data and reproducible code from a study of publication venue preferences among 3,510 US tenure-track faculty. Includes 153,654 pairwise venue comparisons, metadata for 6,363 academic venues, and Python scripts to regenerate all main figures and supplementary analyses. Companion to Van Buskirk, Hohmann, Landgren, Ugander, Clauset, and Larremore (2026).
+
   - title: "Data & Code: Quantifying hierarchy and dynamics in US faculty hiring and retention"
     type: scieco
     authors:
