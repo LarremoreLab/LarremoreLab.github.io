@@ -14,7 +14,7 @@ categories:
       venue: arXiv
       links:
         - text: arXiv
-          url: ""
+          url: "https://arxiv.org/abs/2603.00807"
 
     - title: "Editorial and peer review dynamics at elite general science journals"
       type: scieco
