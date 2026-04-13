@@ -1,6 +1,25 @@
 categories:
   - heading: "Preprints, Under Review, or In Press"
     pubs:
+    - title: "Longitudinal analysis of viral and host RNA in blood and saliva during controlled human dengue virus 3 infections"
+      type: idepi
+      authors:
+      - Sharon Wu
+      - Jennifer Bjerke
+      - Casey Middleton
+      - Joshua Dye
+      - Arturo Barbachano-Guerrero
+      - Emma Worden-Sapper
+      - Amy Emerman
+      - Timothy Endy
+      - Stephen Thomas
+      - Adam Waickman
+      - Daniel B. Larremore
+      - Nicholas Meyerson
+      - Sara Sawyer
+      year: 2026
+      venue: to appear in Journal of Virology
+
     - title: "Consensus and fragmentation in academic publication preferences"
       type: scieco
       authors:
