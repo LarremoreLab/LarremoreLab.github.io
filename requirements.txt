@@ -1,0 +1,3 @@
+webweb==0.0.37
+pyyaml==6.0.3
+numpy==2.4.4

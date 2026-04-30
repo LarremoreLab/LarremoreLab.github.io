@@ -57,16 +57,6 @@ categories:
       year: 2026
       venue: Submitted
 
-    - title: "Integrating viral kinetics into routine outbreak surveillance: challenges, opportunities, and lessons from COVID-19"
-      type: idepi
-      authors:
-      - James Hay
-      - Daniel B. Larremore
-      - Aishani Aatresh
-      - Stephen Kissler
-      year: 2025
-      venue: to appear in Philosophical Transactions B
-
     - title: "Gendered devaluation underlies faculty retention"
       type: scieco
       authors:
@@ -100,6 +90,21 @@ categories:
 
   - heading: "Published"
     pubs:
+
+    - title: "Integrating viral kinetics into routine outbreak surveillance: challenges, opportunities, and lessons from COVID-19"
+      type: idepi
+      authors:
+      - James Hay
+      - Daniel B. Larremore
+      - Aishani Aatresh
+      - Stephen Kissler
+      year: 2026
+      venue: Philosophical Transactions B
+      volumeissue: "381 (1949): 20240347"
+      links:
+        - text: Philosophical Transactions B
+          url: https://doi.org/10.1098/rstb.2024.0347
+          
     - title: "Statistical Methods for Estimating the Protective Effects of Immune Markers Using Test-Negative Designs"
       type: idepi
       authors:
@@ -107,6 +112,7 @@ categories:
       - Daniel B. Larremore
       year: 2025
       venue: American Journal of Epidemiology
+      volumeissue: kwaf280
       links:
         - text: American Journal of Epidemiology
           url: https://doi.org/10.1093/aje/kwaf280
@@ -121,6 +127,7 @@ categories:
       - Katelyn M. Gostic*
       year: 2025
       venue: Epidemiology and Infection
+      volumeissue: "153:e95"
       links:
         - text: Epidemiology and Infection
           url: https://doi.org/10.1017/S0950268825100381
