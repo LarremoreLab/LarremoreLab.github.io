@@ -143,9 +143,13 @@ Be a good person at conferences. Compliment speakers only on their science or ta
 
 ## Other Resources and Guides
 
-- [Travel Guide](https://www.colorado.edu/biofrontiers/travel)
-- [Travel Auth Form](https://docs.google.com/forms/d/e/1FAIpQLSeW8teJFpCJHA2_dvI9i4_khitU04IOFZWq8LYiiPuM7KFakg/viewform?usp=sf_link)
-- [Printing](https://bit.colorado.edu/desktop-services/printing/building-printers/)
+- [BIOF Travel Guide](https://www.colorado.edu/biofrontiers/travel)
+- [BIOF Travel Auth Form](https://docs.google.com/forms/d/e/1FAIpQLSeW8teJFpCJHA2_dvI9i4_khitU04IOFZWq8LYiiPuM7KFakg/viewform?usp=sf_link)
+- [BIOF Printing](https://bit.colorado.edu/desktop-services/printing/building-printers/)
+- [Michael Nielsen's Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
+- [Eric Gilbert's PhD Syllabus](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit?tab=t.0)
+- [Makeability Lab Handbook](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit?tab=t.0#heading=h.ea8a9uesnzfd)
+- [Mor Naaman's Lab PhD Syllabus](https://s.tech.cornell.edu/phd-syllabus/)
 
 ## Boundaries & Social Events
 
