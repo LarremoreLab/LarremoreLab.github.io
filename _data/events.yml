@@ -1,3 +1,5 @@
+- description: So many lab presenters at NetSci 2026! Violet Ross, Toby Weed, Ben Aoki-Sherwood, Kate Barnes, Kath Landren, and Carolina Chavez-Ruelas!
+  date: 2026 June 1
 - description: <a href="https://doi.org/10.1098/rstb.2024.0347">Integrating viral kinetics into routine outbreak surveillance — challenges, opportunities, and lessons from COVID-19</a> now published in Philosophical Transactions B, with James Hay, Aishani Aatresh, and Stephen Kissler.
   date: 2026 April 30
 - description: New paper in press at the Journal of Virology — Longitudinal analysis of viral and host RNA in blood and saliva during controlled human dengue virus 3 infections. A collaboration with the Sara Sawyer Lab, with contributions from alumna Dr. Casey Middleton.
@@ -22,18 +24,18 @@
   date: 2025 July 1
 - description: <a href="https://journals.sagepub.com/doi/10.1177/13896911251342484">Misere Connect Four is Solved</a> now published in the ICGA Journal
   date: 2025 June 2
-- description: Dr. Katie Spoon is headed to Stanford for a postdoc in Data Science, and then to UT El Paso for a faculty position!
-  date: 2025 May 30
-- description: Dr. Casey Middleton is headed to University of Melbourne for a postdoc in the Dept of Maths & Statistics and the Dept Public Health with Drs. Freya Shearer and James McCaw, while Chethan KP is headed to Northeastern Network Science Institution for a PhD. Congratulations guys!.
-  date: 2025 May 11
-- description: Congratulations to Dr. Katie Spoon on a successful PhD defense!
-  date: 2025 April 30
-- description: Congratulations to Chethan KP on a successful MS defense! Chethan is headed to Northeastern for a PhD in Network Science.
-  date: 2025 April 15
-- description: Congratulations to Dr. Casey Middleton on a successful PhD defense!
-  date: 2025 April 7
-- description: New preprint out on the arXiv - <a href="https://arxiv.org/abs/2410.05551">Misere Connect Four is Solved</a>.
-  date: 2025 February 17
+# - description: Dr. Katie Spoon is headed to Stanford for a postdoc in Data Science, and then to UT El Paso for a faculty position!
+#   date: 2025 May 30
+# - description: Dr. Casey Middleton is headed to University of Melbourne for a postdoc in the Dept of Maths & Statistics and the Dept Public Health with Drs. Freya Shearer and James McCaw, while Chethan KP is headed to Northeastern Network Science Institution for a PhD. Congratulations guys!.
+#   date: 2025 May 11
+# - description: Congratulations to Dr. Katie Spoon on a successful PhD defense!
+#   date: 2025 April 30
+# - description: Congratulations to Chethan KP on a successful MS defense! Chethan is headed to Northeastern for a PhD in Network Science.
+#   date: 2025 April 15
+# - description: Congratulations to Dr. Casey Middleton on a successful PhD defense!
+#   date: 2025 April 7
+# - description: New preprint out on the arXiv - <a href="https://arxiv.org/abs/2410.05551">Misere Connect Four is Solved</a>.
+#   date: 2025 February 17
 # - description: Congratulations to Ian van Buskirk on a successful thesis defense!
 #   date: 2024 November 13
 # - description: New paper out in Phys Rev E - <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.034310">Model for efficient dynamical ranking in networks</a>.
