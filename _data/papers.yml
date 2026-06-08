@@ -1,24 +1,16 @@
 categories:
   - heading: "Preprints, Under Review, or In Press"
     pubs:
-    - title: "Longitudinal analysis of viral and host RNA in blood and saliva during controlled human dengue virus 3 infections"
+    - title: "Limitations of cross-border containment strategies for Bundibugyo ebolavirus"
       type: idepi
       authors:
-      - Sharon Wu
-      - Jennifer Bjerke
-      - Casey Middleton
-      - Joshua Dye
-      - Arturo Barbachano-Guerrero
-      - Emma Worden-Sapper
-      - Amy Emerman
-      - Timothy Endy
-      - Stephen Thomas
-      - Adam Waickman
+      - Casey E. Middleton
       - Daniel B. Larremore
-      - Nicholas Meyerson
-      - Sara Sawyer
       year: 2026
-      venue: to appear in Journal of Virology
+      venue: medRxiv
+      links:
+        - text: medRxiv
+          url: "https://www.medrxiv.org/content/10.64898/2026.06.04.26354820v1"
 
     - title: "Consensus and fragmentation in academic publication preferences"
       type: scieco
@@ -90,6 +82,29 @@ categories:
 
   - heading: "Published"
     pubs:
+
+    - title: "Longitudinal analysis of viral and host RNA in blood and saliva during controlled human dengue virus 3 infections"
+      type: idepi
+      authors:
+      - Sharon Wu
+      - Jennifer Bjerke
+      - Casey Middleton
+      - Joshua Dye
+      - Arturo Barbachano-Guerrero
+      - Emma Worden-Sapper
+      - Amy Emerman
+      - Timothy Endy
+      - Stephen Thomas
+      - Adam Waickman
+      - Daniel B. Larremore
+      - Nicholas Meyerson
+      - Sara Sawyer
+      year: 2026
+      venue: Journal of Virology
+      volumeissue: e00373-26
+      links:
+        - text: Journal of Virology
+          url: https://doi.org/10.1128/jvi.00373-26
 
     - title: "Integrating viral kinetics into routine outbreak surveillance: challenges, opportunities, and lessons from COVID-19"
       type: idepi
