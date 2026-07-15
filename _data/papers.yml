@@ -27,16 +27,6 @@ categories:
         - text: arXiv
           url: "https://arxiv.org/abs/2603.00807"
 
-    - title: "Editorial and peer review dynamics at elite general science journals"
-      type: scieco
-      authors:
-      - Sam Zhang
-      - Nicholas LaBerge
-      - Quinten McElhiney
-      - Daniel B. Larremore
-      - Aaron Clauset
-      year: 2026
-      venue: Submitted
 
     - title: "Researchers play distinct epistemic roles in constructing ecological knowledge"
       type: scieco
@@ -82,6 +72,21 @@ categories:
 
   - heading: "Published"
     pubs:
+
+    - title: "Editorial and peer review dynamics at elite general science journals"
+      type: scieco
+      authors:
+      - Sam Zhang
+      - Nicholas LaBerge
+      - Quinten McElhiney
+      - Daniel B. Larremore
+      - Aaron Clauset
+      year: 2026
+      venue: Science Advances
+      volumeissue: "12, eaec0494"
+      links:
+        - text: Science Advances
+          url: https://doi.org/10.1126/sciadv.aec0494
 
     - title: "Genotype-based antimicrobial resistance tests need a new regulatory framework"
       type: idepi
