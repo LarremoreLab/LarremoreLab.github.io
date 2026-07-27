@@ -1,6 +1,22 @@
 categories:
   - heading: "Preprints, Under Review, or In Press"
     pubs:
+
+    - title: "How large should academic departments be?"
+      type: scieco
+      authors:
+      - Jan Bachmann
+      - Lisette Espín-Noboa
+      - Fariba Karimi
+      - Daniel B. Larremore
+      - Gerardo Iñiguez
+      - Aaron Clauset
+      year: 2026
+      venue: arXiv
+      links:
+        - text: arXiv
+          url: "https://doi.org/10.48550/arXiv.2607.22189"
+
     - title: "Limitations of cross-border containment strategies for Bundibugyo ebolavirus"
       type: idepi
       authors:
