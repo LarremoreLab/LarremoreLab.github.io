@@ -1,26 +1,41 @@
-categories:
-  - heading: Current Courses
-    courses:
-      - title: CSCI 4830 / 7000 - Computational and Mathematical Modeling of Infectious Diseases
-        term: Spring 2024
-  - heading: Past Courses at CU Boulder
-    courses:
-      - title: CSCI 4830 / 7000 - Computational and Mathematical Modeling of Infectious Diseases
-        term: Spring 2023
-      - title: CSCI 2897 / 2830 - Calculating Biological Quantities
-        term: Fall 2022
-      - title: CSCI 7000 - Topics in Interdisciplinary Research
-        term: Fall 2022
-      - title: CSCI 2897 - Calculating Biological Quantities
-        term: Spring 2021, Fall 2021
-      - title: CSCI 7000 - Topics in Interdisciplinary Research
-        term: Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022
-      - title: CSCI 4802/5802 - Intro to Data Science w/ Prob & Stats
-        term: Spring 2019, Fall 2019
-      - title: CSCI 5352 - Network Analysis and Modeling
-        term: Fall 2018, Fall 2019, Fall 2020
-      - title: CSCI 3022 - Intro to Data Science w/ Prob & Stats
-        term: Fall 2017, Spring 2018, Fall, 2018
+courses:
+  - title: CSCI 4897 / 5897 - Computational and Mathematical Modeling of Infectious Diseases
+    terms:
+      - Fall 2026
+      - Fall 2025
+      - Spring 2024
+      - Spring 2023
+  - title: CSCI 7000 - Topics in Interdisciplinary Research
+    terms:
+      - Fall 2026
+      - Spring 2026
+      - Fall 2025
+      - Spring 2024
+      - Spring 2023
+      - Fall 2022
+      - Fall 2021
+      - Fall 2020
+      - Spring 2020
+      - Fall 2019
+  - title: CSCI 2897 - Calculating Biological Quantities
+    terms:
+      - Fall 2022
+      - Fall 2021
+      - Spring 2021
+  - title: CSCI 5352 - Network Analysis and Modeling
+    terms:
+      - Fall 2020
+      - Fall 2019
+      - Fall 2018
+  - title: CSCI 4802 / 5802 - Data Science Team
+    terms:
+      - Fall 2019
+      - Spring 2019
+  - title: CSCI 3022 - Intro to Data Science with Probability and Statistics
+    terms:
+      - Fall 2018
+      - Spring 2018
+      - Fall 2017
   # - heading: Lecture Recordings
   #   courses:
   #     - title: Data Science as a Field

@@ -7,17 +7,11 @@ header:
     overlay_filter: "0.2"
     overlay_image: /assets/images/flatirons1.jpg
 ---
-{% for category in site.data.teaching.categories %}
-  <h2>{{category.heading}}</h2>
-  <ol>
-  {% for course in category.courses %}
-    <li><strong>{{course.title}}</strong>.
-    <br>
-    <em>{{course.term}}</em><br>
-    {% if course.url %}
-      [<a href="{{course.url}}">{{course.urltitle}}</a>]
-    {% endif %}
-    </li>
+{% for course in site.data.teaching.courses %}
+  <h2>{{course.title}}</h2>
+  <ul>
+  {% for term in course.terms %}
+    <li>{{term}}</li>
   {% endfor %}
-  </ol>
+  </ul>
 {% endfor %}
