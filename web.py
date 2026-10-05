@@ -11,20 +11,24 @@ EXTRA_WEBWEB_PATH = DATA_PATH.joinpath('extra_webweb.yml')
 WEBWEB_JSON_PATH = DATA_PATH.joinpath('index_web.json')
 
 KIND_TO_COLOR_MAP = {
-    'collaborator': '#999999',
+    'collaborator': '#FFFFFF',   # White (with light grey outline) for collaborators
     # 'collaborator': '#78C81F',
-    'lab member': '#E01E7B',     # Pink for current lab members
-    'alumni': '#9d1557',         # Yellow for alumni
+    'lab member': '#444444',     # Dark grey for current lab members
+    'alumni': '#888888',         # Medium grey for alumni
 
-    'paper_scieco': '#DFA35C',   # Gold (logo) for scieco papers
+    'paper_scieco': '#556E3C',   # Green (logo) for scieco papers
     'paper_idepi': '#2889CA',    # Blue (logo) for idepi papers
-    'paper_complex': '#556E3C',  # Green (logo) for complex papers
+    'paper_complex': '#DFA35C',  # Gold (logo) for complex papers
 
-    'code_scieco': '#DFA35C',    # Gold (logo) for scieco code
+    'code_scieco': '#556E3C',    # Green (logo) for scieco code
     'code_idepi': '#2889CA',     # Blue (logo) for idepi code
-    'code_complex': '#556E3C',   # Green (logo) for complex code
+    'code_complex': '#DFA35C',   # Gold (logo) for complex code
 }
 
+# Node outline colors (webweb default is white); read by our patched webweb.bundle.js
+KIND_TO_OUTLINE_MAP = {
+    'collaborator': '#BBBBBB',
+}
 
 
 def load_yaml(path):
@@ -240,6 +244,8 @@ def make_network(data):
         
         nodes[node]['size'] = size
         nodes[node]['color'] = KIND_TO_COLOR_MAP[kind]
+        if kind in KIND_TO_OUTLINE_MAP:
+            nodes[node]['stroke'] = KIND_TO_OUTLINE_MAP[kind]
 
     web = Web(adjacency=edges, nodes=dict(nodes))
     web.display.sizeBy = 'size'

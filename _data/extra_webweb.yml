@@ -4,14 +4,17 @@ projects:
     people:
       - Kate Barnes
       - Ben Aoki-Sherwood
-      - Dr. Katie Spoon
-      - Dr. Sam Zhang
   - name: "Infectious Diseases"
     type: idepi
     people:
-      - Dr. Casey Middleton
-      - Dr. Kate Bubar
-      - Dr. Ellen DeGennaro
       - Gabrielle Gionet
-      - Dr. Rémy Pasco
+  - name: "Networks"
+    type: complex
+    people:
+      - Toby Weed
+  - name: "OpenPK Commons"
+    type: idepi
+    people:
+      - Ellen DeGennaro
       - Violet Ross
+      - Dr. Rémy Pasco
