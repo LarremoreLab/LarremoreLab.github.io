@@ -16,13 +16,13 @@ KIND_TO_COLOR_MAP = {
     'lab member': '#E01E7B',     # Pink for current lab members
     'alumni': '#9d1557',         # Yellow for alumni
 
-    'paper_scieco': '#8ebef1',   # Pink for scieco papers
-    'paper_idepi': '#1C7BE0',    # Blue for idepi papers  
-    'paper_complex': '#14579f',  # Grey for complex papers
+    'paper_scieco': '#DFA35C',   # Gold (logo) for scieco papers
+    'paper_idepi': '#2889CA',    # Blue (logo) for idepi papers
+    'paper_complex': '#556E3C',  # Green (logo) for complex papers
 
-    'code_scieco': '#8ebef1',    # Pink for scieco code
-    'code_idepi': '#1C7BE0',     # Blue for idepi code
-    'code_complex': '#14579f',   # Grey for complex code
+    'code_scieco': '#DFA35C',    # Gold (logo) for scieco code
+    'code_idepi': '#2889CA',     # Blue (logo) for idepi code
+    'code_complex': '#556E3C',   # Green (logo) for complex code
 }
 
 
