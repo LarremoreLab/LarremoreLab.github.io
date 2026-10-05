@@ -25,9 +25,12 @@ KIND_TO_COLOR_MAP = {
     'code_complex': '#DFA35C',   # Gold (logo) for complex code
 }
 
-# Node outline colors (webweb default is white); read by our patched webweb.bundle.js
+# Node outline colors and widths (webweb default is a 1px white outline); read by our patched webweb.bundle.js
 KIND_TO_OUTLINE_MAP = {
     'collaborator': '#BBBBBB',
+}
+KIND_TO_OUTLINE_WIDTH_MAP = {
+    'collaborator': 1.5,
 }
 
 
@@ -246,6 +249,8 @@ def make_network(data):
         nodes[node]['color'] = KIND_TO_COLOR_MAP[kind]
         if kind in KIND_TO_OUTLINE_MAP:
             nodes[node]['stroke'] = KIND_TO_OUTLINE_MAP[kind]
+        if kind in KIND_TO_OUTLINE_WIDTH_MAP:
+            nodes[node]['strokeWidth'] = KIND_TO_OUTLINE_WIDTH_MAP[kind]
 
     web = Web(adjacency=edges, nodes=dict(nodes))
     web.display.sizeBy = 'size'
