@@ -1,4 +1,15 @@
 repos:
+  - title: "Data: Open Pathogen Kinetics Commons"
+    type: idepi
+    authors:
+      - Stephen M. Kissler
+      - Daniel B. Larremore
+    links:
+      - text: OpenPK Commons
+        url: https://openpkcommons.org/
+    description: The Open Pathogen Kinetics (OpenPK) Commons is a platform dedicated to compiling, standardizing, and visualizing pathogen kinetics data to accelerate scientific research and outbreak response. As of October 2026, we host 94,171 pathogen load measurements from 12,231 individuals for 4 pathogens, and counting.
+    image_path: /assets/images/openpk/logo_small.png
+
   - title: "Data & Code: Consensus and Fragmentation in Academic Publication Preferences"
     type: scieco
     authors:
