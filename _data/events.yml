@@ -8,6 +8,8 @@
   date: 2026 July 24
 - description: 'New paper in Science Advances on peer review at Science and Science Advances: "<a href="https://doi.org/10.1126/sciadv.aec0494">Editorial and peer review dynamics at elite general science journals</a>"'
   date: 2026 July 15
+- description: The International Conference on the Science of Science and Innovation (<a href="https://icssi.org">ICSSI</a>) was a vibrant success, with researchers from around the world gathering at CU Boulder June 28 to July 1. Thank you to everyone who came, and to co-chairs <a href="https://sociology.arizona.edu/person/erin-leahey">Erin Leahey</a> and <a href="https://carey.jhu.edu/faculty/faculty-directory/bhaven-sampat-phd">Bhaven Sampat</a>!
+  date: 2026 July 1
 - description: 'New editorial with Grad and Lipsitch on how AMR test performance drifts over time published in Lancet Microbe, <a href="https://doi.org/10.1016/j.lanmic.2026.101456">Genotype-based antimicrobial resistance tests need a new regulatory framework
 </a>.' 
   date: 2026 June 9
@@ -23,24 +25,24 @@
   date: 2026 April 13
 - description: New preprint out on the arXiv — <a href="https://arxiv.org/abs/2603.00807">Consensus and fragmentation in academic publication preferences</a>, with Ian Van Buskirk, Marilena Hohmann, Ekaterina Landgren, Johan Ugander, and Aaron Clauset.
   date: 2026 March 4
-- description: The International Conference on the Science of Science and Innovation (ICSSI) will be held here at CU Boulder, June 29 to July 1, chaired by Dan Larremore, Erin Leahey, and Bhaven Sampat. See <a href="https://icssi.org">ICSSI.org</a> for details!
-  date: 2025 March 2
+# - description: The International Conference on the Science of Science and Innovation (ICSSI) will be held here at CU Boulder, June 29 to July 1, chaired by Dan Larremore, Erin Leahey, and Bhaven Sampat. See <a href="https://icssi.org">ICSSI.org</a> for details!
+#   date: 2025 March 2
 - description: Paper submitted! — Researchers play distinct epistemic roles in constructing ecological knowledge, with Kate Wootton, Jennifer Dunne, Mirta Galesic, and Aaron Clauset.
   date: 2026 February 21
-- description: Revised paper submitted — Editorial and peer review dynamics at elite general science journals, led by Sam Zhang, Nicholas LaBerge, and Quinten McElhiney.
-  date: 2026 February 1
+# - description: Revised paper submitted — Editorial and peer review dynamics at elite general science journals, led by Sam Zhang, Nicholas LaBerge, and Quinten McElhiney.
+#   date: 2026 February 1
 - description: The Open Pathogen Kinetics Commons is now LIVE at <a href="http://openpkcommons.org/">OpenPKCommons.org</a>. Our initial launch shares viral kinetics data from an initial four pathogens, dozens of studies, and tens of thousands of data points!
   date: 2025 December 1
 - description: Aaron Clauset and Dan launch <a href="http://cevianlabs.io/">Cevian Labs</a>.
   date: 2025 November 18
-- description: Violet Ross joins the lab! 
-  date: 2025 August 18
-- description: <a href="https://www.cambridge.org/core/journals/epidemiology-and-infection/article/fundamental-limit-to-the-effectiveness-of-traveller-screening-with-molecular-tests/C77CACA0B465F5BB78E23FA0EB253D11">A fundamental limit to the effectiveness of traveller screening with molecular tests</a> now published in Epidemiology and Infection.
-  date: 2025 August 18
-- description: Dan is appointed Associate Chair for Research in the Department of Computer Science
-  date: 2025 July 1
-- description: <a href="https://journals.sagepub.com/doi/10.1177/13896911251342484">Misere Connect Four is Solved</a> now published in the ICGA Journal
-  date: 2025 June 2
+# - description: Violet Ross joins the lab! 
+#   date: 2025 August 18
+# - description: <a href="https://www.cambridge.org/core/journals/epidemiology-and-infection/article/fundamental-limit-to-the-effectiveness-of-traveller-screening-with-molecular-tests/C77CACA0B465F5BB78E23FA0EB253D11">A fundamental limit to the effectiveness of traveller screening with molecular tests</a> now published in Epidemiology and Infection.
+#   date: 2025 August 18
+# - description: Dan is appointed Associate Chair for Research in the Department of Computer Science
+#   date: 2025 July 1
+# - description: <a href="https://journals.sagepub.com/doi/10.1177/13896911251342484">Misere Connect Four is Solved</a> now published in the ICGA Journal
+#   date: 2025 June 2
 # - description: Dr. Katie Spoon is headed to Stanford for a postdoc in Data Science, and then to UT El Paso for a faculty position!
 #   date: 2025 May 30
 # - description: Dr. Casey Middleton is headed to University of Melbourne for a postdoc in the Dept of Maths & Statistics and the Dept Public Health with Drs. Freya Shearer and James McCaw, while Chethan KP is headed to Northeastern Network Science Institution for a PhD. Congratulations guys!.
