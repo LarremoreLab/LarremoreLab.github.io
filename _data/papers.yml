@@ -55,24 +55,25 @@ categories:
       year: 2026
       venue: Submitted
 
-    - title: "Gendered devaluation underlies faculty retention"
+  - heading: "Published"
+    pubs:
+
+    - title: "Devaluation underlies gendered US faculty departures across disciplines and institutions"
       type: scieco
       authors:
       - Katie Spoon
       - Joanna Mendy
       - Maria Martinez
       - Mirta Galesic
-      - Daniel Larremore
+      - Daniel B. Larremore
       - Aaron Clauset
       - Lauren A. Rivera
-      year: 2024
-      venue: SocArXiv
+      year: 2026
+      venue: PNAS Nexus
+      volumeissue: "5(10), pgag306"
       links:
-        - text: SocArXiv
-          url: https://osf.io/preprints/socarxiv/g6xwk
-
-  - heading: "Published"
-    pubs:
+        - text: PNAS Nexus
+          url: https://doi.org/10.1093/pnasnexus/pgag306
 
     - title: "Scientific productivity as a random walk"
       type: scieco
