@@ -2,6 +2,17 @@ categories:
   - heading: "Preprints, Under Review, or In Press"
     pubs:
 
+    - title: "Interdisciplinary Faculty Hiring"
+      type: scieco
+      authors:
+      - Ben Aoki-Sherwood
+      - Daniel B. Larremore
+      year: 2026
+      venue: "Preprint: NBER Conference, Investments in Early Career Scientists, Spring 2026"
+      links:
+        - text: PDF
+          url: "https://conference.nber.org/conf_papers/f233365.pdf"
+
     - title: "How large should academic departments be?"
       type: scieco
       authors:
