@@ -39,6 +39,10 @@ people:
     url: https://www.linkedin.com/in/toby-weed-52b06614b/
     subject: mathematical methods
     image_path: /assets/images/people/toby_weed.gif
+  - name: Antoni Czolgowski
+    title: MS Student, DS
+    subject: independent study
+    image_path: /assets/images/people/antoni_czolgowski.gif
 
 
 external:
